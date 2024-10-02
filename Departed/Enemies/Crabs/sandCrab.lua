@@ -2,29 +2,20 @@
 Sand Crab
 Appears throughout the game, from Classic to Survival to Providence Trials.
 Key Notes
-    - BASE CONTENT
-	- When it appears
-	- Stages its on
-	- How it acts
-	- How many boss items
-	- Basic recap of abilities
-	- What kind of Boss (Support, Ranged, Melee, Hybrid)
+	- BASE CONTENT
+	- Spawns on Dried Lake, Whistling Basin, Sunken Tomb
+	- Acts most similarly to its RoRR counterpart with some slight reworks to make it feel less like a worse version of the Stone Golem
+	- Melee beast, bear hug? (crab hug lol)
+	- Is a Melee enemy
 	
-Health:
-Damage:
-Speed:
-Armor:
-Title:
-Type:
-Tier:
+Health: 300
+Damage: 34
+Speed: 22 KM/H
+Armor: 0
+Type: Champion Enemy
 Skills:
-	- Passive:
-	- Primary:
-	- Secondary:
-	- Utility:
-	- Special:
-	- Misc:
-Boss Item:
-	- Boss Item 1:
-	- Boss Item 2:
+	- Primary: Crush
+		- Reach out with your claws and pinch, one after the other dealing 2x100% damage.
+	- Special: Sand Trap
+		- Hold out your claws as if going for a hug, and then grab any enemy close to you after 3 seconds. Deals no damage but keeps the enemy still for 2 seconds OR until the enemy deals sufficient damage.
 --]]
