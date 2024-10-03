@@ -12,7 +12,7 @@ over 200 items!
 
 32 survivors, each with 4 variants (128) AND alt skills for each
 
-over 80 enemies, with all the original enemies from RoR1 and SS1. Also, some new enemies and enemy variants have been added >:]
+over 80 enemies, with all the original enemies from RoRR and SS1. Also, some new enemies and enemy variants have been added >:]
 
 More Final Bosses! All can be fought in the same run for the ultimate run. some are completely new >:]
 
