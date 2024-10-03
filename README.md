@@ -3,6 +3,9 @@ risk of rain departed is a risk of rain fangame made to be two things:
 1. A low-poly "demake/remake" of Risk of Rain Returns.
 2. A celebration of Risk of Rain and the Risk of Rain community, having items from all throughout the franchise and items from fan made projects.
 
+----------
+# CONTENT:
+
 it should be (once completed) the largest game in the ror franchise (?) having:
 
 over 200 items!
@@ -30,16 +33,14 @@ Safari (Explore Petrichor As an Enemy!)*
 And much, much more!
 
 ----------
-
-so far, development has been goin on for a little under a year (development started late october of 2023)
-
-
+# DEVELOPMENT
+so far, as of october 3rd 2024, development has been goin on for a little under a year (development started late october of 2023)
 
 the reason this game is being made is simple: i love risk of rain. i love the risk of rain community. late one night i was thinking to myself, "hey. i really like this game, but i wish there was like... a true 3d version of rorr."
 so the idea of Risk of Rain Departed was born!
 
 ----------
-
+# CREDITS & THANKS
 i have to give credit to a lot of people who inspired me to AND help me make this project. the @s i will be supplying are the ones on discord!!! (the ones without an @ are kofi)
 
 firstly, i have to thank the two shrimps. neik and swuff. 
@@ -49,6 +50,8 @@ neik, for the uninformed, is the creator of starstorm 1 (one of the greatest mod
 i also have to thank glasus and redacted.
 glasus and redacted have helped me a lot when it comes to balance, art for the game, concept art, skill icons, counsel, and much much more. i couldn't have done this without them. (@glasus and @redacted respectfully)
 
+i also wanna give a special thanks to grey. he has helped me a lot when it comes to balancing, so i feel the need to include him here.
+
 also, thank you altzeus!!!
 altzeus is helping me out with music for the game (because i like altzeus's music) (@altzeus)
 
@@ -56,6 +59,8 @@ for the people who allowed their concepts to be used for departed, i thank you!
 opal has kindly let me use some of its enemies for departed (some of my favorites too!) (@retropacifist)
 mysticsword and marwan have allowed me to use black monolith (@themysticsword and marwan6097266)
 bee, subwit, and grongo have let me use some of their concepts as well (@_bee_bo_ and @subwit and @grongo123)
+
+additionally, i need to thank the people who have helped me out when it comes to specific game things.
 
 also thank you to everyone in the ss1 and redux communities! you have been excellent, friendly people and for that i thank you!
 
