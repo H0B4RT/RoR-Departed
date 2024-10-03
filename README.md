@@ -29,7 +29,7 @@ Safari (Explore Petrichor As an Enemy!)*
 
 And much, much more!
 
-
+----------
 
 so far, development has been goin on for a little under a year (development started late october of 2023)
 
@@ -38,7 +38,7 @@ so far, development has been goin on for a little under a year (development star
 the reason this game is being made is simple: i love risk of rain. i love the risk of rain community. late one night i was thinking to myself, "hey. i really like this game, but i wish there was like... a true 3d version of rorr."
 so the idea of Risk of Rain Departed was born!
 
-
+----------
 
 i have to give credit to a lot of people who inspired me to AND help me make this project. the @s i will be supplying are the ones on discord!!! (the ones without an @ are kofi)
 
