@@ -64,3 +64,4 @@ additionally, i need to thank the people who have helped me out when it comes to
 
 also thank you to everyone in the ss1 and redux communities! you have been excellent, friendly people and for that i thank you!
 
+and lastly, thank you hopoo games for making one of the greatest games i've ever played. i can't thank you enough.
