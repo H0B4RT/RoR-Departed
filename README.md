@@ -50,7 +50,7 @@ neik, for the uninformed, is the creator of starstorm 1 (one of the greatest mod
 i also have to thank glasus and redacted.
 glasus and redacted have helped me a lot when it comes to balance, art for the game, concept art, skill icons, counsel, and much much more. i couldn't have done this without them. (@glasus and @redacted respectfully)
 
-i also wanna give a special thanks to grey. he has helped me a lot when it comes to balancing, so i feel the need to include him here.
+i also wanna give a special thanks to grey. he has helped me a lot when it comes to balancing, so i feel the need to include him here. (@_creature_)
 
 also, thank you altzeus!!!
 altzeus is helping me out with music for the game (because i like altzeus's music) (@altzeus)
@@ -58,7 +58,7 @@ altzeus is helping me out with music for the game (because i like altzeus's musi
 for the people who allowed their concepts to be used for departed, i thank you!
 opal has kindly let me use some of its enemies for departed (some of my favorites too!) (@retropacifist)
 mysticsword and marwan have allowed me to use black monolith (@themysticsword and marwan6097266)
-bee, subwit, and grongo have let me use some of their concepts as well (@_bee_bo_ and @subwit and @grongo123)
+bee, subwit, grongo, and moffein have let me use some of their concepts as well (@_bee_bo_ and @subwit and @grongo123 and @moffein)
 
 additionally, i need to thank the people who have helped me out when it comes to specific game things.
 
