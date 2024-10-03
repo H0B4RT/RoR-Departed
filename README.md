@@ -31,7 +31,7 @@ i also have to thank glasus and redacted.
 glasus and redacted have helped me a lot when it comes to balance, art for the game, concept art, skill icons, counsel, and much much more. i couldn't have done this without them. (@glasus and @redacted respectfully)
 
 also, thank you altzeus!!!
-altzeus is helping me out with music for the game (because i like altzeus's music)
+altzeus is helping me out with music for the game (because i like altzeus's music) (@altzeus)
 
 for the people who allowed their concepts to be used for departed, i thank you!
 opal has kindly let me use some of its enemies for departed (some of my favorites too!) (@retropacifist)
