@@ -2,24 +2,43 @@
 risk of rain departed is a risk of rain fangame made to be two things:
 1. A low-poly "demake/remake" of Risk of Rain Returns.
 2. A celebration of Risk of Rain and the Risk of Rain community, having items from all throughout the franchise and items from fan made projects.
+
 it should be (once completed) the largest game in the ror franchise (?) having:
+
 over 200 items!
+
 32 survivors, each with 4 variants (128) AND alt skills for each
+
 over 80 enemies, with all the original enemies from RoR1 and SS1. Also, some new enemies and enemy variants have been added >:]
+
 More Final Bosses! All can be fought in the same run for the ultimate run. some are completely new >:]
+
 over 30 stages! (not including alternate game modes)
+
 5 game modes, being:
+
 Classic (The Original Way to Play!)
+
 Survival (Wave Based Roguelike)
+
 Arena (Risk of Rain PVP)
+
 Providence Trials (Fun Little Challenges!)
+
 Safari (Explore Petrichor As an Enemy!)*
+
 And much, much more!
+
+
 
 so far, development has been goin on for a little under a year (development started late october of 2023)
 
+
+
 the reason this game is being made is simple: i love risk of rain. i love the risk of rain community. late one night i was thinking to myself, "hey. i really like this game, but i wish there was like... a true 3d version of rorr."
 so the idea of Risk of Rain Departed was born!
+
+
 
 i have to give credit to a lot of people who inspired me to AND help me make this project. the @s i will be supplying are the ones on discord!!! (the ones without an @ are kofi)
 
