@@ -28,7 +28,7 @@ Arena (Risk of Rain PVP)
 
 Providence Trials (Fun Little Challenges!)
 
-Safari (Explore Petrichor As an Enemy!)*
+Safari (Explore Petrichor V As an Enemy!)*
 
 And much, much more!
 
@@ -64,7 +64,7 @@ opal has kindly let me use some of its enemies for departed (some of my favorite
 
 mysticsword and marwan have allowed me to use black monolith (@themysticsword and marwan6097266)
 
-bee, subwit, grongo, and moffein have let me use some of their concepts as well (@\_bee_bo_ and @subwit and @grongo123 and @moffein)
+bee, subwit, grongo, moffein, timesweeper, and dee have let me use some of their concepts as well (@\_bee_bo_ and @subwit and @grongo123 and @moffein and @thetimesweeper and @\_dee__)
 
 additionally, i need to thank the people who have helped me out when it comes to specific game things.
 
