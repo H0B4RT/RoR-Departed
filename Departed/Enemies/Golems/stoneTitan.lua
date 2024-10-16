@@ -14,8 +14,8 @@ Speed: 18 KM/H
 Armor: 0
 Type: Grand Champion Enemy
 Skills:
-	- Primary: Titanous Trounce (lol) *
-		- Stone Titan haymakers dealing 150% damage.
+	- Primary: Stone Haymaker
+		- Stone Titan throws out its fist, potentially dealing 150% damage. If fist is damaged enough, fist is launched back at Titan and deals the same damage.
 	- Secondary: Stone Fist
 		- Stone Titan plunges its fist into the ground, highlighting an area near the player, and then deals 120% damage.
 	- Special: Eye Laser
