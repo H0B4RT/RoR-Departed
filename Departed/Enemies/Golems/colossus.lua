@@ -1,5 +1,5 @@
 --[[
-Colossus
+Stone Colossus
 Appears throughout the game, from Classic to Survival to Providence Trials.
 Key Notes
 	- BASE CONTENT
