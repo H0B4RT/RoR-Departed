@@ -2,7 +2,9 @@
 Ancient Wisp
 Appears throughout the game, from Classic to Survival to Providence Trials.
 Key Notes
+    - BASE CONTENT
     - Is one of the Tier 2 Boss
+    - Appears on Stage 2, Scorched Acres, Hive Cluster, and Black Beach
     - Acts very similarly to the unused ROR2 version of the Ancient Wisp, with elements of the ROR1/R version
     - Has Two Boss items
     - Does not have a lot of skills, but can generally dish out a lot of damage anyway.
