@@ -8,6 +8,7 @@ Key Notes
     - Acts very similarly to the unused ROR2 version of the Ancient Wisp, with elements of the ROR1/R version
     - Has Two Boss items
     - Does not have a lot of skills, but can generally dish out a lot of damage anyway.
+	- Can Fly
     - Is a Ranged Boss
 
 Health: 1470

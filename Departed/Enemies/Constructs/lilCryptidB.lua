@@ -6,6 +6,7 @@ Key Notes
 	- Is an Enemy that only appears on Black Beach (Survival)
 	- Reworked to be fast paced melee enemy
 	- Roundhouse kick, poke
+	- Can Walk
 	- Is a Melee Enemy
 	
 Health: 90

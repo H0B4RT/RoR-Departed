@@ -1,12 +1,13 @@
 --[[
-Enemy Name
-Where It Appears
+Young Vagrant
+Appears late into Classic and Survival
 Key Notes
 	- BASE CONTENT
 	- Appears on any Stage that has Jellyfish or Wandering Vagrants
 	- Slightly reworked, now does damage on contact and rush players
 	- Shoots less than Wandering Vagrant and is slower, has a more stable explosion
-	- What kind of Enemy (Support, Ranged, Melee, Hybrid, Boss)
+	- Can FLy
+	- Is a Hybrid Enemy (Ranged/Melee)
 	
 Health: 700
 Damage: 9

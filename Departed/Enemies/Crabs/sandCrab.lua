@@ -5,7 +5,8 @@ Key Notes
 	- BASE CONTENT
 	- Spawns on Dried Lake, Whistling Basin, Sunken Tomb
 	- Acts most similarly to its RoRR counterpart with some slight reworks to make it feel less like a worse version of the Stone Golem
-	- Melee beast, bear hug? (crab hug lol)
+	- Melee beast, bear hug? (NEED A HUG)
+	- Can Walk
 	- Is a Melee enemy
 	
 Health: 300

@@ -6,6 +6,7 @@ Key Notes
 	- Is an Enemy that only appears on Black Beach (Survival)
 	- Acts like the Meridian Small Construct
 	- Ranged Energy Blasts!!!
+	- Can Walk
 	- Is a Ranged Enemy
 	
 Health: 70

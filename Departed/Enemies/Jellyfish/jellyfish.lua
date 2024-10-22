@@ -6,6 +6,7 @@ Key Notes
 	- Appears on Stage 1 besides Slate Mines, and Sky Meadow
 	- Acts like a combination of all three games
 	- Charges in and explodes at lower health.
+	- Can FLy
 	- Is a Melee Enemy
 	
 Health: 85

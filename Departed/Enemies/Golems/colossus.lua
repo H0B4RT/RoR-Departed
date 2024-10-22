@@ -8,6 +8,7 @@ Key Notes
 	- Acts almost identically to the RORR Colossus, with one additional move/ability
 	- Has Two Boss Items
 	- Can aim high with its attacks, so being above it doesn’t guarantee you will be safe
+	- Can Walk
 	- Is a Melee Boss
 
 Health: 1400

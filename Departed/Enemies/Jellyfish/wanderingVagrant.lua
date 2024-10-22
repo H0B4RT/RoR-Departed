@@ -8,6 +8,7 @@ Key Notes
 	- Acts kind of like a hybrid between RORR and ROR2
 	- Has Two Boss Items
 	- Primarily ranged attacks BUT it now shocks on contact.
+	- Can Fly
 	- Is a Hybrid* Boss (Ranged, Melee)
 
 Health: 1400

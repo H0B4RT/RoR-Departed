@@ -6,7 +6,8 @@ Key Notes
 	- Appears on any stage that Stone Golem or Colossus spawn post loop, Detritus, Black Beach
 	- Acts similarly to how it is in RoR2, but has a primary melee attack instead of a utlity.
 	- Primary can aim high or low, secondary can come out of the ceiling*, eye laser is eye laser
-	- Is a Hybrid (Melee/Ranged) Enemy
+	- Can Walk
+	- Is a Hybrid Enemy (Melee/Ranged)
 	
 Health: 900
 Damage: 37

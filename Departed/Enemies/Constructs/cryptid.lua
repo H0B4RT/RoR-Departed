@@ -7,6 +7,7 @@ Key Notes
 	- Acts similarly to the unused Major Construct from Risk of Rain 2
 	- Has its own Boss Item
 	- Summons Beta Constructs
+	- Skill Based Movement
 	- Is a Hybrid Boss (Support, Ranged)
 
 Health: 1800

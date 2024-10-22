@@ -6,6 +6,7 @@ Key Notes
 	- Is an Enemy that only appears on Black Beach (Survival)
 	- Reworked to be both a ranged and support enemy.
 	- Sniper, some kind of support?
+	- Can Walk
 	- Is a Hybrid Enemy (Support/Ranged)
 	
 Health: 120

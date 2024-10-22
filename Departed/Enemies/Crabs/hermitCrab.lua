@@ -6,7 +6,8 @@ Key Notes
 	- Appears on any stage that Sand Crab or Sand Crab King spawn post loop, Black Beach
 	- Acts similarly to how it is in RoR2, but has a new alt primary that it will use after its unburied and a survivor is too close
     - Primary deals massive damage, alt primary deals little damage but roots enemies, utility buries/unburies and changes primary.
-	- Is a Hybrid (Ranged/Support) Enemy
+	- Can Walk
+	- Is a Hybrid Enemy (Ranged/Support)
 	
 Health: 125
 Damage: 48

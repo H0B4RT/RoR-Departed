@@ -8,6 +8,7 @@ Key Notes
 	- How it acts, was it reworked, etc
 	- How many boss items (Boss)
 	- Quick recap of skills and capabilities
+	- Movement Options (Walk, Jump, Fall, Climb, Fly, Teleport, None)
 	- What kind of enemy is it? (Melee, Ranged, Support, Hybrid, Boss, Enemy)
 	
 Health: 0
