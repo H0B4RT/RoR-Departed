@@ -15,6 +15,7 @@ Health: 0
 Damage: 0
 Speed: 0 KM/H
 Armor: 0
+Family: Family Name Here
 Title: Cool Name Here
 Type: Regular Enemy, Champion Enemy, Grand Champion Enemy, Boss, Special Enemy, Special Boss
 Tier: 1 (Early-Game), 2 (Mid-Game), 3 (Late-Game), 4 (Final Boss)
