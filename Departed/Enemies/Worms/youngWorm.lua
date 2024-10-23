@@ -2,9 +2,10 @@
 Young Worm
 Appears late into Survival and Classic
 Key Notes
+	- Base Content
 	- Appears on Torrid Outlands, and any stage where Magma Worm, Overloading Worm, or Volatile Worm spawn post loop.
 	- Acts like a Mini Magma Worm.
-    - Can only be Blazing, Overloading, or Volatile
+ - Can only be Blazing, Overloading, or Volatile
 	- Skill Based Movement
 	- Is a Melee Enemy
 
