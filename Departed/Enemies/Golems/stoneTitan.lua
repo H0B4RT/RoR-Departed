@@ -3,7 +3,7 @@ Stone Titan
 Appears late into Classic and Survival
 Key Notes
 	- DEPARTED CONTENT
-	- Appears on any stage that Stone Golem or Colossus spawn post loop, Detritus, Black Beach
+	- Appears on Detritus, Black Beach and any stage that Stone Golem or Colossus spawn post loop
 	- Acts similarly to how it is in RoR2, but has a primary melee attack instead of a utlity.
 	- Primary can aim high or low, secondary can come out of the ceiling*, eye laser is eye laser
 	- Can Walk

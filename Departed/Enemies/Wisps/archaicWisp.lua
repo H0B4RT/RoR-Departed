@@ -3,13 +3,13 @@ Archaic Wisp
 Appears throughout the game, from Classic to Survival to Providence Trials.
 Key Notes
 	- BASE CONTENT
-	- Appears on Desolate Forest, Dried Lake, Stage 2 except Siren's Call, Scorched Acres and Torrid Outlands, Black Beach, and summoned by Ancient Wisp
-	- Reworked to be a mix between RoRR and RoR2
-	- Speeds towards the player, orbits, and shoots a mid-ranged blast
+	- Appears on Uncharted Mountain, Black Beach, any stage that Lesser Wisp, Greater Wisp, or Ancient Wisp spawn on post loop, and summoned by Ancient Wisp post loop
+	- Reworked to be a mix between RoRR and the unused RoR2 version
+	- Speeds towards the player, orbits, and shoots two mid-ranged blasts
 	- Can FLy
 	- Is a Ranged Enemy
 	
-Health: 370
+Health: 900
 Damage: 23
 Speed: 27 KM/H
 Armor: 0
