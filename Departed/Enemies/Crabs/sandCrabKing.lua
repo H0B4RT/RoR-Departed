@@ -7,7 +7,7 @@ Key Notes
     - Acts almost identically to the SS1 Sand Crab King
     - Has Two Boss Items
     - Has piercing attacks that have fairly large ranges
-	- Can Walk
+    - Can Walk
     - Is a Hybrid Boss (Melee/Ranged)
 
 Health: 1200
