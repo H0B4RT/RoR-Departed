@@ -12,6 +12,8 @@ Key Notes
 Health: 650
 Damage: 23
 Speed: 18 KM/H
+Armor: 0
+Family: Lemurian
 Type: Champion Enemy
 Skills:
 	- Primary: Flamethrower

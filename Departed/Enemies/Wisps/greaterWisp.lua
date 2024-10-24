@@ -13,6 +13,7 @@ Health: 370
 Damage: 23
 Speed: 27 KM/H
 Armor: 0
+Family: Wisp
 Type: Champion Enemy
 Skills:
 	- Primary: Greater Blast

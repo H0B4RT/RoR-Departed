@@ -13,6 +13,7 @@ Health: 300
 Damage: 34
 Speed: 22 KM/H
 Armor: 0
+Family: Crab
 Type: Champion Enemy
 Skills:
 	- Primary: Crush

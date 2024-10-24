@@ -3,7 +3,7 @@ Jellyfish
 Appears throughout the game, from Classic to Survival to Providence Trials.
 Key Notes
 	- BASE CONTENT
-	- Appears on Stage 1 besides Slate Mines, and Sky Meadow
+	- Appears on Stage 1 besides Slate Mines, Sky Meadow and Black Beach
 	- Acts like a combination of all three games
 	- Charges in and explodes at lower health.
 	- Can FLy
@@ -13,6 +13,7 @@ Health: 85
 Damage: 7
 Speed: 24 KM/H
 Armor: 0
+Family: Jellyfish
 Type: Regular Enemy
 Skills:
 	- Passive: Electrostatic

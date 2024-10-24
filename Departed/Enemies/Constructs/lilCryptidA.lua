@@ -1,10 +1,10 @@
 --[[
 Beta Construct A
-Appears in the 50th Wave of Survival and appears regularly from that point forward
+Appears in the 100th Wave of Survival and appears regularly from that point forward
 Key Notes
 	- DEPARTED CONTENT
-	- Is an Enemy that only appears on Black Beach (Survival)
-	- Acts like the Meridian Small Construct
+	- Appears on Black Beach
+	- Acts like the Meridian Small Construct but with an additional ranged attack
 	- Ranged Energy Blasts!!!
 	- Can Walk
 	- Is a Ranged Enemy
@@ -12,7 +12,8 @@ Key Notes
 Health: 70
 Damage: 12
 Speed: 22 KM/H
-Armor: 0 
+Armor: 0
+Family: Construct
 Type: Special Enemy
 Skills:
 	- Primary: Beta Blast

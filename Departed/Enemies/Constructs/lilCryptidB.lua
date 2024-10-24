@@ -1,9 +1,9 @@
 --[[
 Beta Construct B
-Appears in the 50th Wave of Survival and appears regularly from that point forward
+Appears in the 100th Wave of Survival and appears regularly from that point forward
 Key Notes
 	- DEPARTED CONTENT
-	- Is an Enemy that only appears on Black Beach (Survival)
+	- Appears on Black Beach
 	- Reworked to be fast paced melee enemy
 	- Roundhouse kick, poke
 	- Can Walk
@@ -13,6 +13,7 @@ Health: 90
 Damage: 9
 Speed: 26 KM/H
 Armor: 0
+Family: Construct
 Type: Special Enemy
 Skills:
 	- Primary: Beta Bump

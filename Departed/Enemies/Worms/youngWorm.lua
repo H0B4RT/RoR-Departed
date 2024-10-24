@@ -5,9 +5,10 @@ Key Notes
 	- BASE CONTENT
 	- Appears on Torrid Outlands, and any stage where Magma Worm, Overloading Worm, or Volatile Worm spawn post loop.
 	- Acts like a Mini Magma Worm.
-	 - Can only be Blazing, Overloading, or Volatile
+	- Leaps and then dives, gets faster on lower health.
 	- Skill Based Movement
 	- Is a Melee Enemy
+	- Can only be Blazing, Overloading, or Volatile
 
 Health: 235
 Damage: 20

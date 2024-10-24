@@ -3,7 +3,7 @@ Beta Construct C
 Appears in the 50th Wave of Survival and appears regularly from that point forward
 Key Notes
 	- DEPARTED CONTENT
-	- Is an Enemy that only appears on Black Beach (Survival)
+	- Appears on Black Beach
 	- Reworked to be both a ranged and support enemy.
 	- Sniper, some kind of support?
 	- Can Walk
@@ -13,6 +13,7 @@ Health: 120
 Damage: 7
 Speed: 20 KM/H
 Armor: 10
+Family: Construct
 Type: Special Enemy
 Skills:
 	- Passive: Immovable

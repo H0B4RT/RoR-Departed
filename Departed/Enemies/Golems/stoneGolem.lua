@@ -13,6 +13,7 @@ Health: 300
 Damage: 34
 Speed: 10 KM/H
 Armor: 0
+Family: Golem
 Type: Champion Enemy
 Skills:
 	- Primary: Seismic Slam

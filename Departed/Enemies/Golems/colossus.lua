@@ -3,21 +3,23 @@ Stone Colossus
 Appears throughout the game, from Classic to Survival to Providence Trials.
 Key Notes
 	- BASE CONTENT
-	- Is One of the Tier 1 Bosses
-	- Appears on Stage 1, Ancient Valley, Sunken Tomb, Torrid Outlands, Uncharted Mountain, Black Beach
-	- Acts almost identically to the RORR Colossus, with one additional move/ability
+	- Is a Tier 1 (Early-Game) Boss
+	- WAppears on Stage 1, Ancient Valley, Sunken Tomb, Torrid Outlands, Uncharted Mountain, and Black Beach
+	- Acts almost identically to the RORR Colossus, with a new offensive ability
 	- Has Two Boss Items
 	- Can aim high with its attacks, so being above it doesn’t guarantee you will be safe
 	- Can Walk
+	- Standard: Has a 45% chance to drop a Common Item, a 30% chance to drop an Uncommon Item, a 10% chance to drop a Legendary, and 15% chance to drop one of the Boss' respective Boss Item(s).
 	- Is a Melee Boss
-
+	
 Health: 1400
 Damage: 40
 Speed: 14 KM/H
 Armor: 0
+Family: Golem
 Title: Giant Stone Guardian
 Type: Boss
-Tier: 1
+Tier: 1 (Early-Game)
 Skills:
 	- Passive: Mountain King
 		- Upon spawning, summon two Stone Golems. 
@@ -33,7 +35,7 @@ Skills:
 		- Stomp the ground, causing a shockwave that deals 200% damage. 
 			- If Volatile, shockwave increases in size and explodes.
 Boss Items:
-	Colossal Knurl: Increase maximum health by 8%, health regeneration by 1.2 hp/s, and armor by 6.
-	Guardian’s Fist: Upon use, two Colossus hands clap for 100% damage of a COLOSSUS’ BASE DAMAGE.
+	- Colossal Knurl: Increase maximum health by 8%, health regeneration by 1.2 hp/s, and armor by 6.
+	- Guardian’s Fist: Upon use, two Colossus hands clap for 100% damage of a COLOSSUS’ BASE DAMAGE.
 		- CD: 8s
 --]]

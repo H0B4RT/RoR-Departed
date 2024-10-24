@@ -13,6 +13,7 @@ Health: 700
 Damage: 9
 Speed: 22 KM/H
 Armor: 0
+Family: Jellyfish
 Type: Grand Champion Enemy
 Skills:
 	- Passive: Electrostatic

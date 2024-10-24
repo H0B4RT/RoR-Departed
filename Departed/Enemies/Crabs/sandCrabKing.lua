@@ -2,21 +2,23 @@
 Sand Crab King
 Appears throughout the game, from Classic to Survival to Providence Trials.
 Key Notes
-    - STARSTORM DLC EXCLUSIVE BOSS
-    - Is One of the Tier 1 Bosses
-    - Acts almost identically to the SS1 Sand Crab King
+	- STARSTORM CONTENT
+	- Is a Tier 1 (Early-Game) Boss
+	- Acts almost identically to the SS1 Sand Crab King
     - Has Two Boss Items
     - Has piercing attacks that have fairly large ranges
     - Can Walk
+	- Standard: Has a 45% chance to drop a Common Item, a 30% chance to drop an Uncommon Item, a 10% chance to drop a Legendary, and 15% chance to drop one of the Boss' respective Boss Item(s).
     - Is a Hybrid Boss (Melee/Ranged)
-
+	
 Health: 1200
 Damage: 30
 Speed: 20 KM/H
 Armor: 0
+Family: Crab
 Title: Hardened Monstrosity
 Type: Boss
-Tier: 1
+Tier: 1 (Early-Game)
 Skills:
     - Primary: Crush
         - Reach out and crush the nearest enemy in your claws, dealing 150% damage.
@@ -26,7 +28,9 @@ Skills:
         - Release bubbles. If an enemy makes contact with a bubble, trap them in the bubble and lock their skills.
             - If Volatile, release twice as many bubbles.
 Boss Items:
-Shell Piece: Gain immunity for 3 seconds after being lethally hit. Only once per stage (+1 per stack). Afterwards, gain 11 armor for the rest of the stage.
-Bubble Blower: Release bubbles that trap enemies and prevent them from using their skills.
-    CD: 15s
-]]--
+	- Shell Piece: Gain immunity for 3 seconds after being lethally hit. Only once per stage (+1 per stack). Afterwards, gain 11 armor for the rest of the stage.
+	- Bubble Blower: Release bubbles that trap enemies and prevent them from using their skills.
+		- CD: 15s
+--]]
+
+

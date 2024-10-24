@@ -13,6 +13,7 @@ Health: 125
 Damage: 48
 Speed: 36 KM/H
 Armor: 0
+Family: Crab
 Type: Grand Champion Enemy
 Skills:
 	- Primary: Mortar Volley
@@ -24,5 +25,4 @@ Skills:
         - Bury underground, rooting yourself in the ground. Change primary to Mortar Volley and utility to Unbury. Takes 1 second to bury.
     - Alt Utilty: Unbury
         - Unbury, unrooting yourself. Change primary to Fleeing Bubbles and utility to Bury. Takes 1 second to unbury.
-
 --]]

@@ -12,6 +12,8 @@ Key Notes
 Health: 125
 Damage: 14
 Speed: 22 KM/H
+Armor: 0
+Family: Lemurian
 Type: Regular Enemy
 Skills:
 	- Primary: Bite

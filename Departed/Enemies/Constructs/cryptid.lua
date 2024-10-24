@@ -1,21 +1,24 @@
 --[[
 Major Construct
-Appears in the 50th Wave of Survival and appears regularly from that point forward
+Appears in the 100th Wave of Survival and appears regularly from that point forward
 Key Notes
-	- DEPARTED EXCLUSIVE CONTENT
-	- Is a Boss that only appears on Black Beach (Survival)
+	- DEPARTED CONTENT
+	- Is a Tier 4 (Special) Boss
+	- Appears on Black Beach
 	- Acts similarly to the unused Major Construct from Risk of Rain 2
 	- Has its own Boss Item
-	- Summons Beta Constructs
+	- Tri-Shot, Shield, Teleport, Summons Beta Constructs
 	- Skill Based Movement
+	- Standard: Has a 45% chance to drop a Common Item, a 30% chance to drop an Uncommon Item, a 10% chance to drop a Legendary, and 15% chance to drop one of the Boss' respective Boss Item(s).
 	- Is a Hybrid Boss (Support, Ranged)
-
+	
 Health: 1800
 Damage: 30
-Speed: 0
+Speed: 0 KM/H
 Armor: 30
+Family: Construct
 Title: Crisis Vanguard
-Type: Boss
+Type: Special Boss
 Tier: 4 (Special)
 Skills:
 	- Primary: Major Cannon 
@@ -31,4 +34,6 @@ Skills:
 			- CD: 30s
 Boss Item:
 	- Hostile Nucleus: Upon being hit by an enemy, reduce damage by 50% (+50%). Deal the same percentage of damage back to attacker. After reflecting 100% percent damage, spawns an ally Beta Construct.
-]]--
+--]]
+
+--[[

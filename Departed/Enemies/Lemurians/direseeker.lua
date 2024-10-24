@@ -3,21 +3,23 @@ Direseeker
 Appears on Magma Barracks as a Special Boss
 Key Notes
 	- BASE CONTENT
-	- Is one of the Stage 4 Special Bosses
+	- Is a Tier 4 (Special) Boss
 	- Appears on Magma Barracks and can secretly be encountered on Black Beach
 	- Reworked to be a stronger version of the Ancestral Lemurian. Will still be base so will appear regardless of whether Departed Content is enabled.
 	- Has Two Boss Items
 	- Flamethrower, Flaming Spear Throw, Flaming Spear Stab, Flaming AND Bleeding Parry, AND the Elder Lemurian Fireball Volley from RoR2
 	- Can Walk, Can Fall
-	- Has a 90% chance to drop a Legendary Item, a 5% chance to drop Seeker's Rush, and a 5% chance to drop Lava-Tipped Javelin.
+	- Special: Has a 85% chance to drop a Legendary Item and a 15% chance to drop one of the Boss' respective Boss Item(s).
 	- Is a Hybrid Boss (Melee/Ranged)
 	
 Health: 1400
 Damage: 23
 Speed: 15 KM/H
-Title: Primordial Warlord
-Type: Boss
-Tier: 3 (Late-Game)
+Armor: 15
+Family: Lemurian
+Title: Track and Kill
+Type: Special Boss
+Tier: 4 (Special)
 Skills:
 	- Primary: Flaming Thrust
 		- Thrust a spear forward, dealing 200% damage and inflict Burn. Has 1 second of endlag.

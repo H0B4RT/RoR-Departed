@@ -13,6 +13,7 @@ Health: 900
 Damage: 37
 Speed: 18 KM/H
 Armor: 0
+Family: Golem
 Type: Grand Champion Enemy
 Skills:
 	- Primary: Stone Haymaker

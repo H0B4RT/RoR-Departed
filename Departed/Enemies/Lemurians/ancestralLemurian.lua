@@ -3,17 +3,20 @@ Ancestral Lemurians
 Appears throughout the game, from Classic to Survival to Providence Trials.
 Key Notes
 	- DEPARTED CONTENT
-	- Is one of the Tier 3 Bosses
+	- Is a Tier 3 (Late-Game) Boss
 	- Appears on Temple of the Elders, Risk of Rain, Black Beach, and post loop on Siren's Call, Torrid Outlands, and Magma Barracks.
 	- New Lemurian Boss that acts like a cross between an Elder Lemurian and Lemurian Calvary from RoRR.
 	- Has Two Boss Items
 	- Flamethrower, Spear Throw, Spear Stab, Parry
 	- Can Walk, Can Fall
+	- Standard: Has a 45% chance to drop a Common Item, a 30% chance to drop an Uncommon Item, a 10% chance to drop a Legendary, and a 15% chance to drop one of the Boss' respective Boss Item(s).
 	- Is a Hybrid Boss (Melee/Ranged)
 	
 Health: 1400
 Damage: 23
 Speed: 15 KM/H
+Armor: 0
+Family: Lemurian
 Title: Primordial Warlord
 Type: Boss
 Tier: 3 (Late-Game)
@@ -26,9 +29,10 @@ Skills:
 			- CD: 1s
 	- Utility: Parry and Thrust
 		- Absorb damage from the front for 3 seconds, and then release a telegraphed devastating blow for 250%-750% damage. Has 3 seconds of endlag if it misses.
-			- CD: 
+			- CD: 8s
 	- Special: Spear Throw
 		- Throw a telegraphed spear dealing 100% damage whilst stunning. Cannot use Primary, Secondary, or Special until 5 seconds have passed if it misses.
+			- CD: 12s
 Boss Item:
 	- Devotion: Gain 2 (+1 per stack) Temporary Items that last 30 seconds and then refresh. These items mimic items already in your inventory.
 	- False Hero: Gain a Lemurian Follower. 50% chance to be a Lemurian, 25% chance to be an Evolved Lemurian, 12% chance to be an Elder Lemurian, 8% chance to be a Lemurian Calvary, and a 5% chance to be an Ancestral Lemurian.

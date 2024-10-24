@@ -13,6 +13,7 @@ Health: 900
 Damage: 23
 Speed: 27 KM/H
 Armor: 0
+Family: Wisp
 Type: Grand Champion Enemy
 Skills:
 	- Primary: Archaic Blast

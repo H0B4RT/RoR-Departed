@@ -13,6 +13,7 @@ Health: 50
 Damage: 17
 Speed: 27 KM/H
 Armor: 0
+Family: Wisp
 Type: Regular Enemy
 Skills:
 	- Primary: Lesser Blast
