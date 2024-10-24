@@ -35,5 +35,3 @@ Skills:
 Boss Item:
 	- Hostile Nucleus: Upon being hit by an enemy, reduce damage by 50% (+50%). Deal the same percentage of damage back to attacker. After reflecting 100% percent damage, spawns an ally Beta Construct.
 --]]
-
---[[
