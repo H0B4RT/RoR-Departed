@@ -5,7 +5,7 @@ NEW CONTENT:
 Gamemodes:
 	- Survival
 Survivors:
-	- BASE: Commando, Huntress, Enforcer, Chef, Loader
+	- BASE: Commando, Huntress, Enforcer, Mercenary, Chef, Loader
 	- DEPARTED: Timekeeper
 	- STARSTORM: Executioner, Cyborg
 Interactables:
@@ -29,11 +29,11 @@ Elites:
 Events:
 	- Family Events
 Items:
-	- Commons: Meat Nugget, Fire Shield, Bustling Fungus, Lens Maker’s Glasses, Sprouting Egg, Headstompers, Life Savings, Barbed Wire, Rusty Knife, Mysterious Vial, Mortar Tube, Warbanner, Monster Tooth, Soldier’s Syringe, Crowbar, Medkit, Bundle of Fireworks, Backup Magazine, Topaz Brooch, Dumbell, Detritive Trematode, Dormant Fungus, Armed Backpack, Brass Knuckles, Diary, Malice, Molten Coin, Coffee Bag, Guarding Amulet, Taser, Paul’s Goat Hoof, Bitter Root, Snake Eyes, Hermit’s Scarf, Gasoline, Spikestrip, Distinctive Stick, Fork, Needles
-	- Uncommons: Time Keeper’s Secret, Smart Shopper, Infusion, Will-O’-The-Wisp, ATG Missle Mk. 1, Tough Times, Energy Cell, Rusty Jetpack, Leeching Seed, Ukelele, Boxing Gloves, Prison Shackles, Guardian’s Heart, Hopoo Feather, Frost Relic, Red Whip, Anomalous Implant, Black Monolith, Death Mark, Strange Can, Broken Blood Tester, Balloon, Prototype Jet Boots, Hottest Sauce, Voltaic Gauge, Watch Metronome, Low Quality Speakers, Cryptic Source, Field Accelerator, Roulette, Vaccine, Golden Gun, Harvester’s Scythe, Predatory Instincts, Prophet’s Cape, Locked Jewel, Man-O’-War
-	- Legendaries: Thallium, Tesla Coil, Old Box, Beating Embryo, Permafrost, ATG Missle Mk. 2, Happiest Mask, Plasma Chain, Heaven Cracker, Rapid Mitosis, Ceremonial Dagger, Repulsion Armor, Brilliant Behemoth, Hardlight Afterburner, Dying Smoke, Nkota’s Heritage, Droid Head, Green Chocolate, Portable Reactor, Bane Flask, Interstellar Deskplant, Laser Turbine, Alien Head, Ol’ Lopper, Dio’s Best Friend, Erratic Gadget, Swift Skateboard, Galvanic Core, Gem Breacher,
+	- Commons: Meat Nugget, Fire Shield, Bustling Fungus, Lens Maker’s Glasses, Sprouting Egg, Headstompers, Life Savings, Barbed Wire, Rusty Knife, Mysterious Vial, Mortar Tube, Warbanner, Monster Tooth, Soldier’s Syringe, Crowbar, Medkit, Bundle of Fireworks, Backup Magazine, Topaz Brooch, Dumbell, Detritive Trematode, Dormant Fungus, Armed Backpack, Brass Knuckles, Diary, Malice, Molten Coin, Coffee Bag, Guarding Amulet, Taser, Paul’s Goat Hoof, Bitter Root, Snake Eyes, Hermit’s Scarf, Gasoline, Spikestrip, Voltaic Mitt, Distinctive Stick, Fork, Needles
+	- Uncommons: Time Keeper’s Secret, Smart Shopper, Infusion, Will-O’-The-Wisp, ATG Missle Mk. 1, Tough Times, Energy Cell, Rusty Jetpack, Leeching Seed, Ukelele, Boxing Gloves, Prison Shackles, Guardian’s Heart, Hopoo Feather, Frost Relic, Red Whip, Anomalous Implant, Black Monolith, Death Mark, Strange Can, Broken Blood Tester, Balloon, Prototype Jet Boots, Hottest Sauce, Voltaic Gauge, Watch Metronome, Low Quality Speakers, Cryptic Source, Field Accelerator, Roulette, Vaccine, Golden Gun, Harvester’s Scythe, Predatory Instincts, Prophet’s Cape, Locked Jewel, Chargefield, Man-O’-War
+	- Legendaries: Thallium, Tesla Coil, Old Box, Beating Embryo, Permafrost, ATG Missle Mk. 2, Happiest Mask, Plasma Chain, Heaven Cracker, Rapid Mitosis, Ceremonial Dagger, Repulsion Armor, Brilliant Behemoth, Hardlight Afterburner, Dying Smoke, Nkota’s Heritage, Droid Head, Green Chocolate, Portable Reactor, Bane Flask, Interstellar Deskplant, Laser Turbine, Alien Head, Ol’ Lopper, Dio’s Best Friend, Ancient Scepter, Erratic Gadget, Swift Skateboard, Galvanic Core, Gem Breacher
 	- Boss: Legendary Spark, Legendary Mask, Burning Witness, Charged Perforator, Eruptive Perforator, Colossal Knurl, Guardian’s Fist,  Nematocyst Nozzle, Brain Coral, Devotion, Bloodlust, Shell Piece, Frothing Bubbles
-	- Equipment: Rotten Brain, Safeguard Lantern, Snowglobe, Explorer’s Key, Foreign Fruit, Instant Minefield, Jar of Souls, Carrara Marble, Sawmerang, Shattered Mirror, Disposable Missle Launcher, Gold-Plated Bomb, Drone Repair Kit, Thqwib, Dynamite Plunger, Trophy Hunter’s Tricorn, Phonograph, Seismic Oscillator, M. I. D. A. S., Cloaking Headband, Pressurized Canister, Simple Magnet, Greater Warbanner, Mindshift Gas, Hazardous Barrel, Mace Replica, Gigantic Amethyst, Prescriptions, Lost Doll, Captain’s Brooch, Glowing Meteorite, White Flag, Back Thruster
+	- Equipment: Rotten Brain, Safeguard Lantern, Snowglobe, Explorer’s Key, Foreign Fruit, Instant Minefield, Jar of Souls, Carrara Marble, Sawmerang, Shattered Mirror, Disposable Missle Launcher, Gold-Plated Bomb, Drone Repair Kit, Thqwib, Dynamite Plunger, Trophy Hunter’s Tricorn, Phonograph, Seismic Oscillator, M. I. D. A. S., Cloaking Headband, Pressurized Canister, Simple Magnet, Greater Warbanner, Mindshift Gas, Hazardous Barrel, Mace Replica, Gigantic Amethyst, Prescriptions, Lost Doll, Captain’s Brooch, Glowing Meteorite, Crucifix, White Flag, Back Thruster
 
 
 
@@ -60,6 +60,7 @@ Events:
 	- Storms
 Items
 	- Commons: Sticky Bomb, Wonder Herbs
-	- Uncommons: Concussion Grenade
+	- Uncommons: Concussion Grenade, Pesticide
+	- Legendary: Substandard Duplicator
 	- Boss: Patriarch's Gland, Bison Steak, Bison Hoof, Tar Jar, Imp Overlord's Tentacle, Imp Vanguard's Spleen, Fallen Branch, Unearthly Lamp
 
