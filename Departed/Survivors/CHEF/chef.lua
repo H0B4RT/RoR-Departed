@@ -5,7 +5,7 @@ Key Notes
 	- Umbra Title: Culinarian Adept
 	- Exile Quote: ...and so it remained, with nothing left to serve.
 
-Unlock:
+Unlock: Obtain 5 food related items.
 
 Health: 115 (+35 per level)
 Regen: 0.6 (+0.24 per level) HP/S
