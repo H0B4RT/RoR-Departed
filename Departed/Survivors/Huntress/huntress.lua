@@ -15,7 +15,7 @@ Speed: 28 KM/H
 Armor: 0 (+2 per level)
 Skills:
 	- Passive: Agility
-		- You are able to shoot all skills while moving.
+		- You are able to use all skills while moving.
 	- Primary: Strafe
 		- Strafe: Fire an arrow for 120% damage.
 	- Secondary: Laser Glaive
@@ -27,6 +27,24 @@ Skills:
 	- Special: Cluster Bomb
 		- Cluster Bomb: Fire an explosive arrow for 320% damage. The arrow drops bomblets that detonate for 6x80% damage.
 			- CD: 7s
-		- Ancient Scepter: MK7 Rockeye
+		- Ancient Scepter: MK7 RocKeye
 			- Fire an explosive arrow for 320% damage. The arrow drops bomblets that detonate for 12x80% damage.
+
+Log:
+Departure:				Destination:
+Infinite Seaport,		North Station,
+Spirestone,  			Prism Tower,
+Jupiter					Earth
+
+	Travel ID: 54C49474142564
+
+Passenger Details:
+[Civilian Class]
+
+Luggage & Equipment:
+Passenger boarded with Agile-Class Hunter armor. Warp drives were aged, but only posed a malfunctioning risk to the individual, and thus passed safety clearances. Carbon fiber components appear damaged but still within acceptible vaccuum-graded limits. Red coloration noted as in some sectors it signifies a potential mercenary for hire. Individual also boarded with a Lightbow and a Tri-Rang variant, both of which have been packed into automated lockboxes until arrival. Lightbow showed signs of modification, but due to civillians having to pack away weaponry, inspection was kept to E-Class standards. Tri-Rang variant rattles persistently inside of lockbox, but was accepted by both passenger and security personnel.
+
+[SECURITY RECALL]
+[Event H1] Individual found scratching at lockbox seams. Automated security alerts were not triggered.
+[Event H2] Individual appears to only sleep 3 hours per night and often avoids line of sight with cameras.
 --]]

@@ -13,6 +13,7 @@ Health: 0 (+0 per level)
 Regen: 0 (+0 per level) HP/S
 Damage: 0 (+0 per level)
 Speed: 0 KM/H
+Jump Height: 0 M
 Armor: 0 (+0 per level)
 Skills:
 	- Passive:
@@ -28,4 +29,7 @@ Skills:
 	- Alt Special:
 		- Ancient Scepter:
 	- Misc:
+	
+Log:
+TBD
 --]]

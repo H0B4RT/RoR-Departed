@@ -15,7 +15,7 @@ Speed: 28 KM/H
 Armor: 0 (+3 per level)
 Skills:
 	- Passive: Personal Shield Generator
-		- Convert 9% of your health to shield.
+		- Convert 10% of your health to shield.
 	- Primary: Unmaker
 		- Shoot a CONTENDER inflicting 185% DAMAGE.
 	- Secondary: Rising Star

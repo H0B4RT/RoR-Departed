@@ -7,7 +7,7 @@ Key Notes
 	- Umbra Title: TBD
 	- Exile Quote: TBD
 
-Unlock: Defeat 20 enemies in a single second.
+Unlock: As Huntress, defeat 20 enemies in a single second.
 
 Health: 98 (+35 per level)
 Regen: 1.2 (+0.12 per level) HP/S
