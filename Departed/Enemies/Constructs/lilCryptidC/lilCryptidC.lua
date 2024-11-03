@@ -22,7 +22,7 @@ Skills:
 		- Fire off a somewhat fast moving homing projectile towards the nearest enemy dealing 100% damage. Disappates if it hits a wall or another enemy. CAN ONLY USED WHEN BURIED.
 			- CD: 1s
 	- Utility: Beta Burial
-		- Bury yourself. Allows use of Beta Bombardment, but also causes an area highlighted around you that slows enemies' movement speed and reduces enemy jump height by 33%.
+		- Bury yourself. Allows use of Beta Bombardment, but also causes an area highlighted around you that heals allies around you for 5% health per second.
 			- CD: 7s
 
 Log:
