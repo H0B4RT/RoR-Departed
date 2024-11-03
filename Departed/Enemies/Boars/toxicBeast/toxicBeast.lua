@@ -1,6 +1,6 @@
 --[[
 Toxic Beast
-Appears throughout the game from Classic to Survival to Providence Trials
+Appears throughout the game, from Classic to Survival to Providence Trials
 Key Notes
 	- BASE CONTENT
     - Is a Tier 2 (Mid-Game) Boss

@@ -1,6 +1,6 @@
 --[[
 Beta Construct C
-Appears in the 50th Wave of Survival and appears regularly from that point forward
+Appears in the 100th Wave of Survival and appears regularly from that point forward
 Key Notes
 	- DEPARTED CONTENT
 	- Appears on Black Beach
