@@ -17,7 +17,7 @@ Damage: 30
 Speed: 0 KM/H
 Armor: 30
 Family: Construct
-Title: Crisis Vanguard
+Title: Revered Vanguard
 Type: Special Boss
 Tier: 4 (Special)
 Skills:
