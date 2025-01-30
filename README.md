@@ -12,7 +12,7 @@ over 200 items!
 
 32 survivors, each with 4 variants (128) AND alt skills for each
 
-over 80 enemies, with all the original enemies from RoRR and SS1. Also, some new enemies and enemy variants have been added >:]
+over 80 enemies, with all the original enemies from RoRR and SS1. also, some new enemies and enemy variants have been added >:]
 
 more final bosses! all can be fought in the same run for the ultimate run. some are completely new >:] (i aint tellin u who they are tho)
 
@@ -28,7 +28,7 @@ arena (risk of rain pvp)
 
 providence trials (fun little challenges!)
 
-safari (Explore Petrichor V As an Enemy!)*
+safari (explore petrichor v as an enemy!)*
 
 and much, much more!
 
