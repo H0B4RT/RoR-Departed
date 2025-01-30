@@ -1,7 +1,7 @@
 # RoR-Departed
 risk of rain departed is a risk of rain fangame made to be two things:
-1. A low-poly "demake/remake" of Risk of Rain Returns.
-2. A celebration of Risk of Rain and the Risk of Rain community, having items from all throughout the franchise and items from fan made projects.
+1. a low-poly "demake/remake" of Risk of Rain Returns.
+2. a celebration of risk of rain and the risk of rain community, having items from all throughout the franchise and items from fan made projects.
 
 ----------
 # CONTENT:
@@ -14,30 +14,34 @@ over 200 items!
 
 over 80 enemies, with all the original enemies from RoRR and SS1. Also, some new enemies and enemy variants have been added >:]
 
-More Final Bosses! All can be fought in the same run for the ultimate run. some are completely new >:]
+more final bosses! all can be fought in the same run for the ultimate run. some are completely new >:] (i aint tellin u who they are tho)
 
 over 30 stages! (not including alternate game modes)
 
 5 game modes, being:
 
-Classic (The Original Way to Play!)
+classic (the original way to play!)
 
-Survival (Wave Based Roguelike)
+survival (wave based roguelike)
 
-Arena (Risk of Rain PVP)
+arena (risk of rain pvp)
 
-Providence Trials (Fun Little Challenges!)
+providence trials (fun little challenges!)
 
-Safari (Explore Petrichor V As an Enemy!)*
+safari (Explore Petrichor V As an Enemy!)*
 
-And much, much more!
+and much, much more!
 
 ----------
 # DEVELOPMENT
-so far, as of october 3rd 2024, development has been goin on for a little under a year (development started late october of 2023)
+so far, as of january 29th 2025, development has been goin on for about a year and a quarter. unfortunately, im not going as fast as i would like to but thats kinda just what happens when you have college work and work work to do.
 
 the reason this game is being made is simple: i love risk of rain. i love the risk of rain community. late one night i was thinking to myself, "hey. i really like this game, but i wish there was like... a true 3d version of rorr."
-so the idea of Risk of Rain Departed was born!
+so the idea of Risk of Rain Departed was born! 
+
+its also gotten a lil bit of traction since i last edited the readme, so hopefully it will be worth the wait once it's out in early access.
+
+speaking of early access, i hope to have departed in a playable state by the end of 2026. that will hopefully include a bunch of enemies, survivors, and items. right now its up in the air whether or not early access will have the stage ones planned, but it will have a stage for survival for people to play and mess around on.
 
 ----------
 # CREDITS & THANKS
@@ -47,7 +51,7 @@ firstly, i have to thank the two shrimps. neik and swuff.
 
 i think it was about a year or two before returns was unveiled officially that swuff was making a fan game of risk of rain called risk of rain: first contact and i was like "WOAH i wonder if i could do that." (@en.wikipedia.org)
 
-neik, for the uninformed, is the creator of starstorm 1 (one of the greatest mods i've seen, is practically the iceborne of risk of rain) and is also one of my greatest inspirations when it comes to developing this game. (@eneca)
+neik, for the uninformed, is the creator of starstorm 1 (one of the greatest mods i've seen, is practically the iceborne of risk of rain) and is also one of my greatest inspirations when it comes to developing this game. they ALSO have allowed me to port ss1 content to departed, so departed will launch with starstorm items from the get go. thank u again nk! (@eneca)
 
 i also have to thank glasus and redacted.
 
@@ -64,10 +68,10 @@ opal has kindly let me use some of its enemies for departed (some of my favorite
 
 mysticsword and marwan have allowed me to use black monolith (@themysticsword and marwan6097266)
 
-bee, subwit, grongo, moffein, timesweeper, and dee have let me use some of their concepts as well (@\_bee_bo_ and @subwit and @grongo123 and @moffein and @thetimesweeper and @\_dee__)
+bee, subwit, grongo, moffein, timesweeper, dee, and isdahmaster have let me use some of their concepts as well (@\_bee_bo_ and @subwit and @grongo123 and @moffein and @thetimesweeper and @\_dee__ and @isdahmaster)
 
 additionally, i need to thank the people who have helped me out when it comes to specific game things.
 
-also thank you to everyone in the ss1 and redux communities! you have been excellent, friendly people and for that i thank you!
+also thank you to everyone in the ss1 and redux communities! you have been excellent, friendly people and for that i thank you! i don't think i would have stuck to this for so long if i didn't have you guys to motivate me to keep pushing forward.
 
 and lastly, thank you hopoo games for making one of the greatest games i've ever played. i can't thank you enough.
