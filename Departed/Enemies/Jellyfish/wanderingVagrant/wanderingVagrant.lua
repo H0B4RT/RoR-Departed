@@ -10,7 +10,7 @@ Key Notes
 	- Primarily ranged attacks BUT it now shocks on contact.
 	- Can Fly
 	- Standard: Has a 45% chance to drop a Common Item, a 30% chance to drop an Uncommon Item, a 10% chance to drop a Legendary, and 15% chance to drop one of the Boss' respective Boss Item(s).
-	- Is a Hybrid Boss (Ranged/Melee)
+	- Is a Melee/Ranged Boss 
 	
 Health: 1400
 Damage: 12

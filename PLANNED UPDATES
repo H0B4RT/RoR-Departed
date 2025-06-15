@@ -20,7 +20,7 @@ Enemies:
 	- Crab Family: Sand Crab, Hermit Crab, Sand Crab King
 	- Jellyfish Family: Jellyfish, Young Vagrant, Wandering Vagrant
 	- Lemurian Family: Lemurian, Elder Lemurian, Evolved Lemurian, Lemurian Calvary, Ancestral Lemurian
-	- Golem Family: Stone Golem, Stone Titan, Stone Colossus
+	- Stone Family: Stone Golem, Stone Titan, Stone Colossus
 	- Wisp Family: Lesser Wisp, Greater Wisp, Archaic Wisp, Ancient Wisp
 	- Worm Family: Young Worm, Magma Worm, Overloading Worm, Volatile Worm
 Elites:
@@ -41,7 +41,7 @@ EARLY ACCESS UPDATE 1: Adds the remaining "Basic" content.
 NEW CONTENT:
 
 Survivors:
-	- BASE: Engineer, Drifter
+	- BASE: Engineer
 	- DEPARTED: Skater
 	- STARSTORM: Mule
 Interactables:
@@ -62,6 +62,6 @@ Items
 	- Commons: Sticky Bomb, Wonder Herbs
 	- Uncommons: Concussion Grenade, Pesticide
 	- Legendary: Substandard Duplicator
-	- Boss: Patriarch's Gland, Bison Steak, Bison Hoof, Tar Jar, Imp Overlord's Tentacle, Imp Vanguard's Spleen, Fallen Branch, Unearthly Lamp
+	- Boss: Queen's Gland, , Bison Steak, Bison Hoof, Tar Jar, Imp Overlord's Tentacle, Imp Vanguard's Spleen, Fallen Branch, Unearthly Lamp
 	- Aspects: Frostbound Veil, Earthy Bastion, Abyssal Veil, Virulent Elixer, Velocity Conduit, Hypnotic Mirage, Withering Shade, Armored Core
 

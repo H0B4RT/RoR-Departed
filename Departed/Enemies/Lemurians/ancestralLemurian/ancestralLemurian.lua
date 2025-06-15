@@ -10,7 +10,7 @@ Key Notes
 	- Flamethrower, Spear Throw, Spear Stab, Parry
 	- Can Walk, Can Fall
 	- Standard: Has a 45% chance to drop a Common Item, a 30% chance to drop an Uncommon Item, a 10% chance to drop a Legendary, and a 15% chance to drop one of the Boss' respective Boss Item(s).
-	- Is a Hybrid Boss (Melee/Ranged)
+	- Is a Melee/Ranged Boss (Melee/Ranged)
 	
 Health: 1400
 Damage: 23

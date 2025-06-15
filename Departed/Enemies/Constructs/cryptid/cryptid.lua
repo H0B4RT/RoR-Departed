@@ -10,7 +10,7 @@ Key Notes
 	- Tri-Shot, Shield, Teleport, Summons Beta Constructs
 	- Skill Based Movement
 	- Standard: Has a 45% chance to drop a Common Item, a 30% chance to drop an Uncommon Item, a 10% chance to drop a Legendary, and 15% chance to drop one of the Boss' respective Boss Item(s).
-	- Is a Hybrid Boss (Support, Ranged)
+	- Is a Ranged/Support Boss
 	
 Health: 1800
 Damage: 30

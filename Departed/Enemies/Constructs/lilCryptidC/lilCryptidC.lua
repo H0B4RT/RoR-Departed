@@ -7,7 +7,7 @@ Key Notes
 	- Reworked to be both a ranged and support enemy.
 	- Sniper, some kind of support?
 	- Can Walk
-	- Is a Hybrid Enemy (Support/Ranged)
+	- Is a Ranged/Support Enemy 
 	
 Health: 120
 Damage: 7

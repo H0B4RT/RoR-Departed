@@ -1,0 +1,7 @@
+Enemies: Clay Man, Clay Templar, Clay Apothecary, Clay Admonitor
+Boss: Clay Mirage
+
+Clay Man acts like its RoRR counterpart.
+Clay Templar and Clay Apothecary remain relatively unchanged.
+Clay Admonitor is now luffy.
+Clay Mirage is a super mobile boss that can be very dangerous if left unchecked.

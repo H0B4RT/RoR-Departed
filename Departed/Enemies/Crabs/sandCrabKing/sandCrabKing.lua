@@ -9,7 +9,7 @@ Key Notes
     - Has piercing attacks that have fairly large ranges
     - Can Walk
 	- Standard: Has a 45% chance to drop a Common Item, a 30% chance to drop an Uncommon Item, a 10% chance to drop a Legendary, and 15% chance to drop one of the Boss' respective Boss Item(s).
-    - Is a Hybrid Boss (Melee/Ranged)
+    - Is a Hybrid Boss
 	
 Health: 1200
 Damage: 30

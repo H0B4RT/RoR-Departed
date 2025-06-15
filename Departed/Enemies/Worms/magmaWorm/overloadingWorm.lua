@@ -9,7 +9,7 @@ Key Notes
 	- Jumps and dives, produces thunderstorm, gets faster on lower health and deal 50% damage on contact.
 	- Skill Based Movement
 	- Standard: Has a 45% chance to drop a Common Item, a 30% chance to drop an Uncommon Item, a 10% chance to drop a Legendary, and a 15% chance to drop one of the Boss' respective Boss Item(s).
-	- Is a Hybrid Boss (Melee, Ranged)
+	- Is a Melee/Ranged Boss
 	- CANNOT BE ELITE
 
 Health: 3920

@@ -1,0 +1,7 @@
+Enemies: Beetle, Beetle Guard, Beetle Knight
+Boss: Beetle Queen
+
+Beetle has been slightly buffed.
+Beetle Guard is mainly the same.
+Beetle Soldier is Beetle Supermajor
+Beetle Queen is mainly the same, slightly nerfed.

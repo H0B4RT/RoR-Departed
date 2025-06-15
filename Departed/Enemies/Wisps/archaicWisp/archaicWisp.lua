@@ -1,6 +1,6 @@
 --[[
 Archaic Wisp
-Appears throughout the game, from Classic to Survival to Providence Trials.
+Appears late into Classic and Survival
 Key Notes
 	- BASE CONTENT
 	- Appears on Uncharted Mountain, Black Beach, any stage that Lesser Wisp, Greater Wisp, or Ancient Wisp spawn on post loop, and summoned by Ancient Wisp post loop

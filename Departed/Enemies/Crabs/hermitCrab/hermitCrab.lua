@@ -7,7 +7,7 @@ Key Notes
 	- Acts similarly to how it is in RoR2, but has a new alt primary that it will use after its unburied and a survivor is too close
     - Primary deals massive damage, alt primary deals little damage but roots enemies, utility buries/unburies and changes primary.
 	- Can Walk
-	- Is a Hybrid Enemy (Ranged/Support)
+	- Is a Ranged/Support Enemy
 	
 Health: 125
 Damage: 48

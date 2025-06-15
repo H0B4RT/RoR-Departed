@@ -1,0 +1,6 @@
+Enemies: Trokk, Tuber, Bramble
+Boss: Restless Oak/Leshii
+
+Trokk acts the same but has had a slight redesign. No longer a earthy block but a moss covered log (like I originally thought it was). Acts like RoRR version
+Tuber and Bramble act like their RoRR counterparts.
+Restless Oak/Leshii acts like its unused counterpart.

@@ -7,7 +7,7 @@ Key Notes
 	- Made to be into kind of a horde enemy, but also act a bit like its RoR2 counterpart.
 	- Flame Based Combatant
 	- Can Walk, Can Jump, Can Fall
-	- Is a Hybrid Enemy (Melee/Ranged)
+	- Is a Melee/Ranged Enemy
 	
 Health: 200
 Damage: 17

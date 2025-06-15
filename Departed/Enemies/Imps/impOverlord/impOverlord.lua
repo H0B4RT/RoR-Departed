@@ -10,7 +10,7 @@ Key Notes
 	- Swipe, charge, teleport
 	- Can Walk, Jump, Fall, and Teleport
 	- Standard: Has a 45% chance to drop a Common Item, a 30% chance to drop an Uncommon Item, a 10% chance to drop a Legendary, and 15% chance to drop one of the Boss' respective Boss Item(s).
-    - Is a Melee Boss
+    - Is a Melee/Ranged Boss
 	
 Health: 1210
 Damage: 27

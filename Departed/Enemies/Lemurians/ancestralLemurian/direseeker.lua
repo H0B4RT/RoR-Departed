@@ -10,7 +10,7 @@ Key Notes
 	- Flamethrower, Flaming Spear Throw, Flaming Spear Stab, Flaming AND Bleeding Parry, AND the Elder Lemurian Fireball Volley from RoR2
 	- Can Walk, Can Fall
 	- Special: Has a 85% chance to drop a Legendary Item and a 15% chance to drop one of the Boss' respective Boss Item(s).
-	- Is a Hybrid Boss (Melee/Ranged)
+	- Is a Melee/Ranged Boss
 	
 Health: 1400
 Damage: 23

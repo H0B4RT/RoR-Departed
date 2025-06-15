@@ -10,7 +10,7 @@ Key Notes
 	- Tramples, Flurry of Jabs, Flamethrower, Parry then Charge, Summons Lemurian Calvary, Leaves Remaining Boss in its Place
 	- Can Walk, Can Fall, Can Jump
 	- Standard: Has a 45% chance to drop a Common Item, a 30% chance to drop an Uncommon Item, a 10% chance to drop a Legendary, and a 15% chance to drop one of the Boss' respective Boss Item(s).
-	- Is a Hybrid Boss (Melee/Support)
+	- Is a Melee/Support Boss
 	
 Health: 3000
 Damage: 23

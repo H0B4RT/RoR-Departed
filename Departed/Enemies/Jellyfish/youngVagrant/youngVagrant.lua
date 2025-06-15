@@ -7,7 +7,7 @@ Key Notes
 	- Slightly reworked, now does damage on contact and rush players
 	- Shoots less than Wandering Vagrant and is slower, has a more stable explosion
 	- Can FLy
-	- Is a Hybrid Enemy (Ranged/Melee)
+	- Is a Melee/Ranged Enemy
 	
 Health: 700
 Damage: 9

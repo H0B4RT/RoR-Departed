@@ -4,9 +4,9 @@ Survival
 Key Notes
 	- Forsaken Isle
 	- Survival Stage
-	- A very large island in the middle of an alien ocean, perfectly isolated from the rest of the planet. If one crash lands here, there is no way to go to the rest of the planet besides boat.
+	- A very large island in the middle of an alien ocean, perfectly isolated from the rest of the planet. If one crash lands here, there is no way to go to the rest of the planet besides boat. There's a broken teleporter on the peak of the island.
 	- Stage Ambient Song
-	- Stage Teleporter Song
+	- Stage Fountain Song
 	- Will be constantly updated, EVERY SURVIVOR SHOULD EXCEL SOMEHERE ON BLACK BEACH.
 	- Gives access to the Exile ending before the Contact Light gets added.
 

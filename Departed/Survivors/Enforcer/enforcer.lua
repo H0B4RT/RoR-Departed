@@ -23,7 +23,7 @@ Skills:
 	- Utility: Protect and Serve
 		- Take a defensive stance, blocking all damage from the front. Increases attack speed but reduces movement.
 			- CD: 3s
-	- Special: Crown Control
+	- Special: Crowd Control
 		- Launch a stun grenade, stunning enemies in a huge radius for 250% damage. Can bounce at shallow angles.
 			- CD: 5s
 		- Ancient Scepter: Mob Managemenent

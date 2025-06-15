@@ -2,12 +2,12 @@
 Follower
 Appears throughout the game, from Classic to Survival to Providence Trials
 Key Notes
-	- Appears throughout the game, from Classic to Survival to Providence Trials
+	- STARSTORM CONTENT
 	- Appears on Slate Mines, Sky Meadow, Whistling Basin, Uncharted Mountain, and Black Beach
 	- Reworked to be a slow moving, bulky buffing flier, but with the attacks from SS1.
 	- Homing Projectile, Buff
 	- Can Fly
-	- Is a Hybrid Enemy (Ranged/Support)
+	- Is a Ranged/Support Enemy
 	
 Health: 450
 Damage: 20

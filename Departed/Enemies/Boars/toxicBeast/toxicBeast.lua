@@ -10,7 +10,7 @@ Key Notes
     - Tramples and Scream
     - Can Walk, Can Fall
 	- Standard: Has a 45% chance to drop a Common Item, a 30% chance to drop an Uncommon Item, a 10% chance to drop a Legendary, and 15% chance to drop one of the Boss' respective Boss Item(s).
-    - Is a Hybrid Enemy (Melee/Support)
+    - Is a Melee/Support Enemy
 	
 Health: 1460
 Damage: 17

@@ -7,7 +7,7 @@ Key Notes
 	- Acts just like the Lancer from Returns, kinda reworked to be a standalone enemy
 	- Pounces at high speed, throws high speed spear
 	- Can Walk, Can Jump, Can Fall
-	- Is a Hybrid Enemy (Melee/Ranged)
+	- Is a Melee/Ranged Enemy
 	
 Health: 100
 Damage: 17

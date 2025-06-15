@@ -10,7 +10,7 @@ Key Notes
     - Lamp Smash, Haunted Projectile, Invisible Thingy, Buff
 	- Can Fly, Skill Based Movement
 	- Standard: Has a 45% chance to drop a Common Item, a 30% chance to drop an Uncommon Item, a 10% chance to drop a Legendary, and 15% chance to drop one of the Boss' respective Boss Item(s).
-    - Is a Hybrid Enemy (Melee/Ranged/Support)
+    - Is a Hybrid Enemy
 	
 Health: 1400
 Damage: 26
