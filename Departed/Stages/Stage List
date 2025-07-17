@@ -1,1 +1,6 @@
-Survival: Black Beach
+Survival: 
+	- Black Beach
+Classic: 
+	- BASE: Desolate Forest, Dried Lake
+	- DEPARTED: Snowswept Treeline
+	- STARSTORM: Slate Mines
