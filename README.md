@@ -18,12 +18,12 @@ it should be (once completed) a pretty large fan game, including items, survivor
 
 - safari (explore petrichor v as an enemy!)*
 
-and much, much more. i hope to eventually add more people to my team, but unfortunately i might not have the money needed to pay for a team.
+and much, much more. i hope to eventually add more people to my team. if you would LIKE to work on stuff, lemme know. i hope to release a video of some timelapses on the items i had to redo with some of the music i'm working on in the background.
 
 ----------
 # DEVELOPMENT
 
-it's now july 19th 2025, and development has been going on for almost 2 years. unfortunately, just like before, im not goin as fast as i want to. however, i did have to deal with brain surgery, college work, work work, and drama to deal with so. my deepest apologies for not going any faster, i hope to get it out... at some point. i'm not sure if i'll hit my original goal of a first release by the end of 2026.
+it's now the second night of september, and development has been going on for nearly 2 years. im still not goin as fast as i want to, but the brain surgery is behind me and im recovering swimmingly. college and work are back on my plate, with a side of drama still. i hope to start going faster, and i've also decided to start accepting help. i wasn't comfortable doing it before cuz i wanted to pay people, but people wanted to work on the project anyway so ye ye. first release... sometime soon.
 
 the reason this game is being made is simple: i love risk of rain. i love the risk of rain community. late one night i was thinking to myself, "hey. i really like this game, but i wish there was like... a true 3d version of rorr."
 so the idea of Risk of Rain Departed was born! 
@@ -40,12 +40,11 @@ firstly, i have to thank the two shrimps. neik and swuff.
 
 i think it was about a year or two before returns was unveiled officially that swuff was making a fan game of risk of rain called risk of rain: first contact and i was like "WOAH i wonder if i could do that." plus, swuff was kinda the first person in the ror community that i actually interacted with (even though i was just reacting to him with shrimps) and i respect him a lot. (@en.wikipedia.org)
 
-neik, for the uninformed, is the creator of starstorm 1 (one of the greatest mods i've seen, is practically the iceborne of risk of rain) and is also one of my greatest inspirations when it comes to developing this game. they ALSO have allowed me to port ss1 content to departed, so departed will launch with starstorm content from the get go. whether or not ssr content will be included is unknown right now. thank u again nk! (@eneca)
+neik, for the uninformed, is the creator of starstorm 1 (one of the greatest mods i've seen, it's a really good risk of rain mod and pretty much justifies buying ror1 on its own) and is also one of my greatest inspirations when it comes to developing this game. they ALSO have allowed me to port ss1 content to departed, so departed will launch with starstorm content from the get go. whether or not ssr content will be included is unknown right now. thank u again nk! (@eneca)
 
 i also have to thank my "council of elders" i ask questions to. they help me with balance, art for the game, concept art, skill icons, counsel, music, and much more. i usually ask them about content that i want to add to the game and what they think about it. my council so far includes glasus, redacted, sentinel, beebo, nk, opal, tango, and winslow. (@glasus, @redactedinlight, @\_creature_, @\_bee_bo_, @retropacifist, @eneca, @tangoknight, @hopoo_games)
 
-also, thank you altzeus!!!
-altzeus is helping me out with music for the game (because i like altzeus's music) (@altzeus)
+altzeus, winslow, and others have given me some pointers about music and have made some music for departed. the big inspirations for the music i'm working on for departed is chris chris, toby fox, siivagunner, and the community music.
 
 for the people who allowed their concepts to be used for departed, i thank you!
 
