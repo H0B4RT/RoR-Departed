@@ -6,12 +6,12 @@ Key Notes
 	- Umbra Title: Cool Name Here
 	- Exile Quote: ...and so they remained, making a mid risk of rain fangame.
 
-Unlock:
+Unlock: Survive a Storm event.
 
-Health: 0 (+0 per level)
-Regen: 0 (+0 per level) HP/S
-Damage: 0 (+0 per level)
-Speed: 0 KM/H
+Health: 115 (+37 per level)
+Regen: 0.72 (+0.108 per level) HP/S
+Damage: 11 (+3 per level)
+Speed: 28 KM/H
 Jump Height: 0 M
 Armor: 0 (+0 per level)
 Skills:

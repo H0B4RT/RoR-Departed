@@ -1,0 +1,3785 @@
+RORR Logs
+
+
+
+
+
+Environments
+
+
+
+
+
+Desolate Forest
+Crashing into a verdant field isn't the worst outcome. I can see lush, rolling hills and strange castles built into mountains. There are foreign species patrolling the grasslands and bizarre housing foundations erected along worn footpaths. I've seen lizards who walk like men and otherworldly stone creatures infused by blazing lights. They seem docile and intelligent, passing by one another with little interaction, but their stiffened postures leave me wary. There's so much culture here for an undocumented planet. There's so much history to these buildings, but their construction doesn't make any sense. Rebar and concrete make up juvenile fabrications, accompanied by worn bricks gathered from ancient castles just meters away. Tree stumps and dead branches litter the landscape as if a forest was felled. But decay settled on this garden long ago... How do you get to concrete before raising a single village? Red sparks dance in the distant sky. I don't know what I'm hoping for.
+
+Dried Lake
+A massive desert filled with boardwalks and ten-foot crabs. I'm shocked that this is anywhere near the forest I was just in, but I can still see those mountains in the distance - All that greenery traded for dust and skeletons. I would think these catwalks were built to protect from the hot sand below, but these wrecked ships are buried in such shallow dunes. When was there water here? Rain hits my helmet and sizzles at my feet. The overcast sky softens the shadows of petrified barnacles cast over the distant wooden structures. They're held together like old junk in a garage. I can feel the planks bow under my weight, but I'd rather take my chances than wade through a muddy sea of claws and mandibles.
+
+Damp Caverns
+I'm launched into darkness. The bioluminescence is fighting with the pitch black of the caverns, and I can barely make out cliffs and valleys alongside these enormous mushrooms. Some younger ones toddle around and release dense gas clouds, but I've yet to see any individuals who have grown beyond my height. I'm cautious to touch the stalks of any of these towering masses should I find one, so I'm left creeping through the dark bellows towards the next pronged portal. The earth's rotten constitution leaves the ground pillowy. Distant sinkholes above me dot the ceiling like stars. It'd be nice, if it weren't for the constant excretions pouring around my boots. And the rotten stench. I can't even hold my nose.
+
+Sky Meadow
+I wonder how these landmasses stay afloat? I can't feel any gravitational abnormalities here, even when I'm beneath them. So far this planet has felt like walking on Mars, nothing would've indicated this as a possibility. After falling asleep on an isolated peninsula, I was shocked to wake up with company. Stone statues of hooded figures had surrounded me silently while I slept. No drag marks, no footsteps, no sound. Except there was a sound - a faint hum resonating between them. After a few minutes of stillness, I rose to my feet. I reached out to push them aside and the humming stopped.
+
+Ancient Valley
+This bridge just goes on forever... but at least it _is_ a bridge. Between this blizzard and the mountain fog I can't see more than two meters ahead, even with my mounted lights. I know I haven't accidentally turned around because the stampede keeps rumbling in the distance behind me, though I'm starting to wonder if its just the wind against the crumbling cliffsides. There's scorched steel strewn along the road, still smoking. What kind of fire could burn in a place like this? I'll have to clamber down to the exposed access tunnels running underneath the bridge to rest, though I can't tell if the drop below is 10 meters or 10 miles.
+
+Boar Beach
+Through some brambles and fencing I've come across a clearing in the fog. A big bang dropped me from my perch as boars rampaged, weaving in and out of the iron rebar collected from the endless bridge. The spikes were organized into patterns, almost like farm pens, and the pigs each took turns collecting dirt and piling it between them. Beyond that was a barren circle formed from repeated stomping in the tundra. Two boars were fighting within, but one dressed in a shirt appeared to be dancing between the other's attacks, as if it had years of experience.  
+What ki d o   eco s   s       n? W     a  --
+
+///Data fragment error: EXCEPTION CCPLS_7479@@@@@@@@@@
+
+Sunken Tomb
+It's hard to tell how deep these catacombs go. I don't have enough oxygen to explore more deeply. Murals describing some kind of war or migration are etched into the walls, though the water pressure must've torn them apart years ago. I can make out figures riding ships - it's hard to tell and I imagine any species that would build a tomb this deep underwater wouldn't require them. The sarcophagi lining the halls ring hollow and the tables and pots look untouched like some sort of nuclear shelter, frozen in time. The ceilings in here are so high and have skylights dug out from the earth above. The caustics are beautiful on the old stonework, though I don't see how they intended for the sun dial below to serve its purpose.
+
+Magma Barracks
+It's hot. My suit can't regulate temperatures like these. I can see waterfalls of lava flowing from grand battlements above me feeding into lakes of magma. The giant turtles below seem quite fond of it, though the surrounding Lemurians seem to have built great steel pens to cage them in. I've caught glimpses of the tribes ferrying back and forth atop their ashen shells almost as frequently as I've seen sacrifices made to feed them. These walkways between the watch towers are calm for now, but the amount of weapons strewn about are concerning. I can hear the clanking of workshops ahead. The only way left is up from here. A mile or so above me I can see the roots of a great tree with battlements spiraling towards it. Maybe I won't need to take a portal this time?
+
+Hive Cluster
+It's hard to tell whats alive and what isn't down here. The fibrous membranes that line the walls are sticky like fresh sap, and its difficult to avoid stepping on gestating pustules wherever you go. I'm stuck hanging from this flesh-rope for now. It's either waiting for these orange beasts to leave or upsetting the hive with more gunfire. At least this time I'm smelling strawberries instead of rot, but the sweet siren's call isn't doing much when I can see skeletons inside this thing. I can feel a slight crawling sensation around my hands and the heat pulses from these fibers like some kind of sick womb. I heard what sounded like crying a moment ago, but it's stopped since then. It was probably my imagination, the constant buzzing is as deafening as it is frightening.
+
+Temple of the Elders
+A vast hole of clouds swirls along the lip of this massive floating ridge. Towers and churches are constructed with windows and archways all standing with reverence toward the center of the miles-wide gap. A sort of vortex sucks the air downward and I can see flocks of birds dancing in the wind, like some sort of ritual. The sun touches these stones like nowhere else and a massive spire echoes into the sky, piercing the clouds only to be swallowed again before reaching the atmosphere. It has to have been a thousand steps climbed by now, with the corpses piling up in the nave below. Thunder roars down this spiral, with red lightning flashing shadows of future combatants against the walls. From this height I can finally see it: The Contact Light.
+
+Risk Of Rain
+//-c o m m a n d   l o g  0 1 
+UES Class-D Ship 'Contact Light' is capable of carrying 8 million standard-load crates in a single voyage. Freight containers of varying sizes can be magnetized to its cargo hold, with rotational drums stabilizing any disturbances that may occur during space travel. With 50 years of shipments under its wing, it's still a relatively juvenile freighter within the D Suite. Recent restructuring has caused shipment schedules to be rotated among the lesser ships. With half of Class-A ships out of commission due to [REDACTED], the 'Contact Light' has been chosen to deliver [REDACTED]'s previously scheduled cargo. A new captain has been assigned to oversee the journey, and we have placed agents on-board for security reasons. Godspeed.
+
+
+
+
+
+Items
+
+
+
+
+
+Meat Nugget
+Shipping Details:
+  Tracking Number: 1509***********
+
+Order Details:
+
+MM. Delicious.
+
+Just kidding, it's awful. I didn't know it was for petmunk, so I thought I would have a sample. BIG. MISTAKE. If its cubic shape wasn't enough to throw you off, it is grey, smelly, and cold. I have no idea why I ate it. Maybe I'm protein deficient.
+
+Sent To:
+1400,
+Grahs Farm,
+Earth
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+11/14/2056
+
+
+
+Fire Shield
+Shipping Details:
+  Tracking Number: 1512***********
+
+Order Details:
+
+The thing is only half-done, but it will do the job. The flux-chains are very unstable, resulting in a large explosion when struck. PLEASE handle with care!
+
+Sent To:
+Soloman
+-
+Backwaters
+Mars
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+6/06/2056
+
+
+
+Bustling Fungus
+Shipping Details:
+  Tracking Number: 1519***********
+
+Order Details:
+
+The strongest biological healing agent.. is a mushroom. Found in an abandoned house. I find some humor in that.
+This fungus has developed an amazing defense mechanism of hiding underground when bothered, allowing it to live long enough to distribute spores.
+
+Can be either ground into a paste or.. planted directly into the wound. A small warning; you'll feel it enter you, and it is every bit as unpleasant as it sounds.
+
+Sent To:
+5243 22nd,
+Rolling Fields,
+Earth
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+11/9/1753
+
+
+
+Lens Maker's Glasses
+Shipping Details:
+  Tracking Number: 1525***********
+
+Order Details:
+
+Calibrated for high focal alignment. Should allow for the precision you were asking for. I must ask.. for what reasons do you need such glasses? Surely the Department of Science would provide them for you?
+
+I can't think of a single.. scientific reason why you would want this. Have you been hired by [REDACTED]? If you're in trouble, you can always ask me for help.
+
+Sent To:
+Greivenkamp
+5th Houston St.
+Prism Tower
+Earth
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+4/29/2056
+
+
+
+Sprouting Egg
+Shipping Details:
+  Tracking Number: 1498***********
+
+Order Details:
+
+This egg seems to be somewhere between hatching and dying. Leaving it undisturbed usually causes it to wiggle around a bit, maybe sticking a tendril out. Trying to remove it from its shell is greeted by the most horrible screetching!
+
+I can't bring it to myself to cook it alive. I don't know what to do with it, so here you go; maybe it will hatch in a warmer climate like yours. As useless as he is, I have grown a bit fond of him. Please take care!
+
+Sent To:
+Battle Creek
+49017 Mars
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+09/17/2056
+
+
+
+Headstompers
+Shipping Details:
+  Tracking Number: 1488***********
+
+Order Details:
+
+Have you found the kill-count of your shoes to be 0? Do you find that disturbing? So do we. Combat Ready Spikeshoes, lovingly nicknamed 'Headstompers,' allow you to get the drop on foes. Literally. Vertically.
+
+Titanium-tipped spikes, along with steel soles, guarantee that landing on foes will result in the messiest recreation of old school video games that you have ever seen. NOTE: Spikes deploy only after reaching a certain vertical velocity.
+
+Sent To:
+200,
+Maple Lane,
+Mars
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+5/11/2005
+
+
+
+Life Savings
+Shipping Details:
+  Tracking Number: 1523***********
+
+Order Details:
+
+hi im billy and heer is money for mom thanks
+
+Sent To:
+moms house
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+02/22/2056
+
+
+Barbed Wire
+Shipping Details:
+  Tracking Number: 1513***********
+
+Order Details:
+
+Great big bundle of barbed wire! Should help you.. 'catch fish?' Not sure what use barbed wire is for catching fish, but all the power to ya!
+Should have about 500 ft included. The safety layer dissolves in water, so simply drop it on your tub and its ready to roll.
+
+Disclaimer: I, or my company, am not responsible for any bodily harm delivered to..
+
+Sent To:
+D. Sherman
+NLTS Way
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+04/29/2056
+
+
+
+Rusty Knife
+Shipping Details:
+  Tracking Number: 1522***********
+
+Order Details:
+
+Murder weapon, case name ELIAS. Probably a lover's spat? Make sure to box it; I've heard some men in suits were asking around.
+There is still dried blood on the knife, so mark it as biological.
+
+Sent To:
+NYPD
+5351 and 4th
+EARTH
+
+Shipping Method:
+Standard/Biological
+
+Estimated Delivery:
+2/28/2056
+
+
+
+Mysterious Vial
+Shipping Details:
+  Tracking Number: 1508***********
+
+Order Details:
+
+Apply to skin for a rapidly acting gel that contains both antiseptics and an agent to encourage protein synthesis!
+
+Small wounds applied with our gel should heal within a maximum of 5 hours, while broken bones and torn ligaments may take a few weeks.
+
+NOTE: Side effects may include itching, rashes, bleeding, sensitivity of skin, dry patches, permanent scarring, misaligned bone regrowth, rotting of the..
+
+Sent To:
+Sheridan S.
+4000 15th Ave
+UNITED STATES
+Earth
+
+Shipping Method:
+Standard/Fragile
+
+Estimated Delivery:
+03/06/2056
+
+
+
+Mortar Tube
+Shipping Details:
+  Tracking Number: 1487***********
+
+Order Details:
+
+Well, uh.. it's a little outdated. You stick explosives down the end, then you fire the explosive. With more explosives. If you're trying to reduce your injury rate, don't use these.
+
+Other than its archaic design, the mortar tube is actually pretty decent if you get a lot of them in a battery. Can blanket a big area, like [REDACTED]. I suppose you can beat them with the tube afterwards.
+
+Sent To:
+437 West,
+Old Bunker,
+Earth
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+5/19/1946
+
+
+
+Warbanner
+Shipping Details:
+  Tracking Number: 1527***********
+
+Order Details:
+
+Very very valuable. Don't drop it; it's worth more than you.
+
+What is it? Well, are you blind? It's obviously a warbanner from the War of 2019 from one of the rebel groups. Yes, maybe a little overdramatic, but inspiring nonetheless. They say - they say that warbanners won the war for them. Gave them.. magical strength.
+
+Sent To:
+Jungle VII,
+Museum of 2019,
+Earth
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+11/5/1843
+
+
+
+Monster Tooth
+Shipping Details:
+  Tracking Number: 1492***********
+
+Order Details:
+
+Ripped it RIGHT out of 'is mouth! A big fight that one gave me, I tell ya! Wrestled me right down, jaws wrapped around my head! Good thing Bishop here got him with that vaporiser, eh? Hahaha!
+
+It's been my good luck charm for a while, but hey, with the money you're payin' for it I'll give 'er up. Sometimes I feel like it helped me on hunts though, ya know? Like.. instincts.
+
+Sent To:
+421 Lane,
+Lab [21],
+Mars
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+10/28/2056
+
+
+
+Soldier's Syringe
+Shipping Details:
+  Tracking Number: 1476***********
+
+Order Details:
+
+Should help with multi-purpose requirements needed of soldiers. Contains vaccinations, antibiotics, pain killers, steroids, heroin, gasoline.. and something that feels like burning.
+Use standard procedures for injections.. clean the area, sterilize, no air, give them a candy, etc.
+
+Works for my boys, so no reason it shouldn't work for yours! The more shots the better; very few of my men have actually died from overdosing on it. Most just get sick.
+
+Sent To:
+1803
+Combat Zone
+Venus
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+08/1/2056
+
+
+
+Crowbar
+Shipping Details:
+  Tracking Number: 1489***********
+
+Order Details:
+
+Crowbar/prybar/wrecking bar allows for both prying and smashing! Carbon steel, so it should last for a very long time, at least until the 3rd edition arrives.
+
+Sent To:
+Life Tower,
+South Wing,
+Venus
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+9/1/2056
+
+
+
+Medkit
+Shipping Details:
+  Tracking Number: 1478***********
+
+Order Details:
+
+Alright, big shipment coming in. Each Medkit should contain bandages, sterile dressings, soap, antiseptics, saline, gloves, scissors, aspirin, codeine, and an Epipen. Should be a huge step up from what you had before, and should.. uh, prevent any future problems like last week.
+
+Thanks.
+
+Sent To:
+9119,
+Bit Hospital,
+Mars
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+11/2/2056
+
+
+
+Bundle of Fireworks
+Shipping Details:
+  Tracking Number: 1514***********
+
+Order Details:
+
+Yeah, celebration! Bought these from a friend, forgot where he said he got them. I'm glad that we finally re-legalized residential use of fireworks in 2054 after the... well, the terrorist attacks. Disguising homing missiles as fireworks? Don't ever quote me on it, but it was pretty smart. Anyways, these are for your kids to use. Have fun!
+
+Sent To:
+PNO Fireworks
+Quarter 1
+Earth
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+07/04/2056
+
+
+
+Backup Magazine
+Shipping Details:
+  Tracking Number: 177***********
+
+Order Details:
+
+It's not much, but our damaged spares in the back of the warehouse should be better than nothing. I'm really putting myself in a bad spot doing this outside of regulations, but the treaties make it tough to send out the good stuff. I can't let my buddies just die out there because of some big-wigs who are afraid to get the job done.
+Give em a few smacks before loading and fire a shot or two inside before trusting the mags. Good luck out there. At least we haven't seen any restrictions on the meds.
+
+Sent To:
+1803
+Combat Zone
+Venus
+
+Shipping Method:
+High Priority
+
+Estimated Delivery:
+9/12/2056
+
+
+
+Topaz Brooch
+Shipping Details:
+  Tracking Number: 3094***********
+
+Order Details:
+
+Thank you for doing business. This shipment of brooches should find your operatives well. The functionality activates with just a single press, and use may be extended through applications of iron-rich substances. In the case of dysfunction, please send them back for repair. We will be awaiting your positive review.
+
+Remember we went public a few weeks ago, I'm sure we'd all like to enjoy the benefits together.
+
+//RoMantek Technologies Ltd.
+
+Sent To:
+Facility 2
+2 Sentry Way
+Lightyard,
+Venus
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+8/16/2056
+
+
+
+Taser
+Shipping Details:
+  Tracking Number: 1493***********
+
+Order Details:
+
+You say you can fix 'em? These tasers are very very faulty; got a few of my officers hurt they did. They fire, but they don't do nothin' like, 99% of the time! My department is running low on money, so I expect a good deal for these!
+
+Sent To:
+94123 Bldg. 201,
+Fort Mason
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+11/14/2056
+
+
+
+Paul's Goat Hoof
+Shipping Details:
+  Tracking Number: 1484***********
+
+Order Details:
+
+A hoof from one of my goats; I noticed one day that one of my goats had an abnormaly large foot. Thinking it was cancerous, I went to the doctors and lo-and-behold; it was. My goat died shortly after.
+
+Sent To:
+2663rd
+Fields,Redmound
+Venus
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+03/27/2056
+
+
+
+Bitter Root
+Shipping Details:
+  Tracking Number: 1504***********
+
+Order Details:
+
+Biggest. Ginseng. Root. Ever.
+
+Not really, but it's pretty freakin' huge. You can boil it or sun dry it, whatever you want. I'll be curious to see if your cancer research actually pans out; sounds like voodoo magic to me, herbal medicine, but if the natives say it works, it works.
+
+Sent To:
+103 110th,
+Northlake,
+Mars
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+6/4/2056
+
+
+
+Sticky Bomb
+Shipping Details:
+  Tracking Number: 1503***********
+
+Order Details:
+
+Jesus, okay. The only reason I'm sending you guys another shipment is because of what you did for Shelby. Consider that debt paid.
+
+Since you APPARENTLY didn't get my message the first time, I'll tell you again. See the orange end? Don't touch it. Once you take the wrapping off, the adhesive is ACTIVE. DON'T TOUCH IT. YOU STICK THAT END ON BAD THINGS, NOT YOURSELF.
+
+The cadets? Those lives are on you, not me.
+
+Sent To:
+Painted-Rock,
+B.Water,
+Neptune
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+3/8/2056
+
+
+
+Snake Eyes
+Shipping Details:
+  Tracking Number: 1505***********
+
+Order Details:
+
+You dirty ---------er. You KNEW I had to win to pay off my debts. Are you in with the casinos? Of course you are; a snake like you would. A dice that's loaded for SNAKE EYES. CUTE MOVE, --------er.
+
+I'm comin' for you, ----.
+
+Sent To:
+1843,
+GMG Services,
+Venus
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+1/1/2056
+
+
+
+Hermit's Scarf
+Shipping Details:
+  Tracking Number: 1521***********
+
+Order Details:
+
+So you know the solar flare, from a few days ago? Well it destroyed the lower district, and I was on clean-up crew.
+
+Found this scarf in the rubble, essentially untouched. All these dead bodies and strewn pieces, and this scarf is peeking out like some ----in flag. I know I shouldn't have taken it home, but I did. I.. feel safer with it. This thing survived that horrible day, it must be able to survive whatever I have to endure, right? Haha..
+
+Sent To:
+1782-Left,
+M. Rover,
+Sun Orbital
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+7/17/2056
+
+
+
+Gasoline
+Shipping Details:
+  Tracking Number: 1477***********
+
+Order Details:
+
+Gasoline, eh? Surprising to find a gas station these days, with everyone drivin' around them electro cars.
+Got yourself quite a few gallons, so for the few cars and planes left runnin on gas.. this should do it!
+Very flammable, even the fumes, so be careful now!
+
+Sent To:
+Gas Station
+Mars
+Old Lincoln
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+02/25/2056
+
+
+
+Spikestrip
+Shipping Details:
+  Tracking Number: 1482***********
+
+Order Details:
+
+Hey bud! Do you remember... summer of 2032, was it? The night with Alicia? Well, um, remember when we got waay too drunk and broke into the police station? Well, I still have those spikestrips from then. Haha, good times right?
+
+The doctors say I don't have much time left. Since you're in the force now and all, I felt obligated to return it to you! Haha. So.. yeah. Hope you're doing well. It's been lonely here without you.
+
+Sent To:
+300,
+Enf. Station,
+Jupiter
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+1/18/2056
+
+
+
+Mocha
+Shipping Details:
+  Tracking Number: 1665***********
+
+Order Details:
+
+Thank you for ordering with DropCup!
+--
+Your order should arrive in
+3 MONTHS
+--
+Get real time updates and special offers with the DropCup application!
+--
+Order Details:
+1 Stacked Mocha (Triple-Shot)
+1 Napkins
+(Total: $19.94)
+
+Sent To:
+10 Sunway
+Bldg. 3
+Durandal,
+Hyperion
+
+Shipping Method:
+High Priority/Biological
+
+Estimated Delivery:
+7/22/2056
+
+
+
+Voltaic Mitt
+Shipping Details:
+  Tracking Number: 531***********
+
+Order Details:
+
+This one is from your uncle. It's interesting that after these years, nobody else took the classic hand buzzer to the next level, it's only natural! Of course, it's way more than a prank toy, and it goes without saying you have to be careful. It could kill a whole namooth!
+He says you'd have a lot of fun with it, so... do your thing.
+
+Sent To:
+402.10.1,
+Strongstone,
+Neptune
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+11/16/2056
+
+
+
+The Toxin
+Shipping Details:
+
+
+Order Details:
+
+TEST SUMMARY [id.416c7068615468726565]
+Subject stabilized - Notable levels of arousal.
+Increased disposition to disperse.
+Specialized containment necessary if active.
+N31 applied, watch for adverse reactions.
+Handling prohibited for this phase.
+AOD: 53 75 6e 46 61 6c 6c
+
+Sent To:
+EICO labs,
+City of Gold,
+Earth
+
+Shipping Method:
+Unmarked
+
+Estimated Delivery:
+4/30/2056
+
+
+
+Mu Construct
+Shipping Details:
+  Tracking Number: 1753***********
+
+Order Details:
+
+...And I thought everything on this planet was out to kill me.
+Once I found it, it wouldn't stop following me. It's very curious about shiny objects and has taken to spinning whenever I am trying to rest. It simply doesn't want to stand still.
+It's pushy, but this far away from home I find the company very soothing.
+
+Sent To:
+Complex 3B,
+Saturn,
+???
+
+Shipping Method:
+Field-Found
+
+Estimated Delivery:
+6/4/2056
+
+
+
+Razor Penny
+Shipping Details:
+  Tracking Number: 3023***********
+
+Order Details:
+
+No way they allowed these on the market. I know it was ages ago but it's seriously concerning. Imagine having... I don't know, 10 of these in your pocket (you know, pocket change)? Reach in and woops! Mangled hand!
+Cities didn't switch to virtual currencies for nothing...
+
+Sent To:
+Residential 24,
+Anlesburg,
+Mars
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+1/22/2056
+
+
+
+Arcane Blades
+Shipping Details:
+  Tracking Number: 2941***********
+
+Order Details:
+
+HEY KID!! happy birthday i found these old skates in the attic they were granddads but they look great.. you were talking about getting more exercise last time you visited these should do the trick.
+ma is still obsessed with her garden you should visit next summer and see how crazy she is
+do you still have that boyfriend?? mom wants to know when your getting married haha
+CALL ME SOMETIME!!!!
+DAD
+
+Sent To:
+5 Tiptop Rd.
+Neverrock,
+Mars
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+5/8/2056
+
+
+
+Time Keeper's Secret
+Shipping Details:
+  Tracking Number: 1467***********
+
+Order Details:
+
+My old grandfather's hourglass. As the Time Keeper in the Hall of The Revered, he valued this hourglass a lot. He claimed that it would keep him safe in times of danger. For some reason, the sand never seems to run out! That's all an illusion, however. There must be some mechanism at the bottom of the hourglass that replenishes the top well. Very cute.
+
+My old grandfather's hourglass. As the Time Keeper in the..
+
+Sent To:
+5th Ave,
+Limbo Road,
+Mars
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+7/13/2056
+
+
+
+Smart Shopper
+Shipping Details:
+  Tracking Number: 1456***********
+
+Order Details:
+
+Honey! HONEY! Look! I /told/ you I still had enough left over! Yeah, weird huh? I swear the last $5 I used was the last one I had in my purse, but then when I looked again, I still had a bit left over. Strange, huh?
+
+Maybe it's black magic, haha! Honey?
+
+Sent To:
+200 West Street,
+City of Gold,
+Earth
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+12/24/1962
+
+
+
+Infusion
+Shipping Details:
+  Tracking Number: 1411***********
+
+Order Details:
+
+Contains samples from bears, leeches, tigers, elephants, elephant sharks, sharks, bull sharks, ants, and anteaters. Simply hook up to a dialysis machine along with the necessary equipment and swap out your blood for genetically superior ones!
+
+You can add whatever blood sample you want, as far as I know. Just make sure you take the pills that allow the body to accept the new blood, or your body will reject the cross-species infusion. Remember that sampling from other animals is a great basis for experimentation!
+
+Sent To:
+Rage Valley,
+Fleet Hanger,
+Mars
+
+Shipping Method:
+Priority/Biological
+
+Estimated Delivery:
+02/8/2056
+
+
+
+Will-O'-The-Wisp
+Shipping Details:
+  Tracking Number: 1455***********
+
+Order Details:
+
+Found the little thing on my last hike up. Tiny guy; must be a baby. He (she?) doesn't seem to eat anything at all, so I'm hoping you guys can help the fella out. I don't think he can get out of the jar; it hasn't made any attempt to.
+
+Sent To:
+Hidden Cubby,
+Mt. Creation,
+Venus
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+9/28/2056
+
+
+
+AtG Missile Mk. 1
+Shipping Details:
+  Tracking Number: 1459***********
+
+Order Details:
+
+Shipment of [REDACTED] AtG Viper Missiles for Fort Joseph.
+
+Lightweight and attachable to torso for free use of both hands. Can store up to 120 heat-seaking missiles, which is just what your men need to fight off the [REDACTED]
+
+Sent To:
+Fort Joseph
+Belt Num.1053
+[REDACTED]
+Boron System
+
+Shipping Method:
+MILITARY
+
+Estimated Delivery:
+[REDACTED]
+
+
+
+Tough Times
+Shipping Details:
+  Tracking Number: 1423***********
+
+Order Details:
+
+"Bears are just about the only toy that can lose just about everything and still maintain their dignity and worth." - Samantha Armstrong.
+
+Don't forget, hon. I'm coming home soon. Stay strong.
+
+Sent To:
+18601,
+Frozen Valley,
+Jupiter
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+9/29/2056
+
+
+
+Energy Cell
+Shipping Details:
+  Tracking Number: 1447***********
+
+Order Details:
+
+FOR: ----- - J.
+CC#: ---- ---- - ---
+ACCT#: 200158
+Use ONLY in fusion - based vehicles and machinery. Do NOT upload to mainframe.
+
+Sent To:
+6511,
+CronTech Labs,
+Mars
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+11/9/2056
+
+
+
+Rusty Jetpack
+Shipping Details:
+  Tracking Number: 1420***********
+
+Order Details:
+
+Sorry, it seems to be broken. It only works for a split second; maybe I'll send you a fully working jetpack in a few months? Should work well enough for the carnival!
+Make sure to keep the kiddos away from the bottom; it shoots out quite a jet. Can make for fun obstacle challenges.
+
+Sent To:
+Fun Center
+2105
+NE Taurus
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+01/01/2056
+
+
+
+Leeching Seed
+Shipping Details:
+  Tracking Number: 1461***********
+
+Order Details:
+
+These seeds are recently germinating, so be quick! These flesh-infesting pods seem to burrow, balloon, and then pop in a few months. Most test patients have.. died. However, before they die, they feel increased health and state of mind!
+In fact, the pods themselves seem to develop spores, which if collected can be turned into a pain reliever..
+
+Find a way to stop its growth cycle at that state, and you have yourself a great healing agent.
+
+Sent To:
+3030 Matlock,
+Prod. Facility
+Mars
+
+Shipping Method:
+Priority/Biological
+
+Estimated Delivery:
+08/4/2056
+
+
+
+Ukelele
+Shipping Details:
+  Tracking Number: 1472***********
+
+Order Details:
+
+Very rare artifact! An ancient ukulele, from the legendary artist born on Mars. It was said that he was a son of a god, gifted with the power of lightning himself.
+People say that he was the most humble man.. and that his music was simply.. electric!
+
+NOTE: No tests have managed to make the ukulele actually generate electricity. Use with care.
+
+Sent To:
+Whaley Station,
+Box.364
+Mars
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+06/6/2056
+
+
+
+Boxing Gloves
+Shipping Details:
+  Tracking Number: 1472***********
+
+Order Details:
+
+Very rare artifact! An ancient ukulele, from the legendary artist born on Mars. It was said that he was a son of a god, gifted with the power of lightning himself.
+People say that he was the most humble man.. and that his music was simply.. electric!
+
+NOTE: No tests have managed to make the ukulele actually generate electricity. Use with care.
+
+Sent To:
+Whaley Station,
+Box.364
+Mars
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+06/6/2056
+
+
+
+Prison Shackles
+Shipping Details:
+  Tracking Number: 1463***********
+
+Order Details:
+
+An artifact from the old ages, before we used holo-cuffs. The advantage is that EMP blasts and remote-hacking can't disable good-old steel and chains. Fitting this on larger prisoners may be harder.
+I know you guys have been having a serious break-out problem in the last few months, and this is sure to throw those prison breakers for a loop. Just don't lose the key.
+
+We are shipping about.. 500, because we have nothing better to do with them than smelt them for steel, which is barely worth more than dirt this day and age. Would probably cost more than getting rid of them.
+
+Sent To:
+94123 Bldg. 201,
+Fort Mason
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+02/6/2056
+
+
+
+Guardian's Heart
+Shipping Details:
+  Tracking Number: 1439***********
+
+Order Details:
+
+Test subject 150053 results. While living, the subject had advanced muscle growth, cell regeneration, higher agility, and increased intelligence, along with a blue hue to his skin.
+On 08/23/2056, the subject broke free of his restraints and freed all other test subjects. All test subjects, including 150053, were terminated.
+
+His heart seems to still beat independent of the rest of his body. Perhaps a transplant into another subject can continue research.
+
+Sent To:
+1100 Fairview,
+Research Center
+Mars
+
+Shipping Method:
+Priority/Biological
+
+Estimated Delivery:
+09/16/2056
+
+
+
+Hopoo Feather
+Shipping Details:
+  Tracking Number: 1412***********
+
+Order Details:
+
+A feather from the hopoo, found only natively in Europa. Ever since its extreme light-weight vs tensile strength was discovered, the hopoo was almost driven to extinction from poaching. There are only 3 left; I hope you can keep their location safe.
+
+Sent To:
+2341
+RKR Center
+Io
+
+Shipping Method:
+Priority/Biological
+
+Estimated Delivery:
+07/03/2056
+
+
+
+Frost Relic
+Shipping Details:
+  Tracking Number: 1422***********
+
+Order Details:
+
+Biggest snowflake, to date. Technically, it isn't a snowflake, it's just a chunk of ice, but STILL. That's hard to sell as a museum piece. Anyways, the thing is hard as rock; I got drunk one day and dropped it on the floor, and it went right through, so don't worry about transportation.
+
+Sent To:
+10681
+Frozen Valley,
+Pluto
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+03/14/2056
+
+
+
+Red Whip
+Shipping Details:
+  Tracking Number: 1474***********
+
+Order Details:
+
+I know exactly why you want these and I want you to never tell me.
+
+Sent To:
+Violet Heights
+Elderly Home
+Venus
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+01/01/2057
+
+
+
+Chargefield Generator
+Shipping Details:
+  Tracking Number: 1474***********
+
+Order Details:
+
+I know exactly why you want these and I want you to never tell me.
+
+Sent To:
+Violet Heights
+Elderly Home
+Venus
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+01/01/2057
+
+
+
+Arms Race
+Shipping Details:
+  Tracking Number: 1458***********
+
+Order Details:
+
+Psst. Hey. Yeah, I'm whispering over text.
+
+So the upgrades for your drones are in. It's compatible with all KS-I slotted drones, even the non-combat oriented ones, so you can refurbish some of your cleaning units to help in the fight. Strap it onto the back, and the drone AI should sort itself out. Contains both a missile and mortar launcher. Let's continue this arms race, eh?
+
+Sent To:
+9834,
+Cortical Fund,
+Mars
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+8/3/2056
+
+
+
+Golden Gun
+Shipping Details:
+  Tracking Number: 1460***********
+
+Order Details:
+
+Was this supposed to.. intimidate me? I do like its look, however; perhaps I'll set it above my fireplace.
+
+Sent To:
+James. B
+??
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+12/19/1974
+
+
+
+56 Leaf Clover
+Shipping Details:
+  Tracking Number: 1433***********
+
+Order Details:
+
+A FIFTY-FREAKIN-SIX leaf clover! It was sent to me from a fan, picked from the top of Mount Drummond. It lived through the mountain fire; imagine that! I'm keeping it in observation to make sure it doesn't wilt; this is a once in a lifetime specimen! Think of all the elixirs we could make.. I may use a few of them myself and go hit the lottery!
+
+Sent To:
+777,
+Lucky Drop,
+Earth
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+12/24/2056
+
+
+
+Concussion Grenade
+Shipping Details:
+  Tracking Number: 1441***********
+
+Order Details:
+
+Designed to detonate directly on impact and disorient targets. Fires pellets intended for stunning, not for killing! SWAT teams will love these, but any men you have on the field should use fragmentation grenades instead.
+
+Pull the pin and throw in the general direction of the bad guys. If you can't figure it out, you deserve to get hurt.
+
+Sent To:
+20016 Bay,
+Longbranch,
+Mars
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+07/14/2056
+
+
+
+Filial Imprinting
+Shipping Details:
+  Tracking Number: 1425***********
+
+Order Details:
+
+You didn't tell me the roe was FERTILIZED. Good Lord! Anyways, one of the suckers actually hatched, and have been nothing but friendly to me. Filial imprinting, perhaps.
+I quite like the little guy. He is almost dog-like in how affectionate he is to me. I.. have begun to care a lot about the thing. I've been feeding nutapples and he seems to enjoy it, but I doubt that it's very nutritious. Suggestions?
+
+Sent To:
+Row E, Mutation Hold, Earth
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+4/14/2056
+
+
+
+Dead Man's Foot
+Shipping Details:
+  Tracking Number: 1426***********
+
+Order Details:
+
+Poor guy. It looked like he was infested by some bug-like creatures, and exploded when I got close. I hope his death wasn't too painful; his family will know how he died. Rest in peace.
+
+Sent To:
+Planet IV,
+R.Night,
+Unknown
+
+Shipping Method:
+Field-found
+
+Estimated Delivery:
+3/17/2056
+
+
+
+Toxic Centipede
+Shipping Details:
+  Tracking Number: 1445***********
+
+Order Details:
+
+Extremely interesting species found on OMEGA-19. Resembles a worm, snake, or limbless lizard. Seems to exude poison from its glands, so much that the 'worm' can even contain it in its mouth.
+
+May be a strain of stomach parasites found on other planets, but obviously much larger and deadlier. I hope you find some interesting knowledge from this species; it killed 16 of our workers alone.
+
+It also seem to give offspring everytime, but we have found only 13. Please respond quickly.
+
+Sent To:
+Carolyn Williams
+Study Center
+Venus
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+07/03/2056
+
+
+
+Harvester's Scythe
+Shipping Details:
+  Tracking Number: 1434***********
+
+Order Details:
+
+It takes a brave man to look death in the eye and claim they don't need help.
+
+Sent To:
+Goodland Fields,
+South lot,
+Earth
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+6/12/2009
+
+
+
+Panic Mines
+Shipping Details:
+  Tracking Number: 1440***********
+
+Order Details:
+
+Must be strapped onto vehicles, NOT personnel! After taking heavy fire, the automatic dispenser should drop and are a mine to make a hasty retreat (or blow enemies sky-high who are dumb enough to follow.)
+Includes smart-fire, but leave the blast radius regardless. the laws of phisics dont pick sides. Very high yield for how small it is.
+
+If you want to use it offensively.. then.. well just get shot. A lot. Preferably by small arms fire, or you'll die trying to have the mines drop
+
+Sent To:
+107.22.188.221,
+Crater Lake,
+Neptune
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+05/17/2056
+
+
+
+Predatory Instincts
+Shipping Details:
+  Tracking Number: 1450***********
+
+Order Details:
+
+Wolves. Nasty creatures. Was tendin' my crops, then a pack of 'em come out. I thought the mine field finished them all off, but the big guy, the alpha dog, was still around. Came RIGHT after me. Gut the thing right then and there. The hunter is now the hunted, eh? You ain't sayin much anymore, are ya?
+
+Sent To:
+19453,
+Plot 12,
+Earth
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+2/19/2016
+
+
+
+Royal Medallion
+Shipping Details:
+  Tracking Number: 2762***********
+
+Order Details:
+
+On the outer orbits of our system lies a confederacy of people. With kings and lords; knights and warriors, it's monarchical in nature, Each member of the major hierarchy carries a medallion, granting courage and fortitude. This one belonged to a prince, his name buried under strife and accusations of treachery. Stripped away from his belongings, his medallion remained as nothing more than a curiosity by the humble forager who found it, far from where it was worn. Now, I pass it on to you. Whether your destiny lies in the stars or your heart calls for home, your valor will be unrivaled. Keep fighting, son.
+
+Sent To:
+#4 Visitors,
+Wing 4,
+Aeolus 2
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+5/3/2056
+
+
+
+Prophet's Cape
+Shipping Details:
+  Tracking Number: 2685***********
+
+Order Details:
+
+An exquisite piece from the War of 2019! Unlike all the fakes, it has a perfectly knit pattern that allegedly caused the prophet's followers to see their visions. I think it's just 'magic' pseudo-science nonsense but it's a truly awe-inspiring piece that belongs in your exhibition.
+
+Sent To:
+Artes #10,
+Neo Belgica,
+Earth
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+4/16/2056
+
+
+
+Locked Jewel
+Shipping Details:
+  Tracking Number: 1068***********
+
+Order Details:
+
+i hope this is arriving well i am not used to sending anything through here so hopefully i didn't mess it up....
+
+Sent To:
+Block 3 Delta Phobos,
+Amna 2,
+Unknown
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+9/15/2056
+
+
+
+Hunter's Harpoon
+Shipping Details:
+  Tracking Number: 404***********
+
+Order Details:
+
+Keep this somewhere safe. The old hunters got run out a long time ago by the fishing regulations so this is a real relic. I put a new rope on it myself, but I wouldn't recommend it using it. Maybe you can find a museum that'll take it? Back in the day the shape was supposed to mean something maybe someone out there knows some Martian history? I can't sell it, so I figure I may as well give it to someone who might appreciate it. It's priority so hopefully this thing doesn't get lost.
+
+Sent To:
+19 Slart Ave,
+Breezemont,
+Neptune
+
+Shipping Method:
+Priority/Fragile
+
+Estimated Delivery:
+4/16/2056
+
+
+
+Pesticide
+Shipping Details:
+  Tracking Number: 1779***********
+
+Order Details:
+
+I got your back!!! This brand is, in my opinion, THE BEST against those pesky crawlers over there. Trust me, I tried plenty. People always say they need to be protected because blahblah 'they are endangered!!!' but I AM SO GLAD THEY ARE. It's SO ANNOYING to have to deal with their disgusting chirring at night. Every. Single. Day. Take care and STAY GOLDEN!!
+
+Sent To:
+423 Burgle St,
+Neo Mexico,
+Saturn
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+6/4/2056
+
+
+
+Decaying Sample
+Shipping Details:
+  Tracking Number: 3570***********
+
+Order Details:
+
+Our lab is about finished with this. We agreed that without additional funding, we'd have to ship it back out to complete the project - so here it is. The fields are a bit unstable currently without additional shielding, and the sample you provided was less than ideal, but I would say given the test results we're operating at at least 75% of the efficiency goal. I would recommend that you find a sample with less copper impurities, less than 50 ppm to reach optimal results.
+
+Sent To:
+Hare Run Labs
+1 Lab Way
+Cryon,
+Jupiter
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+2/26/2056
+
+
+
+Thallium
+Shipping Details:
+  Tracking Number: 1348***********
+
+Order Details:
+
+She shouldn't notice.
+
+Sent To:
+0909,
+K&K Union,
+Earth
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+5/14/2056
+
+
+
+Tesla Coil
+Shipping Details:
+  Tracking Number: 1380***********
+
+Order Details:
+
+A memorial perfect for your Tesla museum. Fit enough for Mr. Tesla himself! Make sure you keep the thing in the glass vacuum as we talked about. Even then, keep the safety lines at least 5 feet AWAY from the glass, you don't want your centerpiece killing your guests, huh?
+
+Sent To:
+2013,
+Eon Drive,
+Earth
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+6/28/2056
+
+
+
+Old Box
+Shipping Details:
+  Tracking Number: 1391***********
+
+Order Details:
+
+Musty, saggy, loose box. You can see it was used a lot already. Its bad shape honestly makes it scarier; you never know when the stupid thing pops out again. Sometimes it sits in there for days!
+
+Sent To:
+Breezy Drive,
+Middle-land,
+Mars
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+5/4/2056
+
+
+
+Beating Embryo
+Shipping Details:
+  Tracking Number: 1379***********
+
+Order Details:
+
+Ah. We seem to have found a.. hive of sorts. Without its caretaker, however, most of the eggs seemed to have died off. Must have been caused by our previous specimen.
+KEEP IT REFRIGERATED. You do not want this... beating embryo.. hatching in your care. God knows what will happen.
+
+Sent To:
+Carolyn Williams
+Rare/Extinct
+Study Center
+Venus
+
+Shipping Method:
+Biological/Extremely Fragile
+
+Estimated Delivery:
+07/04/2056
+
+
+
+Permafrost
+Shipping Details:
+  Tracking Number: 1385***********
+
+Order Details:
+
+The core of this ice cube is VERY VERY close to absolute zero, much closer than anything we made in the lab before. Test it! TEST! This will lead to HUGE breakthroughs in superconductor technology.
+
+Sent To:
+10681,
+Frozen Valley,
+Pluto
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+4/17/2056
+
+
+
+AtG Missile Mk. 2
+Shipping Details:
+  Tracking Number: 1369***********
+
+Order Details:
+
+Test System for Viper Missiles. Should now [REDACTED] on use instead of just one. Do not use on the field; it is UNSTABLE. I am only sending [REDACTED] shipments, so be smart.
+
+Sent To:
+Fort Joseph
+Belt Num.1053
+[REDACTED]
+Boron System
+
+Shipping Method:
+MILITARY
+
+Estimated Delivery:
+[REDACTED]
+
+
+
+Happiest Mask
+Shipping Details:
+  Tracking Number: 1396***********
+
+Order Details:
+
+This is GREAT! The circus is just as GOOD as I hoped it to be; it is a dream come true! I'm so GLAD that I followed my dream. I love you; tell mom too. Tell her..
+
+I'm happy! I'M HAPPY! SEE! I SAID I'M HAPPY PLEASE DON'T
+
+Sent To:
+Crux Fairgrounds,
+Tent 7,
+Earth
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+5/11/2056
+
+
+
+Plasma Chain
+Shipping Details:
+  Tracking Number: 1384***********
+
+Order Details:
+
+Hey there, my wife and I am returning a lost plasma chain. It is still fully operational and can haul my spaceship easily, so we expect the full reward!
+
+We found it in an unmarked cave with a very large claw wrapped around it. The serial number should tell you the previous owner; the finder's fee can be sent to the same account that I'm sending this message from. Thank you.
+
+Sent To:
+799,
+Mg.Sys INC
+Jupiter
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+5/15/2056
+
+
+
+Heaven Cracker
+Shipping Details:
+  Tracking Number: 1389***********
+
+Order Details:
+
+Contains about 500 horse power of torque. Diamond tipped and coated, along with composite steel. Strong enough to pierce the most heavenly of materials.
+Can be used for manual drilling, or swap to laser-mode to fire a mining laser instead. The former will wear it out much quicker, but will also have better results.
+
+Why I bother telling you all this is beyond me. You people aren't planning on using it for mining anyways.
+
+Sent To:
+East Hanndor,
+Weapon Facility,
+Mars
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+5/24/2056
+
+
+
+Rapid Mitosis
+Shipping Details:
+  Tracking Number: 1406***********
+
+Order Details:
+
+Very interesting sample. Found in the egg of an indigenous species in Sector 13. It undergoes mitosis that we all know, but at a much faster rate; about 2140x faster. Obviously can be useful for medicinal purposes.
+
+Make sure to follow the instructions included to keep the sample alive. We have sent it frozen to stop the rapid duplications; since it increases in cell count exponentially, it could very well spiral out of control otherwise.
+
+Sent To:
+Saury Cosmo,
+Beacon Post,
+Space
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+12/14/2056
+
+
+
+Ceremonial Dagger
+Shipping Details:
+  Tracking Number: 1357***********
+
+Order Details:
+
+Finally found the heretic. Foolish boy, thinking he could save his sister. With the knife returned, we can continue our rituals. Ah.. that should please Her.
+
+Sent To:
+Tomb 1661,
+Burial Site,
+Venus
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+7/18/2056
+
+
+
+Repulsion Armor
+Shipping Details:
+  Tracking Number: 1370***********
+
+Order Details:
+
+Prototype Repulsion Armor; it doesn't quite work as advertised. The protective shielding will activate, but only after... repeated triggers. You'll have to get hit a lot of times before it activates. We have tried increasing the sensitivity, but it lead to the armor triggering from simple movements. We will send an improved prototype next month.
+
+Sent To:
+Chad Hills,
+Lock-Box 3,
+Jupiter
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+6/1/2056
+
+
+
+Brilliant Behemoth
+Shipping Details:
+  Tracking Number: 1393***********
+
+Order Details:
+
+Pristine condition from the War of Slopes, 2019. All genuine and a real good collector's item!
+
+She still works, but I would -not- try to fire it. Requires blackpowder which is expensive enough as is, but she makes a loud bang!
+Selling for $200,000 starting. Send it back or I'll have my boys over.
+
+Sent To:
+Francis M
+29th Ave
+'Powderkeg Bar'
+Old York
+Mercury
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+11/1/2056
+
+
+
+Hardlight Afterburner
+Shipping Details:
+  Tracking Number: 3354***********
+
+Order Details:
+
+Take this somewhere PRIVATE before opening. Don't let your wife see, don't even let your kids see. I know you're 'out of the business' but this is the biggest haul we've ever done. They called this thing a 'hard lightburner' or something, and it's suppose to be infinite fuel. I don't know, I couldn't understand them from up in the vents but CAN YOU IMAGINE? Gas prices have been through the roof since the spill in 2040, imagine how much cash you could make just rigging this thing up to your neighborhood for a little somethin'-somethin'! Anyway, they said it was wicked dangerous and to rig it to something stable, so chain it down or something.
+Send back 50%
+Remember who had your back before you were a 'family man'
+
+Sent To:
+P.O. Box 75
+Crassantett,
+Mars
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+7/22/2056
+
+
+
+Interstellar Desk Plant
+Shipping Details:
+  Tracking Number: 1342***********
+
+Order Details:
+
+FORGET ALOE VERA. THIS IS THE NEXT THING.
+
+
+You know how people always have those on their desks? Well this isn't just for the cuts and burns; this makes you feel good EVERYWHERE. Vitamins, proteins, you name it, this plant got it. Takes very little time for it to bear another fruit as well, but it does require some strange potting soil... as in carcasses. Small carcasses.
+
+
+ANYWAYS, shoot me an email if you are interested!
+Sent To:
+7887
+Dextro Way
+Earth
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+1/19/2056
+
+
+
+Laser Turbine
+Shipping Details:
+  Tracking Number: 1344***********
+
+Order Details:
+
+Replacement laser turbine for the photon power plant. The thing is deceptively small, but it holds immense power. Keep it away from all electromagnetic sources; it will charge from the field, and if the capacitor becomes overloaded, it WILL discharge.
+
+Sent To:
+73421
+Calorum St.
+Saturn
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+08/17/2056
+
+
+
+Wicked Ring
+Shipping Details:
+  Tracking Number: 1377***********
+
+Order Details:
+
+With how many rings he had, you would think more would have been found, eh? Nope, just this one. The King used to sacrifice one of his own sons to embue with dark spirits. He claimed that the spirits warded away any ill omen. The King lived until he was 104, so hey, maybe he was right.
+
+As the last remaining Wicked ring, I expect a hefty sum.
+
+Sent To:
+1414 East,
+Fillmore,
+Venus
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+2/22/2056
+
+
+
+Alien Head
+Shipping Details:
+  Tracking Number: 1349***********
+
+Order Details:
+
+Important sign from the spirits. Passed down for many generations. Must be used for high noon ritual to ward off sickness and fatigue. Must be kept cool or will rot.
+Helps energize the kinfolk and can be used for extra human strength and agility. Important.
+
+Sent To:
+Soloman
+-
+Backwaters
+Mars
+
+Shipping Method:
+High Priority/Biological
+
+Estimated Delivery:
+7/13/2056
+
+
+
+The Ol' Lopper
+Shipping Details:
+  Tracking Number: 1359***********
+
+Order Details:
+
+Chop! CHOP! I need SHARPER! The lopper don't lop no more!
+
+I go to lop and.. and the head STAYS ON! No good! Only works on weak! Neck OFF! New lopper NEEDED!
+
+Sent To:
+Box 11,
+Sues Drive,
+Jupiter
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+3/2/2056
+
+
+
+The Hit List
+Shipping Details:
+  Tracking Number: 1367***********
+
+Order Details:
+
+Don't forget.. don't forget what they did..
+-A.Bn
+-Fr.Ntn
+-[CLEARED]
+-[CLEARED]
+-Random wildlife
+-[CLEARED]
+-Grvnmk
+-[CLEARED]
+
+Sent To:
+St Johns,
+Cluster 6,
+Venus
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+11/14/2056
+
+
+
+Photon Jetpack
+Shipping Details:
+  Tracking Number: 1397***********
+
+Order Details:
+
+Here it is, sir. Please just be careful; I'm not quite sure what you are planning, but I don't think the jetpack lasts long enough to fly over to the other office. 77 floors is a long way to fall, sir.
+
+Sent To:
+Floor 77,
+Corp INC,
+Jupiter
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+12/29/2056
+
+
+
+Shattering Justice
+Shipping Details:
+  Tracking Number: 1387***********
+
+Order Details:
+
+I'm glad people still use hammers in combat; I find it much more intimate than guns. This thing weighs 5 TONS (yes, TONS), so only your Combat Equipped soldiers can use it. Five tons in a few square feet means that the hammer can crush enemy tanks, EASILY.
+
+Sent To:
+Lockbox 8,
+Hero's Barracks,
+Mars
+
+Shipping Method:
+High Priority
+
+Estimated Delivery:
+2/23/2056
+
+
+
+Telescopic Sight
+Shipping Details:
+  Tracking Number: 1371***********
+
+Order Details:
+
+Can be used for both night and day shooting, and comes with infrared attachments and built-in distance finder.
+
+...And please, actually use the scope. We are all impressed you can hit a target without it, but I'm tired of watching your videos. Spinning while firing is also a great way to lose your license.
+
+Sent To:
+Royal Drive,
+Bubble Station,
+Mars
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+4/20/2056
+
+
+
+Fireman's Boots
+Shipping Details:
+  Tracking Number: 1405***********
+
+Order Details:
+
+With the insane temperatures of your condition, it has come to our attention that you would probably want the strongest flame-retardent equipment. Well here it is; it works literally 'fighting fire with fire.'
+
+It dispenses fluids that burn at low-temperature, which consumes large amounts of oxygen. This should starve any high-burning flames nearby, but obviously will leave a flaming trail behind you. Don't use outside the correct conditions, or you will burn your house down.
+Can be refilled with gasoline, kerosene, or really anything that burns decently.
+
+Sent To:
+U.Cave,
+Orbit Station,
+Sun
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+8/8/2056
+
+
+
+Hyper-Threader
+Shipping Details:
+  Tracking Number: 1365***********
+
+Order Details:
+
+Despite its appearance, the FNA 200 'Hyper-Threader' Energy Subrifle is anything but fragile.
+
+Using direct energy energy technology, the FNA 200 can fire superheated gases at a high fire rate. The FNA 200 also requires little to no charging, instead generating energy from the air around it.
+
+Sent To:
+6900 West,
+Advanced Warfare Center,
+Mars
+
+Shipping Method:
+High Priority
+
+Estimated Delivery:
+12/8/2056
+
+
+
+Dio's Best Friend
+Shipping Details:
+  Tracking Number: 1402***********
+
+Order Details:
+
+Here you go; you can remember Dio forever with this. A cheers, to the best kitten ever born. We all love you, despite your flaws. Please stick around for a long time!
+
+Sent To:
+6101 251st,
+Blue Mound,
+Earth
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+7/3/1993
+
+
+
+Ancient Scepter
+Shipping Details:
+  Tracking Number: 1388***********
+
+Order Details:
+
+A glowing scepter, with a name engraved in the handle. I can't read with it says; I was hoping you could decipher it. It must have some magical powers; look at how impressive it is! It's much better than your Lance of Legends, that's for sure.
+
+And before you ask, yes, the handle is supposed to be hard to hold. Culls the weak.
+
+Sent To:
+99th Floor,
+Crumbling Tower,
+Venus
+
+Shipping Method:
+High Priority
+
+Estimated Delivery:
+1/30/1142
+
+
+
+Bottled Chaos
+Shipping Details:
+  Tracking Number: 3257***********
+
+Order Details:
+
+This horrid bottle fills me with fear. I can see the reflections in the glass of things that are not there. My psychologist sees nothing in the bottle, but through the glass her face looks distorted beyond my understanding. I can't carry it anymore, I'm sorry. It's been only three days but I can't sleep with the sound of clacking and rattling occupying my dreams. Give it to someone else for safekeeping, I don't care about the job.
+
+Sent To:
+RETURN TO SENDER
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+3/30/2056
+
+
+
+Aegis
+Shipping Details:
+  Tracking Number: 3021***********
+
+Order Details:
+
+Hey boss, in the crate you should find a couple of the artifacts from our last dig in that secret room. You should see 5 items, we stored them in foam. Should be an ornamental shield, some kind of shortsword or dagger, half of a crown, and two shreds of some kind of stiff fabric. Be careful handling the fabric, feels like it could crumble with just slight pressure. The shield must be hollow or something, it's unusually light. I know you are, but be extra careful with it. Don't let the students even breathe on it.
+
+Sent To:
+Bldg. 1
+3 Wry Ave.
+Theworl,
+Titan
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+10/20/2056
+
+
+
+Substandard Duplicator
+Shipping Details:
+  Tracking Number: 2788***********
+
+Order Details:
+
+A designer delight. Or so it would be if it worked like it should...
+Out of all my birthday presents this is what I was the happiest about, yet all its dupes are... Terrible! They don't last a minute without breaking apart.
+Can you help me out please?
+
+Sent To:
+Nevenstraat 2,
+Central Way,
+Jupiter
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+12/7/2056
+
+
+
+Classified Access Codes
+Shipping Details:
+  Tracking Number: 3208***********
+
+Order Details:
+
+Item necessary for current designated task.
+Follow all protocols as stated on you form [REDACTED]
+send on [REDACTED].
+Monitoring available at [REDACTED], maintain secrecy at all costs.
+
+Sent To:
+piece #24,
+[REDACTED],
+[REDACTED]
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+10/2/2056
+
+
+
+Umbrella
+Shipping Details:
+  Tracking Number: 3509***********
+
+Order Details:
+
+Thank you for ordering the Crossplat Umbrella Infinitive! your order should arrive in 5 to 10 business years! Look forward to a drier tomorrow! Guaranteed to protect from all weather conditions from a light drizzle up to a heavy downpour*!
+Special Warranty period secures this product for up to 1 year,
+
+
+Umbrella quality only guaranteed for up to 8 seconds.
+Sent To:
+2 Grumpy Old Men Rd,
+Orofino Idaho,
+EARTH
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+8/3/2060
+
+
+
+Rotten Brain
+Shipping Details:
+  Tracking Number: 1562***********
+
+Order Details:
+
+You really messed that up, didn't you? Dammit. The ****ing thing is bouncing, Harold. How the hell are we supposed to do ANYTHING with this? Now we will never know the truth. How - how did you even MANAGE to mess up this badly? Consider this useless hunk of grey matter your letter of termination. Keep the damn thing.
+
+Sent To:
+4120,
+Frazux Colony,
+Mars
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+2/14/2056
+
+
+
+Safeguard Lantern
+Shipping Details:
+  Tracking Number: 1580***********
+
+Order Details:
+
+Protects you on the darkest nights. Don't stand too close; some claim to see terrors in the flame. Me? I just see hope.
+
+Sent To:
+The Watch
+Camp 1
+Mars
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+5/20/2056
+
+
+
+Snowglobe
+Shipping Details:
+  Tracking Number: 1570***********
+
+Order Details:
+
+Here you go honey, I got you a snowglobe! Do you see what's in it? Yeah, it's based off of your favourite video game! I hope you'll love it, I put a lot of effort into it. Cheers!
+
+Sent To:
+3rd Igloo,
+Tundra Zone,
+Neptune
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+11/25/2056
+
+
+
+Skeleton Key
+Shipping Details:
+  Tracking Number: 1559***********
+
+Order Details:
+
+Strange artifact. Seems to be made of nano-technology, allowing it to solidify and liquify at will. I have yet to find a lock this key cannot open. Highly Illegal I imagine..
+
+Has opened traditional lock and bolt, card readers, eye scanners, dead bolts, chains, zippers, and my phone password.
+I expect a hefty sum for this, because otherwise.. well.. your guild will simply become obsolete because of one key.
+
+Sent To:
+Merchants Guild
+Mercury
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+12/01/2056
+
+
+
+Foreign Fruit
+Shipping Details:
+  Tracking Number: 1584***********
+
+Order Details:
+
+Ya feelin down? Then eat Fabien's Nutapple! No preservatives. No chemicals. All fruit. Tastes like an apple and a cashew; together!
+Guaranteed to make you feel 50% healthier or your money back!
+
+Sent To:
+Fabien H
+32nd and Pike
+New Africa
+Mars
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+5/19/2056
+
+
+
+Instant Minefield
+Shipping Details:
+  Tracking Number: 1551***********
+
+Order Details:
+
+Should help in holding choke positions without losing so many men. I know that hercules is simply held because of pride; we've blown any resources we could've mined into the stratosphere by now.
+
+Just simply lay it down and its smart-fire should prevent it from blowing your own legs off. Spits out about six. Realize that it takes about.. 45 seconds to reload the minelayer and about a second to arm.
+
+Sent To:
+HERCULES 29-5
+Combat Zone 15
+Sgt. Snd
+
+Shipping Method:
+Volatile/Military
+
+Estimated Delivery:
+03/09/2056
+
+
+
+Jar of Souls
+Shipping Details:
+  Tracking Number: 1540***********
+
+Order Details:
+
+[The recording only contains wailing and screaming. Would you like to contact authorities? Y/N]
+
+Sent To:
+O.Crypt 74,
+W. Path,
+??
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+6/6/2056
+
+
+
+Carrara Marble
+Shipping Details:
+  Tracking Number: 1586***********
+
+Order Details:
+
+Carrara marble is very hard to find these days. It's been very popular since Ancient Rome; however, most deposits ran out, so a chunk of Carrara marble marks up a pretty price. I'm thinking $800,000 for the amount I'm offering.
+
+You can make those sculptures you've always dreamed of.
+
+Sent To:
+King Street,
+Trans. Ctr,
+Unknown
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+11/28/2056
+
+
+
+Sawmerang
+Shipping Details:
+  Tracking Number: 1569***********
+
+Order Details:
+
+This is one of many sawblades that I will be sending for analysis. We still haven't ID'd all the bodies from the factory accident, so its up to you to run dna tests on all the.. blood and flesh. Word of caution: it smells like rotten meat.
+
+Sent To:
+North Speck,
+Warehouse lot-88,
+Jupiter
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+11/13/2056
+
+
+
+Shattered Mirror
+Shipping Details:
+  Tracking Number: 1543***********
+
+Order Details:
+
+I know you; you avoid looking at yourself. You feel disgust at your own reflection; you wish every mirror to be shattered. It is time to change. You are not alone.
+
+Sent To:
+Fox Plaza,
+1711 Box,
+Neptune
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+11/17/2056
+
+
+
+Disposable Missile Launcher
+Shipping Details:
+  Tracking Number: 1552***********
+
+Order Details:
+
+So here is a prototype of the disposable missile launcher you requested. The box itself is made of cardboard, which raises some safety issues but also lowers the production costs immensely. The missiles are also the dumb ones that didn't pass inspection the first time around, allowing us to fit sixteen into this!
+
+The entire thing costs about.. $40. Make sure that you don't store them together; some of the rounds have been observed to explode by themselves.
+
+Sent To:
+Steve Ruxx,
+Quadrant 001,
+Mars
+
+Shipping Method:
+MILITARY
+
+Estimated Delivery:
+11/3/2056
+
+
+
+Gold-Plated Bomb
+Shipping Details:
+  Tracking Number: 1567***********
+
+Order Details:
+
+Yeah, so? Of course I made a bomb powered by how rich you are. Dude, what? You can't afford a bomb out of money? What are you... poor? It's JUST money.
+
+Sent To:
+Warpship,
+Xeron TC,
+Neptune
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+5/28/2056
+
+
+
+Drone Repair Kit
+Shipping Details:
+  Tracking Number: 1537***********
+
+Order Details:
+
+We have learned from nature that the best relationships are the symbiotic ones; the nanodrones go and fix up all the scratches and broken pieces of the attack drones, and in return they get scrap metal to replicate. Win-win for both.
+
+Sent To:
+1803-A,
+Southern Pub,
+Mars
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+3/17/2056
+
+
+
+Thqwib
+Shipping Details:
+  Tracking Number: 1532***********
+
+Order Details:
+
+Thqwibs naturally live in very low atmosphere, so the pressurized container is for their own safety. If released into the room, they'll die immediately, so don't.
+
+I included approximately 30 thqwibs; despite their similar appearance to other creatures, they are naturally social and will become depressed if left alone.
+
+Sent To:
+1803-A,
+Southern Pub,
+Mars
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+11/23/2056
+
+
+
+Dynamite Plunger
+Shipping Details:
+  Tracking Number: 1529***********
+
+Order Details:
+
+Another one for you folks. You liked the previous shipment so much, I thought I would send you more outdated tech. When I say outdated, I MEAN outdated. This thing triggers from plunging; while it still uses microwave signals to connect between sticks of dynamite, it is otherwise the same as the classics.
+
+Sent To:
+East Hanndor,
+Weapon Facility,
+Mars
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+9/03/2056
+
+
+
+Mace Replica
+Shipping Details:
+  Tracking Number: 2242***********
+
+Order Details:
+
+Yet another antique. I don't get the hype around melees, they are just kind of boring.
+I think the point of this one was to hit harder but any cannon would just be more efficient at that.
+Anyway, who am I to judge, right?
+
+Sent To:
+Bay F5,
+Lake moore,
+Mars
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+11/10/2056
+
+
+
+Gigantic Amethyst
+Shipping Details:
+  Tracking Number: 1523***********
+
+Order Details:
+
+Use for focus lasers, I assume. Anyways, this is the biggest one I could find ANYWHERE. Outside of the Crown Amethyst of Venus, which I obviously can't get you, this is the best for your purposes. You'll be able to reach AMAZING quality with this; good luck!
+
+Sent To:
+Grievenkamp
+5th Houston St
+Prism Tower
+Earth
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+5/12/2056
+
+
+
+Crudely-Drawn Buddy
+Shipping Details:
+  Tracking Number: 1559***********
+
+Order Details:
+
+W-what do you mean? No, no, n-no! It's SUPPOSED to look like that. Yes, with the smudge, and the.. yes. It's my /style/. If you have nothing nice to say, don't say anything at all.
+It looks life-like to me. Essentially a caricature of you. Could fool anyone.
+
+Sent To:
+1111,
+Middle-Ground,
+Mars
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+11/9/2056
+
+
+
+Prescriptions
+Shipping Details:
+  Tracking Number: 1156***********
+
+Order Details:
+
+Are these pills legal? No. Are these pills helpful? Yes. Do pigs fly? No.
+
+Van-Ex increases strength and muscle mass in only 24 hours! Proven by science!
+
+Make sure to take only 2 every 8 hours, max! Otherwise you may find yourself dead!
+
+Sent To:
+JusticeCenter,
+Science Dept,
+Venus
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+1/18/2056
+
+
+
+Shield Generator
+Shipping Details:
+  Tracking Number: 1577***********
+
+Order Details:
+
+While intended for anti-artillery use, the ONI-CV117 has become wildly popular in the private sector as both a personal and automobile defence device. By protecting the user in 'hard light' that closely wraps around, shock is absorbed throughout the light, rather than by the user. However, the shield generator requires time to charge, meaning it has a short uptime. Time it wisely.
+
+Sent To:
+Geshka Tower,
+33rd Fl
+Mars
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+9/24/2056
+
+
+
+Unstable Watch
+Shipping Details:
+  Tracking Number: 1592***********
+
+Order Details:
+
+Doesn't work at all..! Sometimes it keeps time fine, and sometimes it sends me for a tizzy! I can be watchin' (haha) it and I'll see it jump 10 seconds, sometimes 15. No mater what I do it keeps doin' it, and I have no idea why. Luck for ya!
+I gotta go sit down.. feelin a bit tired..
+
+Sent To:
+Loodi Tower,
+Floor 19,
+Mars
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+11/09/2056
+
+
+
+Lost Doll
+Shipping Details:
+  Tracking Number: 1541***********
+
+Order Details:
+
+Get this out of my house. Please. Just take it.
+
+Since I've received this god-forsaken thing, my husband has fallen down the stairs and broke his neck, my son got hit by a bus, and my daughter has drowned in the bathtub. And.. oh god.. I swear it moves around the house. I've tried leaving it locked in a safe, and it will be out the next day. It wont burn. Cutting it has resulted in the amputation of both my arms.
+
+
+Please..
+
+Sent To:
+Tibb Station,
+Box Unknown,
+Venus
+
+Shipping Method:
+Volatile/Military
+
+Estimated Delivery:
+2/12/2056
+
+
+
+Pillaged Gold
+Shipping Details:
+  Tracking Number: 1566***********
+
+Order Details:
+
+Yar! All yer enemies be a source of swag for ye, hear me true. Open the bag, facing o'er directions cutthroats, and all the gold will beck out of their britches, and into ye hand.
+
+I sent this across the galactic seas fer your offer; ye'll better look in yar deepest depths for a wise trade.
+
+Sent To:
+Crisis Street,
+2008,
+Mars
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+08/8/2056
+
+
+
+Captain's Brooch
+Shipping Details:
+  Tracking Number: 1548***********
+
+Order Details:
+
+The brooch has been passed down for many generations in my family, signifying the new captain of Contact Light. I'll actually be personally delivering this back to my home, so mark it as high priority.
+
+..hmm? There is a very small button on the back. Pressing it seems to do nothing...
+
+Sent To:
+Box 1,
+The Lusty Lad,
+Venus
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+9/12/2056
+
+
+
+The Back-Up
+Shipping Details:
+  Tracking Number: 1549***********
+
+Order Details:
+
+The Radio is hooked up to my personal line; call, and I'll have a whole squadron of Hellfire Drones at your position before the second ring. Just remember that once you call, your cover is blown. Emergencies only.
+
+Sent To:
+1511
+Sixth Ave,
+Earth
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+11/15/1967
+
+
+
+Super Massive Leech
+Shipping Details:
+  Tracking Number: 1574***********
+
+Order Details:
+
+Giant leeches found in the pools of HYPERION-5. Very similar to its counterpart on Earth, but it seems to have developed teeth as well, allowing it to eat meat as well as siphon blood.
+
+A few have been spotted to ballon to enormous proportions,up to the size of a small dog. Like the common leech, this has obvious medical implications. You will just have to be extra careful, or you may come back to no patient and a giant bloody leech.
+
+Sent To:
+Carolyn Williams
+Rare/Extinct
+Study Center
+Venus
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+6/19/2056
+
+
+
+Glowing Meteorite
+Shipping Details:
+  Tracking Number: 1547***********
+
+Order Details:
+
+This hunk of space metal came shooting down and almost hit our town! Thankfully it just fell in the nearby mountains, but man did it make a loud bang, scientists say it's a 'vanguard meteorite'; one of the first meteors from a series of many, many more. Cool!
+
+Sent To:
+8912,
+6th Planet,
+Saturn
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+6/18/2056
+
+
+
+Legendary Spark
+Shipping Details:
+  Tracking Number: 1594***********
+
+Order Details:
+
+After slaying the flaming abomination, it crumpled and fell apart, like an empty suit of armor. Its pauldron especially caught my eye; I could tell it was a source of great power. More armor can't possibly hurt in this hellhole.
+
+Sent To:
+Lost Planet,
+Unknown
+
+Shipping Method:
+Field-Found
+
+Estimated Delivery:
+1/26/2056
+
+
+
+Imp Overlord's Tentacle
+Shipping Details:
+  Tracking Number: 1599***********
+
+Order Details:
+
+I believe the Imp Overlord's had tentacle serves as a symbol of power; the bigger the tentacle, the more powerful you are in the social hiararchy. Losing a tentacle is a sign of failure or social outcasting. I.. have no idea how I know that. I just do.
+
+Sent To:
+1005,
+Daimera's Lair,
+Unknown
+
+Shipping Method:
+Field-Found
+
+Estimated Delivery:
+5-13-2013
+
+
+
+Burning Witness
+Shipping Details:
+  Tracking Number: 1602***********
+
+Order Details:
+
+Found by killing a... giant magma worm. Yes, you read that correctly. After it died, its body lay dormant but its eyes seem to still look around, watching. Removal of the eye showed that it may be a parasite that attaches to the worm itself; the worm grants it protection, while the eye gives it the vision it needs.
+
+Sent To:
+Central Core,
+Lock Box 52,
+Sun
+
+Shipping Method:
+Field-Found
+
+Estimated Delivery:
+--
+
+
+
+Colossal Knurl
+Shipping Details:
+  Tracking Number: 1595***********
+
+Order Details:
+
+There is obviously some essence left in this hunk; the Knurl is still attracting nearby earth and dirt, trying to reconstruct itself. Perhaps I can use this to my advantage; a self-repairing chunk of earth could serve as a good shield.
+
+Sent To:
+6542,
+Fractured Rock,
+Unknown
+
+Shipping Method:
+Field-Found
+
+Estimated Delivery:
+7/22/2056
+
+
+
+Ifrit's Horn
+Shipping Details:
+  Tracking Number: 1596***********
+
+Order Details:
+
+When I finally took the beast down, I carved off his horn, hoping for it to help on this journey. I've felt a strange power since obtaining it... while I feel stronger, I feel like I am no longer alone.
+
+Sent To:
+Lot Z,
+Auction House,
+Unknown
+
+Shipping Method:
+Field-Found
+
+Estimated Delivery:
+4/10/2056
+
+
+
+Nematocyst Nozzle
+Shipping Details:
+  Tracking Number: 1598***********
+
+Order Details:
+
+I scavenged the corpse of the Vagrant to better understand its biology, and I discovered this tube, or nozzle. The Vagrant must use a chemical concoction of gasses and liquids in order to fire and detonate its explosive payload. I can see this being useful.
+
+Sent To:
+8800,
+Gentle Valley,
+Unknown
+
+Shipping Method:
+Field-Found
+
+Estimated Delivery:
+8/18/2056
+
+
+
+Evolved Nematocyst Nozzle
+Shipping Details:
+  Tracking Number: 1585***********
+
+Order Details:
+
+Across all the hills and valleys of the planet I've yet to see a single jellyfish of this hue. More passive than the others, I found this golden juvenile clinging onto some excess lump of flesh. It seems familiar, but the heat emanating from the mound is unlike anything I've come across. This is dangerous.
+
+Sent To:
+8800,
+Gentle Valley,
+Unknown
+
+Shipping Method:
+Field-Found
+
+Estimated Delivery:
+12/31/2056
+
+
+
+Scorching Shell Piece
+Shipping Details:
+  Tracking Number: 2447***********
+
+Order Details:
+
+Flames and ashes, nothing was meant to withstand the heat of the magma that surrounded me. Nothing but the immense creature I took down. A fragment, piece of its shell fell close enough to me that I was able to take it. Hot like the fire it was born in, it felt special. A reminder of what I am able to overcome.
+
+Sent To:
+Quarter 3,
+Lambda 20,
+Unknown
+
+Shipping Method:
+Field-Found
+
+Estimated Delivery:
+12/7/2056
+
+
+
+Lost Pickaxe
+Shipping Details:
+  Tracking Number: 2725***********
+
+Order Details:
+
+Unfortunately, I know whose this is. His kids would be lucky to ever see him again.
+
+I'd be lucky to ever see him again.
+
+Sent To:
+Chicago Grand Terminal,
+United States,
+Earth
+
+Shipping Method:
+Field-Found
+
+Estimated Delivery:
+7/22/2057
+
+
+
+
+
+Survivors
+
+
+
+
+
+Commando
+Departure:	
+Alpha Base,   
+New Appalachian Crest,   
+Mars
+
+Destination:
+[Round Trip]
+Alpha Base,   
+New Appalachian Crest,   
+Mars   
+
+Travel ID: 45133554F44495351454
+
+Passenger Details:
+[Boarded per UES request for additional security.]
+
+
+Luggage & Equipment:
+Contractor equipped with Standard MARCH Mk. II Commando armor. Built for light recoil, physical and energy-based projectile resistance, and minor space travel capabilities. Suit appended with intelligent biofoam dispensers and a lightweight solar battery. Notably, this unit has its AI component chip removed, with significant damage around the interface port. Individual also cleared two military grade semi-automatic pistols and one utility stagger blade. Stagger blade is to be held in carrying case at all times to prevent potential genetic damage in civilian passengers. Pistols cleared as standard, ammo provided on-board in multiple lockboxes.
+
+
+[SECURITY RECALL]
+[Event C1] Individual requested cargo hold access to 'stretch their legs'. Hold access granted due to history with company.
+[Event C2] Individual granted access to captain's quarters under request of captain.
+
+
+
+Huntress
+Departure:
+Infinite Seaport,   
+Spirestone,   
+Jupiter
+
+Destination:
+North Station,
+Prism Tower,
+Earth
+
+Travel ID: 54C49474142564
+
+Passenger Details:
+[Civilian Class]
+
+
+Luggage & Equipment:
+Passenger boarded with Agile-Class Hunter armor. Warp drives were aged, but only posed a malfunctioning risk to the individual, and thus passed safety clearances. Carbon fiber components appear damaged but still within acceptible vaccuum-graded limits. Red coloration noted as in some sectors it signifies a potential mercenary for hire. Individual also boarded with a Lightbow and a Tri-Rang variant, both of which have been packed into automated lockboxes until arrival. Lightbow showed signs of modification, but due to civillians having to pack away weaponry, inspection was kept to E-Class standards. Tri-Rang variant rattles persistently inside of lockbox, but was accepted by both passenger and security personnel.
+
+
+[SECURITY RECALL]
+[Event H1] Individual found scratching at lockbox seams. Automated security alerts were not triggered.
+[Event H2] Individual appears to only sleep 3 hours per night and often avoids line of sight with cameras.
+
+
+
+Enforcer
+Departure:
+Old Alcatraz,   
+Rustborough,   
+Mars 
+
+Destination:
+Substation A1,   
+Californian Republic,   
+Earth   
+
+
+Travel ID: 255444C454
+
+Passenger Details:
+[Business Class]
+
+
+Luggage & Equipment:
+Officer boarded with 2055 Heavy-SWAT variant police gear, an SDN standardized auto-shotgun (with grenade launcher attachment), and a vaccuum-grade blast shield. All equipment recently granted and cleared ahead of time by Old Alcatraz's Department of Migrations and Transfers. Security clearance granted to carry firearm at all times, though spacefaring laws puts officers outside of primary jurisdictions. Officer also boarded with a satchel containing personal affects including training weights, a selection of books, and a jumprope, all cleared by security at boarding.
+
+
+[SECURITY RECALL]
+[Event E1] Officer's serviceman ID lacked a name, but the numerical ID# was accepted by the identification archival system as a prior passenger.
+[Event E2] Minor altercation between officer and mercenary-class passenger resulting in them being separated.
+
+
+
+Bandit
+Point of Detection:	
+32 hours Post Liftoff
+Jupiterian Atmosphere   
+
+
+Passenger Details:
+[Unregistered Occupant]
+
+
+Security Analysis:
+Occupant appears to have hidden in cargo bay for potentially weeks since the point of detection. They appear to be wearing Stealth-Class Hunter armor alongside a leather jacket, hat and boots. Subject appears equipped with a mid-range rifle and a dated revolver. Rifle is unidentifiable from security footage but appears to be an light-energy variant. Since detection, occupant has appeared and disappeared from cargo bay without detection from passengers or personnel. Hired security has been instructed to detain the occupant but has been unsuccessful in doing so, as no contact has been made. Personnel has been instructed independently that if they see any unfamiliar armed passengers to not engage and inform the captain.
+
+
+[SECURITY RECALL]
+[Event B1] Occupant detected in cargo bay, shining their rifle. Shortly after noticing the camera, the recording cuts out.
+[Event B2] Silhouetted shadows begin appearing in the second cargo bay. No associated bodies appear on camera, even in open areas.
+[Event B3] Contracted commando hears rapid mechanical whirring during their shift. Source undetermined.
+
+
+
+HAN-D
+Warranty Expiration:
+3/24/2046
+
+
+Inputted Note:
+(ID #6E656F7246757574)
+Lost manual for HAN-D bot. We've had it around for a long time, I don't see any reason to update to a new model. I think most of the crew have grown attached to the big guy, the way its eye lights up and chirps almost makes you think it's friendly. Anyway, if you were referred to this note by me or someone else, all you need to know is to oil its joints once a month and don't get in its way when its in 'hallway duty' mode, because it can get aggressive with the mop. Keeps the place clean though.  Also I think something in the old manual referred to replacing the solar battery, but batteries for the old model tend to be hard to find.  We'll figure it out if he doesn't wake up someday.
+
+-DO NOT REMOVE HAN-D FROM SHIP. Took YEARS to calibrate!
+
+
+
+Engineer
+Departure:
+Outpost Shipping & Transit,   
+Asteroid 94N,
+Belt Num. 1900,
+Sargasso System
+
+Destination:
+Great Hope Station,
+Great Hope,
+Mars
+
+
+Travel ID: 353494D414255434
+
+Passenger Details:
+[Civilian Class]
+
+
+Luggage & Equipment:
+Passenger boarded with a modified CronTech cybernetic enhancement suit. Attached 'projectile launchers' have been welded in places and could not be removed by security personnel, so temporary electrical auto-nullifiers have been attached until landing. Individual also checked 4 large anti-ballistic crates into the loading bay, which showed heavy machinery in the preliminary security x-rays. Crates marked as containing 'de-activated security turrets', 'anti-personnel hardware', and a 'large experimental fission array'. All associated batteries were removed and stored in adjacent bays in automated lockboxes.
+
+
+[SECURITY RECALL]
+[Event G1] Major blast occured in loading bay 4A, originating from the individual's largest crate, causing an automated lockdown which had to be manually resolved. Container shifted into bay 4B and placed behind all of the passenger's other loaded cargo.
+[Event G2] Passenger walked too close to generator room, causing applied electrical auto-nullifiers to suddenly remagnetize. Personnel summoned to remove passenger from door.
+
+
+
+Miner
+Departure: Holdout Shipping & Receiving,   
+Heartholme,
+Uranus
+
+Destination:
+Chicago Grand Terminal,
+United States,
+Earth
+
+
+Travel ID: E4F43444E494755425
+
+Passenger Details:
+[Civilian Class]
+
+
+Luggage & Equipment:
+Passenger boarded with a weather-emergency graded exosuit and standardized heat protection mask, modified for additional vaccuum safety. Exosuit appeared to have taken significiant heat damage, but technically passed inspection. Passenger was warned about potential risk of suffocation in the case of a vaccuum event should the suit deteriorate further. Security personnel has allowed the individual to keep their pickaxe in their carry-on, as it was deemed too awkward to pose a legitimate threat as a weapon. United States identification was long out of date, but the worker's Holdout mining records verified their identity. Additional luggage included a lighter, receipts and a small photo album.
+
+
+[SECURITY RECALL]
+[No recorded events.]
+
+
+
+Sniper
+Departure:
+Military Base,   
+Northern Side,   
+Deimos 
+
+Destination:
+Fort Reason,
+Belt Num.1053,
+[REDACTED]
+Boron System
+
+
+Travel ID: 142525544524553545341445
+
+Passenger Details:
+[Military Class]
+
+
+Luggage & Equipment:
+Soldier boarded with a standard military reconnaissance personnel uniform, a 2050-0 sniper rifle and a traditional surveillance drone. The rifle and drone were cleared by the military checkpoint ahead of boarding, though the passenger opted to keep the drone with their carry-on luggage. Passenger and military associates insisted that the rifle stay with their own personnel, but allowed the rifle to be unloaded before boarding, with rounds stored in an automated lockbox. The soldier's personal affects included energy cells, canned goods, and a package of cooling gel sheets.
+
+
+[SECURITY RECALL]
+[Note S1a] Contact Light personnel has been instructed by the Deimos military to not mention the conflict occuring currently in the Boron system.
+[Note S1b] Contact Light personnel has been instructed by the Deimos military to delete records of additional hardware loaded alongside their soldier.
+
+
+Acrid
+Shipping Details:
+SUBJECT #c25058
+Early genetic experimentation has led to the creation of larger creatures from test tubes in recent months. Entirely coded in-house, with no DNA baseline larger than 5% of any one pre-existing Adam subject, this creature that we have code-named 'ACRID' has shown more intelligence than any other baseless chimaera and almost as much intelligence as [redacted] chimaeras. Preliminary tests on the subject have been occuring for months now. It is genetically stable but displays erratic signs of violence, and is thus being shipped to your unit for further trials due to safety concerns. The crate is rated for biological weapon resistance, but is not recommended for animal use - Still, we believe Acrid should make it to you safely and we have no concerns of damage in transit due to the immense strength and resilience it has shown across multiple trial periods.
+
+P.S. Good Luck.
+
+
+Sent to:	     	
+Wade Z.		
+EICO labs		
+City of Gold,		
+Earth
+
+Shipping Method:
+High Priority/Biological
+
+Estimated Delivery:
+11/25/2056
+
+
+
+Mercenary
+Departure:
+Olympus Spaceport,   
+Plymouth,   
+Saturn
+
+Destination:
+Musashi Internation Port,
+Japan,
+Earth
+
+
+Travel ID: 45E454D405948435E41454E4
+
+Passenger Details:
+[Business Class]
+
+
+Luggage & Equipment:
+Passenger boarded with a Tacton branded YMI armorset and a high-velocity vibroblade. Though it passed inspection, the individual's armor was equipped with an electrical auto-nullifier due to Tacton armor being known for its offensive capabilities. The passenger insisted that the vibroblade would remain sheathed for the duration of the flight but for security reasons it was stored in an energy-resistant automated lockbox. Individual also boarded with an electrical frequency refiner, a spare set of Mushin shoulderpads, and replacement carbon fiber exhaust tubing. An additional dagger was requested to be taken in the carry-on, but after being denied the passenger left it at port.
+
+
+[SECURITY RECALL]
+[Event M1a] Passenger's employer instructed UES personnel before boarding to 'allow him to be solitary'.
+[Event M1] Contracted commando instructs passenger to return to their quarters at gunpoint after violent outburst.
+[Event M1] Minor altercation between officer and mercenary-class passenger resulting in them being separated.
+
+
+
+Loader
+
+Departure:
+UES Shipping Dock 5,   
+Redview,   
+Mars
+
+Destination:
+UES Shipping Dock 0,   
+Redview,   
+Mars   
+
+
+Travel ID: 2555F464954525F464
+
+Passenger Details:
+[Employee Class]
+
+
+Employee Details:
+Each UES loader-class employee comes equipped with a state-of-the-art titanium exoskeleton capable of lifting up to 245 tons (Additional 90+ ton hauling capability with winch attachment). Modern advancements have made employment opportunities at UES accessible to any and all peoples regardless of size, strength, age, or species! All employees are responsible for maintenance of their patented exosuits and unauthorized use is defined and restricted as per UES Manual Guide p358-390. Employees aboard the UES Contact Light are permitted to wear Safety Yellow, Safety Blue, Safety Green, or Safety Red exosuits. Please report to bay safety personnel for more details pertaining to individual departure safety regulations.
+
+
+[SECURITY RECALL]
+[Event L1] Employee requested early leave from the loading bay 50 minutes before departure. Request granted.
+[Event L2] Employee instructed to remove loader-class exoskeleton after being seen wearing it after-hours.
+[Event L2a] Employee observed taking additional lunch breaks.
+[Event L2b] Employee observed inappropriately inspecting contents of cargo bay crates and containers.
+
+
+
+CHEF
+Warranty Expiration:
+4/10/2063
+
+
+CHEF Included Manual:
+Thank you for purchasing the CHEF Model-A robotic kitchen assistant! Automated cooking has made rapid advancements in the last decade and our Model-A line of robots have been trained with the most recent in culinary AI datasets. CHEF models operate with very little oversight and adapt to the desires of your friends and family in only a day's worth of calibration! They can prepare meals efficiently with any provided ingredients and cookware or even improvise in a pinch! Perfect for your home, business or even on the road, you can utilize any of it's 8 included emotive pre-sets to align to your tastes in a hurry! Please refer to safety instructions for additional information.
+
+
+[SAFETY INSTRUCTIONS]
+[1] READ THE MANUAL BEFORE ATTEMPTING TO OPERATE.
+[2] Though product is water-resistant, do not immerse in water or any other liquids to avoid electric shock.
+[3] Do not attempt to manually fill oil stores. Overfilling oil stores may cause a fire hazard.
+[4] Keep all exhaust ports clear of any potential blockage to prevent combustion.
+[5] Do not place unauthorized biological* materials inside cooking bay.
+[5a] Refer to Mars humanity statutes for a complete list of unauthorized materials.
+
+
+
+Pilot
+Departure:
+UES Shipping Dock 5,   
+Redview,   
+Mars
+
+Destination:
+UES Shipping Dock 0,   
+Redview,   
+Mars
+
+
+Travel ID: 54D49445F564C41484
+
+Passenger Details:
+[Employee Class]
+
+
+Employee Details:
+United Enterprise Shipping invites pilots from across the known universe to apply to our Preferred Pilot Enhanced Commissions program! Benefits include access to cybernetic impact augmentations for easier landings, Weapons and Securities certification programs, and luxurious vacation opportunities! (Applicants expected to apply 5 years in advance of flight operations. Cybernetics not guaranteed to all program participants. Weapons and Securities certificates only valid through UES employment. All opportunities are listed as-is and no further gratuities, opportunities or benefits are to be assumed regardless of updates to space maritime law on participating planets.)
+
+
+[SECURITY RECALL]
+[Event P1] Employee briefly lost consciousness while manning ship. Auto-pilot engaged and woke employee.
+[Event P2] [OVERRIDE] SOS HULL BEING RAPIDLY APPROACHED BY UNKNOWN VIOLENT ENTITIES. LOCATION UNLISTED PLANET V. EJECT BLACK BOX, DESTINATION MARS BASE.
+
+
+
+Artificer
+
+Departure:
+High Court Outpost E1,   
+[REDACTED]
+
+Destination:
+[REDACTED]
+
+
+Travel ID: F4E41434C4F465
+
+Passenger Details:
+[Business Class]
+
+
+Luggage & Equipment:
+High Court passenger equipped with standard ENV suit. Due to UES relations with the High Court and its donors, both the ENV suit itself and the individual's carry-on have had security checks waived. Passenger willingly attached electrical auto-nullifiers to both of their handheld generators, though lights remained active even after magnetized. Passenger requested to have various analytical devices scanned and recorded through security gates, though the exact nature of these devices was unable to be ascertained by security personnel. (See security recall for personnel notes.)
+
+
+[SECURITY RECALL]
+[Note A1a] Device 1 recorded as a foreign generator in the shape of a titration flask. Passed through x-rays safely, though the resulting image was warped.
+[Note A1b] Device 2 unabled to be lifted by security personnel. High Court passenger assisted in placing in loading bay. Device appeared to be a solid steel cube with no discernible markings.
+[Note A1c] Individual requested Device 3 not be passed through x-ray terminal. Recorded as 'additional helmet'.
+[Note A1d] Device 4 recorded as a chest filled with elemental samples.
+
+
+
+Drifter
+
+Departure:
+Asteroid Substation Gamma,   
+Sector 2,   
+Saturnian Belt   
+
+Destination:
+UES Shipping Dock 0,   
+Redview,   
+Mars   
+
+
+Travel ID: 44E454F58445145444
+
+Passenger Details:
+[Civilian Class]
+
+
+Luggage & Equipment:
+Passenger boarded with a 2023 A-series generic spacesuit rated for civilian travel and minor vaccuum resistance. Passenger was warned about their suit reaching EOL and was allowed onboard with a red stamp on their passport. For security reasons, passenger was patted down due to their coat appearing oversized*. Passenger attempted to board with 3 backpacks and 2 duffel bags. After being informed that their carry-on limit was one container, they dropped the additional bags and quickly passed through the terminal. A manual search showed that the remaining backpack contained various pieces of scrap metal, opened food containers, and multiple small tools.
+
+
+[SECURITY RECALL]
+[Event D1] Passenger's travel ticket had it's destination markers destroyed by heavy weathering. Upon questioning, the passenger indicated that 'the full trip would be fine'. Ticket destination manually marked as Contact Light's port of origin.
+[Event D2] Passenger warned by ship personnel to 'stop hiding additional utensils in their pockets' during mealtimes.
+
+
+
+
+
+Creatures
+
+
+
+
+
+Lemurian
+Field Notes:
+The first sentient species I discovered on my unfortunate arrival. Around 7' tall, with scaly skin not different from that of a lizard. Bipedal. Aggressive on sight, minus a few exceptions. These Lemurians have an extremely powerful bite, but don't seem to employ weapons.
+
+All species that I have encountered have armor on their shoulders and wrists, indicating a high intelligence. They seem to live in underground tunnels networked all over the planet, and can use these tunnels to ambush prey.
+
+From what I've briefly seen, they seem to enjoy song and dance.
+
+
+
+Stone Golem
+Field Notes:
+Now THEY are interesting. These Golems, which tower over me at 10' tall, are constructed from the soil and rock beneath my feet. After a brilliant red flash, the earth itself moves to create these constructs in 2 seconds flat. If I didn't know better, I would consider this.. magic.
+
+Because of their material, they are extremely tough to take down. Using the same technology that constructs them, the Rock Golems are capable of creating a 'clap' which generates great amounts of energy. Damaging a golem eventually causes it to malfunction and die, returning to the ground.
+
+Despite their powerful combat abilities, the golems are gentle to everybody but me, and can be seen 'playing' with wildlife.
+
+
+
+Sand Crab
+Field Notes:
+A few hours after my crash, I finally decided to investigate the nearby area. As I moved past a particularly large mound of sand, it began to shift and roar. From it erupted a giant crab-like beast, standing above me at 10' with claws the size of a small man. The giant crab moves surprisingly fast for its size; the foliage growing on its back indicates that they stay still for long periods of time. This crab is either extremely patient or hibernates regularly.
+
+After exhausting my supplies in taking it down, I salvaged what meat I could. Very chewy, but not unpleasant. Looking across the beach, I spot many similar mounds of sand. I must keep moving; daylight is coming.
+
+
+
+Lesser Wisp
+Field Notes:
+Characterized by their constant flame, the Wisps are not living beings. Each Wisp has a mask in its center, where all the fire erupts from. The Wisps are able to concentrate their heat into a long range heat blast, capable of scorching anything in its path. On taking heavy damage, the fuel powering the Wisp detonates, sending the mask soaring clear through the air.
+
+How they function is a mystery to me. While I've seen 'deactivated' masks all around this world, the only time I've spotted Wisps is around me, as if someone creates them specifically to kill me..
+
+
+
+Greater Wisp
+Field Notes:
+Oh lord. These.. Greater Wisps, as I have grown to call them, are absolutely terrifying to face. Tougher then the Rock Golem, faster then the Lemurian, and harder hitting then both combined. Unlike the lesser Wisps, the Greater Wisp has two arms capable of typical motion. They burn a brilliant green which pierces straight though my sun visor.
+
+Their combat abilities are unprecedented; I can be clear 200m away, and they still manage to hit me square in the chest. I must stay hidden.. before they find me again.
+
+
+
+Jellyfish
+Field Notes:
+An airborne creature, capable of flight using a combination of gases in its clear hull. Like the Jellyfish on earth, they also use pulsation to aid in locomotion; however, rather than a series of tentacles, they have two branches' made of many tentacles wrapped around themselves.
+
+Also like the Jellyfish, they have quite the sting, capable of penetrating my weather shielding. The same gases used for flight are used to create a very powerful electrostatic charge.
+
+
+
+Trokk
+Field Notes:
+While resting in the shade of a massive tree, I was startled at what I thought was an earthquake. The ground shifted beneath my feet and I was suddenly thrown into the air. Beneath me was the gaping maw of a Trokk, and if I weren't already gripping my pistol it would've crushed me into sheet metal. Beyond the stone exterior of this strange walking log is some kind of vulnerable flesh like the inside of an alligator's mouth. With no space for a stomach I shudder at the thought of what happens to its victims.
+
+
+
+Tuber
+Field Notes:
+The Tuber is reminiscent of the small plants I cared for back on the ship, Nestling themselves deep in the ground, they hide from prey and wait for vibrations to initiate their fanged attack. Like fighting a giant antlion, sometimes the best strategy was to lure them out by tossing spent magazines. I tried stones and other bait, but their responses to the bait seemed dependant on some unseen quality. The behavior of the beasts on the planet continue to concern me I feel like all eyes are on me despite how natural these animals seem from a distance.
+
+
+
+Mini Mushrum
+Field Notes:
+I have arrived in an even stranger land. After recovering from my sudden.. teleportation, I noticed that my suit was flashing warnings about air filtration. All across the landscape were giant fungi, some as tall as trees.
+
+When approaching a large bulbous mushroom, it suddenly sprouted out the ground, jumping a few feet in the air then landing on two nubby feet. At this point my air filtration warning went from yellow to red, and I began to have difficulties breathing..
+
+While sentient, these mushrums were not very intelligent. It had what looked like three eyes, but it could not navigate very well, implying that those may be fake eyes to scare predators. It also had no mouth to eat, but would plant itself over corpses, slowly absorbing nutrients through its root-like feet..
+
+
+
+Spitter
+Field Notes:
+Alas, another hostile creature. This one's nature certainly betrays its precocious appearance. It even seems to be vexed by my retaliation. What a petulant fellow.
+
+His snapping maw hurls orange bile. The acidic mucus must be detonated by the gnashing teeth- conceivably similar to our picric acid. Fascinating, how could this have arisen?
+
+Post-mortem I was able to discover the source of the creature's impressive flexibility. Aside from the skull, mandible, and teeth, the skeleton is highly cartilaginous!
+
+
+
+Child
+Field Notes:
+These small beings fill me with dread.. From a distance I can see them frolicking among the rocks- playing with the other ghostly 'children'. I don't know how else to describe them, they seem so innocent until I approach.
+
+Once I am spotted it as if some wicked switch is flipped and I am their plaything. While I can defeat the small groups, I fear I am only sealing my doom once their small, destroyed bodies are found.
+
+
+
+Parent
+Field Notes:
+A deadly force, they rush at me mad with grief and rage. Parents will slam the ground; their only aim to crush the butcher of their offspring. Their powerful blows open great lashes in the quaking ground.
+
+Though my guilt almost stays my hand, I cannot let them keep me from surviving this nightmarish planet. I know it is impossible to quell their fury; so instead I must end it.
+
+
+
+Imp
+Field Notes:
+Oh. Fear. The Imp causes me fear, with its razor sharp talons and its one eye, locked into mine through my helmet. The Imp uses a propellant to hover above the ground, giving it superior mobility over everything.. including me.
+
+Unlike the other fauna on this planet, the black imp is aggressive to all other species. Is the imp also stranded here? The Black Imp can move from location to location, seemingly instantly. I refuse to believe that the Imp has teleportation; that is for fairy tales and quantum physicists. I won't accept that it can achieve something biologically that the human race couldn't achieve in its entire history.
+
+
+
+Clay Man
+Field Notes:
+Quick with his sword and quicker with his feet; the agility of these clay 'people' is unexpected with a form so roughly shaped.
+
+When faced with one of the few creatures here which I feel some humanity in, my aloneness closes in. Why do they have clay pots on their heads? Could it be protection from the cruel reality, or maybe just to hide the scars from this brutal planet..
+
+
+
+Mechanical Spider
+Field Notes:
+The malware of our age! These mechanical parasites were probably lurking on the ship before the crash. Pirates will use these bugs to collect especially valuable cargo, redirect transmission signals, or even hijack ships. Spiders can be programmed with all kinds of malicious objectives.
+
+In general they are quite difficult to find and eradicate on large vessels, but now that they're loose they seem to be able to operate outside of their software. They have retained their defense capabilities, and are risky to engange. Though, I wonder, how long will they continue to run without access to an electrical grid?
+
+
+
+Bighorn Bison
+Field Notes:
+The teleporter nearly launched me into a steaming dung heap. I could not have anticipated such an enormous beast being the source. More impressive than their rumbling bellows is the bighorn's charge. Their many tons of muscle produce a crushing slam of horn and matted hair.
+
+When they are not stampeding after me I have observed these monsters using their massive heads to bludgeon rocks and fights amongst themselves. How can they expend so much energy on fruitless activity? Are they merely trying to keep from freezing?
+
+
+
+Swift
+Field Notes:
+These flying stones manage to stay airborne despite their shale armor. Like a thousand darts thrown from the sun, they dive so swiftly toward me that their beaks slam into the ground. I've yet to see a surface that they cannot puncture, and I'm shocked that their beaks never seem worn. Their predictive aim is troubling, and they seem to know where I'm headed before I do. I've witnessed packs of these strange birds circling like vultures in the distant sky, though I've never witnessed any of them scavenging for food. Attempts to fashion their armor into new blades have resulted into nothing but chips in my knife.
+
+
+
+Whorl
+Field Notes:
+Day 8. I was awoken by an abrupt collision of something hard against my suit. A volley of sensors screamed in my ears as a hairline fracture arced across my vision.
+
+The hard shell of a monstrous "Whorl" nearly compromised my air lock. If I hadn't had a small tube of polymer sealant from the astrotrain I would not be recording this now.
+
+These carapaced organisms propel themselves with some form of gas-propulsion. Despite their similar appearance to the nautili of old, they do not use a bellows-like system for locomotion, but a steady streaming of gas through their curling shell. I wonder if this heavy armor prevents them from attaining higher altitudes, constrained to hover among the land creatures.
+
+
+
+Macrobe
+Field Notes:
+Sinking into an endless lake, I was caught off-guard by these huge cellular beasts. Bounding towards me, I can almost identify their internal anatomy behind thick membranes - How is it possible that some sort of microbe could get this large? Can this really be a single cell? Rough, thorn-like cilia coat its surface and it's flagellum serves as a razor sharp whip. The water doesn't seem to impede it at all, though its strange bouncing behavior may be a result of its attempts to pursue me under heavy water pressure. I'm weary of the force it seems to exert even within these conditions. My oxygen supply can't afford any leaks.
+
+
+
+Macrobic Predator
+Field Notes:
+Field Notes:
+Some kind of massive insect, this creature snaps like a viper and skitters like an ant. It shouldn't be possible at such a scale to move so abruptly and yet it does. Similar to the Macrobe, this monster is some kind of predatory cell. With a massive rope of nerves at its core, I can only image it acts on instinct alone. I dug into a corpse to see if the spinal rope could sustain me in this toxic hive, but I found my arms stuck to the thick membrane and I had to use my knife to remove the non-newtonian gel. It'd make a great trap for prey, but I don't have time to test that theory.
+
+
+
+Evolved Lemurian
+Field Notes:
+Could this be a distant cousin of the Lemurians below? An ancient evolutionary leap? These airborne reptiles do not interact with the ground Lemurians except to harass them occasionally. Perhaps there is some kind of natural feud between the species?
+
+It is the membranous skin that attaches their long arms to their body which enables their flight. Each wingtip culminates in vicious talons. When they come in flocks these winged Lemurians are capable of great carnage.
+
+
+
+Elder Lemurian
+Field Notes:
+Seems to be very large version of the Lemurians; perhaps this great lizard is a queen? With similar armor and much thicker skin, it took much more to bring down this foe. She moves much slower and posses a powerful scorching blast.
+
+I would willingly give up some of my dwindling rations to explore the Lemurian tunnels unnoticed. My mind envisions great communal caverns and many spectacular subterranean dwellings. Do great legions of Lemurians walk under my feet?
+
+
+
+Lemurian Calvary
+Field Notes:
+I found a group of red Lemurians resting in the dilapidated ruins with domesticated boars alongside them. I've never seen a red species outside of the flying types, though I doubt these are any more welcoming. With great spears and flamboyant helmets, they resemble cavalry of times past, and I'm not equipped to face any chariots head-on. In the distance I can see two of them sparring atop their beasts. They attack with sharp agility and acrobatic prowess that I hope to never experience.
+
+
+
+Temple Guard
+Field Notes:
+A robot creature that assembles itself.. I have not seen them materialize other than when I unknowingly trigger their presence. I cannot believe this is indeed a machine- and yet it is made from some alloy and uses heavy artillery! Was this on the ship, or are these guards a naturally occuring 'species' here? My suit's scanners are unable to detect any manufacturer's signature.
+
+They seem to be determined not to let me pass. They attack with unlimited focus.
+
+
+
+Archer Bug
+Field Notes:
+Such aggravating creatures! These insects come in droves- as a group their wings create a maddening whine. Even the other creatures seems disturbed by their presence. Though they are not particularly strong, the circling insects certainly frustrate me.
+
+A small amount of their projectile spit managed to penetrate one of the layers of my suit. It was extremely caustic. A festering rash has formed in the area, but doesn't seem to be spreading.
+
+
+
+Bramble
+Field Notes:
+While walking through overgrown ruins I found myself surrounded by strange rustling that I could not place. Stepping into a massive temple, vines whipped the entryway shut and the ivy began slithering down the walls. These living Brambles spit caustic venom and I'm thankful to only have holes left in my gloves. Their hypnotic sway distills fear in me and I recognize some higher intelligence in their movements. The bark at their base facilitates some kind of locomotions, though I can't identify any apparant muscular system inside that would drive it. After the encounter, the resulting coughs and spasms left me on edge as I scaled the tower and left the echoes behind me.
+
+
+
+Tiny Imp
+Field Notes:
+I seem to have found the one creature on this planet that DOESN'T want to kill me. These small, leathery creatures are spawned from vases I sometimes spot in the ruins. They seem to stay in packs, and frequently carry useful treasure.
+
+Immediately after spawning, these tiny imps run in all directions. While I do feel a bit.. awful.. about killing what seems to be the equivalent of children, I need the treasure they hold if I'm to survive. I'm sorry.
+
+
+
+Lynx Tribe
+Field Notes:
+I glanced to one side, trying to get my bearings. By sheer luck, my eyes picked up something barely visible, so still it could be mistaken for a rock. A shiver ran down my spine as I realized it was alive. I hadn't heard anything approach; how long had it been watching me? Why hadn't it attacked me? I suppose the creature had never seen anything like me. As we exchanged gazes, I noticed there were more of them. Gripped by fear, I shot a glance at my firearm which, in my hubris, was still in its holster. A twig snapped, and I immediately looked back to them, but they were gone. I walk slowly now. There could be one of these behind every blade of grass.
+
+
+
+Colossus
+Field Notes:
+A low groaning, lasting for a few days at least. From the relative safety of my drop pod I watched as a mountain rose to its knees, pushing itself up with arms of stone and dirt and twine.
+
+The Colossus appears as a cousin of the Rock Golem and share many similarities, from its red gaze to its stocky stature. Around its feet many smaller golems rose, joining it. In what possible ways could conventional weapons help Me?
+
+I've begun to find a dark humor in the absolute overkill that I face. This is simply ridiculous.
+
+
+
+Wandering Vagrant
+Field Notes:
+Day 3. While looking through some wreckage of the old ship, I felt a hot sensation on my skin and a brilliant white flash. Over the horizon maybe 5 miles north I saw it, looming over the forest tops.
+
+It must be the size of a house, this thing. A massive variant of the jellyfish seen earlier; this behemoth hovers in the air, searching for something. The gas used to propel this beast bend the trees below it flat. When it spotted its prey, it sent out six bioluminescent orbs, all crashing towards the ground and incinerating the target.
+
+This Vagrant, as I've come to call it, seems to wander amidst the skies, followed by many jellyfish. On the occasion the clouds part, I swear I sometimes see hundreds of vagrants up there. What are they looking for?
+
+
+
+Magma Worm
+Field Notes:
+I've stumbled upon an old relic, notably with two distinct stone prongs. On approaching it it whirred to life, apparantly charging up. This seemed to disturb something deep and violent below the ground..
+
+The Magma Worm exploded out of the ground, knocking me off my feet. While I struggled with shell shock, I saw it arc through the sky, then plunge back into the ground with another bang.
+
+Reaching about.. 200 meters, the worm moves extremely fast for its size. Permanently burning out of pores in its skin, the Magma Worm uses this flame as both a hunting tool and a way to melt through the ground quickly. Its small, beady eyes lurch around, looking for prey. With its massive size, the Magma Worm must either eat VAST amounts of food a day or hibernate for a very, very, very long time below ground.
+
+
+
+Ancient Wisp
+Field Notes:
+Could this be the architect of the smaller wisps? Perhaps this Ancient Wisp is the puppeteer behind the fiery masks harassing me thus far, or is he also a devilish device of something greater..?
+
+The heat coming off the purple flames is extreme. Ferocious columns of lightning threaten to short-out my suit, or worse, turn me into a blistered husk. What fuels these violent, burning apparitions?
+
+
+
+Lynx Totem
+Field Notes:
+Travelling through the fungal caverns, I kept seeing out of place rubble that trailed to nowhere. With no buildings in sight, I was shocked to see a brick wall in the distance. Little cat-like creatures with masks and weaponry danced around the structure, and I could hear them laugh with one another. They appeared to be practicing some kind of worship, though the structure looked unlike anything I've seen on this planet. More of them crawled out from the dirt nearby, but strangely I haven't seen any evidence of them resting or hiding in the soil prior to that. Luckily they were distracted - I don't know that I could take on a horde of that size, no matter how small they were.
+
+
+
+Imp Overlord
+Field Notes:
+Oh, why me? My heart stopped when this great Imp manifested in previously empty space. So many horrendous eyes. With a gaping scream the Imp lets out a deadly red vapor. Some type of laser also trails me.
+
+This demon is just as baffling in its movement as the smaller one. Barely escaping the Imp's whipping grasp I landed a final blow. Its dying body split open at its meridian, displaying its innards like some ghastly flower. This monster is just as gruesome in death as it was in life.
+
+
+
+Ifrit
+Field Notes:
+Could this be..? Tales I never believed recounted a horrible beast, fire incarnate. Scourge of another solar system, the Ifrit nearly wiped out an entire space colony before being chained and launched into the great black void. Supposedly the flaming jets that accompanied his roars could be seen for days as he drifted outwards.
+
+Great towers, what must have been the containment structure used to trap this monster, prevent his escape even on this forsaken plane. The only explanation I have for my surviving this legendary encounter is his many years drifting in space and having been fettered in this unforgiving, frozen wasteland.
+
+
+
+Toxic Beast
+Field Notes:
+Field Notes:
+This goliath's body has been carved by this world, covered in numerous scars. The squealing queen had seen many battles. Her coarse hair growing in jagged patches between each old wound only increased her fearsome appearance.
+
+Hot breath from the boar's massive nose fogged up my helmet so badly that it was a marvel I was able to evade her stomping hooves overhead.
+
+
+
+Cremator
+Field Notes:
+I could not believe my eyes as this creature erupted from the lava. My suit's temperature gauges screeched in warning. How can anything subsist in such heat? The lava parts in waves as the monster swims rapidly through it.
+
+Through craters in the Cremator's thick back armor red hot boulders explode in every direction. The amount of heat and pressure within its body must be a source of immense power. However, its head does not appear as well protected. I pray that it is a source of weakness, for if this leviathan bests me I know there will be no remains left to mark my short existence.
+
+
+
+Scavenger
+Field Notes:
+Who knew a pack rat could be so dangerous! This creature seems to be hoarding many of the items littered across this planet. I have seen no others of its kind. If it hadn't been so intent on slaying me I would have tried to gain this Scavenger as an ally..
+
+Will I ever see a friendly face again, or will my last breaths be on this hostile planet?
+
+
+
+Providence
+Field Notes:
+I recognized him from the security footage... he was the one who blew the cargo hatches open. He was the one who killed everyone.
+
+Providence, as I came to call him, moved faster and with more purpose than anything else I've seen on this planet. He must command great power, for he seemed to easily control two great gilded wurms of a species similar to the Magma Worm. Is he able to command everyone on this planet? I don't know his purpose, or his reasoning, but he did not give me a choice. I had to kill him... so why do I feel like I made a terrible mistake?
+
+...Why did we have a teleporter from this planet in our cargo hold?

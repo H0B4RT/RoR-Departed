@@ -6,7 +6,7 @@ Key Notes
 	- Appears on Stage 1, Damp Caverns, Scorched Acres, Black Beach, and summoned by Blazing Colossus and Ancient Wisp
 	- Reworked to be a mix between RoRR and RoR2
 	- Speeds towards the player, orbits, and shoots a short-ranged blast
-	- Can FLy
+	- Can Fly
 	- Is a Ranged Enemy
 	
 Health: 50
