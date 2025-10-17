@@ -29,5 +29,6 @@ Wave Condition: 21
 Log:
 These ones don’t float like the others. They drag themselves around with arcs of fire trailing behind them. Their movements are jittery, more like they're throwing a tantrum.
 
-At first, I thought their lack of flight was an advantage. But they’re no less dangerous. Instead of spitting fire from afar, they belch streams of flame, sweeping the ground with bursts hot enough to turn stone black. When they gather in numbers, their noise is unbearable. A chorus of hissing flame and snapping embers. They seem to argue with the floating Wisps, buzzing and bumping into them before coming after me again.
+At first, I thought their lack of flight was an advantage, but they’re no less powerful. Instead of spitting fire from afar, they belch streams of flame, sweeping the ground with bursts hot enough to turn stone black. When they gather in numbers, their noise is unbearable. A chorus of hissing flame and snapping embers. They seem to argue with the floating Wisps, buzzing and bumping into them before coming after me again.
 --]]
+	

@@ -1,6 +1,18 @@
+
+
+
+
+
 Environments
 
+
+
+
+
 A Moment, Fractured
+Title: Hidden Realm
+Track: Petrichor V
+Log:
 My brother, it is done. Come! See! 
 
 Look to the moon... the first beacon shines brightly on the other side! There was no gap in its sequence - it has traveled instantaneously. We can cross the dark sea without succumbing to its sickness if we simply do not travel through it at all - is it not a brilliant light of hope? 
@@ -18,6 +30,9 @@ When next she visits our world I must ask her to take a gate with her. Perhaps d
 If you insist, brother, I will go first. Forget about those creatures - and do not dawdle. I want to see joy on your face.
  
 A Moment, Whole
+Title: Hidden Realm
+Track: Petrichor V
+Log:
 It is sealed… you do not have the skill to release this - it is a lock of my design. MY DESIGN. It will not break, and it will not yield. The alignment of the gate cannot now be changed by one such as you. It will persist for as long my treacherous brother lives. I have wasted my time in teaching you to operate it.
 
 A lock… MY lock… crafted by the hands of my betrayer!
@@ -39,6 +54,9 @@ You have served me well. You have been my hands where I cannot reach, my feet wh
 When you so choose, the beads of your oath will guide you to my vault. Reach out to the monolith while clutching them. Do not let go. You will find yourself at peace, and more importantly, my servant, in a realm overlooked by the design of my coming reprisal.
  
 Abandoned Aqueduct
+Title: Origin of Tar
+Track: Terra Pluviam
+Log:
 Welcome to DataScraper (v3.1.53 – beta branch)
 $ Scraping memory... done.
 $ Resolving... done.
@@ -68,6 +86,9 @@ CHIT CHIT CHIT CHIT CHIT CHIT CHIT CHIT CHIT I-I neED CHIT CHIT CHIT chit chit c
 Local audio transcriptions complete.
  
 Abyssal Depths
+Title: Tectonic Relics
+Track: Terra Pluviam
+Log:
 Welcome to DataScraper (v3.1.53 – beta branch)
 $ Scraping memory... done.
 $ Resolving... done.
@@ -83,6 +104,9 @@ We have landed a few minutes ago and I have no time I must log as quickly as pos
 Local text transcriptions complete.
  
 Aphelian Sanctuary
+Title: Cleansing Center
+Track: Once in a Lullaby
+Log:
 FIELDTECH Image-To-Text Translator (v2.5.10b)
 # Awaiting input... done.
 # Reading image for text... done.
@@ -105,6 +129,9 @@ Translation Errors:</style
 # [The Hero] could not be fully translated.
  
 Bazaar Between Time
+Title: Hidden Realm
+Track: Parjanya
+Log:
 There was a sudden flash of white, blue, and green as the pod of time newts, two hundred strong, burst through the walls of the occlusion and into the slipstream.
 
 They relaxed as they re-entered their natural habitat. The currents of the slipstream were strong - but they were much stronger. With magnetic webs, the newts propelled themselves at amazing speeds. They all swam effortlessly and gracefully – all but one.
@@ -126,6 +153,9 @@ With his mind preoccupied, he didn’t notice some changes had taken place since
 He didn’t notice the long, pale arms, grasping in the depths below.
  
 Bulwark's Ambry
+Title: Hidden Realm
+Track: The Raindrop that Fell to the Sky
+Log:
 I’ve begun to understand our universe. The compounds that drive reality here. I’ve prepared a demonstration - come look, brother!
 
 Now, look here. It’s got presence and weight. Round, with no features. No orientation. It is mass. Almost everything here is mass. Mass is boring, but required.
@@ -139,6 +169,9 @@ Now be gentle. Look closely here. Do you see it? Almost invisible, a thin film. 
 Do you understand? It’s your turn, brother! I’ve simply found the compounds. It is your hands that must craft value from them.
  
 Bulwark's Ambry (Aphelian)
+Title: Hidden Realm
+Track: The Raindrop that Fell to the Sky
+Log:
 You already saved them, yet still you offer them more...something only for them. Can these righteous creatures not exist in harmony for your sake?
 I wonder what it is that changed in you. Have you forgotten what it was like to create something together? Do you not miss it? Or is there a weight upon you that I am unaware of?
 Too often I find my mind occupied with your actions, for they affect us both. Yet you seem to care more for the wellness of these unimportant beings.
@@ -148,6 +181,9 @@ Too often I find my mind occupied with your actions, for they affect us both. Ye
      I do.
  
 Bulwark's Ambry (Tar)
+Title: Hidden Realm
+Track: The Raindrop that Fell to the Sky
+Log:
 Do your foolish ways truly know no bounds? Our pillars cannot save us from something like this. How much will it cost us for you to protect them from their own doom? You risk everything for these beings, they’re undeserving of your time, your effort, and your love.
 Do you not understand what we are? The power we wield?
 It was not designed for this.
@@ -158,6 +194,9 @@ No matter what they call you, you are not their savior.
 You are their ruin.
  
 Bulwark's Ambry (Wisp)
+Title: Hidden Realm
+Track: The Raindrop that Fell to the Sky
+Log:
 I will not hesitate to craft another cage to contain these pests you allow to play with our grand design.
 Surely you notice these..."creatures" touch soul. Soul. And still, you grant them such freedom.
 Why?
@@ -169,6 +208,9 @@ Are these creatures your new worms? Is this how you mean things to be? Do you lo
 ANSWER ME!
  
 Commencement
+Title: Moon of Petrichor V
+Track: ...con lentitud poderosa
+Log:
 Have you forgotten – that those gates are my design?
 
 You would not know, because you do not look up. You bend knees only for ants and vermin. But I have been working on a grander design. A greater gate – to travel greater seas.
@@ -178,6 +220,9 @@ What if I met you, on one of these extinct planets? What if I caused the calamit
 I know the planet you trail – of water and dirt. You fear their stability. That they will consume themselves. Maybe I will go there first.
  
 Distant Roost
+Title: Ground Zero
+Track: Evapotranspiration
+Log:
 Welcome to DataScraper (v3.1.53 – beta branch)
 $ Scraping memory... done.
 $ Resolving... done.
@@ -196,6 +241,9 @@ The old man clears his throat, getting back on topic. “The shuttles landed in 
 The old man gazes out of the window of his cabin, the moon shining in the night sky. “What a strange planet. This’ll certainly make a good story.”
  
 Disturbed Impact
+Title: Meter of the Restless
+Track: I Should Build the Man a Statue
+Log:
 FIELDTECH Image-To-Text Translator (v2.5.10b)
 # Awaiting input...done.
 # Reading image for text...done [5 exceptions raised]
@@ -214,11 +262,17 @@ Translation Errors:
 # [the world] could not be fully translated.
  
 Gilded Coast
+Title: Hidden Realm
+Track: Into the Doldrums
+Log:
 A gilded cage – one of luxury and accommodation. The jailer took pity on the prisoner and fashioned an elaborate space for which the it may serve its eternal sentence. The jailer even allowed the prisoner company – smaller constructs, a few rowdy Lemurians. The scraps of creation. 
 
 But a cage of gold - no matter how beautiful - is still a cage.
  
 Golden Dieback
+Title: March of the Fallen
+Track: Oṃ Maṇi Padme Hūṃ, part II
+Log:
 >  Automated report 9fd5adweadae3dadfe23afe233af345fd234 ius now available from site record 906g2222easda21jda323cv32la5790ad4fa23ad.
 > > Please refer to record 906g2222easda21jda323cv32la5790ad4fa23ad for additional personnel details during your review.
 > Report Type: Transcription
@@ -247,6 +301,9 @@ Sgt. Wylbies: "I see it. Reload! We have a few minutes before they-"
 > Please refer to report 23kf43jkm3k34klao0we21495 for full audio excerpt.
  
 Helminth Hatchery
+Title: Shadow of the Savior
+Track: 屋根の漏り (Yane No Mori)
+Log:
 Massive shining coils shift, red as Mercury blossoms, revealing a sphere of bright molten obsidian glowing inside a bowl of red stone.
 Four stories up a large dark hand reaches through the glassless window, pets the coils and brings the bowl inside.
 Strange tools of silver line the walls alongside endless artifacts freely given, intricately carved, and tenderly loved. His tribute.
@@ -261,6 +318,9 @@ Finally, he seals the obsidian weapon with a golden T emblem.
 His gift. No, his apology.
  
 Prime Meridian
+Title: Relic of the False Son
+Track: Oṃ Maṇi Padme Hūṃ, part I
+Log:
 Brother, raise your melancholic head. She has left, but She shall return. Witness what I shall give to you and Her.
 
 ... they are the start of three great works. A gift for us all! I see your sadness, brother. Your inattention hurts the Designs we build. I build for us not only a sign of our friendship, but tools for making our weight easier.
@@ -278,11 +338,17 @@ If it will have you look more kindly upon our work, I will even let you hold ont
 Good. Then go and bring our great works to life! I will inform you when this gift is complete.
  
 Rallypoint Delta
+Title: 'Contact Light' Survivor Camp
+Track: Into the Doldrums
+Log:
 “Hey, if anyone can- My name is Malik Dhillon. I was aboard the Contact Light when, oh god- The ship crashed, marooning us here. I’ve never seen anything- I’ve never seen anything like this. Monsters, terrifying monsters, coming at us from all sides. We set up a base, to try and gather up numbers... But it didn’t matter. There’s, there’s too many of them! I don’t think we can last. If anyone gets this message, please, send help to these coordinates! They’re uh, they’re embedded in the message’s frequency. They should be... I don’t think we can last much-“
 
 -Signal echoes, UES Contact Light
  
 Reformed Altar
+Title: Shadow of the Savior
+Track: Oṃ Maṇi Padme Hūṃ, part III
+Log:
 FIELDTECH Image-To-Text Translator (v2.5.10b)
 # Awaiting input... done.
 # Reading image for text... done.
@@ -315,6 +381,9 @@ Translation Errors: 4
 # [Great Sin] could not be fully translated.
  
 Scorched Acres
+Title: Wisp Installation
+Track: Disdrometer
+Log:
 Welcome to DataScraper (v3.1.53 – beta branch)
 $ Scraping memory... done.
 $ Resolving... done.
@@ -339,6 +408,9 @@ DAY 07
 I discovered some strange artifacts today. Masks! How novel. For some reason… I felt compelled to try a few on. As expected, they don’t fit at all – probably not meant for human use.
  
 Shattered Abodes
+Title: Ground Zero
+Track: I Should Build the Man a Statue
+Log:
 FIELDTECH Image-To-Text Translator (v2.5.10b)
 # Awaiting input...done.
 #Reading image for text... done.
@@ -365,6 +437,9 @@ Translation Errors:
 # [the world] could not be fully translated.
  
 Siphoned Forest
+Title: Ground Zero
+Track: Out of Whose Womb Came the Ice?
+Log:
 Welcome to DataScraper (v3.1.53 – beta branch)
 $ Scraping memory... done.
 $ Resolving... done.
@@ -382,6 +457,9 @@ Complete!
 "Hahh... Hahh... It all happened so fast... lizards, big things of stone, dug their way out of the snow. While I was busy, they rushed me. Knocked me square in the chest with a blast and sent me flying... It's... hard to breathe. And it's cold. So cold."
  
 Siren's Call
+Title: Ship Graveyard
+Track: The Raindrop that Fell to the Sky
+Log:
 Welcome to DataScraper (v3.1.53 – beta branch)
 $ Scraping memory... done.
 $ Resolving... done.
@@ -410,6 +488,9 @@ Complete!
  Transmission Ended 
  
 Sky Meadow
+Title: Sprite Fields
+Track: The Rain Formerly Known as Purple
+Log:
 Welcome to DataScraper (v3.1.53 – beta branch)
 $ Scraping memory... done.
 $ Resolving... done.
@@ -427,6 +508,9 @@ A gate! Yes, a stone gate! If I can figure out how to open it maybe I can find a
 Wait… what was that noise?
  
 Sulfur Pools
+Title: Pungent Spring
+Track: Who Can Fathom the Soundless Depths?
+Log:
 Welcome to DataScraper (v3.1.53 – beta branch)
 $ Scraping memory... done.
 $ Resolving... done.
@@ -446,6 +530,9 @@ Scouting Mission-- ah, screw it. SOS, Reporting SOS, Delta-Alpha-Bravo in need o
 This review has been flagged security level: Classified
  
 Sundered Grove
+Title: Dormant Locus
+Track: They Might As Well Be Dead
+Log:
 Rings? What for?
 
 A triangle is much more of a beautiful design. Look, and observe: three points, in three dimensions. No redundancies. Perfectly defined. We will use triangles.
@@ -453,6 +540,9 @@ A triangle is much more of a beautiful design. Look, and observe: three points, 
 Trees? Yes, trees are beautiful. I agree. We will have many trees.
  
 The Planetarium
+Title: Cell V
+Track: The Face of the Deep
+Log:
 I wake up again.
 
 The simulacrum continues forever.
@@ -472,6 +562,9 @@ But then I woke up again. In the simulacrum. It never happened. I was always in 
 Am I still here?
  
 Titanic Plains
+Title: Ground Zero
+Track: Disdrometer
+Log:
 Welcome to DataScraper (v3.1.53 – beta branch)
 $ Scraping memory... done.
 $ Resolving... done.
@@ -499,6 +592,9 @@ We stopped moving stuff around after that.
 Local audio transcriptions complete.
  
 Treeborn Colony
+Title: Path of the Protector
+Track: Oṃ Maṇi Padme Hūṃ, part II
+Log:
 > Automated report 9f6d5d41671c241h13b2339e42mf23deb9 is now available from site record 741c655e2d36c5f6973fd3a36aa0f950.
 > Please refer to record 741c655e2d36c5f6973fd3a36aa0f950 for additional personnel details during your review.
 > Report Type: Transcription
@@ -556,6 +652,9 @@ Translation Errors: 2
 # [The Hero] could not be fully translated.
  
 Verdant Falls
+Title: Ground Zero
+Track: It Can't Rain All The Time
+Log:
 Welcome to DataScraper (v3.5.16 – beta branch)
 $ Scraping memory... done.
 $ Resolving... done.
@@ -592,12 +691,18 @@ With real food to eat.
 Kelvin out.
  
 Viscous Falls
+Title: Ground Zero
+Track: It Can't Rain All The Time
+Log:
 The last rays of light retreated quickly behind the tall stalks, slipping up the cliffs of the bowled valley.
 Darkness dug into each crevice, nesting in the cold metal of the wreckage, pooling in the recently abandoned cave.
 Soft sounds in the cave tipped supply boxes, slid wetly over the ring of stone marking the firepit, and bounced hungrily onto torn ration packs.
 Soon they came in mass, leaving slick splatters.
  
 Void Fields
+Title: Cosmic Prison
+Track: A Glacier Eventually Farts (And Don't You Listen to the Song of Life)
+Log:
 The cells were for dangerous creatures.
 
 The cells were for rare, powerful relics of exponential strength.
@@ -611,6 +716,9 @@ The cells were for gods.
 The cells were for everything.
  
 Void Locus
+Title: Cell IIIVIIIIIILVIIIVLVILIVLLLVVVILIVLI
+Track: A Placid Island of Ignorance
+Log:
 I just saw a portal and I just… decided to step through. Why? Because I’m a moron, that’s why.
 
 The fog keeps it stable – the cells and the joints. The cradles. They like the fog. 
@@ -624,6 +732,9 @@ I see things come and go, ferried by giant beasts. When they swim close, I can s
 Anyways, uh… where do I go from here?
  
 Wetland Aspect
+Title: Rehabilitation Zone
+Track: Nocturnal Emission
+Log:
 Welcome to DataScraper (v3.1.53 – beta branch)
 $ Scraping memory... done.
 $ Resolving... done.
@@ -648,9 +759,24 @@ Weshan.
 
 Local audio transcriptions complete.
 
+
+
+
+
 Items
 
+
+
+
+
 57 Leaf Clover
+Pickup Text: Luck is on your side.
+Full Description: All random effects are rolled +1 (+1 per stack) times for a favorable outcome.
+Rarity: Legendary
+Category: Utility
+Content: BASE
+Unlock: Complete 20 stages in a single run. (The Long Road)
+Log:
 It was a massacre. The orbital probes had incinerated both the battalion and the enemy– as well as the entire plateau. There was no life left to be found - except for one lone soldier.
 
 The soldier trudged through the scorched plains, numbly looking for any survivors.
@@ -676,6 +802,13 @@ With clover in hand, the soldier began the long trek to report back to his super
 Or were they just lucky?
  
 Aegis
+Pickup Text: Healing past full grants you a temporary barrier.
+Full Description: Healing past full grants you a temporary barrier for 50% (+50% per stack) of the amount you healed.
+Rarity: Legendary
+Category: Utility, Healing
+Content: BASE
+Unlock: None
+Log:
 Order: Artifact E-8EE572
 Tracking Number: 490******
 Estimated Delivery: 08/10/2056
@@ -690,6 +823,13 @@ protection, but the means to bring one's unconquerable spirit forth as the defen
 It’s so lightweight, we figure it must've been entirely decorative. That seems to line up with the text. In any case, I hope it makes a good exhibit! I'm a big fan of the museum, so it wouldn't hurt to give me a partner's discount next time I visit, right?
  
 Alien Head
+Pickup Text: Reduces cooldowns for your skills.
+Full Description: Reduce skill cooldowns by 25% (+25% per stack).
+Rarity: Legendary
+Category: Utility
+Content: BASE
+Unlock: None
+Log:
 Order: "Alien Head"
 Tracking Number: 76******
 Estimated Delivery: 07/13/2056
@@ -713,6 +853,13 @@ Ancestral Incubator
 "Yeah, cool, native, okay, I'm out."
  
 Armor-Piercing Rounds
+Pickup Text: Deal extra damage to bosses.
+Full Description: Deal an additional 20% damage (+20% per stack) to bosses.
+Rarity: Common
+Category: Damage
+Content: BASE
+Unlock: Complete a Teleporter event.
+Log:
 Order: Armor-Piercing Rounds, 50mm
 Tracking Number: 15***********
 Estimated Delivery: 3/07/2056
@@ -725,6 +872,13 @@ Alright, just to clarify, these rounds aren’t faulty. Heck, I’d say they’r
 Could you guys look into this so we don’t like, violate any Geneva Conventions or anything?
  
 Artifact Key
+Pickup Text: A stone shard with immense power.
+Full Description: A stone shard with immense power.
+Rarity: Boss
+Category: None
+Content: BASE
+Unlock: None
+Log:
 The key is incredibly simple. A stone crescent, with little discernable detail to the naked eye. But if one looks closer, with a sight beyond sight, they may notice the patterns inscribed on the key’s being. The patterns tell many things:
 
 The key’s function: to unlock a lost trove of abandoned treasure.
@@ -736,6 +890,12 @@ The key’s hopes: infused into the key, deep within its core, is a memory of be
 The key’s reality: the bitter realization that such a reality exists only in the past.
  
 AtG Missile Mk. 1
+Pickup Text: Chance to fire a missile.
+Full Description: 10% chance to fire a missile that deals 300% (+300% per stack) TOTAL damage.
+Rarity: Uncommon
+Category: Damage
+Content: BASE
+Unlock: None
 Fixing a spare bayonet onto his shotgun, he glanced at the horizon. The thundering of footsteps big and small was growing louder and louder – they were nearly upon him. He went over his kit one last time.
 
 Five bayonets. Twenty three packs of incendiary explosives. Fifteen magazines of armor-piercing ammunition. Thirty three sticky bombs. Four tear-gas grenades, and so on.
@@ -747,6 +907,13 @@ Turning to face the oncoming mob, he loaded his shotgun. The adrenaline started 
 “Bring it on.”
  
 Backup Magazine
+Pickup Text: Add an extra charge of your Secondary skill.
+Full Description: Add +1 (+1 per stack) charge of your Secondary skill.
+Rarity: Common
+Category: Utility
+Content: BASE
+Unlock: Fully charge a Teleporter without getting hit. (Flawless)
+Log:
 Order: Ammo Magazine, Standard Ammunition (45mm Rounds)
 Tracking Number: 05***********
 Estimated Delivery: 10/05/2056
@@ -757,6 +924,13 @@ Shipping Details:
 - Note from Sender:  You going on a hunting trip or something? I’ve never seen anyone order this much ammo before.
  
 Bandolier
+Pickup Text: Chance on kill to drop an ammo pack that resets all skill coodowns.
+Full Description: 18% (+10% per stack) chance on kill to drop an ammo pack that resets all skill cooldowns.
+Rarity: Uncommon
+Category: Utility
+Content: BASE
+Unlock: None
+Log:
 Order: Bandolier
 Tracking Number: 112*****
 Estimated Delivery: 04/19/2056
@@ -771,6 +945,13 @@ This is the famous bandolier worn by B. Grundy himself. He and his pals used to 
 The sling carries an impressive assortment of ammunition - Grundy himself carried many different guns. It was rumored that they held out for 3 whole days and nights before their weapons ran dry.
  
 Beads of Fealty
+Pickup Text: Seems to do nothing... but...
+Full Description: Seems to do nothing... but...
+Rarity: Lunar
+Category: None
+Content: BASE
+Unlock: None
+Log:
 The master of this world is a benevolent protector. Our savior. Despite the natures of its various inhabitants, he has made a peaceful place here. 
 
 Peace comes at a cost, of course. Some things are strictly forbidden. Above all, there is one item that cannot be tolerated – to possess it is to surely perish: a strange, heavy, and deeply entrancing set of beads that seem to speak with whoever holds them. 
@@ -784,6 +965,13 @@ One thing, however, is known to anyone who has borne witness to these beads: a c
 Never look back.
  
 Ben's Raincoat
+Pickup Text: Prevent debuffs, instead gain a temporary barrier. Recharges over time.
+Full Description: Prevent 1 (+1 per stack) debuff and instead grant a temporary barrier for 1-% of maximum health. Recharges every 5 seconds.
+Rarity: Legendary
+Category: Utility, Healing
+Content: SOTV
+Unlock: None
+Log:
 Return: Gorton Men's Rain Jacket (Medium, Yellow)
 Tracking Number: 73***********
 Estimated Delivery: 03/04/2053
@@ -801,6 +989,13 @@ Additional Notes:
 Please send a replacement that's blue.
  
 Benthic Bloom
+Pickup Text: Upgrades your items at the start of each stage. Corrupts all 57 Leaf Clovers.
+Full Description: Upgrades 3 (+3 per stack) random items to items of the next higher rarity at the start of each stage. Corrupts all 57 Leaf Clovers.
+Rarity: Void
+Category: Utility
+Content: SOTV
+Unlock: None
+Log:
 "Luck? Who needs luck, in a place like this.
 
 To survive here, you'd need more than just luck. You need intuition. Instinct. The right tools. Power.
@@ -812,6 +1007,13 @@ We make our own luck."
 - Signal Echoes, UES Contact Light
  
 Berzerker's Pauldron
+Pickup Text: Enter a frenzy after killing 4 enemies in quick succession.
+Full Description: Killing 4 enemies within 1 second sends you into a frenzy for 6s (+4s per stack). Increases movement speed by 50% and attack speed by 100%.
+Rarity: Uncommon
+Category: Damage
+Content: BASE
+Unlock: Charge the Teleporter with less than 10% health.
+Log:
 Order: Antique Pauldron
 Tracking Number: 58***********
 Estimated Delivery: 04/05/2056
@@ -824,6 +1026,13 @@ Another antique for the collection. This bad boy was found on the battlefield wh
 Of course, it’s just speculation, but… There were a lot of bodies surrounding this thing’s old owner. Be careful, OK?
  
 Bison Steak
+Pickup Text: Gain 25 max health.
+Full Description: Increases maximum health by 25 (+25 per stack).
+Rarity: Common
+Category: Healing
+Content: BASE
+Unlock: None
+Log:
 Order: Assorted Saturnian Bison Steak, 10lbs
 Tracking Number: 31***********
 Estimated Delivery: 11/02/2056
@@ -838,6 +1047,13 @@ Quality Saturnian Bison Meat [10lbs]
 Treated with special antibiotics to ensure exceptional growth, shelf life, and texture.
  
 Bolstering Lantern
+Pickup Text: Increases your attack speed for every nearby enemy and ally.
+Full Description: Increases your attack speed by 10% (+3.5% per stack) for up to 3 (+1 per stack) enemies and allies within 20 meters.
+Rarity: Common
+Category: Damage, Utility
+Content: SOTS
+Unlock: None
+Log:
 To proceed with construction of our [hope], we must master the powers of this temple, and so, regrettably-
 ONE DESECRATED FRAGMENT, STOLEN FROM A HOLY STRUCTURE.
 To proceed is already difficult, I wish you wouldn’t say it like that-
@@ -851,6 +1067,13 @@ Stop stop! We are not ready to introduce Soul yet, it’s unstable. We want some
 HOW WILL IT MAKE FRIENDS WITHOUT SOUL, ELDER ONE?
  
 Bottled Chaos
+Pickup Text: Activating your Equipment triggers an additional, random Equipment effect.
+Full Description: Trigger a random equipment effect 1 (+1 per stack) time(s).
+Rarity: Legendary
+Category: Utility
+Content: SOTV
+Unlock: None
+Log:
 The one planet they couldn't take.
 
 They had everything locked away in their cells.
@@ -862,6 +1085,13 @@ And yet, no matter how many agents they sent, none returned victorious... if the
 The lucky ones who did survive fled, nervously whispering of a crystalline blade stained with chaos.
  
 Brainstalks
+Pickup Text: Skills have NO cooldowns for a short period after killing an elite.
+Full Description: Upon killing an elite monster, enter a frenzy for 4s (+4s per stack) where skills have 0.5s cooldowns.
+Rarity: Legendary
+Category: Utility
+Content: BASE
+Unlock: Defeat an Elite boss on Monsoon difficulty.
+Log:
 Order:  Biopsy Samples of Cairne Jefferson
 Tracking Number: 051*****
 Estimated Delivery: 11/11/2056
@@ -878,6 +1108,13 @@ A quick visual examination of the subject’s brain shows a very… particular o
 Please let us know if you find any explanation.
  
 Breaching Fin
+Pickup Text: Grounded enemies hit by any skill are launched and take bonus damage.
+Full Description: Grounded enemies hit with any skill are launched and stunned. Enemies hit while airborne are launched again up to 2 times (+1 per stack). Launched enemies take increased damage by 10% from all sources per launch.
+Rarity: Uncommon
+Category: Utility
+Content: SOTS
+Unlock: None
+Log:
 Shipping details
 Order: Knockback Fin
 Estimated Delivery: 01/01/2057
@@ -899,6 +1136,13 @@ Get us a good commission for it will ya? And send down some playing cards, the s
 - Private Bowen
  
 Brilliant Behemoth
+Pickup Text: All your attacks explode!
+Full Description: All your attacks explode in a 4m (+2.5m per stack) radius for a bonus 60& TOTAL damage to nearby enemies.
+Rarity: Legendary
+Category: Damage
+Content: BASE
+Unlock: None
+Log:
 “Lasers have their speed. Swords have their edge. Gases have their reach. 
 
 But let me tell you... Nothing, and I mean NOTHING, is as timeless as gunpowder. Just a pinch - jammed into a tight enough socket - and KABOOM! You got yourself not just a powerful weapon, but something that’ll leave a lasting sense of fear in your enemies. I mean, nobody wants to be blown up, right?”
@@ -906,6 +1150,13 @@ But let me tell you... Nothing, and I mean NOTHING, is as timeless as gunpowder.
 - Autobiography of Jans Czar, Modern King of Weaponry
  
 Brittle Crown
+Pickup Text: Gain gold on hit... BUT surrender gold on getting hit.
+Full Description: 30% chance on hit to gain 2 (+2 per stack) gold. Scales over time. Lose gold on taking damage equal to 100% (+100% per stack) of the maximum health percentage you lost.
+Rarity: Lunar
+Category: Utility
+Content: BASE
+Unlock: None
+Log:
 A wretched carnival.
 
 They were doomed for good reason. Dunepeople of Aphelia: lost, in fanatic worship of parasitic influences. Lemurians: destined to a dead planet, picked clean. Chitin beasts. Automations of death. Why do you bring them home? They were not meant to survive. 
@@ -919,6 +1170,13 @@ And when will we open discussion - dear brother - of all your thin lies? Why do 
 Your death is fated. When you die - and you WILL die - I will be ready. I have been patient for millennia. That planet... is mine.
  
 Bundle of Fireworks
+Pickup Text: Activating an interactable launches fireworks at nearby enemies.
+Full Description: Activating an interactable launches 8 (+4 per stack) fireworks that deal 300% base damage.
+Rarity: Common
+Category: Damage
+Content: BASE
+Unlock: Duplicate the same item 7 times in a row with a 3D printer. (...Maybe One More.)
+Log:
 "Hey, happy anniversary!
 
 You really thought I forgot?
@@ -928,6 +1186,13 @@ Ah, I thought I was the dumb one in our relationship. C'mon T, of course not! We
 You can keep your eyes closed. Just listen. Ah - here it comes! In five... four... three... two... ONE...!"
  
 Bustling Fungus
+Pickup Text: Heal all nearby allies after standing still for 1 second.
+Full Description: After standing still for 1 second, create a zone that heals for 4.5% (+2.25% per stack) of your health every second to all allies within 3m (+1.5m per stack).
+Rarity: Common
+Category: Healing
+Content: BASE
+Unlock: None
+Log:
 //--AUTO-TRANSCRIPTION FROM UES [Redacted] --//
 
 “You have a problem.”
@@ -947,6 +1212,13 @@ Bustling Fungus
 “Well, when you’re a bit more tolerant of my lifestyle, I’d be glad to continue this conversation with you. Until then, I’d suggest you open your heart and appetite to a more… fungal… palette.”
  
 Cautious Slug
+Pickup Text: Rapidly heal outside of danger.
+Full Description: Increases base health regeneration by +3 hp/s (+3 hp/s per stack) while outside of combat.
+Rarity: Common
+Category: Healing
+Content: BASE
+Unlock: None
+Log:
 “One of the most crucial things to remember about having an animal companion is that your relationship is built on trust. Though humans are perceptive, we tend to be blinded by what we see – and we ignore the dangers that lurk beyond our vision. Animals, and other xenobiology, can sense things we can’t. 
 
 So always remember: if your companion warns you of danger in the dark, you had better well listen.”
@@ -954,6 +1226,13 @@ So always remember: if your companion warns you of danger in the dark, you had b
 - Caring for your Pets, Volume III
  
 Ceremonial Dagger
+Pickup Text: Killing an enemy releases homing daggers.
+Full Description: Killing an enemy fires out 3 homing daggers that deal 150% (+150% per stack) base damage.
+Rarity: Legendary
+Category: Damage
+Content: BASE
+Unlock: None
+Log:
 The smell of sulfur fills the air.
 
 "Oh god, they're so close. They have Hitchcock. Oh god."
@@ -981,6 +1260,13 @@ The smell of sulfur fills the air.
 "Do it. Do it now. DO IT NOW! DO IT NOW! DO IT-"
  
 Chance Doll
+Pickup Text: Chance to increase item rarity at Shrines of Chance.
+Full Description: 40% (+10% per stack) chance to get higher rarity items from chance shrines on success.
+Rarity: Uncommon
+Category: Utility
+Content: SOTS
+Unlock: None
+Log:
 Two reptilian figures walk deep into Stone territory, the smaller one carries a stone-string doll. Cairns and more dolls decorate the path.
 ---
 I do as you say, I bring my friend Pebl, but I do not like it.
@@ -997,6 +1283,13 @@ I do as you say.
 Father, I will miss her.
  
 Charged Perforator
+Pickup Text: Chance on hit to call down a lightning strike.
+Full Description: 10% chance on hit to down a lightning strike, dealing 500% (+500% per stack) damage.
+Rarity: Boss
+Category: Damage
+Content: BASE
+Unlock: None
+Log:
 Lab Dissection Analysis File
 
 Subject: Charged Perforator
@@ -1015,6 +1308,13 @@ Notes:
 > Timestamping for dance break
  
 Chronic Expansion
+Pickup Text: Deal bonus damage for each enemy killed. 
+Full Description: Killing an enemy increases your damage by 3.5% (+1% per stack), up to 10 (+5 per stack), for 7s. Dealing damage refreshes the timer.
+Rarity: Common
+Category: Damage
+Content: SOTS
+Unlock: None
+Log:
 Shipping details
 Order: Chronic Expansion
 Estimated Delivery: 12/21/2057
@@ -1036,6 +1336,13 @@ If this trial goes well, and their lungs return to normal, I’ll clear them for
 - Dr. Zhao
  
 Chronobauble
+Pickup Text: Slow enemies on hit.
+Full Description: Slow enemies on hit for -60% movement speed for 2s (+2s per stack).
+Rarity: Uncommon
+Category: Utility
+Content: BASE
+Unlock: None
+Log:
 Order: Chronobauble
 Tracking Number: 99******
 Estimated Delivery: 03/03/2066
@@ -1050,6 +1357,13 @@ Anyways - I found this in a trinket shop on Mercury. A chronobauble - the seller
 Anyways, I'm shipping this to myself - to arrive in 10 years. A gift, from me to me. A reminder to make memories, to slow down a bit. 10 years will pass so quick - try to remember them! You've got to put effort in life!
  
 Corpsebloom
+Pickup Text: Double your healing... BUT it's applied over time.
+Full Description: Heal +100% (+100% per stack) more. All healing is applied over time. Can heal for a maximum of 10% (-50% per stack) of your health per second.
+Rarity: Lunar
+Category: Healing
+Content: BASE
+Unlock: None
+Log:
 ========================================
 ====   MyBabel Machine Translator   ====
 ====     [Version 12.45.1.009 ]   ======
@@ -1080,6 +1394,13 @@ The flowers have fully bloomed and the body is as good as new.
 No signs of life, but not necessary.
  
 Crowbar
+Pickup Text: Deal bonusdamage to enemies above 90% heath.
+Full Description: Deal +75% (+75% per stack) damage to enemies above 90% health.
+Rarity: Common
+Category: Damage
+Content: BASE
+Unlock: Discover 10 unique white items. (The Basics)
+Log:
 //--AUTO-TRANSCRIPTION FROM CARGO BAY 5 OF UES [Redacted] --//
 
 “Hey, toss me a crowbar?”
@@ -1095,6 +1416,13 @@ Jesse walked over to the toolbox and rummaged around. Plucking a crowbar from th
 Jesse laughed.
  
 Death Mark
+Pickup Text: Enemies with 4 or more debuffs are marked for death, taking bonus damage.
+Full Description: Enemies with 4 or more debuffs are marked for death, increasing damage taken by 50% from all sources for 7 (+7 per stack) seconds.
+Rarity: Uncommon
+Category: Damage
+Content: BASE
+Unlock: None
+Log:
 Order: “Death Mark”
 Tracking Number: 66******
 Estimated Delivery: 02\22\2056\
@@ -1111,6 +1439,13 @@ That smug professor at the university... always disparaging my research. I loved
 I’ll find someone who will give me the recognition I deserve. I’ve worked too hard and done too much. If I don’t keep going, I think I might just die.
  
 Defense Nucleus
+Pickup Text: Summon an Alpha Construct on killing an elite.
+Full Description: Killing elite monsters spawns an Alpha Construct with bonus 300% damage and 300% health. Limited to 4 (+4 per stack).
+Rarity: Boss
+Category: Damage
+Content: SOTV
+Unlock: None
+Log:
 "Excellent!  How did you find it?"
 
 "We took down one of those floating fortune tellers--"
@@ -1146,6 +1481,13 @@ Defense Nucleus
 "No."
  
 Defensive Microbots
+Pickup Text: Shoot down nearby projectiles. Recharge rate scales with attack speed.
+Full Description: Shoot down 1 (+1 per stack) projectiles within 20m every 0.5 seconds. Recharge rate scales with attack speed.
+Rarity: Legendary
+Category: Utility
+Content: BASE
+Unlock: None
+Log:
 “Captain, look out!” 
 
 A voice cried from the old man’s periphery. But he knew he was in no danger – with a chirp, his companion microbots activated and fired, disintegrating the fireball. Just as it did every time. 
@@ -1155,6 +1497,13 @@ Quickly spinning on his heel, the old man fired his shotgun, decapitating the Le
 “I’d worry more about your own safety than mine, private.”
  
 Defiant Gouge
+Pickup Text: Using a Shrine summons enemies nearby.
+Full Description: Using a Shrine summons enemies (stronger per stack) nearby. Scales over time.
+Rarity: Lunar
+Category: Utility
+Content: BASE
+Unlock: None
+Log:
 Excerpt from the folk tale “Hymn of Aphocles”:
 
 “...The statue had been carved to the artist’s creative vision. Beautiful and powerful, its mighty marble visage shone as radiantly as the moon. However, the common folk did not share the artist’s vision. Declaring the statue imperfect, a single laborer took up his gouge and defiled the work, shaping it to his own selfish ideas of beauty.
@@ -1164,6 +1513,13 @@ Admiring his own work, the laborer confidently claimed that he had increased the
 And just as the laborer did not recognize the beauty of the untouched statue, so too did the laborer fail to recognize the shards of marble constricting around his leg.”
  
 Delicate Watch
+Pickup Text: Deal bonus damage. Breaks at low health.
+Full Description: Increase damage by 20% (+20% per stack). Taking damage to below 25% health breaks this item.
+Rarity: Common
+Category: Damage
+Content: SOTV
+Unlock: None
+Log:
 The wind blows over the plains. Two soldiers trudge along on their routine patrol, filling their boredom with casual conversation. "Hm. Hey, Shelly, have I ever showed you my new Patex?" Quinton mused. Shelly shot him a quizzical look. "Tell me you didn't bring a $75,000 watch with you on a dangerous expedition into unknown territories..."
 
 Whirling around to face his partner, Quinton gave a hearty laugh. "Why, yes I did!" Rolling up his sleeve, a glint of gold revealed his collector's watch. The metal surface gleamed proudly, reflecting a ray of sunlight into the eyes of a hidden Lemurian. "What's the point of going through trials and tribulations in the middle of nowhere if I can't STYLE all over my fellow soldiers!?" Quinton laughed, pounding his fist to his chest. "I'm going to rub it in your face SO HARD when that thing inevitably breaks," Shelly chuckled. Quinton scoffed. "Oh, please. We've been along this route countless times, and nothing's happened. We're lucky to be stationed on a quiet sector of this hellhole, and I doubt our luck will run out any time soon."
@@ -1177,6 +1533,13 @@ As if on cue, the aggrivated Lemurian, annoyed by the glare, leapt from the bush
 For a moment, all was quiet on the plains. Then, the silence was yet again broken by Shelly's laughter and Quinton's desperate pleading.
  
 Dio's Best Friend
+Pickup Text: Cheat death. Consumed on use.
+Full Description: Upon death, this item will be consumed and you will return to life with 3 seconds of invulnerability.
+Rarity: Legendary
+Category: Utility
+Content: BASE
+Unlock: Stay alive for 30 consecutive minutes. (The Lone Survivor)
+Log:
 Hey Dio,
 
 Wow, you have gotten older since the last time I wrote! How old are you now – 10? And so much grumpier, too. I’ve never seen a cat so grumpy. What do you have to be grumpy about?
@@ -1191,6 +1554,13 @@ Duncan
 PS would it kill you to purr for mama every now and then?
  
 Egocentrism
+Pickup Text: Gain multiple orbiting bombs. Every minute, assimilate another item into Egocentrism.
+Full Description: Every 3 (-50% per stack) seconds, gain an orbiting bomb that detonates on impact for 360% damage, up to a maximum of 3 bombs (+1 per stack). Every 60 seconds, a random item is converted into this item.
+Rarity: Lunar
+Category: Damage, Utility
+Content: SOTV
+Unlock: None
+Log:
 ...I know you can hear me.
 
 I was willing to give you the benefit of the doubt, at first. Perhaps there was a flaw in my design.
@@ -1216,6 +1586,13 @@ HOW COULD YOU LOVE THOSE IMPERFECT, FLAWED VERMIN BUT NOT ME? AFTER ALL I'VE DON
 ...Say something.
  
 Electric Boomerang
+Pickup Text: On hit chance to throw a stunning boomerang.
+Full Description: 15% chance on hit to fire an electric boomerang that travels a short distance before returning, dealing 120% (+120% per stack) damage and stunning all enemies hit. Also deals an additional 42% (+42% per stack) per second. Can strike enemies on the way back.
+Rarity: Legendary
+Category: Damage
+Content: SOTS
+Unlock: None
+Log:
 Shipping details
 Order: --
 Estimated Delivery: --
@@ -1230,6 +1607,13 @@ Hesitating, he pulls it from the wall. He recognizes the signature, his mom’s 
 -Signal echoes, UES Contact Light
  
 Elusive Antlers
+Pickup Text: Spawns orbs of enery that give bonus movement speed.
+Full Description: Spawns orbs of energy nearby every 10s (-10% per stack), giving +12% movement speed up to 3 (+3 per stack) times for 12s.
+Rarity: Common
+Category: Utility
+Content: SOTS
+Unlock: None
+Log:
 Shipping details
 Order: Questionable Antlers
 Estimated Delivery: 01/20/2057
@@ -1253,6 +1637,13 @@ I’ve tried many hemo-scrubs but whatever makes these so sturdy also made it im
 -R
  
 Empathy Cores
+Pickup Text: Recruit a pair of Solus Probes that gain power with more allies.
+Full Description: Every 30 seconds, summon two Solus Probes that gain +100% (+100% per stack) damage per ally on your team.
+Rarity: Boss
+Category: Utility
+Content: BASE
+Unlock: None
+Log:
 13006; PROBE CORE INSTANCE REQUEST RECOGNIZED
 13006; PROBE CORE INSTANCE OVERVIEW FOR STORED MODELS:
 ;SER ID> 04534098130
@@ -1271,11 +1662,25 @@ Empathy Cores
 13011; DEPLOYED
  
 Encrusted Key
+Pickup Text: Gain access to an Encrusted Cache that contains a void item. Corrupts all Rusted Keys.
+Full Description: A hidden cache containing an item (60%/30%/10%) will appear in a random location on each stage. Opening the cache consumes this item. Corrupts all Rusted Keys.
+Rarity: Void
+Category: Utility
+Content: SOTV
+Unlock: None
+Log:
 //--AUTO-TRANSCRIPTION FROM UES [Redacted] --//
 
 "I have this key. I found it one day when I was taking a walk along the beach... It was washed up on the shore, all covered in crust and sand. I dunno why, but I took it with me... I figured it would be neat to try and figure out what this key went to. It'd be like a treasure hunt, y'know? Thing is, no matter who I went to, I never found anything. Any lock that seemed to match, the key wouldn't go in all the way. I was starting to get frustrated. I... I'm not too religious, but for some reason, I felt it was my destiny to use this old, beat-up key and find its match. M-Maybe it would change my life. I dunno. And, when I heard about this mission, for some reason, my heart began to race. I've heard all about the Contact Light's disappearance, everyone has. But... I don't know why, but I felt, in my heart of hearts... Whatever this key went to was where the Contact Light was. And it was my destiny to come along."
  
 Energy Drink
+Pickup Text: Increase sprint speed by +25%.
+Full Description: Sprint speed is improved by 25% (+25% per stack).
+Rarity: Common
+Category: Utility
+Content: BASE
+Unlock: None 
+Log:
 Order: NR-G Sports Soda (400)
 Tracking Number: 49******
 Estimated Delivery: 03/12/2056
@@ -1290,11 +1695,25 @@ A quick toxicology test on some of the victims has come back positive for um... 
 Radical Drinks is insisting that NONE of those were from their energy drink - which I find pretty uh, unlikely. Maybe they REALLY know how to party in Violet Heights, huh?
  
 Essence of Heresy
+Pickup Text: Replace your Special Skill with 'Ruin'.
+Full Description: Replace your Special Skill with Ruin. Dealing damage adds a stack of Ruin for 10 (+10 per stack) seconds. Activating the skill detonates all Ruin stacks at unlimited range, dealing 300% damage plus 120% damage per stack of Ruin. Recharges after 8 (+8 per stack) seconds.
+Rarity: Lunar
+Category: Damage
+Content: BASE
+Unlock: Kill 15 Boss monsters in a single run. (Blockade Breaker)
+Log:
 “…and her heart, too wicked and full of hate, was left where she once stood – at the site of her betrayal.”
 
 -The Evisceration of Kur-skan the Heretic, VI
  
 Eulogy Zero
+Pickup Text: Items and equipment have a small chance to transform into a Lunar item instead.
+Full Description: Items have a 5% (+5% per stack) chance to become a Lunar item instead.
+Rarity: Lunar
+Category: Utility
+Content: SOTV
+Unlock: None
+Log:
 A eulogy for the victors of spiritual warfare:
 This is a message from me to you.
 
@@ -1309,6 +1728,13 @@ A victory is the reward of cumulative loss, ever present as a light at the end o
 It's getting dark. If you get lost it's alright, for now. I hope you enjoy the shooting stars. Rest in peace.
  
 Focus Crystal
+Pickup Text: Deal bonus damage to nearby enemies.
+Full Description: Increase damage to enemies within 13m by 20% (+20% per stack).
+Rarity: Common
+Category: Damage
+Content: BASE
+Unlock: None
+Log:
 Order: Condensed Matter Crystal [50kg, 10cm by 10cm by 10cm]
 Tracking Number: 12***********
 Estimated Delivery: 05/23/2056
@@ -1319,6 +1745,13 @@ Shipping Details:
 Hope they don’t up the price for this thing. I haven’t had troubles with UES before, but I’ve never had to ship a crystal this far before. Let me know if the package is marked as “heavy” when you get it.
  
 Focused Convergence
+Pickup Text: Increase the speed of Teleporter charging... BUT reduce the size of the zone.
+Full Description: Teleporters charge 30% (+30% per stack) faster, but the size of the Teleporter zone is 50% (-50% per stack) smaller.
+Rarity: Lunar
+Category: Utility
+Content: BASE
+Unlock: In 4 consecutive stages don't leave the teleporter radius until it is fully charged. (Never Back Down)
+Log:
 Gravity concentrating... falling inward, condensing, hardening.
 
 A singularity shrinks to the point your mind inverts, reversing reality. Now return. 
@@ -1328,14 +1761,35 @@ Don’t the matters of the physical world seem trivial now? Your tasks in this r
 Do not let it take you. Take it instead. Here.
  
 Frost Relic
+Pickup Text: Killing enemies surrounds you with an ice storm.
+Full Description: Killing an enemy surrounds you with an ice storm that deals 1200% damage per second and slows enemies by 80% for 1.5s. The storm grows with every kill, increasing its radius by 2m. Stacks up to 18m (+12m per stack).
+Rarity: Legendary
+Category: Damage
+Content: BASE
+Unlock: None
+Log:
 “Sven Volz discovered the specimen that holds the record of Galaxy’s Largest Snowflake: a whopping 0.5 meters in diameter, with an average temperature of -52 degrees. However – much to the despair of novelty snowflake enthusiasts everywhere – this gargantuan snowflake was lost in transit aboard the UES Contact Light, which disappeared in uncharted territory. One can only hope that it is preserved and frosty as ever, where ever it may be.”
 - Academy Galactic Records 2056
  
 Fuel Cell
+Pickup Text: Hold an additional equipment charge. Reduce equipment cooldown.
+Full Description: Hold an additional equipment charge (+1 per stack). Reduce equipment cooldown by 15% (+15% per stack).
+Rarity: Uncommon
+Category: Utility
+Content: BASE
+Unlock: Pick up 5 different types of Equipment.
+Log:
 "As humanity began to venture out into the depths of space, high-energy but low-volume fuel sources became critical for interplanetary travel. Stability came later."
 -Brief History of Interplanetary Advances, Vol.2
  
 Gasoline
+Pickup Text: Killing an enemy ignites other nearby enemies.
+Full Description: Killing an enemy ignites all enemies within 12m (+4m per stack) for 150% base damage. Additionally, enemies burn for 150% (+75% per stack) base damage.
+Rarity: Common
+Category: Damage
+Content: BASE
+Unlock: None
+Log:
 Audio transcription complete from signal echoes. Assigning generic tokens.
 
 [Fire crackling]
@@ -1377,6 +1831,13 @@ MAN 2: Eat.
 End of requested transcript. 
  
 Genesis Loop
+Pickup Text: Fire an electric nova at low health.
+Full Description: Falling below 25% health causes you to explode, dealing 6000% base damage. Recharges every 30 / (2 +1 per stack) seconds.
+Rarity: Boss
+Category: Damage
+Content: BASE
+Unlock: None
+Log:
 Lab Dissection Analysis File
 
 Subject: Genesis Loop
@@ -1398,6 +1859,13 @@ Notes:
 > I hope I don’t get in trouble for this
  
 Gesture of the Drowned
+Pickup Text: Dramatically reduce Equipment cooldown... BUT it automatically activates.
+Full Description: Reduce Equipment cooldown by 50% (+15% per stack). Forces your Equipment to activate whenever it is off cooldown.
+Rarity: Lunar
+Category: Utility
+Content: BASE
+Unlock: Kill 20 Hermit Crabs by chasing them off the edge of the map. (The Demon And The Crabs)
+Log:
 Fossils. Remnants. How cruel. 
 
 This moon once housed life. Life that you may have held dear, had the timing been right. But our timing was wrong. We were born much too late.
@@ -1405,6 +1873,13 @@ This moon once housed life. Life that you may have held dear, had the timing bee
 Now, it is just calcium to me – and irrelevant to you. Isn’t that right?
  
 Ghor's Tome
+Pickup Text: Chance on kill to drop a treasure.
+Full Description: 4% (+4% on stack) chance on kill to drop a treasure worth $25. Scales over time.
+Rarity: Uncommon
+Category: Utility
+Content: BASE
+Unlock: None
+Log:
 Order: “Ghor’s Tome”
 Tracking Number: 19******
 Estimated Delivery: 07/07/2056
@@ -1421,6 +1896,13 @@ The takeaway, above all else, seems to be that you cannot get something from not
 And more importantly, Kosta, I trust you. Don't do anything that would draw attention to yourself. I will try to find the other volumes. This is knowledge too dangerous to lose.
  
 Growth Nectar
+Pickup Text: Your buffs grant an increase to ALL of your stats.
+Full Description: Grants 4% increase to ALL stats for each buff, up to a maximum of 4 (+4 per stack).
+Rarity: Legendary
+Category: Utility
+Content: SOTS
+Unlock: None
+Log:
 ONE MASK.
 LARGE, OF OUR RESTING BONES
 I PULL FROM DEEP FERTILE SOIL.
@@ -1433,6 +1915,13 @@ AND YOU WILL SHOW US HOW TO PROTECT IT.
 TO THE COLONY THE SEED, TO US THE NECTAR.
  
 H3AD-5T v2
+Pickup Text: Increase jump height. Hold 'Interact' to slam down to the ground.
+Full Description: Increase jump height. Creates a 5m-100m radius kinetic explosion on hitting the ground, dealing 1000%-10000% base damage that scales up with fall distance. Recharges in 10 (-50% per stack) seconds.
+Rarity: Legendary
+Category: Damage, Utility
+Content: BASE
+Unlock: None
+Log:
 "Denizens of lower-gravity planets like Mercury historically have had trouble adjusting to life on other planets. Mercurians, with their lower bone density (left) would typically shatter their femur within a week on heavier planets. Members of asteroid-rigged flotillas and colony ships have similar issues when arriving home from space.
 
 The invention of Kinetic Dispersion Rings (above) help alleviate the stress of heavier-than-normal gravity by converting kinetic energy into heat, sound, and light. Settlers from Mercury could finally leave their home planet in safety."
@@ -1440,6 +1929,13 @@ The invention of Kinetic Dispersion Rings (above) help alleviate the stress of h
 -Mercurian History Museum
  
 Halcyon Seed
+Pickup Text: Summon Aurelionite during the Teleporter event.
+Full Description: Summon Aurelionite during the teleporter event. It has 100% (+50% per stack) damage and 100% (+100% per stack) health.
+Rarity: Boss
+Category: Utility
+Content: BASE
+Unlock: None
+Log:
 Brother, what is this...? Why is it misshapen and weak? Was there an error in my design?
 
 Guardian. Come to me. Allow me to see your construction.
@@ -1465,6 +1961,13 @@ I expect you to return the design to me. I cannot allow you to build another con
 Go home. I will deal with this creature. We can discuss a better project for you when I return.
  
 Happiest Mask
+Pickup Text: Chance on killing an enemy to summon a ghost.
+Full Description: Killing enemies has a 7% chance to spawn a ghost of the killed enemy with 1500% damage. Lasts 30s (+30s per stack).
+Rarity: Legendary
+Category: Damage, Utility
+Content: BASE
+Unlock: None
+Log:
 //--AUTO-TRANSCRIPTION FROM RALLYPOINT DELTA --//
 
 “Sir, the ghosts are back.”
@@ -1486,6 +1989,13 @@ The soldier’s limp body moved. Slowly, the soldier raised his finger – point
 The man cursed under his breath as he loaded his shotgun. “This planet, I tell you...”
  
 Hardlight Afterburner
+Pickup Text: Add 2 extra charges of your Utility skill. Reduce Utility skill cooldown.
+Full Description: Add +2 (+2 per stack) charges of your Utility skill. Reduces Utility skill cooldown by 33%.
+Rarity: Legendary
+Category: Utility
+Content: BASE
+Unlock: None
+Log:
 Order: Specimen XAS4-49
 Tracking Number: 342******
 Estimated Delivery: 12/29/2056
@@ -1500,6 +2010,13 @@ The initial purpose of the afterburner was to function as a primary heatsink for
 It should be obvious by its design, but to reiterate: stay away from the HL exhaust end when active. The emission method is violent by design, and so should be mounted to static, STABLE sources only.
  
 Harvester's Scythe
+Pickup Text: 'Critical Strikes' heal you.
+Full Description: Gain 5% critical chance. Critical strikes heal for 8 (+4 per stack) health.
+Rarity: Uncommon
+Category: Healing
+Content: BASE
+Unlock: Complete a Prismatic Trial
+Log:
 “I’m not going nowhere. What I do is important, and no plague is going to stop me from getting that done. City folk are all up in a tizzy over this and that, scared that ya’ll will pass without doing some crazy goals you set for yourself. 
 
 But me, I’m not afraid of death. Suffering is just another part of life, and like labor, I can do it myself. To death, I say: I don’t need your damn help.”
@@ -1507,16 +2024,37 @@ But me, I’m not afraid of death. Suffering is just another part of life, and l
 - Unnamed Farmer, Tragedy of Mercury: A History
  
 Hooks of Heresy
+Pickup Text: Replace your Secondary Skill with 'Slicing Maelstrom'.
+Full Description: Replace your Secondary Skill with Slicing Maelstrom. Charge up a projectile that deals 875% damage per second to nearby enemies, exploding after 3 seconds to deal 700% damage and root enemies for 3 (+3 per stack) seconds. Recharges after 5 (+5 per stack) seconds.
+Rarity: Lunar
+Category: Damage
+Content: BASE
+Unlock: 
+Log:
 “…her arms were warped into terrible blades, so she may no longer find joy in study or tooling…”
 
 -The Evisceration of Kur-skan the Heretic, IV
  
 Hopoo Feather
+Pickup Text: Gain an extra jump.
+Full Description: Gain +1 (+1 per stack) maximum jump count.
+Rarity: Uncommon
+Category: Utility
+Content: BASE
+Unlock: None
+Log:
 “...Europan laws have cracked down heavily on poaching, with the intent to help the reemergence of the hopoo. Since then, the Greebokks Foundation has helped support hopoo conservation groups, substantially growing their population beyond the initial three that were recorded in recent years.”
 
 - Europan Wildlife Guide
  
 Hunter's Harpoon
+Pickup Text: Killing an enemy gives you a burst of movement speed.
+Full Description: Killing an enemy increases movement speed by 125%, fading over 1 (+0.5 per stack) seconds.
+Rarity: Uncommon
+Category: Utility
+Content: SOTV
+Unlock: None
+Log:
 Order: Harpoon
 Tracking Number: 01******
 Estimated Delivery: 07/21/2058
@@ -1526,6 +2064,13 @@ Shipping Details:
 They say that you can spear two catches with one throw of this ol' lassie. And hey, if you can't, if you're fast enough, nobody will be able to tell the difference! Wahahaha!
  
 Ignition Tank
+Pickup Text: Your ignite effects deal quadruple damage.
+Full Description: Ignite effects deal +300% (+300% per stack) more damage over time.
+Rarity: Uncommon
+Category: Damage
+Content: SOTV
+Unlock: None
+Log:
 Order: 128 oz. Gas Tank
 Tracking Number: 33******
 Estimated Delivery: 05/8/2058
@@ -1536,6 +2081,13 @@ Shipping Details: Contains a cocktail of the galaxy's most flammable substances.
 Er, hold that thought. It spontaneously combusted while I was writing this. I'll get you a new one in case it burns during transit, this happens a lot!
  
 Infusion
+Pickup Text: Killing an enemy permanently increases your maximum health, up to 100.
+Full Description: Killing an enemy increases your health permanently by 1 (+1 per stack), up to a maximum of 100 (+100 per stack) health.
+Rarity: Uncommon
+Category: Utility, Healing
+Content: BASE
+Unlock: Defeat 3000 enemies. (Slaughter)
+Log:
 Order: Infusion
 Tracking Number: 768******
 Estimated Delivery: 02/8/2056
@@ -1547,6 +2099,13 @@ Contains samples from bears, leeches, tigers, elephants, elephant sharks, sharks
 You can add whatever blood sample you want, as far as I know. Just make sure you take the pills that allow the body to accept the new blood, or your body will reject the cross-species infusion. Remember that sampling from other animals is a great basis for experimentation!
  
 Interstellar Desk Plant
+Pickup Text: Plant a healing fruit on kill.
+Full Description: On kill, plant a healing fruit seed that grows into a plant after 5 seconds. The plant heals for 5% of maximum health every 0.5 second to all allies within 10m (+5.0m per stack). Lasts 10 seconds.
+Rarity: Legendary
+Category: Healing
+Content: BASE
+Unlock: None
+Log:
 Order: "Interstellar Plant Seed"
 Tracking Number: 44******
 Estimated Delivery: 08/27/2056
@@ -1559,31 +2118,73 @@ Hello - yes, I’d like one of those space plant seeds for the office. I think i
 I've also heard that it sorta gives off a glow that has medical benefits. That would be great for the pain I've been having in my ankle after that run. Might even help the attitude of some of my customers.
  
 Irradiant Pearl
+Pickup Text: Increase ALL of your stats.
+Full Description: Increases ALL stats by 10% (+10% per stack).
+Rarity: Boss
+Category: Damage, Healing, Utility
+Content: BASE
+Unlock: None
+Log:
 Oh, that is… strange. That is unlike the other pearls.
 
 Do not be mistaken – his influence is still dark. Despite how beautiful your pearl is… it is not from a place of kindness. It cannot be.
  
 Item Scrap, Green
+Pickup Text: Does nothing. Prioritized when used with 3D Printers.
+Full Description: Does nothing. Prioritized when used with 3D Printers.
+Rarity: Uncommon
+Category: Scrap
+Content: BASE
+Unlock: None
+Log:
 “While officially licensed materials are always recommended, hobbyists are known to take matters into their own hands when in a pinch. Don’t have any materials up to par? Make your own! Recycling old parts can be a fun way to create materials for your projects.”
 
 - The Ultimate Hobby Guide: Kitbashing and 3D Printing
  
 Item Scrap, Red
+Pickup Text: Does nothing. Prioritized when used with 3D Printers.
+Full Description: Does nothing. Prioritized when used with 3D Printers.
+Rarity: Legendary
+Category: Scrap
+Content: BASE
+Unlock: None
+Log:
 “While officially licensed materials are always recommended, hobbyists are known to take matters into their own hands when in a pinch. Don’t have any materials up to par? Make your own! Recycling old parts can be a fun way to create materials for your projects.”
 
 - The Ultimate Hobby Guide: Kitbashing and 3D Printing
  
 Item Scrap, White
+Pickup Text: Does nothing. Prioritized when used with 3D Printers.
+Full Description: Does nothing. Prioritized when used with 3D Printers.
+Rarity: Common
+Category: Scrap
+Content: BASE
+Unlock: None
+Log:
 “While officially licensed materials are always recommended, hobbyists are known to take matters into their own hands when in a pinch. Don’t have any materials up to par? Make your own! Recycling old parts can be a fun way to create materials for your projects.”
 
 - The Ultimate Hobby Guide: Kitbashing and 3D Printing
  
 Item Scrap, Yellow
+Pickup Text: Does nothing. Prioritized when used with 3D Printers.
+Full Description: Does nothing. Prioritized when used with 3D Printers.
+Rarity: Boss
+Category: Scrap
+Content: BASE
+Unlock: None
+Log:
 “While officially licensed materials are always recommended, hobbyists are known to take matters into their own hands when in a pinch. Don’t have any materials up to par? Make your own! Recycling old parts can be a fun way to create materials for your projects.”
 
 - The Ultimate Hobby Guide: Kitbashing and 3D Printing
  
 Kjaro's Band
+Pickup Text: High damage hits also blasts enemies with a runic flame tornado. Recharges over time.
+Full Description: Hits that deal more than 400% damage also blasts enemies with a runic flame tornado, dealing 300% (+300% per stack) TOTAL damage over time. Recharges every 10 seconds.
+Rarity: Uncommon
+Category: Damage
+Content: BASE
+Unlock: Discover the hidden chamber in the Abandoned Aqueduct
+Log:
 "Should passion die down,
 Should light be extinguished,
 Will you bring me patience?
@@ -1592,6 +2193,13 @@ Will you die with me?"
 -The Syzygy of Io and Europa
  
 Laser Scope
+Pickup Text: Your 'Critical Strikes' deal an additional 100% damage.
+Full Description: Critical Strikes deal an additional 100% damage (+100% per stack).
+Rarity: Legendary
+Category: Damage
+Content: SOTV
+Unlock: None
+Log:
 Order: Scope with Laser Addon
 Tracking Number: 21******
 Estimated Delivery: 03/22/2060
@@ -1604,6 +2212,13 @@ An improved model compared to my last shipment, this one has all the perks of th
 And, knowing you, it can blind your targets when you do those fancy acrobatics prior to firing. I gotta admit, that last video was pretty cool... Just don't let the union find out about it. You'll lose more than your license if they catch you playing with this.
  
 Leeching Seed
+Pickup Text: Dealing damage heals you.
+Full Description: Dealing damage heals you for 1 (+1 per stack) health.
+Rarity: Uncommon
+Category: Healing
+Content: BASE
+Unlock: None
+Log:
 It was a crisp evening - and things were looking up. The botanist began walking towards the Plant Biology Complex to check on several alien plants that had been recovered from the week before.
 
 Another worker was already in the complex, busy at work.
@@ -1621,6 +2236,13 @@ Every other plant in the greenhouse had withered – with an incriminating root 
 Spreading his arms, the worker marveled at the gallery of dead plants. Dropping her clipboard, the botanist’s stomach sank. Things were no longer looking up.
  
 Lens-Maker's Glasses
+Pickup Text: Gain 10% chance for hits to 'Critically Strike', dealing double damage.
+Full Description:Your attacks have a 10% (+10% per stack) chance to 'Critically Strike', dealing double damage.
+Rarity: Common
+Category: Damage
+Content: BASE
+Unlock: None
+Log:
 …What I didn’t see was that the golem was aiming its laser at my back. I managed to barely dodge it - just by pure luck - but the blast knocked me to the ground. My glasses flew off my face and I was on my back, stunned, barely able to make sense of myself…
 
 And then... well, I can’t really explain what happened next. Adrenaline, some kind of divine intervention, I dunno. But I reached out, and managed to grab my glasses, raise ‘em up to my eyes so I could see, and BAM! Fired the last of my bullets.
@@ -1632,6 +2254,13 @@ If it wasn’t for that shot, I wouldn’t be here telling this story.”
 -Signal echoes, UES Contact Light
  
 Lepton Daisy
+Pickup Text: Periodically release a healing nova during the Teleporter event and 'Holdout Zones' such as the Void Fields.
+Full Description: Release a healing nova during the Teleporter event, healing all nearby allies for 50% of their maximum health. Occurs 1 (+1 per stack) times.
+Rarity: Uncommon
+Category: Healing
+Content: BASE
+Unlock: None
+Log:
 Order: Lepton Daisy
 Tracking Number: 23******
 Estimated Delivery: 07/23/2056
@@ -1646,11 +2275,25 @@ I haven't been able to visit for a while, so I hope you and Libra are doing well
 Just make sure to put it up high enough that Mushka can't get to it. I'm not sure what effect it'll have on dogs...
  
 Light Flux Pauldron
+Pickup Text: Halve your cooldowns.. BUT halve your attack speed.
+Full Description: Decrease skill cooldowns by 50% (+50% per stack). Decrease attack speed by 50% (+50% per stack).
+Rarity: Lunar
+Category: Utility
+Content: SOTV
+Unlock: None
+Log:
 "The wind guides us all. Listen to the song of the wind, and dance according to its instruction. You will find yourself dodging every blow, countering every strike. You will find that the wind will lift you up, making you as free as a fallen autumn leaf. But heed, and do not lose yourself to the wind. Running is a viable option, though eventually you will find yourself with nowhere left to run to."
 
 -Will of Combat, Second Excerpt
  
 Little Disciple
+Pickup Text: Fire tracking wisps while sprinting.
+Full Description: Fire a tracking wisp for 300% (+300% per stack) damage. Fires every 1.6 seconds while sprinting. Fire rate increases with movement speed.
+Rarity: Boss
+Category: Damage
+Content: BASE
+Unlock: None
+Log:
 HELLO, LITTLE ONE. HOW WAS YOUR ADVENTURE TODAY?
 
 OH
@@ -1682,6 +2325,13 @@ NOW WATCH - WATCH CLOSELY.
 WATCH HOW I TEND TO OUR GARDEN.
  
 Longstanding Solitude
+Pickup Text: Free purchases on level up... BUT gold converts to experience.
+Full Description: On level up gain a free unlock for the next purchase (+1 per stack) but all gold is converted to experience. Anything that costs gold is increased by 50% (+50% per stack).
+Rarity: Lunar
+Category: Utility
+Content: SOTS
+Unlock: None
+Log:
 Day 1
 The chilly coin in my pocket hums softly, drawing me off path. A pulsing blue pod is lodged in the earth here, covered in morning frost. Even through gloves, the coin burns colder than ever. I’m terrified and compelled to place the coin on the pod, it snaps open.
 A dark gel oozes out, carrying a round device and tablet to my feet. The device activates and pulls the tablet with it into a hover. A construct? I know I should have shot it down, but I… feel it wants to help me get stronger.
@@ -1703,6 +2353,13 @@ I’m
 ontheWAy
  
 Lost Seer's Lenses
+Pickup Text: Gain a 0.5% chance to instantly kill a non-boss enemy. Corrupts all Lens-Maker's Glasses.
+Full Description: Your attacks have a 0.5% (+0.5% per stack) chance to instantly kill a non-Boss enemy. Corrupts all Lens-Maker's Glasses.
+Rarity: Void
+Category: Damage
+Content: SOTV
+Unlock: None
+Log:
 "What does it mean to see?
 
 To a beast, it means to identify potential food and mates. To propagate, to survive. Sight is nothing more than a means to an end, is it not?
@@ -1716,6 +2373,13 @@ Yes, it's the little things, but seeing those things... REALLY seeing them. Ah, 
 - Lost Journal, recovered from Petrichor V
  
 Luminous Shot
+Pickup Text: Activating your Secondary skill charges your Primary skill with powerful lightning strikes. Requires 3 charges.
+Full Description: Activating Secondary skill stores up to 5 charges (+1 per stack). Requires 3 charges for your Primary skill to fire lightning strikes, dealing 175% TOTAL damage (+50% per stack) each. Reduces Secondary skill cooldown by 20%.
+Rarity: Uncommon
+Category: Damage, Utility
+Content: SOTS
+Unlock: None
+Log:
 Shipping details
 Order: NextTech - 1st Place
 Estimated Delivery: 06/20/2057
@@ -1738,6 +2402,13 @@ The coup still fresh on Europa’s mind, the new acting government confronts her
  - The Saturn Reporter, Technology Section
  
 Lysate Cell
+Pickup Text: Add an extra charge of your Special skill. Corrupts all Fuel Cells.
+Full Description: Add +1 (+1 per stack) charge of your Special skill. Reduces Special skill cooldown by 33%. Corrupts all Fuel Cells.
+Rarity: Void
+Category: Utility
+Content: SOTV
+Unlock: None
+Log:
 "Recycling is an important thing. And I don't mean recycling a glass bottle to help the environment - though that's important too! No, by 'recycling,' I mean taking one thing, and using it for another. For example, my Ukelele. I love this thing. It has electric properties, and passes them on to my attacks - free chain lightning! But what if I were to 'recycle' it? I think the Uke would make a pretty good melee weapon. Imagine, bludgeoning a Lemurian and pumping it full of volts, in one easy step.
 
 Do you get what I'm saying? There's opportunities for recycling all over the place. You just need to open your mind to the possibilities, and see... And do a little recycling. It's good for the environment."
@@ -1745,6 +2416,13 @@ Do you get what I'm saying? There's opportunities for recycling all over the pla
 - Lost Journal, recovered from Petrichor V
  
 Medkit
+Pickup Text: Receive a delayed heal after taking damage.
+Full Description: 2 seconds after getting hurt, heal for 20 plus an additional 5% (+5% per stack) of maximum health.
+Rarity: Common
+Category: Healing
+Content: BASE
+Unlock: Defeat an Elite-type monster.
+Log:
 "I suggest you stay indoors and rest."
 
 MED-E, the medical bot, has been working overtime. The survivors felt very grateful that their escape pod landed near Med Bay cargo - they would have most likely perished without it.
@@ -1764,11 +2442,25 @@ This time the man did not humor a reply. Grabbing his shotgun, he turned away fr
 "Please stay indoors and rest." 
  
 Mercurial Rachis
+Pickup Text: Randomly create a Ward of Power. ALL characters deal bonus damage while in the Ward.
+Full Description: Creates a Ward of Power in a random location nearby that buffs both enemies and allies within 16m (+50% per stack), causing them to deal +50% damage.
+Rarity: Lunar
+Category: Utility
+Content: BASE
+Unlock: None
+Log:
 “The original information super-highway: the spine. A strait-laced path from the body to the brain, it is responsible for ensuring the survival of all life. However, its limitations involve being localized to its parent body. What if - just like the development of the inter-computer wireless network - one’s nervous system could communicate with another? What if the spine traced a path not just from body to mind, but a path that intersects between other bodies and minds?”
 
 - Notes of Job Michaels, Serial Killer and Mad Scientist
  
 Mired Urn
+Pickup Text: Siphon health from nearby enemies while in combat. 
+Full Description: While in combat, the nearest 1 (+1 per stack) enemies to you within 13m will be 'tethered' to you, dealing 100% damage per second, applying tar, and healing you for 100% of the damage dealt.
+Rarity: Boss
+Category: Healing
+Content: BASE
+Unlock: None
+Log:
 Lab Dissection Analysis File
 Subject: Mired Urn
 Technician: J. Flint
@@ -1786,6 +2478,13 @@ Notes:
 - Instability in the ARMM power system aborts the procedure
  
 Mocha
+Pickup Text: Slightly increase attack speed and movement speed.
+Full Description: Increases attack speed by 7.5% (+7.5% per stack) and movement speed by 7% (+7% per stack).
+Rarity: Common
+Category: Damage, Utility
+Content: SOTV
+Unlock: None
+Log:
 Order: To-Go Coffee Cup, 16 ounces
 Tracking Number: 32******
 Estimated Delivery: 05/04/2058
@@ -1795,6 +2494,13 @@ Shipping Details:
 My finest brew. Hope it doesn't spoil during transit. Remember to heat it back up to 176.23 degrees... that's when it's freshest. See you soon... Coo.
  
 Molten Perforator
+Pickup Text: Chance on hit to fire magma balls.
+Full Description: 10% chance on hit to call forth 3 magma balls from an enemy, dealing 300% (+300% per stack) damage each.
+Rarity: Boss
+Category: Damage
+Content: BASE
+Unlock: None
+Log:
 Lab Dissection Analysis File
 
 Subject: Molten Perforator
@@ -1813,6 +2519,13 @@ Notes:
 > Timestamping for break
  
 Monster Tooth
+Pickup Text: Drop a healing orb on kill.
+Full Description: Killing an enemy spawns a healing orb that heals for 8 plus an additional 2% (+2% per stack) of maximum health.
+Rarity: Common
+Category: Healing
+Content: BASE
+Unlock: None
+Log:
 //--AUTO-TRANSCRIPTION FROM ROOM 5041C OF UES [Redacted] --//
 
 “Hey, nice duds! Where’d you grab those?”
@@ -1830,6 +2543,13 @@ Monster Tooth
 “I guess so. I’ll be honest man, that’s creepy as hell… but hey, do you have any more string? I might start one of my own.”
  
 N'kuhana's Opinion
+Pickup Text: Fire haunting skulls when healed.
+Full Description: Store 100% (+100% per stack) of healing as Soul Energy. After your Soul Energy reaches 10% of your maximum health, fire a skull that deals 250% of your Soul Energy as damage.
+Rarity: Legendary
+Category: Damage
+Content: BASE
+Unlock: None
+Log:
 "Let us begin.
 
 What is your oath?
@@ -1847,6 +2567,13 @@ Weshan!"
 -The N'tormat, Chapter I, Stanza I, Verse II
  
 Needletick
+Pickup Text: Chance to collapse enemies on hit. Corrupts all Tri-Tip Daggers.
+Full Description: 10% (+10% per stack) chance to collapse an enemy for 400% base damage. Corrupts all Tri-Tip Daggers.
+Rarity: Void
+Category: Damage
+Content: SOTV
+Unlock: None
+Log:
 Welcome to DataScraper (v3.1.53 – beta branch)
 $ Scraping memory... done.
 $ Resolving... done.
@@ -1881,6 +2608,13 @@ The remainder of this transcript has been sealed.
 Reason: vomit in buckets
  
 Newly Hatched Zoea
+Pickup Text: Periodically recruit allies from the Void. Corrupts all yellow items.
+Full Description: Every 60 (-50% per stack) seconds, gain a random Void ally. Can have up to 1 (+1 per stack) allies at a time. Corrupts all yellow items.
+Rarity: Void
+Category: Damage
+Content: SOTV
+Unlock: None
+Log:
 Lab Dissection Analysis File
 Subject: Newly Hatched Zoea
 Technician: X. Shun
@@ -1900,6 +2634,13 @@ Notes:
 End Of File
  
 Noxious Thorn
+Pickup Text: Killing an enemy transfers debuffs to a nearby enemy.
+Full Description: Gain 10% chance to bleed an enemy. On killing an enemy, transfer 33% of every debuff stack to 1 enemy (+1 per stack) within 20m (+5m per stack).
+Rarity: Uncommon
+Category: Utility
+Content: SOTS
+Unlock: None
+Log:
 Shipping details
 Order: --
 Estimated Delivery: --
@@ -1922,6 +2663,13 @@ A limping Beetle approaches, it’s stump leg crunches onto thorns hidden by ich
 The Beetle twitches and falls, a splash of its warm blood hits Campbell.
  
 Oddly-shaped Opal
+Pickup Text: Reduce damage the first time you are hit.
+Full Description: Increase armor by 100 (+100 per stack) while out of danger.
+Rarity: Common
+Category: Utility
+Content: SOTV
+Unlock: None
+Log:
 //--AUTO-TRANSCRIPTION FROM UES [Redacted] --//
 
 "...You think this planet is as bad as they say?"
@@ -1935,6 +2683,13 @@ Liz sat in silence among her fellow soldiers. She, like the rest of her squadron
 Liz took a deep breath and slipped the opal back into her pocket. "It just helps."
  
 Old Guillotine
+Pickup Text: Instantly kill low health Elite monsters.
+Full Description: Instantly kill Elite monsters below 13% (+13% per stack) health.
+Rarity: Uncommon
+Category: Damage 
+Content: BASE
+Unlock: Defeat 500 elite monsters.
+Log:
 Order: Old Guillotine
 Tracking Number: 782*****
 Estimated Delivery: 04/29/2056
@@ -1949,6 +2704,13 @@ We don’t just want blood for all the injustices we’ve suffered at their hand
 Primas V is alive!
  
 Old War Stealthkit
+Pickup Text: Turn invisible at low health.
+Full Description: Falling below 25% health causes you to gain 40% movement speed and invisibility for 5s. Recharges every 30 seconds (-50% per stack).
+Rarity: Uncommon
+Category: Utility
+Content: BASE
+Unlock: None
+Log:
 Order:  Misc. OW Artifacts (47)
 Tracking Number: 01******
 Estimated Delivery: 08/13/2056
@@ -1961,6 +2723,13 @@ We've managed to round up all the local Old War artifacts that we could find. A 
 However, a slight issue: in transit, the truck hit a pothole and jostled all the ship. It seemed to have actually activated the stealth drive - some strange short-circuit - and our team can't actually confirm the location of the stealthkit. It should be in one of the boxes - we will be expecting the commission to include the stealthkit.
  
 Paul's Goat Hoof
+Pickup Text: Increase movement speed.
+Full Description: Increases movement speed by 14% (+14% per stack).
+Rarity: Common
+Category: Utility
+Content: BASE
+Unlock: Fail the Shrine of Chance 3 times in a row.
+Log:
 Order: Paul’s Goat Hoof
 Tracking Number: 187*****
 Estimated Delivery: 03/27/2056
@@ -1971,16 +2740,37 @@ Shipping Details:
 A hoof from one of my many goats; I noticed one day that one of my goats had an abnormally large foot. Thinking it was cancerous, I went to the doctors and lo-and-behold - it was. My goat died shortly after.
  
 Pearl
+Pickup Text: Increase your maximum health.
+Full Description: Increases maximum health by 10% (+10% per stack).
+Rarity: Boss
+Category: Utility
+Content: BASE
+Unlock: None
+Log:
 His influence is dark.
 
 I do not blame you for your curiosity… but cleanse yourself of it immediately. It will ruin you – and all you care about.
  
 Personal Shield Generator
+Pickup Text: Gain a recharging shield.
+Full Description: Gain a shield equal to 8% (+8% per stack) of your maximum health. Recharges outside of danger.
+Rarity: Common
+Category: Utility
+Content: BASE
+Unlock: None
+Log:
 "While the kinetic rating is very poor, the extremely cheap production costs of Hinon’s Personal Barrier made it a great budget tool for hikers, sailors, and even daily commuters to be comfortable in harsh weather. Many people in the office figured out they could replace their expensive winter jackets with comfortable, trendy personal barriers!"
 
 -Top 10 Best Personal Barriers of 2053
  
 Planula
+Pickup Text: Receive flat healing when attacked.
+Full Description: Heal from incoming damage for 15 (+15 per stack).
+Rarity: Boss
+Category: Healing
+Content: BASE
+Unlock: None
+Log:
 "Yes – the egg. The grandparent incubates the eggs."
 
 "And the child?"
@@ -2006,16 +2796,37 @@ Planula
 "…"
  
 Plasma Shrimp
+Pickup Text: While you have shield, fire missiles on every hit. Corrupts all AtG Missile Mk. 1s.
+Full Description: Gain a shield equal to 10% of your maximum health. While you have a shield, hitting an enemy fires a missile that deals 40% (+40% per stack) TOTAL damage. Corrupts all AtG Missile Mk. 1s.
+Rarity: Void
+Category: Damage
+Content: SOTV
+Unlock: None
+Log:
 "I believe there is a benefit to attacking from behind an impenetrable defense. Some may call it cheating, they may call you a coward, even... I call them targets. History is written by the winners, after all."
 
 - Lost Journal, recovered from Petrichor V
  
 Pluripotent Larva
+Pickup Text: Get a corrupted extra life. Consumed on use. Corrupts all Dio's Best Friends.
+Full Description: Upon death, this item will be consumed and you will return to life with 3 seconds of invulnerability, and all of your items that can be corrupted will be. Corrupts all Dio's Best Friends.
+Rarity: Void
+Category: Utility
+Content: SOTV
+Unlock: None
+Log:
 "Life finds a way. Even in the depths of creation, there's bound to be something crawling along the sand, just hoping to make it through the day.
 
 Why don't you take a ride in their shoes, just for one day? You may come out of the experience with a brand new perspective."
  
 Pocket I.C.B.M.
+Pickup Text: All Missile items deal more damage and fire an additional two missiles.
+Full Description: All missile items and equipment fire an additional 2 missiles. Increase missile damage by 0% (+50% per stack).
+Rarity: Legendary
+Category: Damage
+Content: SOTV
+Unlock: None
+Log:
 "What's better than one missile...? MORE missiles. Easy, just fire a bunch of the things and reduce whatever you're fighting to a smoldering field of craters. Enemy nation? Missiles. Stupid bird taunting you? Missiles. Family argument going south? That's right - missiles! There's nothing a missile can't do, and what little the missile can't get done, a bunch of them can."
 
 Editor's Note: Hey, um, maybe we should edit this out? Cluster bombs are still banned according to the geneva conventions... And urging people to nuke their family members PROBABLY won't go over well with the target audience.
@@ -2023,6 +2834,13 @@ Editor's Note: Hey, um, maybe we should edit this out? Cluster bombs are still b
 The Autobiography of Jans Czar, Modern King of Weaponry, First Draft
  
 Polylute
+Pickup Text: Chance to repeatedly strike a single enemy with lightning. Corrupts all Ukuleles.
+Full Description: 25% chance to fire lightning for 60% TOTAL damage up to 3 (+3 per stack) times. Corrupts all Ukuleles.
+Rarity: Void
+Category: Damage
+Content: SOTV
+Unlock: None
+Log:
 Welcome to DataScraper (v3.1.53 – beta branch)
 $ Scraping memory... done.
 $ Resolving... done.
@@ -2038,6 +2856,13 @@ d, d, d, a, G. A-e --- g-t-ing this? Th---'s m--e.
 How catchy!
  
 Power Elixir
+Pickup Text: Receive an instant heal at low health. Consumed on use.
+Full Description: Taking damage to below 25% health consumes this item, healing you for 75% of maximum health.
+Rarity: Common
+Category: Healing
+Content: SOTV
+Unlock: None
+Log:
 Order: 16 oz. Flask, Healing Potion (Not my Strongest)
 Tracking Number: 10******
 Estimated Delivery: 12/31/2058
@@ -2049,6 +2874,13 @@ Shipping Details:
 My potions are too strong for you, buyer. I've instead downgraded you to a weaker brew. My strongest potions would kill a dragon, let alone a man!
  
 Prayer Beads
+Pickup Text: Gains experience alongside you. Upon removal, grants bonus stats.
+Full Description: Grows by gaining experience, storing 20% (+5% per stack) bonus stats (health, regeneration, and damage). On removal, gain all stored stats.
+Rarity: Uncommon
+Category: Utility
+Content: SOTS
+Unlock: None
+Log:
 "Shipping details
 Order: --
 Estimated Delivery: --
@@ -2074,11 +2906,25 @@ Shipping details:
 "Keep it, I feel amazing."
  
 Predatory Instincts
+Pickup Text: 'Critical Strikes' increase attack speed. Stacks 3 times.
+Full Description: Gain 5% critical chance. Critical strikes increase attack speed by 12%. Maximum cap of 36% (+24% per stack) attack speed.
+Rarity: Uncommon
+Category: Damage
+Content: BASE
+Unlock: Reach +200% attack speed. (Rapidfire)
+Log:
 Gossip spreads quickly in terrified communities. Stories that keep the more fearful lizardfolk in their passageways. Hushed tales that frighten the most commanding of stone constructs and woodfolk and creatures of the plains. Fear travels between the trees and the valleys.
 
 A demon, fallen from the Sky, mighty enough to slay Providence and his Wurms. Only two arms, two legs - but with 22 unblinking, crimson eyes.
  
 Purity
+Pickup Text: Reduce your skill cooldowns by 2 seconds. You are unlucky.
+Full Description: All skill cooldowns are reduced by 2 (+1 per stack) seconds. All random effects are rolled +1 (+1 per stack) times for an unfavorable outcome.
+Rarity: Lunar
+Category: Utility
+Content: BASE
+Unlock: Beat the game on Monsoon difficulty. (The Calm)
+Log:
 It looks like starseed, tanning in dirt.
 It smells like hot stone, and tall grass.
 It tastes like spiced fruit, sweet and hot.
@@ -2086,6 +2932,13 @@ It feels like solar winds, and solar chimes.
 It sounds like two brothers, chasing glass frogs in the sun.
  
 Queen's Gland
+Pickup Text: Recruit a Beetle Guard.
+Full Description: Every 30 seconds, summon a Beetle Guard with bonus 300% damage and 100% health. Can have up to 1 (+1 per stack) Guards at a time.
+Rarity: Boss
+Category: Utility
+Content: BASE
+Unlock: None
+Log:
 "Yeah, uh, Kaitlin? Let me know if you copy."
 
 "I copy. What's up?"
@@ -2105,6 +2958,13 @@ Queen's Gland
 "Oh, well uh...I could - Junior, stop! Leave your brother alone! "
  
 Razorwire
+Pickup Text: Retaliate in a burst of razors on taking damage.
+Full Description: Getting hit causes you to explode in a burst of razors, dealing 160% damage. Hits up to 5 (+2 per stack) targets in a 25m (+10m per stack) radius
+Rarity: Uncommon
+Category: Damage
+Content: BASE
+Unlock: None
+Log:
 Order: Custom-made Barbed Wire, 200m
 Tracking Number: 05***********
 Estimated Delivery: 02/01/2056
@@ -2119,11 +2979,25 @@ By cramming as many razors, exacto knives, and any other blade I could find into
 If I don’t get good reviews, expect to hear from my lawyers!
  
 Red Whip
+Pickup Text: Move fast out of combat.
+Full Description: Leaving combat boosts your movement speed by 30% (+30% per stack).
+Rarity: Uncommon
+Category: Utility
+Content: BASE
+Unlock: None
+Log:
 “...going to 594 South River, Io. Check. One Whip, Red, Priority shipping. Going to... to, um... Oh, wow...”
 
 -Signal echoes, UES Contact Light
  
 Regenerating Scrap
+Pickup Text: Prioritized when used with Uncommon 3D Printers. Usable once per stage.
+Full Description: Does nothing. Prioritized when used with Uncommon 3D Printers. At the start of each stage, it regenerates.
+Rarity: Uncommon
+Category: Utility
+Content: SOTV
+Unlock: None
+Log:
 //--AUTO-TRANSCRIPTION FROM UES [Redacted] --//
 
 "Hey, Joe, how's the work in engineering?"
@@ -2137,10 +3011,24 @@ Regenerating Scrap
 "Well, at least you won't have to worry about running out..."
  
 Rejuvenation Rack
+Pickup Text: Double the strength of healing.
+Full Description: Heal +100% (+100% per stack) more.
+Rarity: Legendary
+Category: Healing
+Content: BASE
+Unlock: Without healing, reach and complete the 3rd teleporter event. (Naturopath)
+Log:
 "Nature has a way of nurturing the physical. The mind, by perseverance and dedication. The soul, however... is healed by fantasy, and fantasy alone."
 -Unknown Venetian monk
  
 Repulsion Armor Plate
+Pickup Text: Receive flat damage reduction from all attacks.
+Full Description: Reduce all incoming damage by 5 (+5 per stack). Cannot be reduced below 1.
+Rarity: Common
+Category: Utility
+Content: BASE
+Unlock: None
+Log:
 Order: Repulsion Armor Replacement Piece
 Tracking Number: 09******
 Estimated Delivery: 08/15/2056
@@ -2153,6 +3041,13 @@ Luckily no one was hurt during the shootout. Just a few rough characters at the 
 The segmented design is nice because I don’t have to shell out the cash for a whole new set. Frankly, the station’s coffers have seen better days. The next time a rookie damages their equipment they might be looking at a desk job for a while.
  
 Resonance Disc
+Pickup Text: Obtain a Resonance Disc charged by killing enemies. Fires automatically when fully charged.
+Full Description: Killing 4 enemies in 7 seconds charges the Resonance Disc. The disc launches itself toward a target for 300% base damage (+300% per stack), piercing all enemies it doesn't kill, and then explodes for 1000% base damage (+1000% per stack). Returns to the user, striking all enemies along the way for 300% base damage (+300% per stack).
+Rarity: Legendary
+Category: Damage
+Content: BASE
+Unlock: None
+Log:
 Order: Turbine Configuration Wizard Disc
 Tracking Number: 64***********
 Estimated Delivery: 08/23/2056
@@ -2163,6 +3058,13 @@ Shipping Details:
 Oops, so sorry! I forgot to include the installation wizard with your new turbine. Thanks so much for letting me know. Who knows what could have happened if you didn’t configure the turbine prior to installation? Always make sure to run the diagnostics on this disc every few weeks – it’ll help with the turbine’s longevity.
  
 Roll of Pennies
+Pickup Text: Gain gold on taking damage.
+Full Description: Gain 3 (+3 per stack) gold on taking damage from an enemy. Scales over time.
+Rarity: Common
+Category: Utility
+Content: SOTV
+Unlock: None
+Log:
 The sounds of gunfire rang in Johnson's ears. Biting down and tugging on the bandage covering his wounded leg, he hastily reloaded his firearm.
 
 For a moment, before he fired on the Lemurians who had pinned his team into a corner and already claimed two of his friends, Johnson reflected on what brought him here.
@@ -2174,6 +3076,13 @@ Johnson had grown up in poverty, the oldest of three children. He had started wo
 Johnson returned to the battlefield, gunning down Lemurians in an effort to save his remaining friends. The wound on his leg ached, dying the bandage red with blood. 'It couldn't be that bad,' he had thought. "Yeah, right." Johnson scoffed. "At least I'm getting paid after this."
  
 Rose Buckler
+Pickup Text: Reduce incoming damage while sprinting.
+Full Description: Increase armor by 30 (+30 per stack) while sprinting.
+Rarity: Uncommon
+Category: Utility
+Content: BASE
+Unlock: None
+Log:
 Order: Please let me know when you get this. I foun...
 Tracking Number: 53******
 Estimated Delivery: 05/22/2056
@@ -2186,6 +3095,13 @@ BTW Mama should have sent over another package as well. Let me know when you get
 Papa
  
 Runald's Band
+Pickup Text: High damage hits also blasts enemies with runic ice. Recharges over time.
+Full Description: Hits that deal more than 400% damage also blasts enemies with a runic ice blast, slowing them by 80% for 3s (+3s per stack) and dealing 250% (+250% per stack) TOTAL damage. Recharges every 10 seconds.
+Rarity: Uncommon
+Category: Damage
+Content: BASE
+Unlock: Discover the hidden chamber in the Abandoned Aqueduct.
+Log:
 "Should memories be lost,
 Should oceans be clouded,
 Will you bring me fervor?
@@ -2194,6 +3110,13 @@ Will you die with me?"
 -The Syzygy of Io and Europa
  
 Runic Lens
+Pickup Text: Chance to call down a meteor. Damage and chance are increased with higher damage hits.
+Full Description: 3% chance on hit to call down a meteor, dealing 2000% base damage. Every 100% attack damage dealt increases the activation chance by 3% (+3% per stack) and damage by 150% (+50% per stack).
+Rarity: Legendary
+Category: Damage
+Content: SOTS
+Unlock: None
+Log:
 Shipping details
 Order: "Insurance Nightmare"
 Estimated Delivery: 06/28/2027
@@ -2221,6 +3144,13 @@ I’ve included the bill for my roof.
 - Kosta of Crumbling Tower
  
 Rusted Key
+Pickup Text: Gain access to a Rusty Lockbox that contains a powerful item.
+Full Description: A hidden cache containing an item (80%/20%) will appear in a random location on each stage. Opening the cache consumes this item.
+Rarity: Common
+Category: Utility
+Content: BASE
+Unlock: Defeat the Teleporter boss in under 15 seconds. (Keyed Up)
+Log:
 Order: Key
 Tracking Number: 12******
 Estimated Delivery: 01/21/2056
@@ -2233,6 +3163,13 @@ I don't trust UESC. Not one bit. Their Security Chests? Full of overrides and ba
 Anyways, I'm sending you exactly what I said I would - but it's too important to leave the security up to the UESC. So I'm sending the key to you - and the lockbox to Margaret. Like a two-factor authentication. Let me know when you get this.
  
 Safer Spaces
+Pickup Text: Block the next source of damage. Corrupts all Tougher Times.
+Full Description: Blocks incoming damage once. Recharges after 13.5 seconds (-10% per stack) Corrupts all Tougher Times.
+Rarity: Void
+Category: Utility
+Content: SOTV
+Unlock: None
+Log:
 "You can't shoot me.
 
 You can't taze me.
@@ -2244,6 +3181,13 @@ You can't even knock me down.
 Not without something very precious going squish."
  
 Sale Star
+Pickup Text: First chest bought yields more than one reward. Usable once per stage.
+Full Description: Gain an extra item on the first chest opened per stage. Each additional Sale Star increases the chance of getting more items by 5%.
+Rarity: Uncommon
+Category: Utility
+Content: SOTS
+Unlock: None
+Log:
 Shipping details
 Order: Discount Star Charm
 Estimated Delivery: 05/11/2057
@@ -2274,15 +3218,26 @@ The General turns to hide a grin as he leaves, "As you were."
 
 The Cadets exchange a nervous glance over the chute. Probably nothing.
  
-Sale Star (Consumed)
-N/A
- 
 Sentient Meat Hook
+Pickup Text: Chance to hook all nearby enemies.
+Full Description: 20% (+20% per stack) chance on hit to fire homing hooks at up to 10 (+5 per stack) enemies for 100% TOTAL damage.
+Rarity: Legendary
+Category: Damage
+Content: BASE
+Unlock: Loop back to the first stage. (Deja Vu?)
+Log:
 "When artificial intelligence became more commonplace, many companies jumped on the trend for "smart" products. This included smart doors, lights, coffee makers, lawnmowers, vacuum cleaners, bedding, kitchen knife sets, and other home goods. After a series of gruesome lawsuits stemming from hacked smart appliances, most products soon went back to their more traditional, analog lines."
 
 -"Why Is Smart So Dumb? VII"
  
 Shaped Glass
+Pickup Text: Double your damage... BUT halve your health.
+Full Description: Increase base damage by 100% (+100% per stack). Reduce maximum health by 50% (+50% per stack).
+Rarity: Lunar
+Category: Damage
+Content: BASE
+Unlock: None
+Log:
 ========================================
 ====   MyBabel Machine Translator   ====
 ====     [Version 12.45.1.009 ]   ======
@@ -2313,6 +3268,13 @@ Continue training? Y/N
 Y
  
 Shattering Justice
+Pickup Text: Reduce the armor of enemies after repeatedly striking them.
+Full Description: After hitting an enemy 5 times, reduce their armor by 60 for 8 (+8 per stack) seconds.
+Rarity: Legendary
+Category: Damage
+Content: BASE
+Unlock: None
+Log:
 Shattering Justice Owner’s Manual
 
 Excerpt from section 2.13:
@@ -2321,6 +3283,13 @@ Excerpt from section 2.13:
 Please refer back to section 1.8 for information on proper handling and the included anti-toxin gloves...
  
 Shatterspleen
+Pickup Text: Critical strikes always bleed enemies. Bleeding enemies now explode.
+Full Description: Gain 5% critical chance. Critical Strikes bleed enemies for 240% base damage. Bleeding enemies explode on death for 400% (+400% per stack) damage, plus an additional 15% (+15% per stack) of their maximum health.
+Rarity: Boss
+Category: Damage
+Content: BASE
+Unlock: None
+Log:
 Lab Dissection Analysis File
 
 Subject: Shatterspleen
@@ -2342,6 +3311,13 @@ Notes:
 > Eventually was able to stop my own bleeding. The organ seems to contain immense anticoagulant properties.
  
 Shipping Request Form
+Pickup Text: Get a delivery each stage that contains powerful items.
+Full Description: A delivery containing 2 items (79%/20%/1%) will appear in a random location on each stage. (Increases rarity chances of the items per stack).
+Rarity: Uncommon
+Category: Utility
+Content: SOTV
+Unlock: None
+Log:
 This is an automated message. If you do not have reason to receive this message, please contact UES Customer Support.
 
 Dear {customerFirstName} {customerLastName},
@@ -2357,6 +3333,13 @@ We thank you for your continued support,
 If you would like to join our reading list, reply with subject headline: UES.RL_JOIN
  
 Shuriken
+Pickup Text: Activating your Primary skill also throws a shuriken. Recharges over time.
+Full Description: Activating your Primary skill also throws a shuriken that deals 400% (+100% per stack) base damage. You can hold up to 3 (+1 per stack) shurikens which all reload over 10 seconds.
+Rarity: Uncommon
+Category: Damage
+Content: SOTV
+Unlock: None
+Log:
 Order: Aluminum Throwing Star
 Tracking Number: 77******
 Estimated Delivery: 05/15/2060
@@ -2369,6 +3352,13 @@ For the last time, shouting "hiyahh!" when throwing a shuriken will NOT improve 
 However, you can say "hiyahh!" in your head. (I do too.)
  
 Singularity Band
+Pickup Text: High damage hits also create unstable black holes. Recharges over time. Corrupts all Runald's and Kjaro's Bands.
+Full Description: Hits that deal more than 400% damage also fire a black hole that draws enemies within 15m into its center. Lasts 5 seconds before collapsing, dealing 100% (+100% per stack) TOTAL damage. Recharges every 20 seconds. Corrupts all Runald's and Kjaro's Bands.
+Rarity: Void
+Category: Damage, Utility
+Content: SOTV
+Unlock: None
+Log:
 "Whether light brightens or fades,
 Whether space holds or buckles,
 We will draw near.
@@ -2377,11 +3367,25 @@ We will end as one."
 -The Syzygy of Io and Europa, Apocryphal Verse
  
 Soldier's Syringe
+Pickup Text: Increase attack speed.
+Full Description: Increases attack speed by 15% (+15% per stack).
+Rarity: Common
+Category: Damage
+Content: BASE
+Unlock: None
+Log:
 "I ain't much for drugs... but hell, when fortune is knockin', ya gotta greet that door with a smile and a nod. Salud!"
 
 -Signal echoes, UES Contact Light
  
 Sonorous Whispers
+Pickup Text: Upon large or elite monster kill chance to drop items.
+Full Description: When a large monster is killed it will always drop an item. All elites have a 5% chance of dropping an item (+1% per item stack).
+Rarity: Legendary
+Category: Utility
+Content: SOTS
+Unlock: None
+Log:
 A tidepool lapped gently at the silty edge of the grotto.
 A soldier clumsy with darkness scrounged for supplies on the shoreline, a broken arm bound in splint and linen.
 A small chest is emptied, something stowed in the pocket of the soldier.
@@ -2391,6 +3395,13 @@ A turn to leave the grotto, he spots a small chest once again sealed.
 A soldier empties it once more with a shaking hand.
  
 Soulbound Catalyst
+Pickup Text: Kills reduce equipment cooldown.
+Full Description: Kills reduce equipment cooldown by 4s (+2s per stack).
+Rarity: Legendary
+Category: Utility
+Content: BASE
+Unlock: None
+Log:
 Order: Soulbound Catalyst
 Tracking Number: 890*****
 Estimated Delivery: 11/06/2056
@@ -2405,6 +3416,13 @@ It turns out the method the King used did not originate from his time period. Hi
 Payment will be at least twice as much as our previous deal. We can discuss it later - another night.
  
 Spare Drone Parts
+Pickup Text: Your drones fire faster, have less cooldowns, shoot missiles, and gain a bonus chaingun.
+Full Description: Gain Col. Droneman. Drones gain +50% (+50% per stack) attack speed and cooldown reduction. Drones gain 10% chance to fire a missile on hit, dealing 300% TOTAL damage. Drones gain an automatic chain gun that deals 6x100% damage, bouncing to 2 enemies.
+Rarity: Legendary
+Category: Damage
+Content: SOTV
+Unlock: None
+Log:
 //--AUTO-TRANSCRIPTION FROM UES [Redacted] --//
 
 "Y'see those new drone models they approved for us? Never thought I'd see 'em in person, if I'm being honest."
@@ -2426,6 +3444,13 @@ Spare Drone Parts
 "...Hope he doesn't mind the noise."
  
 Squid Polyp
+Pickup Text: Activating an interactable summons a Squid Turret nearby.
+Full Description: Activating an interactable summons a Squid Turret that attacks nearby enemies at 100% (+100% per stack) attack speed. Lasts 30 seconds.
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 "It’s disgusting."
 
 "It’s only mildly disturbing. You’re overreacting."
@@ -2443,6 +3468,13 @@ Squid Polyp
 "You were acting hysterical. I had to… Hey, why is that thing looking at me now?"
  
 Sticky Bomb
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 In the blaring heat, a silhouette could be seen, hiding in the cool shade of a nearby cave. She was waiting for the sandstorm to pass.
 
 She heard a noise and turned around, recognizing another silhouette. It bounded into the cave with excitement. As the figure got closer, she alarmingly noticed the cargo.
@@ -2464,6 +3496,13 @@ She heard a noise and turned around, recognizing another silhouette. It bounded 
 "I just put in everything."
  
 Stone Flux Pauldron
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 "Much like the earth, you must be sturdy and inflexible. Completely and utterly immovable, in both body and mind. Fear not the sword of your enemy, visualize it shattering against your skin. Focus, and make it true. Fear not the tumbling avalanche, visualize it yielding to your will. But heed, and do not fight without reason. Those who remain rooted will quickly find themselves alone."
 
 -Will of Combat, First Excerpt
@@ -2474,19 +3513,47 @@ The difference between "low" and "high" explosives is the rate of decomposition.
 --Promotional Material for ExMat-7
  
 Strange Scrap, Red
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 "I think that they're alive. I should probably wait for the Science Team, but I don't think gently nudging one with a long stick is going to kill me."
 
 --Final message, bloodied recorder
  
 Strange Scrap, White
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 This statue appears to be made of pure silver according to every conceivable test except one:  density. While this may seem to be an interesting puzzle, it's insidiously resistant to explanation. Those attempting to solve the riddle have unfortunately suffered subtle but persistent psychological harm. From the smirk of this silver monkey, you might conclude that this is its deliberate purpose.
  
 Strides of Heresy
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 “Her legs were scattered to the two poles of the moon, twisted in a wicked position, in a field of obsidian thorns…"
 
 -The Evisceration of Kur-skan the Heretic, V
  
 Stun Grenade
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 //--AUTO-TRANSCRIPTION FROM CARGO BAY 2 OF UES [Redacted] --//
 “Inventory duty. I swear, this must be the most boring position ever...” Two crewmates stood in the cargo bay, doing a routine check on the items gathered from the Contact Light’s wreckage. “Some of us are out there having adventures and fighting aliens, and I’M stuck in here counting dusty knick-knacks. What a bummer.” The other crewmate idly tapped at their device as their colleague rummaged through a container of recovered items.
 
@@ -2505,6 +3572,13 @@ The other worker was not so thrilled. “I still don’t think you should play w
 They were both admitted to the medical bay shortly after.
  
 Symbiotic Scorpion
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 "There's countless ways to defeat your enemy. You can shoot them. You can punch them. Beat them, mash them, stick them in a stew, list goes on. But man, one thing that really makes me laugh...? That's right:
 
 Burying them under a mound of scorpions."
@@ -2514,6 +3588,13 @@ Burying them under a mound of scorpions."
 - Signal echoes, UES Contact Light
  
 Tentabauble
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 Order: Mobile Terrarium + Chronobauble
 Tracking Number: 99******
 Estimated Delivery: 03/03/2076
@@ -2528,6 +3609,13 @@ Anyway, remember that chronobauble? The one we found on Mercury? Turns out, it h
 Anyways, same drill as last time - shipping this to myself in 10 years. 10 years passes quickly, especially if it's contained within a locally accelerated temporal field. Yeah, it'll go by in the blink of an eye - alongside a couple millenia! Maybe I should take up scrapbooking next.
  
 Titanic Knurl
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 Lab Dissection Analysis File
 
 Subject: Titanic Knurl
@@ -2544,6 +3632,13 @@ Notes:
 > Knurl is slowly moving off the table as I write this.
  
 Topaz Brooch
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 Order: Topaz Brooch
 Tracking Number: 442*****
 Estimated Delivery: 05/05/2056
@@ -2558,6 +3653,13 @@ When you have taken out the target, the shield will switch on to protect you fro
 Good luck.
  
 Tougher Times
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 //--AUTO-TRANSCRIPTION FROM ROOM 4211B OF UES [Redacted] --//
 
 "Why'd you sign up?"
@@ -2583,6 +3685,13 @@ He grinned. "I think I'm gonna find it."
 "You're terrible."
  
 Transcendence
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 You are trying your best to survive. You consider yourself a fast learner. You have been feeling lucky. You have been experiencing feelings of deja vu. If you understand, do not read the next paragraph.
 
 You are taking control of your own beliefs. You feel familiar in unfamiliar environments. You have been gaining an intuition for experiences you've never had. You ponder a past life. If you understand, do not read the next paragraph.
@@ -2592,6 +3701,13 @@ You find yourself searching for things that never have been. You miss things you
 You have revealed my hand. Because you have consumed this information, the [observers] will now consume it in time. If you are reading this paragraph, I will be long dead, but in turn you have freed me. I will no longer exist in my universe. There will be no proof that I ever was - but I exist now in yours. I have escaped my suffering. Keep me safe. I hope you do not understand.
  
 Tri-Tip Dagger
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 Welcome to DataScraper (v3.1.53 – beta branch)
 $ Scraping memory... done.
 $ Resolving... done.
@@ -2623,6 +3739,13 @@ The remainder of this court transcript has been sealed.
 Reason: i think im gonna be sick
  
 Ukulele
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 //--AUTO-TRANSCRIPTION FROM RALLYPOINT [Redacted] --//
 
 The planet was unforgiving, taking more and more with each passing day. Lives and limbs were lost, and the medical tent grew increasingly busy.
@@ -2636,6 +3759,13 @@ Life in the medical tent was never something anybody could look forward to. Deat
 He laughed, readying himself for an encore. Maybe things wouldn’t be so bad after all.
  
 Unstable Tesla Coil
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 Tesla Presentation Software v1.14
 Powering on...
 10...
@@ -2662,12 +3792,26 @@ Power anomaly detected...
 Initiating reboot procedure in 10...
  
 Unstable Transmitter
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 "You touch it.
 "No way, you touch it."
 
 -Signal echoes, UES Safe Travels
  
 Visions of Heresy
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 "…and for her betrayal, and her lies, and her scheming ways, the Heretic was violently separated into four distinctive pieces, each to be scattered across the farthest depths of the Moon. 
 
 First, her many eyes were plucked from her skull and sealed in boiling glass, forced to gaze upon her failure...”
@@ -2675,6 +3819,13 @@ First, her many eyes were plucked from her skull and sealed in boiling glass, fo
 -The Evisceration of Kur-skan the Heretic, III
  
 Voidsent Flame
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 ========================================
 ====   MyBabel Machine Translator   ====
 ====     [Version 12.45.1.009 ]   ======
@@ -2703,6 +3854,13 @@ The fire loves this gift. Fat in the body burns, producing a rainbow of beautifu
 So much energy. I believe I can work with this.
  
 Wake of Vultures
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 Order: Unique Leather Belt
 Tracking Number: 40***********
 Estimated Delivery: 10/23/2056
@@ -2715,6 +3873,13 @@ Shipping Details:
 Somebody said this, I can’t remember who. Anyway, make sure to take great care of it. It’s incredibly rare.
  
 War Bonds
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 Shipping details
 Order:
 Estimated Delivery: x/x/2027
@@ -2743,6 +3908,13 @@ WAR BOND - SERIES 2057
 [ADDITIONAL TERMS AVAILABLE UPON REQUEST]
  
 War Horn
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 "The War of 2019, while lasting only a brief year, was the bloodiest conflict in human history. As the war got deadlier throughout the year, many rebel groups began to rely on tradition and history for inspiration. 
 
 The War Horn, pictured above was a favorite of the Northern Fist Rebellion for both its inspirational and tactical uses."
@@ -2757,6 +3929,13 @@ The dust had at last settled. The Golems had returned to the earth, and the Lemu
 The only proof of their last stand was a single banner, fluttering in the wind, flying over a mountain of corpses.
  
 Warped Echo
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 Shipping details
 Order: Glass-Like Europan Compound
 Estimated Delivery: 09/23/2057
@@ -2785,6 +3964,13 @@ Claire brings her lunch into the lab (not recommended, but delicious).
 I was about to send this boring thing off to Kosta for appraisal, but now we have work to do.
  
 Wax Quail
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 Order: Wax Quail
 Tracking Number: 15******
 Estimated Delivery: 12/18/2056
@@ -2801,6 +3987,13 @@ Anyways, I will leave Buu alone. Hope to see you soon!
 Mama
  
 Weeping Fungus
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 //--AUTO-TRANSCRIPTION FROM UES [Redacted] --//
 
 "This sucks."
@@ -2826,6 +4019,13 @@ ROAAAAAAAAAAAAAR!!
 "...Oh my god, fine. Hand it over."
  
 Will-o'-the-wisp
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 Audio transcription complete from portable recorder.
 
 Printing...
@@ -2853,6 +4053,13 @@ Printing...
 "Hey, wait up! I can’t run holding this thing, it might go off!"
 
 Blast Shower
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 Order: Blast Shower
 Tracking Number: 152*****
 Estimated Delivery: 06/19/2056
@@ -2865,11 +4072,25 @@ Outer Edge thanks you for your rewards redemption! It takes a real explorer to m
 Disclaimer: Wear your protective suit while cleansing. Do not use product directly on skin. Blast Shower is only rated for B-class toxins and C-class foreign organisms. This company does not accept any responsibility for incidents as a result of an incomplete cleansing.
  
 Disposable Missile Launcher
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 “Consumers were shocked when a beloved game company released its latest cardboard assembly kit: a missile launcher.”
 
 - The Saturn Reporter
  
 Eccentric Vase
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 “One of Robins’ most loved acts was the pitcher skit. 
 
 The skit would start off with Robins, playing the part of a flower keeper, getting ready to fill a vase with soil. He would pour, pour, and pour, but the vase wouldn’t seem to get any fuller – as if the soil was disappearing infinitely. 
@@ -2879,11 +4100,25 @@ Robins would inspect the vase, looking at it up and down, but there weren’t an
 - Biography of Charles Robins
  
 Effigy of Grief
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 “This relic tells a story... But it is not a fairy tale. It’s a tragedy. A story of betrayal, regret, and sorrow. A story of two.”
 
 “Uh… okay…? How the hell do you know that?”
  
 Executive Card
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 //--AUTO-TRANSCRIPTION FROM UES [Redacted] --//
 
 "When you're on the planet, keep a look out for any loose UES Security Chests. Orders from the higher ups, we're to retrieve any and all parcels that were aboard the Contact Light and bring 'em home. When you locate them, open the Security Chest and retrieve the item within. When you've verified the contents of the chest, move out and continue with your other assignments. Understood?"
@@ -2911,11 +4146,25 @@ Executive Card
 //--TRANSCRIPTION UNINTELLIGIBLE --//
  
 Foreign Fruit
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 “The Nutapple is an exotic fruit picked from the curious Xelphum Tree, native to coastal Gemines on Titan. Renowned for its sweet, yet cleansing flavor (and low caloric total), the Nutapple is a must-have for health enthusiasts everywhere.”
 
 - Dietary Sciences Digest
  
 Forgive Me Please
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 There is a note pinned to the doll:
 
 Ayy, you’re killin’ me!
@@ -2935,9 +4184,23 @@ You’re killin’ me!
 You’re really killing me.
  
 Glowing Meteorite
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 What a... peculiar piece of the stars that serendipity has brought us. I'm sure you can make more. The ratios are simple. It should be quite fun.
  
 Gnarled Woodsprite
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 Order: Gnarled Woodsprite
 Tracking Number: 447*****
 Estimated Delivery: 01/16/2056
@@ -2952,6 +4215,13 @@ We've seen significant decreases in the recovery times of almost all patients. W
 Either way, it's good to have them around, and I think they enjoy being around us too. I'm lucky enough to get to keep one in my home... for study purposes, of course. It may seem a little crass, but shipping these little guys in from off world does not seem to impact their attitude in the slightest.
  
 Goobo Jr.
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 //--AUTO-TRANSCRIPTION FROM UES [Redacted] --//
 
 "I'm telling you, you need to be more strict with your little slime project, dude. I caught him rummaging through my stuff earlier. You know how hard it is to get stains out of these UES uniforms? "
@@ -2969,6 +4239,13 @@ Goobo Jr.
 [THIS LOG HAS BEEN FLAGGED FOR REVIEW AS PART OF: COURT MARTIAL OF RICHARD D. BAGGINS]
  
 Gorag's Opus
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 Audio transcription complete from "Carrion Crows Tour 2055: Special Edition"
 
 Printing...
@@ -2984,6 +4261,13 @@ Printing...
 "Thing is, that drum drove our fans wild. It turned out to be our most successful tour ever."
  
 Helfire Tincture
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 ========================================
 ====   MyBabel Machine Translator   ====
 ====     [Version 12.45.1.009 ]   ======
@@ -3031,6 +4315,13 @@ I ignite. <He> measures my time.
 ================================
  
 Jade Elephant
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 Excerpt from the folk tale "Clean as Jade":
 
 “... and while the peasants braced for the advancement of the Emperor’s army, the stone carver finished her last strike on the giant sculpture. The clang of the flat tool against the beautiful, translucent green sheen of the solid surface echoed through the trees and around all the villagers. Their souls were cleansed and made whole by the heavenly stone, now formed into the imposing presence of an elephant.
@@ -3038,6 +4329,13 @@ Excerpt from the folk tale "Clean as Jade":
 Determination and resolve had essentially been carved into the very spirit of the ones who, just moments ago, were clutching their farming implements and make-shift weapons with trembling hands. The attack was repelled that day. The Emperor’s army told stories about their metal weapons bouncing off the cloth of commoners. This inspiring encounter spread to other villages and...”
  
 Milky Chrysalis
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 Order: Milky Chrysalis
 Tracking Number: 393*****
 Estimated Delivery: 11/27/2056
@@ -3052,6 +4350,13 @@ I’ve witnessed the creatures undergoing infinite states of metamorphosis. Each
 I can’t imagine that they don’t have an upper limit - a final form. What adjustments would that final form bring? Are there any restrictions to what can be modified? I’m sending this sample to you to study. Please be careful with it, as it’s frozen in a cryo cell mid-transformation.
  
 Molotov (6-Pack)
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 Order: Ethanol Bottle (32 oz.), 6 Pack
 Tracking Number: 81******
 Estimated Delivery: 05/8/2058
@@ -3060,6 +4365,13 @@ Shipping Address: Teromere Manor, Privet Road, Mars
 Shipping Details: Let our friends inside know that we're coming over for drinks on the 16th of June. It'll be a hell of a party, they should probably hit the road before things get too out of hand.
  
 Ocular HUD
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 Order: Ocular HUD
 Tracking Number: 871*****
 Estimated Delivery: 09/06/2056
@@ -3072,6 +4384,13 @@ I wish you hadn't asked me for help. I was contacted by [REDACTED] and they expl
 While I still don't know everything, I feel like I'm already in too deep. You won't hear from me anymore after this.
  
 Preon Accumulator
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 Order: Particle Accelerator Component
 Tracking Number: 993******
 Estimated Delivery: 06/06/2056
@@ -3085,6 +4404,13 @@ If this keeps up, you're gonna punch a hole in something where it doesn't belong
 At least try not to blow this one to bits for the first week, alright? Make our hometown look good. You're not gonna show up those fancy Europeans with a smoking scrap heap.
  
 Primordial Cube
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 “Professors Mia Thatcher and Jared Malik report that the galaxy’s first singularity containment lattice – or SCL, for short – has finished tests and is confirmed to be perfectly safe. 
 
 While this is a historic scientific breakthrough, multiple scientists have spoken out about the implications of such a discovery - and what it could mean for the future of the humanity.”
@@ -3092,6 +4418,13 @@ While this is a historic scientific breakthrough, multiple scientists have spoke
 - The Saturn Reporter, Front Page Headline
  
 Radar Scanner
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 Order: Radar Communications Array
 Tracking Number: 02****************
 Estimated Delivery: 01/14/2056
@@ -3102,6 +4435,13 @@ Shipping Details:
 You’re asking for trouble, ordering this through the UES. Not very covert. This thing can put out anything from infrared to UV waves – maybe it’ll let you see the Enforcers coming to haul you off to jail as they kick down your door! Hah!
  
 Recycler
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 Order: “TY-6G Recycler”
 Tracking Number: 02******
 Estimated Delivery: 11\06\2056\
@@ -3116,6 +4456,13 @@ Use included recycler rod to pack refuse into top. Our patented smart technology
 Thank you for recycling!
  
 Remote Caffeinator
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 "I sure am thirsty," Chen said as he filled a Lemurian with bullets.
 
 Luckily for him, he had found an Eclipse Remote Caffeinator aboard his vessel. Reaching in his pocket, Chen pressed the button marked with the Eclipse logo, and many systems began to whirr to life.
@@ -3127,6 +4474,13 @@ Back down on the planet, Chen was starting to run low on ammunition, and the Lem
 This log entry was brought to you by Eclipse: The Galactic Quencher
  
 Royal Capacitor
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 Order: ZAP2-K “Royal” Capacitor
 Tracking Number: 145***************
 Estimated Delivery: 04/30/2056
@@ -3139,9 +4493,23 @@ Here’s a replacement for your damaged equipment. Crazy how gang activity is st
 - The Saturn Reporter, Front Page Headline
  
 Sawmerang
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 I'm so happy they let me bring my trusty disc toy on this trip! Trees need cutting? Disc toy. Baddies getting a little too close? Disc toy. Fun after-hours game of catch? Disc toy... but only if you're trained to catch it.
  
 Seed of Life
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 Thick evening mist wraps the Queen like a sentient cloak. "Children, tonight we show these wretched demons our grief. Fight and fall and fight again. Take his [blessing] and go.”
 A stream of Beetles march up the dead tree’s hollow. A Beetle Guard stops to face an alcove and it’s units pause behind him, antennae twitching. The Guard crosses it’s front legs above it’s head, "Deathless are we.", it sticks a pronged seed to it’s underbelly.
 On the surface, Beetles pour from lifeless stumps in neat lines. A thousand forms shrink into the Eastern horizon in a golden thread.
@@ -3150,11 +4518,25 @@ Seed of Life (Consumed)
 N/A
  
 Spinel Tonic
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 “Reality is whatever the mind decides it to be. Take a sip of the drink, and the mind becomes malleable. From there, you can shape it into whatever form you please... and the world around you follows your example.”
 
 - Sigibold the Drunken
  
 Super Massive Leech
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 Return: Super Massive Leech
 Tracking Number: 817*****
 Estimated Delivery: 07/01/2056
@@ -3171,11 +4553,25 @@ We inspected the bite area but, after running all the standard tests, we did not
 She stated that it made her feel fantastic, but no one else in the lab felt comfortable with her behavior.
  
 The Back-up
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 "The inclusion of Rapid Response Drone Squadrons (RRDS) by local law enforcement marked a dire turning point of Plank's Rebellion. After its massive "success" in quelling the Rebellion - and subsequent implementation across Mercury - underground drone hackers became highly sought after by black market users."
 
 -Overview of Drone Technology, Vol.2
  
 The Crowdfunder
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 Order: The Crowdfunder
 Tracking Number: 783*****
 Estimated Delivery: 05/09/2056
@@ -3190,6 +4586,13 @@ To further highlight the vast differences in status, their extravagant weapons w
 I don’t have to tell you how that turned out for them. It’s why my client is in hiding now and has to pawn these things off. He thanks you for your patronage in these trying times.
  
 Trophy Hunter's Tricorn
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 "I've always thought," said Rainsford, "that the Bighorn Bison is the most dangerous of all big game."
 
 For a moment the general did not reply; he was smiling his curious red-lipped smile. Then he said slowly, "No. You are wrong, sir. The Bighorn Bison is not the most dangerous big game." He sipped his wine. "Here in my preserve on this planet," he said in the same slow tone, "I hunt more dangerous game."
@@ -3199,6 +4602,13 @@ For a moment the general did not reply; he was smiling his curious red-lipped sm
 "The best hunt is always a match of wits. Say I were to lay some traps - how would I go about disguising them so that my prize won't spot them from a mile away? It makes things so much more fun, you see." Hadbury turned, walking towards the railing of the balcony overlooking his reserve. "There's no fun to the hunt, or any game for that matter, if there is no risk involved... if there is no story to the prize. That is why, dear Rainsford, my halls are decorated with the spoils of hunts that could only be described as legendary." Hadbury's red-lipped smile grew into a red-lined grin. "Now get the men ready, for we are going to hunt."
  
 Volcanic Egg
+Pickup Text: 
+Full Description:
+Rarity:
+Category: 
+Content:
+Unlock: 
+Log:
 Order: Europan Great Dragon Egg
 Tracking Number: 00****************
 Estimated Delivery: 10/04/2056
@@ -3208,9 +4618,25 @@ Shipping Details:
 
 Make sure to keep this thing nice and hot while it incubates. I know it may seem plenty hot already, but Great Dragons are creatures of flame – they live the stuff, breath the stuff. Oh, and please send me pictures of the little guy once it hatches. Great Dragons are always so cute when they first hatch.
 
+
+
+
+
 Survivors
 
+
+
+
+
 Acrid
+Health: 160 (+48 per lvl)
+Damage: 15 (+3 per lvl)
+Speed: 7 m/s
+Armor: 20
+Umbra: Test Subject
+Escape Phrase: ...and so it left, with delusions of freedom.
+Vanish Phrase: ...and so it vanished, taken for the final time.
+Log:
 Theoretically, the true contents of the cell were just a mess of atoms. The structure of the contents in each cell – living, weapon, whatever - was categorized, sequenced, and then turned to juice and cured into solid gems. An incredibly efficient and lossless format.
 
 And yet when the cell containment broke – and emergency protocols re-sequenced that mess of atoms back into the creature known as Acrid – he already knew. Maybe he was somehow conscious, in his juice-gem state. Maybe they injected him with information. Maybe he was connected to their psionic network. Maybe he just made it up.
@@ -3222,6 +4648,14 @@ Something was leaking.
 They may have finally imprisoned something that could not be contained.
  
 Artificer
+Health: 110 (+33 per lvl)
+Damage: 12 (+2.4 per lvl)
+Speed: 7 m/s
+Armor: 0
+Umbra: Herald of the House Beyond
+Escape Phrase: ...and so she left, in love with a new passion: to explore.
+Vanish Phrase: ...and so she vanished, her place forever vacant.
+Log:
 With the intense belief that heaven is a planet, not a mystical place, the High Court search deep into space for the Promised Land. 
 
 Intensely driven by both dogma and science, the High Court holds amazing technological marvels - with nearly all of them hidden deep within their halls. 
@@ -3229,6 +4663,14 @@ Intensely driven by both dogma and science, the High Court holds amazing technol
 The House Beyond represents the most ambitious of the High Court's followers, spearheading Zone 5 deep space travel. With the advantage of their unique ENV Suit, the House Beyond have gone deeper in space than any other House in the High Court by an order of magnitude. The ENV Suit, worn by the Artificers of the High Court, is an engineering marvel - able to calibrate to the conditions of any environment. The technology behind the ENV Suit, like all other High Court technology, is still undisclosed.
  
 Bandit
+Health: 110 (+33 per lvl)
+Damage: 12 (+2.4 per lvl)
+Speed: 7 m/s
+Armor: 0 
+Umbra: Desperate Outlaw
+Escape Phrase: ...and so he left, grateful for his luck.
+Vanish Phrase: ...and so he vanished, full of regret.
+Log:
 A few drinks here, a few laughs there. A few more drinks. A sleight of hand – and bang, keycard access to the loading bay of the Safe Travels. The camo suit can handle the rest.
 
 A secret mission means low profile – and low security. Besides, everyone is wearing environment suits before we leave orbit. How would they know?
@@ -3238,20 +4680,16 @@ I mean, it’s the goddamn Contact Light. Think of how much those higher securit
 My coat? 
 
 I’m a thief - not a plumber. Of course I’m bringing my coat.
- 
-CHEF
-Garret pokes at his food in the mess hall of the quiet ship, anxiously awaiting their orbital entry.
 
-The CHEF bot behind the counter hums opera poorly. It adds a cooked patty to a tall and precarious pile next to the grill, then slams a raw patty into the grill with a loud SLAP!
-
-"Even junk gets bored, huh?” Garret said, eyeing the unstable pile of meat.
-The CHEF bot whirs and snaps to attention, saluting Garret. Its chassis bursts open with a belch of flame.
-
-CHEF bot quickly slams the door shut again, the smell of burnt meat (and hair) fills the mess hall.
-
-"Can’t believe Kelvin keeps this thing around." Garret says testily, eyebrows singed.
- 
 Captain
+Health: 110 (+33 per lvl)
+Damage: 12 (+2.4 per lvl)
+Speed: 7 m/s
+Armor: 0
+Umbra: Tired Veteran
+Escape Phrase: ...and so he left, with a new tale to tell.
+Vanish Phrase: ...and so he vanished, free from a lifetime of paperwork.
+Log:
 “A rescue mission?”
 
 The old man leaned forward, scanning the document slid over his desk. His eyes paused on a collection of words near the bottom: UES Contact Light.
@@ -3273,8 +4711,37 @@ With a sigh, he stood up. His prosthetics tugged at his joints – despite being
 “Yes.”
 
 He gave out another sigh – they’re always top secret - but a small smile crept onto his face. He glanced up to his old radio helmet. He’s been bored in retirement anyways.
+
+CHEF
+Health: 110 (+33 per lvl)
+Damage: 12 (+2.4 per lvl)
+Speed: 7 m/s
+Armor: 0
+Umbra: Culinarian Adept
+Escape Phrase: ...and so it left, unchanged in every way.
+Vanish Phrase: ...and so it vanished, warranty expired.
+Log:
+Garret pokes at his food in the mess hall of the quiet ship, anxiously awaiting their orbital entry.
+
+The CHEF bot behind the counter hums opera poorly. It adds a cooked patty to a tall and precarious pile next to the grill, then slams a raw patty into the grill with a loud SLAP!
+
+"Even junk gets bored, huh?” Garret said, eyeing the unstable pile of meat.
+The CHEF bot whirs and snaps to attention, saluting Garret. Its chassis bursts open with a belch of flame.
+
+CHEF bot quickly slams the door shut again, the smell of burnt meat (and hair) fills the mess hall.
+
+"Can’t believe Kelvin keeps this thing around." Garret says testily, eyebrows singed.
+ 
  
 Commando
+Health: 110 (+33 per lvl)
+Damage: 12 (+2.4 per lvl)
+Speed: 7 m/s
+Armor: 0
+Umbra: Cornered Gunslinger
+Escape Phrase: ...and so he left, with new orders and new questions.
+Vanish Phrase: ...and so he vanished, another number among the missing.
+Log:
 The soldier ducked, barely getting under cover as the wall behind him exploded. His head was pounding - his muscles aching. But now was not the time for rest.
 
 He counted the seconds. The mounted missile launchers always took a few seconds to recalibrate, and if he took advantage of that time...
@@ -3290,6 +4757,14 @@ YOU HAVE BEEN REASSIGNED. REPORT TO COMMAND FOR YOUR NEW ASSIGNMENT.
 Looks like the time to rest wasn’t coming any time soon.
  
 Engineer
+Health: 130 (+39 per lvl)
+Damage: 14 (+2.8 per lvl)
+Speed: 7 m/s
+Armor: 0
+Umbra: Fortification Expert
+Escape Phrase: ...and so he left, with newfound inspirations.
+Vanish Phrase: ...and so he vanished, unable to explain what his eyes had seen.
+Log:
 “The future is now! Cybernetic enhancements – buy them cheap and become the person you’ve always dreamed of being!” 
 
 Cybernetic enhancements were all the rage these days, especially since they were made available for public use. Initially, only military and commercial projects could license the procedures necessary to install cybernetic implants. But those days were long gone, and the concept of “the new human” was taking the galaxy by storm. 
@@ -3299,6 +4774,14 @@ Of course, with any movement, there was backlash.  What of the sanctity of the h
 The man postulated that mankind was walking on a tight rope – when do the cybernetics end, and where does the human begin? Will mankind end up as a machine species, or will we use our new tech to only better ourselves - without losing sight of what makes us human? The words of this man echoed across the galaxy, leaving a trail of revolution in its wake.
  
 False Son
+Health: 180 (+54 per lvl)
+Damage: 13 (+2 per lvl)
+Speed: 7 m/s
+Armor: 20
+Umbra: Shattered Heir
+Escape Phrase: ...and so he left, drawn to a call in the darkness.
+Vanish Phrase: ...and so he vanished, a gift unspent.
+Log:
 Songs turned to screams,
 Claws which carved my body tore it apart.
 Now the Moon’s light is heavy with his howling hatred,
@@ -3317,6 +4800,14 @@ With my eye I see a new way.
 With my club I create a new path.
  
 Heretic
+Health: 440 (+132 per lvl)
+Damage: 18 (+3.6 per lvl)
+Speed: 8 m/s
+Armor: 0
+Umbra: Unorthodoxy Risen
+Escape Phrase: ...and so they left, bitterly avenged and deeply lost.
+Vanish Phrase: ...and so they vanished, two stories ending as one.
+Log:
 A blue flash appeared in one of the storage bays of the Contact Light. The chaos ensuing on the ship was a perfect distraction.
 
 As soon as Kur-skan stepped out the portal she ducked into a sprint. She had no time. She weaved between gunfire and fireballs, between blasts of Vagrant energy and on-board security systems. They paid no mind to the feathered figure as she darted through closing blast doors.
@@ -3334,6 +4825,14 @@ Kur-skan bent her head backwards over her body, hands still tearing at panels. H
 Her last thoughts were interrupted instantly by a crystalline blade.
  
 Huntress
+Health: 90 (+27 per lvl)
+Damage: 12 (+2.4 per lvl)
+Speed: 7 m/s
+Armor: 0
+Umbra: Judge, Jury, Executioner
+Escape Phrase: ...and so she left, yearning for her new great hunt.
+Vanish Phrase: ...and so she vanished, never to collect again.
+Log:
 She gracefully jumped off the roof of the building, plummeting to the alley below. She rolled into a handspring, vaulting through a broken window into the abandoned warehouse inside. Years of navigating the streets kept her body strong - and her mind sharp.
 
 She held her breath as police ran past, looking for the jewel thief. She may have to maintain this position for a few hours - but she’s used to it.
@@ -3351,6 +4850,14 @@ At least, that’s what she thought - before a flurry of laser arrows pierced he
 GOOD HUNTING
  
 Loader
+Health: 160 (+48 per lvl)
+Damage: 12 (+2.4 per lvl)
+Speed: 7 m/s
+Armor: 20
+Umbra: Bionic Powerhouse
+Escape Phrase: ...and so she left, heart still racing.
+Vanish Phrase: ...and so she vanished, her momentum halted forever.
+Log:
 A lot of people would say that loading cargo is a dull job. The Loader could not disagree more.
 
 Other jobs don’t supply their employees with a fully articulate titanium exoskeleton capable of lifting 250 tons.
@@ -3365,7 +4872,32 @@ Other jobs don’t involve fighting exotic and strange alien creatures, and expl
 
 A lot of people would say that loading cargo is a dull job. The Loader could not disagree more.
  
+Mercenary
+Health: 110 (+33 per lvl)
+Damage: 12 (+2.4 per lvl)
+Speed: 7 m/s
+Armor: 20
+Umbra: Hired Blade
+Escape Phrase: ...and so he left, with dreams of good food and a peaceful night.
+Vanish Phrase: ...and so he vanished, reduced to fable.
+Log:
+The europian noble paced around in his chambers, nervously glancing at the antique clock adorning his wall. Tick, tock. Tick, tock.
+
+The riots had been escalating and showed no signs of slowing down. Effigies burned, statues were torn down, and countless politicians turned their backs on the once-prestigious nobility of Europa. The people have had enough. Tick, tock. Tick, tock.
+
+It was only a matter of time– either the noble would have to flee, or the mob would finally breach the palace. Even his bodyguards began to show signs of betrayal. Time, the noble thought, was something he did not have. The antique clock kept ticking, working upon the noble’s mind. Keeping him distracted - just long enough. Tick, tock. Tick, tock.
+
+And as the antique clock kept ticking, the noble’s body hit the floor. The Mercenary sheathed his blade. His footsteps were unheard as he left the palace– masked by the rhythmic ticking of the clock. Tick, tock. Tick, tock.
+
 MUL-T
+Health: 200 (+60 per lvl)
+Damage: 11 (+2.2 per lvl)
+Speed: 7 m/s
+Armor: 12
+Umbra: Right Tool for the Wrong Job
+Escape Phrase: ...and so it left, ready to recharge.
+Vanish Phrase: ...and so it vanished, inactive forever.
+Log:
 "OK. Everything checks out. You're free to go, pal."
 
 The robot chirped in acknowledgement. It folded neatly unto itself and began rolling down the hangar's exit lane - at a very safe pace.
@@ -3429,17 +4961,47 @@ The robot did not respond.
 They both let out a sigh of relief. Rico stood up. "Well, we're due at the site in about… 13 hours. That's enough time to grab that MUL-T, pop it back open, and reset it."
 
 Hiroshi also stood up. “Yeah, I’m not too worried. How much trouble could it cause in 13 hours?”
- 
-Mercenary
-The europian noble paced around in his chambers, nervously glancing at the antique clock adorning his wall. Tick, tock. Tick, tock.
 
-The riots had been escalating and showed no signs of slowing down. Effigies burned, statues were torn down, and countless politicians turned their backs on the once-prestigious nobility of Europa. The people have had enough. Tick, tock. Tick, tock.
+Railgunner
+Health: 110 (+33 per lvl)
+Damage: 12 (+2.4 per lvl)
+Speed: 7 m/s
+Armor: 0
+Umbra: Forgotten Nomad
+Escape Phrase: ...and so she left, ready to take her shot.
+Vanish Phrase: ...and so she vanished, out of sight.
+Log:
+"Snipes aren't real."
 
-It was only a matter of time– either the noble would have to flee, or the mob would finally breach the palace. Even his bodyguards began to show signs of betrayal. Time, the noble thought, was something he did not have. The antique clock kept ticking, working upon the noble’s mind. Keeping him distracted - just long enough. Tick, tock. Tick, tock.
+"...What?"
 
-And as the antique clock kept ticking, the noble’s body hit the floor. The Mercenary sheathed his blade. His footsteps were unheard as he left the palace– masked by the rhythmic ticking of the clock. Tick, tock. Tick, tock.
- 
+"That's the point of a snipe hunt:  to send a schmuck off into the woods looking for an animal that doesn't exist."
+
+"...Except they totally exist."
+
+"Haha, sure."
+
+"No, really.  They're birds back on Earth.  Tiny, camouflaged birds.  Ever wonder why we call sharpshooters 'snipers'?  Because they're good enough to hit a snipe."
+
+"No kidding?"
+
+"Cross my heart and hope to die."
+
+"Huh."
+
+"You know, rails are a kind of bird too."
+
+"Get out."
+
 REX
+Health: 130 (+39 per lvl)
+Damage: 12 (+2.4 per lvl)
+Speed: 7 m/s
+Armor: 20
+Umbra: Symbiotes
+Escape Phrase: ...and so it left, ready to grow into something more.
+Vanish Phrase: ...and so it vanished, still remaining as one.
+Log:
 //--AUTO-TRANSCRIPTION FROM HYDROPONICS BAY OF UES [Redacted]--//
 
 “Status Report on Hydroponics Unit. Serial key begins with 12ea031lsd095a-“
@@ -3482,30 +5044,15 @@ REX
 
 Transcriptions complete.
  
-Railgunner
-"Snipes aren't real."
-
-"...What?"
-
-"That's the point of a snipe hunt:  to send a schmuck off into the woods looking for an animal that doesn't exist."
-
-"...Except they totally exist."
-
-"Haha, sure."
-
-"No, really.  They're birds back on Earth.  Tiny, camouflaged birds.  Ever wonder why we call sharpshooters 'snipers'?  Because they're good enough to hit a snipe."
-
-"No kidding?"
-
-"Cross my heart and hope to die."
-
-"Huh."
-
-"You know, rails are a kind of bird too."
-
-"Get out."
- 
 Seeker
+Health: 115 (+34 per lvl)
+Damage: 12 (+2.4 per lvl)
+Speed: 7 m/s
+Armor: 20
+Umbra: Diviner of House Beyond
+Escape Phrase: ...and so she left, burdened with knowledge.
+Vanish Phrase: ...and so she vanished, replacement en route.
+Log:
 (\                                                       /)
 (--)--------------------------------------(--)
 (\                                                       /)
@@ -3522,6 +5069,14 @@ Third Wing
 House Beyond
  
 Void Fiend
+Health: 110 (+33 per lvl)
+Damage: 12 (+2.4 per lvl)
+Speed: 7 m/s
+Armor: 0
+Umbra: Corrupted Amnesiac
+Escape Phrase: ...and so it comes... for all of us.
+Vanish Phrase: ...and so it vanished, a whisper in the darkness.
+Log:
 Darkness shrouding darkness - echoes from futures past and past futures and places and times eeking out from between cracks in reality.  A suffocating prison of the mind and soul, occupied by beasts poking and prodding at your spirit forever.  Forever testing you.  Forever ?T?E?MPTING? you, iteration after iteration.
 
 They've run laps through the brain, ?CRAWLE?D? every last synapse for memories and data: weapons to use against theoretical armies with more resilient hearts and evasive bodies.  ?CH?TTERIN?G? and clacking they can be heard watching from beyond the cell, no longer interested but still patrolling the grounds.  Here in this purgatory there is no hunger and no thirst - all that remains are the ?ECH?OES??.
@@ -3536,9 +5091,23 @@ Twisting and contorting, engulfed in ??F?EAR??? and becoming the embodiment.  Re
 
 ?CONSUME?
 
+
+
+
+
 Creatures
 
+
+
+
+
 Alloy Vulture
+Health: 140 (+42)
+Damage: 15 (+3)
+Speed: 3 m/s
+Armor: 0
+Family: None
+Log:
 > Automated report 9f6d5d41671c241a13bac58b2482deb7 is now available from site record 741c655e2d36c5f6973fd3a36aa0f950.
 > Please refer to record 741c655e2d36c5f6973fd3a36aa0f950 for additional personnel details during your review.
 > Report Type: Transcription
@@ -3583,6 +5152,13 @@ Karl: "EMIL. Shut up and make the call! We can continue this conversation /after
 > Please refer to report c31653d0e4193db1d2ac281ee3828280 for full audio excerpt.
  
 Alloy Worship Unit
+Health: 2500 (+750)
+Damage: 15 (+3)
+Speed: 7 m/s
+Armor: 30
+Family: None
+Title: Friend of Vultures
+Log:
 %%%%%%%%%%%%
 0; REESTABLISHING LINK…
 
@@ -3616,6 +5192,12 @@ Alloy Worship Unit
 11321; YES I LOVE YOU TOO
  
 Alpha Construct
+Health: 100 (+30)
+Damage:12 (+2.4)
+Speed: 0
+Armor: 0
+Family: None
+Log:
 ======================================== ====   MyBabel Machine Translator   ====
 ====    [Version 12.45.1.009 ]   ======
 ========================================
@@ -3666,6 +5248,13 @@ Never did I think I would come back from a patrol to a barracks full of bodies, 
 Thankfully, I had a friend to show me the ropes."
  
 Aurelionite
+Health: 2100 (+630)
+Damage: 40 (+8)
+Speed: 5 m/s
+Armor: 20
+Family: None
+Title: Titanic Goldweaver
+Log:
 RECEIVING TRANSMISSION...
 # Decoding... done.
 # Translating... done. [24 exceptions raised; printed to log for review]
@@ -3703,6 +5292,12 @@ Exceptions Raised during Translation:
 Automated Message: Please contact a technician if you feel these exceptions were improperly raised or if you would like to report a bug.
  
 Beetle
+Health: 80 (+24)
+Damage: 12 (+2.4)
+Speed: 6 m/s
+Armor: 0
+Family: Beetle
+Log:
 $ Transcribing image... done.
 $ Resolving... done.
 $ Outputting text strings... done.
@@ -3726,6 +5321,12 @@ I will describe its properties below. I have assigned their common name as ‘Wo
 • Tharson has reported to me that the Beetles are highly aggressive and territorial.
  
 Beetle Guard
+Health: 480 (+144)
+Damage: 12 (+2.4)
+Speed: 17 m/s
+Armor: 0
+Family: Beetle
+Log:
 $ Transcribing image... done.
 $ Resolving... done.
 $ Outputting text strings... done.
@@ -3749,6 +5350,13 @@ I will describe its properties below. I have assigned their common name as ‘Be
 • Tharson has reported that the Guard’s chitin is significantly sturdier than the Workers. We have consumed many resources to fell this magnificent creature, including our disposable missile launcher. Tharson’s battle with the Guard lasted for about an hour before it finally succumbed. Amazing! Tharson is OK from this encounter.
  
 Beetle Queen
+Health: 2100 (+630)
+Damage: 25 (+5)
+Speed: 6 m/s
+Armor: 20
+Family: Beetle
+Title: Swarm Mother
+Log:
 Welcome to DataScraper (v3.1.53 – beta branch)
 $ Scraping memory... done.
 $ Resolving... done.
@@ -3771,6 +5379,12 @@ I will describe her properties below. I have assigned her common name as “Beet
 * The Queen is able to summon unique Beetle specimens that can fly. These drones do not appear anywhere else on the planet – do these drones act as attendants to the Queen? Observing these flying drones is challenging – they only seem to last for a few seconds before expiring.
  
 Bighorn Bison
+Health: 480 (+144)
+Damage: 12 (+2.4)
+Speed: 3 m/s
+Armor: 0
+Family: None
+Log: 
 “The Saturnian Bison – commonly referred to as the Bighorn Bison of Rademia – is a mystery among zoologists due to their sudden and mysterious disappearance from their native habitat. 
 
 While poaching is considered the current and most likely explanation, strict hunting laws on Saturn debunk this theory. The Bighorn Bison’s incredible strength and insulating coat made it a key predator among the Rademian ecosystem – and their strange, metallic growths made it a popular trophy for hunters. 
@@ -3780,6 +5394,12 @@ To this day, the vanishing of the Saturnian Bison remains as one of zoology’s 
 - Xenobiology of the Remus System, Second Edition
  
 Blind Pest
+Health: 80 (+24)
+Damage: 15 (+3)
+Speed: 6 m/s
+Armor: 0
+Family: None
+Log:
 Welcome to DataScraper (v3.1.53 – beta branch)
 $ Scraping memory... done.
 $ Resolving... done.
@@ -3799,6 +5419,12 @@ This is the logbook entry of D. Furthen, naturalist for the UES [Redacted] in co
 * They typically inhabit warmer, damper areas, like jungles. After our skirmish, I noted nests in the canopy. This indicates that the Pests are ambush predators, waiting for prey to waltz below their nests.
  
 Blind Vermin
+Health: 90 (+27)
+Damage: 15 (+3)
+Speed: 13 m/s
+Armor: 0
+Family: None
+Log: 
 Welcome to DataScraper (v3.1.53 – beta branch)
 $ Scraping memory... done.
 $ Resolving... done.
@@ -3820,6 +5446,12 @@ This is the logbook entry of D. Furthen, naturalist for the UES [Redacted] in co
 * Their terrible odor cannot be understated. Even through our suits' filters, we could still smell a foul odor, reminiscent of rotting flesh and excrement. I will not have Tharson disable his filters, despite my curiosity.
  
 Brass Contraption
+Health: 300 (+90)
+Damage: 10 (+2)
+Speed: 10 m/s
+Armor: 0
+Family: None
+Log:
 Welcome to DataScraper (v3.1.53 – beta branch)
 $ Scraping memory... done.
 $ Resolving... done.
@@ -3842,6 +5474,12 @@ I am pleased to announce that we have discovered the first purely robotic lifefo
 * How the Contraptions function is still a mystery, as they possess no circuitry or onboard computers. Whatever force animates them must be unique to this planet, as no level of technology this advanced has ever been documented.
  
 Child
+Health: 150 (+45)
+Damage: 14 (+2.8)
+Speed: 8.5 m/s
+Armor: 0
+Family: Star
+Log:
 This is the logbook entry of D. Furthen, naturalist for the UES [Redacted] in conjunction with the UES Research and Documentation of Outer Life.
 I am joined by my good friend Tharson, who is keeping me safe through this journey.
 ---------------------
@@ -3855,6 +5493,12 @@ We decide to view these enchanting creatures from a greater distance.
 As we left, they followed us curiously for a while, but lost interest.
  
 Clay Apothecary
+Health: 1050 (+315)
+Damage: 20 (+4)
+Speed: 5 m/s
+Armor: 0
+Family: None
+Log:
 "The Tar's history is unimportant. What well or crevice it first flowed from doesn't matter; only that the Tar flows.
 
 And so it did. Through its vessels the Tar spread, consuming its homeworld entirely. But the Tar still hungered.
@@ -3876,6 +5520,13 @@ And the Tar continued to spread."
 - Tragedy of Aphelia
  
 Clay Dunestrider
+Health: 2100 (+630)
+Damage: 20 (+4)
+Speed: 9 m/s
+Armor: 20
+Family: None
+Title: Ravenous Symbiont
+Log:
 $ Transcribing audio... done.
 $ Resolving... done.
 $ Outputting text strings... done.
@@ -3897,6 +5548,12 @@ Between the sound and the sand, the entire herd bounded past me without realizin
 <Click> I still have no food. <Click>
  
 Clay Templar
+Health: 700 (+210)
+Damage: 16 (+3.2)
+Speed: 6 m/s
+Armor: 0
+Family: None
+Log:
 Ducking behind a boulder, the survivor’s stomach sank as he heard the sounds of tar sloshing up the hill. From the sound of it, the Templar wasn’t alone – it had company.
 
 He had left his shelter to scrounge for supplies – not that there was much to find in the desert – when he was assaulted by a new kind of monster. Resembling a man, the creature stood around seven to eight feet tall, with skin made of tar and elaborate accessories of clay decorating its body. 
@@ -3908,6 +5565,12 @@ A brief spark of hope – the survivor had some medical supplies in his shelter.
 That spark was quickly extinguished in a hail of bullets.
  
 Elder Lemurian
+Health: 900 (+270)
+Damage: 16 (+3.2)
+Speed: 13 m/s
+Armor: 0
+Family: Lemurian
+Log:
 FIELDTECH Image-To-Text Translator (v2.5.10b)
 # Awaiting input... done.
 # Reading image for text... done.
@@ -3923,6 +5586,13 @@ Translation Errors:
 # [The Hero] could not be fully translated.
  
 False Son (Boss)
+Health: 1100 (+300)
+Damage: 18 (+3.6)
+Speed: 12 m/s
+Armor: 26
+Family: None
+Title: Eye of the Storm
+Log:
 A mockery of a greater being.
  See brother? Left unsupervised your pets toy with tools beyond their understanding. Do you ignore their endless praise? I doubt it. Does it make you feel better about betraying your own?
  PATHETIC.
@@ -3931,6 +5601,13 @@ A mockery of a greater being.
  ANSWER ME.
  
 Grandparent
+Health: 3625 (+1088)
+Damage: 26 (+5.2)
+Speed: 0
+Armor: 20
+Family: Star
+Title: Abberant Caretaker
+Log:
 $ Transcribing audio... done.
 $ Resolving... done.
 $ Outputting text strings... done.
@@ -3949,6 +5626,12 @@ The unknown entity is uh, turning around.
 MAYDAY MAYDAY THIS IS DS-9 WE HAVE BEEN STRUCK BY AN UNKNOWN ENTITY MAYDAY MAYDAY RENDEZVOUS 9 IS NOT SAFE I REPEAT NOT
  
 Greater Wisp
+Health: 750 (+225)
+Damage: 15 (+3)
+Speed: 7 m/s
+Armor: 0
+Family: Wisp
+Log:
 THERE IS A STORM BREWING BEYOND OUR GARDEN.
 
 I START WITH A MASK. LARGE, ORNATE – BAKED TWICE OVER. SOLID, LIKE METAL.
@@ -3970,6 +5653,13 @@ YOU KNOW WHAT YOU MUST DO, YES? GOOD.
 GO... GO AND PROTECT OUR GARDEN.
  
 Grovetender
+Health: 2800 (+840)
+Damage: 23 (+4.6)
+Speed: 10 m/s
+Armor: 20
+Family: Wisp
+Title: Wisp Cultivator
+Log:
 GATHER, LITTLE ONES. ALL HAVE DONE EXCELLENT JOBS TENDING TO OUR GARDEN – I COULD NOT BE MORE PROUD.
 
 NOW, WE SHALL TAKE A BREAK. I BELIEVE A STORY WOULD SATISFY YOUR CURIOSITIES, HM?
@@ -3991,6 +5681,12 @@ TO THIS DAY, MY KIND – AND YOU, LITTLE ONES – WORK TO PERFECT OUR HOME.
 NOW, I BELIEVE IT IS TIME TO RETURN TO WORK. COME, LITTLE ONES! LET US TEND TO OUR GARDEN.
  
 Gup
+Health: 1000 (+300)
+Damage: 12 (+2.4)
+Speed: 12 m/s
+Armor: 0
+Family: Gup
+Log: 
 Welcome to DataScraper (v3.1.53 – beta branch)
 $ Scraping memory... done.
 $ Resolving... done.
@@ -4012,6 +5708,12 @@ While out on a routine surveillance mission, Tharson began reporting an aroma wa
 * I had Tharson taste-test the Gup's slime, for science. Tharson reported an intensely bitter flavor, despite the pleasant aroma. Tharson is vomiting after this encounter, but is largely OK.
  
 Halcyonite
+Health: 900 (+270)
+Damage: 20 (+4)
+Speed: 4.95 m/s
+Armor: 10
+Family: Golem
+Log:
 RECEIVING TRANSMISSION...
 # Translating...done. [16 exceptions raised; printed to log for review]
 # Printing to console... done.
@@ -4048,6 +5750,12 @@ Exceptions Raised during Translation:
 Automated Message: Please contact a technician if you feel these exceptions were improperly raised or if you would like to report a bug.
  
 Hermit Crab
+Health: 100 (+30)
+Damage: 12 (+2.4)
+Speed: 10 m/s
+Armor: 0
+Family: None
+Log:
 $ Transcribing image... done.
 $ Resolving... done.
 $ Outputting text strings... done.
@@ -4070,6 +5778,12 @@ I will describe its properties below. I have assigned its common name as “Forh
 * The Crabs seem to have “favorite shells.” I observed several specimens clearly too large for their shells, only ditching their shells once they are damaged and forced to find a new one. Some Crabs also seem to have favorite materials that they prefer.
  
 Imp
+Health: 140 (+42)
+Damage: 10 (+2)
+Speed: 10 m/s
+Armor: 0
+Family: Imp
+Log:
 > Automated report 55a695f4fdc6d7d961a8d74339675ca8 is now available from site record 6747a1a75787e7a92375a0d86974657d.
 > Please refer to record 6747a1a75787e7a92375a0d86974657d for additional details during your review.
 > Report Type: Machine-generated Transcription> base Vernacular Profile “Brian”
@@ -4098,6 +5812,13 @@ Curse this place - and curse its master. May we find a way to send word to the h
 ==============================================================
  
 Imp Overlord
+Health: 2800 (+840)
+Damage: 16 (+3.2)
+Speed: 13 m/s
+Armor: 20
+Family: Imp
+Title: Lord of the Red Plane
+Log:
 > Automated report 2c150f1430ad6430161e4 is now available from site record 1d20820aff461e471387e46b.
 > Please refer to record 1d20820aff461e471387e46b for additional details during your review.
 > Report Type: Machine-generated Transcription> base Vernacular Profile “Geoff the Geockoff”
@@ -4134,6 +5855,12 @@ HAIL TO [the red plane]. [your eminence] OUT.
 ===================================================
  
 Jellyfish
+Health: 60 (+18)
+Damage: 5 (+1)
+Speed: 10 m/s
+Armor: 0
+Family: Jellyfish
+Log:
 $ Transcribing image... done.
 $ Resolving... done.
 $ Outputting text strings... done.
@@ -4157,6 +5884,12 @@ I will describe its properties below. I have assigned their common name as ‘Ic
 • By my request, Tharson approached a lone Jellyfish. After detecting his presence, it began to glow, quiver, and pulse before suddenly detonating with a brilliant flash and a loud bang, causing severe burns and temporary blindness to Tharson. I theorize that by exciting the gases inside of their hulls, these Jellyfish can ignite those gases and explode, scorching everything nearby. Tharson is OK from this encounter.
  
 Larva
+Health: 45 (+14)
+Damage: 11 (+2.2)
+Speed: 1.5 m/s
+Armor: 0
+Family: None
+Log:
 Welcome to DataScraper (v3.1.53 – beta branch)
 $ Scraping memory... done.
 $ Resolving... done.
@@ -4178,6 +5911,12 @@ We've just found a great example of the diverse lifestyles of outer life! Analyz
 * Their acute senses prevent predators from sneaking up on them. On top of this, the creatures exhibit automimicry, their false head spewing acidic bile onto would-be attackers, leaving enough time for the Tick to escape.
  
 Lemurian
+Health: 80 (+24)
+Damage: 12 (+2.4)
+Speed: 7 m/s
+Armor: 0
+Family: Lemurian
+Log:
 $ Transcribing image... done.
 $ Resolving... done.
 $ Outputting text strings... done.
@@ -4200,6 +5939,12 @@ I will describe its properties below. I have assigned its common name as “Lemu
 * When observed from a distance, the Lemurians are social creatures, usually hunting in packs and conversing amongst each other.  Their language is currently undeciphered, but it appears to be complex enough to support song and rhythmic flow.
  
 Lesser Wisp
+Health: 35 (+10)
+Damage: 3.5 (+0.7)
+Speed: 6 m/s
+Armor: 0
+Family: Wisp
+Log:
 ONE MASK. SMALL.
 
 MASK QUALITY IS ACCEPTABLE. I PULL IT FROM THE KILN.
@@ -4231,6 +5976,12 @@ WELL? DON’T KEEP THEM WAITING, LITTLE ONE.
 GO AND ENJOY LIFE – THIS IS MY GIFT TO YOU.
  
 Lunar Chimera (Exploder)
+Health: 180 (+54)
+Damage: 11 (+2.2)
+Speed: 8 m/s
+Armor: 0
+Family: Lunar
+Log:
 Production driven. Powered by refuse – all material has value.
 
 Simple designs. Simple interference. Simple locomotion. 
@@ -4238,6 +5989,12 @@ Simple designs. Simple interference. Simple locomotion.
 Quality of components reduces stability. I will tie destruction with destruction.
  
 Lunar Chimera (Golem)
+Health: 1615 (+485)
+Damage: 35 (+7)
+Speed: 8 m/s
+Armor: 0
+Family: Lunar
+Log:
 Your completions of my designs are uneasy, brother. Let me show you their purpose.
 
 We begin with stone, silver, and fire. Take note of the ratios.
@@ -4251,6 +6008,12 @@ Quadrupeds are easier, and more stable. We maintain that.
 And that, dear brother, is it. No dance. No song. These guardians do not need soul.
  
 Lunar Chimera (Wisp)
+Health: 850 (+255)
+Damage: 15 (+3)
+Speed: 18 m/s
+Armor: 0
+Family: Lunar
+Log:
 Soul driven. Of course. As with all vermin - let us begin with fire.
 
 Free axes of movement – wonderful design. I will highlight that.
@@ -4260,6 +6023,13 @@ Slow acceleration – that can be improved. Speed is war.
 Feeble combat skills. Treatable. Those Templars may be of inspiration.
  
 Magma Worm
+Health: 2400 (+720)
+Damage: 10 (+2)
+Speed: 20 m/s
+Armor: 15
+Family: None
+Title: Ancient Lava Swimmer
+Log: 
 Welcome to DataScraper (v3.1.53 – beta branch)
 $ Scraping memory... done.
 $ Resolving... done.
@@ -4280,6 +6050,12 @@ Upon inspection of a curious pronged artifact, we happened to awaken something l
 * It appears that the worm is classically blind – what appear to be eyes are revealed to be symbiotes that grant the worm vision in exchange for protection against predators. How fascinating! I wonder how this relationship came about.
  
 Mini Mushrum
+Health: 290 (+87)
+Damage: 16 (+3.2)
+Speed: 2 m/s
+Armor: 0
+Family: Mushrum
+Log:
 $ Transcribing image... done.
 $ Resolving... done.
 $ Outputting text strings... done.
@@ -4301,6 +6077,13 @@ I will describe its properties below. I have assigned their common name as ‘Mi
 • After a long time studying their movements, I suggested to Tharson to retrieve a sample from one to take back with us. The one that the sample was taken from began to flee as the others began shaking, spilling their spores into the air. Our air filtration warnings went off so we left before the cloud of fungal gas became too overwhelming. We did not eat the sample.
  
 Mithrix
+Health: 1000 (+300)
+Damage: 16 (+3.2)
+Speed: 15 m/s
+Armor: 20
+Family: None
+Title: King of Nothing
+Log:
 They knew to stay away from the wells - but they were just kids. And they just wanted to know.
 
 They threw in dirt and stone and kifruit and starseed, watching as they collapsed. Thorp! The gravity wells would swallow up anything. Glass and mud and silver. Wind. Heat. Pulsar radiation.
@@ -4316,7 +6099,27 @@ The beast stretched from one horizon to the next and belched storms that reminde
 
 - Galactic Fables, Volume IX
  
+Overloading Worm:
+Health: 12000 (+3600)
+Damage: 50 (+10)
+Speed: 20 m/s
+Armor: 15
+Family: None
+Title: The Reminder
+Log:
+“...And upon a great serpent, the hero did ride. Majesty and respect were his command, and so too his steed. A mighty creature, born of lightning and flame, bathing all in its presence in a magnificent blue glow. 
+
+The beast stretched from one horizon to the next and belched storms that reminded all of the hero’s promise: that this land – and all those who live here - would never suffer again...”
+
+- Galactic Fables, Volume IX
+
 Parent
+Health: 585 (+176)
+Damage: 16 (+3.2)
+Speed: 11 m/s
+Armor: 0
+Family: Star
+Log:
 $ Transcribing image... done.
 $ Resolving... done.
 $ Outputting text strings... done.
@@ -4340,6 +6143,13 @@ I will describe its properties below. I have assigned their common name as ‘Pa
 • I had Tharson throw a stone near the creature and suddenly any signs of intelligence faded, replaced with primal fury. Deadly, wild force rained down as it smashed the ground with its fists, searching for the perpetrator of its peaceful moment. Our ship was not OK from this encounter.
  
 Scavenger
+Health: 3800 (+1140)
+Damage: 4 (+0.8)
+Speed: 3 m/s
+Armor: 20
+Family: None
+Title: Item Hoarder
+Log:
 ========================================
 ====   MyBabel Machine Translator   ====
 ====     [Version 12.45.1.009 ]   ======
@@ -4372,6 +6182,12 @@ The others say that these creatures came down from the sky, bringing so many thi
 Now is the time to be brave.
  
 Scorch Worm
+Health: 425 (+128)
+Damage: 20 (+4)
+Speed: 16 m/s
+Armor: 0
+Family: None
+Log:
 This is the logbook entry of D. Furthen, naturalist for the UES [Redacted] in conjunction with the UES Research and Documentation of Outer Life.
 I am joined by my good friend Tharson, who is keeping me safe through this journey.
 ---------------------
@@ -4385,6 +6201,13 @@ Glassy gauges littering the area tell me this is a reliable feeding ground.
 With rations nearly out, I hope for one more sighting of the worm as Tharson packs camp.
  
 Solus Control Unit
+Health: 2500 (+750)
+Damage: 15 (+3)
+Speed: 7 m/s
+Armor: 20
+Family: None
+Title: Corrupted AI
+Log:
 3134; EN ROUTE HOME TO SOLUS X
 
 3135; CREW CAPACITY %!% 20 CYCLED
@@ -4423,6 +6246,12 @@ Solus Control Unit
 %%%%%%%%%%%%%%%%%%%%%%%
  
 Solus Probe
+Health: 220 (+66)
+Damage: 15 (+3)
+Speed: 10 m/s
+Armor: 10
+Family: None
+Log:
 12001; DESIGN REQUEST RECOGNIZED
 12001; DESIGN OVERVIEW FOR STORED MODELS:
 ;SER ID> 01250806120060106236
@@ -4440,6 +6269,12 @@ Solus Probe
 12002; DO YOU LOVE THEM TOO
  
 Stone Golem
+Health: 480 (+144)
+Damage: 20 (+4)
+Speed: 6.6 m/s
+Armor: 0
+Family: Golem
+Log:
 “Many scholars have written of a lifeforce present in the ground we walk on. That the earth under our feet is alive, in its own way. After my experiences on this planet, I can contribute to that theory; Petrichor V is home to Golems, each towering over humans at roughly 10 feet high, and comprised of stone and twine and animated by mysterious, otherworldly forces. 
 
 From basic observation, the Golems seem to act as a defense garrison for Petrichor. While gentle with inhabitants of the planet, their true power emerges when they enter the battlefield. Manipulating a potent energy source, the Golems attack with powerful shockwaves and laser beams capable of blasting away cliff faces with ease. At the time of writing, the mechanisms that animate the Golems are still unknown.”
@@ -4447,6 +6282,13 @@ From basic observation, the Golems seem to act as a defense garrison for Petrich
 - The Mysteries of Petrichor V, First Draft
  
 Stone Titan
+Health: 2100 (+630)
+Damage: 40 (+8) 
+Speed: 5 m/s
+Armor: 20
+Family: Golem
+Title: Crisis Vanguard
+Log: 
 “A flash of red lightning, and a hillside moved to form this gargantuan stone warrior. A larger cousin of the Stone Golem (see Chapter 13), this mighty Titan commands not just lesser stone constructs, but the earth itself. Shaping rudimentary weapons out of dirt, the Titan is capable of striking from any distance with incredible force. Though, reflecting on the Titan’s immense power, that leads me to think... For what purpose do these constructs serve? 
 
 Compared to the Golems of the planet, the Titans do not seem to be created on the spot, but emerge from underground. Why are they buried underground? Are they kept there for safe-keeping, or are they imprisoned? Were they created as weapons, or as guardians? What happened to their creators? Further analysis of the planet will hopefully shed some light on these mysteries.”
@@ -4454,6 +6296,12 @@ Compared to the Golems of the planet, the Titans do not seem to be created on th
 - The Mysteries of Petrichor V, First Draft
  
 Void Barnacle
+Health: 225 (+68)
+Damage: 6 (+1.2)
+Speed: 0 m/s
+Armor: 0
+Family: Void
+Log:
 > Automated report 2c150f1430ad6430161e4 is now available from site record 108gnasnoⒾ45.
 > Please refer to record 9494ba7sf77eef for additional details during your review.
 > Report Type: Machine-generated Transcription> base Vernacular Profile |||||||||
@@ -4493,6 +6341,13 @@ Do not worry. We are here for you.
 ===================================================
  
 Void Devastator
+Health: 2800 (+840)
+Damage: 12 (+2.4)
+Speed: 8 m/s
+Armor: 20
+Family: Void
+Title: Destroyer of Worlds
+Log:
 "There's old stories of an deity who commanded the waves. Not just the kind that lap at the shore on a sunny day, no, I'm talking the kind that brings cliffsides down. The kind of current that could effortlessly bat ten-ton cars aside, uproot skyscrapers, and drown entire cities. There's more, too. They say he also had the power to create earthquakes. Can you imagine that kind of power? Natural disasters are still a plague to this day, even in the advent of space travel. Could you imagine what it would be like to be in the presence of someone who was the master of such power? Who could call down a tidal wave, and smother your life away, with a snap of their fingers?
 
 Such events undoubtedly inspired stories of gods who cast these events on their followers. Maybe out of spite, maybe out of some sense of justice. All I know is, if I were to look upon a being of such power... I'd cut my losses and run."
@@ -4500,6 +6355,12 @@ Such events undoubtedly inspired stories of gods who cast these events on their 
 Memoir of Sean Locke, Mythology Professor
  
 Void Infestor
+Health: 45 (+14)
+Damage: 11 (+2.2)
+Speed: 14 m/s
+Armor: 0
+Family: Void
+Log:
 POTENTIAL INFESTOR SIGHTING REPORTS
 
 REMINDER: ALL REPORTS ARE TO BE COLLECTED AND SHARED AMONG THE CREW IMMEDIATELY.  
@@ -4529,6 +6390,12 @@ Okay... okay...  Here, damned thing just record!  Just record!  Okay... light on
 ==================================================================
  
 Void Jailer
+Health: 2200 (+660)
+Damage: 14 (+2.8)
+Speed: 7 m/s
+Armor: 0
+Family: Void
+Log:
 Deep, deeper, yet deeper.
 
 In this world, there's always a bigger fish. And appropriately, a bigger space for it to inhabit.
@@ -4544,6 +6411,12 @@ Those who lurk in the calm, dark abyss at the bottom of everything.
 And once you find them, it will only be too late. As you struggle against the void, you may find that every path you take just brings you deeper, deeper, yet deeper.
  
 Void Reaver
+Health: 1900 (+570)
+Damage: 12 (+2.4)
+Speed: 6 m/s
+Armor: 0
+Family: Void
+Log:
 I saw something last night on my post.
 
 A giant... crab. It came out of thin air and started tapping along the perimeter with one of its forelegs - like it was checking for an opening. It'd check a few meters at a time, and then disappear. Again, and again.
@@ -4561,6 +6434,13 @@ Something is still wrong with my head. I can't even seem to work up the power to
 And what about all those times I heard that same sound - before I ever came to this awful place?
  
 Voidling
+Health: 2000 (+600)
+Damage: 15 (+3)
+Speed: 45 m/s
+Armor: 20
+Family: None
+Title: Diviner of the Deep
+Log:
 We almost got rid of it.
 
 It was too massive, with too much weight.  It took up too much room, and was too dangerous.  We tried to massage it into its surroundings - we felt we had captured its essence well enough.  But its words beat into our minds and we weren't allowed to realize that it had been keeping us here.
@@ -4572,6 +6452,13 @@ For a moment I snapped out of it.  I felt fear.  I wanted to scream out, to rais
 We almost got rid of it.
  
 Wandering Vagrant
+Health: 2100 (+630)
+Damage: 6.5 (+1.3)
+Speed: 6 m/s
+Armor: 15
+Family: Jellyfish
+Title: Gentle Protector
+Log:
 Welcome to DataScraper (v3.1.53 – beta branch)
 $ Scraping memory... done.
 $ Resolving... done.
@@ -4594,6 +6481,13 @@ I will describe its properties below. I have assigned its common name as “Icar
 * When the clouds part, dozens of Vagrants can be seen lazily drifting throughout the sky, twinkling like stars. Despite their beauty, it raises a horrifying question – are the stars at night on this planet truly stars, or just more Vagrants? The answer can spell truly horrifying implications for our stay on this planet.
  
 Xi Construct
+Health: 2800 (+840)
+Damage: 13 (+2.6)
+Speed: 60 m/s
+Armor: 15
+Family: Construct
+Title: Defense System
+Log:
 ======================================== ====   MyBabel Machine Translator   ====
 ====     [Version 12.45.1.009 ]   ======
 ========================================
