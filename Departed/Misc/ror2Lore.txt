@@ -12,6 +12,7 @@ Environments
 
 A Moment, Fractured
 Title: Hidden Realm
+Stage: Hidden Realm
 Track: Petrichor V
 Content: BASE
 Log:
@@ -35,6 +36,7 @@ If you insist, brother, I will go first. Forget about those creatures - and do n
  
 A Moment, Whole
 Title: Hidden Realm
+Stage: Hidden Realm
 Track: Petrichor V
 Content: BASE
 Log:
@@ -62,6 +64,7 @@ When you so choose, the beads of your oath will guide you to my vault. Reach out
  
 Abandoned Aqueduct
 Title: Origin of Tar
+Stage: 2
 Track: Terra Pluviam
 Content: BASE
 Log:
@@ -97,6 +100,7 @@ Local audio transcriptions complete.
  
 Abyssal Depths
 Title: Tectonic Relics
+Stage: 4
 Track: Terra Pluviam
 Content: BASE
 Log:
@@ -118,6 +122,7 @@ Local text transcriptions complete.
  
 Aphelian Sanctuary
 Title: Cleansing Center
+Stage: 2
 Track: Once in a Lullaby
 Content: SOTV
 Log:
@@ -146,6 +151,7 @@ Translation Errors:</style
  
 Bazaar Between Time
 Title: Hidden Realm
+Stage: Hidden Realm
 Track: Parjanya
 Content: BASE
 Log:
@@ -173,6 +179,7 @@ He didn’t notice the long, pale arms, grasping in the depths below.
  
 Bulwark's Ambry
 Title: Hidden Realm
+Stage: Hidden Realm
 Track: The Raindrop that Fell to the Sky
 Content: BASE
 Log:
@@ -192,6 +199,7 @@ Do you understand? It’s your turn, brother! I’ve simply found the compounds.
  
 Bulwark's Ambry (Aphelian)
 Title: Hidden Realm
+Stage: Hidden Realm
 Track: The Raindrop that Fell to the Sky
 Content: BASE
 Log:
@@ -207,6 +215,7 @@ Too often I find my mind occupied with your actions, for they affect us both. Ye
  
 Bulwark's Ambry (Tar)
 Title: Hidden Realm
+Stage: Hidden Realm
 Track: The Raindrop that Fell to the Sky
 Content: BASE
 Log:
@@ -223,6 +232,7 @@ You are their ruin.
  
 Bulwark's Ambry (Wisp)
 Title: Hidden Realm
+Stage: Hidden Realm
 Track: The Raindrop that Fell to the Sky
 Content: BASE
 Log:
@@ -240,6 +250,7 @@ ANSWER ME!
  
 Commencement
 Title: Moon of Petrichor V
+Stage: Final
 Track: ...con lentitud poderosa
 Content: BASE
 Log:
@@ -255,6 +266,7 @@ I know the planet you trail – of water and dirt. You fear their stability. Tha
  
 Distant Roost
 Title: Ground Zero
+Stage: 1
 Track: Evapotranspiration
 Content: BASE
 Log:
@@ -279,6 +291,7 @@ The old man gazes out of the window of his cabin, the moon shining in the night 
  
 Disturbed Impact
 Title: Meter of the Restless
+Stage: 1 (PL)
 Track: I Should Build the Man a Statue
 Content: SOTS
 Log:
@@ -303,6 +316,7 @@ Translation Errors:
  
 Gilded Coast
 Title: Hidden Realm
+Stage: Hidden Realm
 Track: Into the Doldrums
 Content: BASE
 Log:
@@ -314,6 +328,7 @@ But a cage of gold - no matter how beautiful - is still a cage.
  
 Golden Dieback
 Title: March of the Fallen
+Stage: 3 (PL)
 Track: Oṃ Maṇi Padme Hūṃ, part II
 Content: SOTS
 Log:
@@ -348,6 +363,7 @@ Sgt. Wylbies: "I see it. Reload! We have a few minutes before they-"
  
 Helminth Hatchery
 Title: Shadow of the Savior
+Stage: 5
 Track: 屋根の漏り (Yane No Mori)
 Content: SOTS
 Log:
@@ -368,6 +384,7 @@ His gift. No, his apology.
  
 Prime Meridian
 Title: Relic of the False Son
+Stage: 4
 Track: Oṃ Maṇi Padme Hūṃ, part I
 Content: SOTS
 Log:
@@ -391,6 +408,7 @@ Good. Then go and bring our great works to life! I will inform you when this gif
  
 Rallypoint Delta
 Title: 'Contact Light' Survivor Camp
+Stage: 3
 Track: Into the Doldrums
 Content: BASE
 Log:
@@ -402,6 +420,7 @@ Log:
  
 Reformed Altar
 Title: Shadow of the Savior
+Stage: 2
 Track: Oṃ Maṇi Padme Hūṃ, part III
 Content: SOTS
 Log:
@@ -440,6 +459,7 @@ Translation Errors: 4
  
 Scorched Acres
 Title: Wisp Installation
+Stage: 3
 Track: Disdrometer
 Content: BASE
 Log:
@@ -470,6 +490,7 @@ I discovered some strange artifacts today. Masks! How novel. For some reason… 
  
 Shattered Abodes
 Title: Ground Zero
+Stage: 1
 Track: I Should Build the Man a Statue
 Content: SOTS
 Log:
@@ -502,6 +523,7 @@ Translation Errors:
  
 Siphoned Forest
 Title: Ground Zero
+Stage: 1
 Track: Out of Whose Womb Came the Ice?
 Content: SOTV
 Log:
@@ -525,6 +547,7 @@ Complete!
  
 Siren's Call
 Title: Ship Graveyard
+Stage: 4
 Track: The Raindrop that Fell to the Sky
 Content: BASE
 Log:
@@ -559,6 +582,7 @@ Complete!
  
 Sky Meadow
 Title: Sprite Fields
+Stage: 5
 Track: The Rain Formerly Known as Purple
 Content: BASE
 Log:
@@ -582,6 +606,7 @@ Wait… what was that noise?
  
 Sulfur Pools
 Title: Pungent Spring
+Stage: 3
 Track: Who Can Fathom the Soundless Depths?
 Content: SOTV
 Log:
@@ -607,6 +632,7 @@ This review has been flagged security level: Classified
  
 Sundered Grove
 Title: Dormant Locus
+Stage: 4
 Track: They Might As Well Be Dead
 Content: BASE
 Log:
@@ -620,6 +646,7 @@ Trees? Yes, trees are beautiful. I agree. We will have many trees.
  
 The Planetarium
 Title: Cell V
+Stage: Final
 Track: The Face of the Deep
 Content: SOTV
 Log:
@@ -645,6 +672,7 @@ Am I still here?
  
 Titanic Plains
 Title: Ground Zero
+Stage: 1
 Track: Disdrometer
 Content: BASE
 Log:
@@ -678,6 +706,7 @@ Local audio transcriptions complete.
  
 Treeborn Colony
 Title: Path of the Protector
+Stage: 3
 Track: Oṃ Maṇi Padme Hūṃ, part II
 Content: SOTS
 Log:
@@ -741,6 +770,7 @@ Translation Errors: 2
  
 Verdant Falls
 Title: Ground Zero
+Stage: 1
 Track: It Can't Rain All The Time
 Content: SOTS
 Log:
@@ -783,6 +813,7 @@ Kelvin out.
  
 Viscous Falls
 Title: Ground Zero
+Stage: 1 (PL)
 Track: It Can't Rain All The Time
 Content: SOTS
 Log:
@@ -795,6 +826,7 @@ Soon they came in mass, leaving slick splatters.
  
 Void Fields
 Title: Cosmic Prison
+Stage: Hidden Realm
 Track: A Glacier Eventually Farts (And Don't You Listen to the Song of Life)
 Content: BASE
 Log:
@@ -814,6 +846,7 @@ The cells were for everything.
  
 Void Locus
 Title: Cell IIIVIIIIIILVIIIVLVILIVLLLVVVILIVLI
+Stage: Hidden Realm
 Track: A Placid Island of Ignorance
 Content: SOTV
 Log:
@@ -833,6 +866,7 @@ Anyways, uh… where do I go from here?
  
 Wetland Aspect
 Title: Rehabilitation Zone
+Stage: 2
 Track: Nocturnal Emission
 Content: BASE
 Log:

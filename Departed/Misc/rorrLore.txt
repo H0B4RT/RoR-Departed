@@ -12,43 +12,55 @@ Environments
 
 Desolate Forest
 Title: Ground Zero
+Stage: 1
 Track: Monsoon
 Artifact: Honor
+Content: BASE
 Log:
 Crashing into a verdant field isn't the worst outcome. I can see lush, rolling hills and strange castles built into mountains. There are foreign species patrolling the grasslands and bizarre housing foundations erected along worn footpaths. I've seen lizards who walk like men and otherworldly stone creatures infused by blazing lights. They seem docile and intelligent, passing by one another with little interaction, but their stiffened postures leave me wary. There's so much culture here for an undocumented planet. There's so much history to these buildings, but their construction doesn't make any sense. Rebar and concrete make up juvenile fabrications, accompanied by worn bricks gathered from ancient castles just meters away. Tree stumps and dead branches litter the landscape as if a forest was felled. But decay settled on this garden long ago... How do you get to concrete before raising a single village? Red sparks dance in the distant sky. I don't know what I'm hoping for.
 
 Dried Lake
 Title: Ground Zero
+Stage: 1
 Track: Aurora Borealis
 Artifact: Kin
+Content: BASE
 Log:
 A massive desert filled with boardwalks and ten-foot crabs. I'm shocked that this is anywhere near the forest I was just in, but I can still see those mountains in the distance - All that greenery traded for dust and skeletons. I would think these catwalks were built to protect from the hot sand below, but these wrecked ships are buried in such shallow dunes. When was there water here? Rain hits my helmet and sizzles at my feet. The overcast sky softens the shadows of petrified barnacles cast over the distant wooden structures. They're held together like old junk in a garage. I can feel the planks bow under my weight, but I'd rather take my chances than wade through a muddy sea of claws and mandibles.
 
 Damp Caverns
 Title: Fungal Haven
+Stage: 2
 Track: Cyclogenesis
 Artifact: Distortion
+Content: BASE
 Log:
 I'm launched into darkness. The bioluminescence is fighting with the pitch black of the caverns, and I can barely make out cliffs and valleys alongside these enormous mushrooms. Some younger ones toddle around and release dense gas clouds, but I've yet to see any individuals who have grown beyond my height. I'm cautious to touch the stalks of any of these towering masses should I find one, so I'm left creeping through the dark bellows towards the next pronged portal. The earth's rotten constitution leaves the ground pillowy. Distant sinkholes above me dot the ceiling like stars. It'd be nice, if it weren't for the constant excretions pouring around my boots. And the rotten stench. I can't even hold my nose.
 
 Sky Meadow
 Title: Field of Sprites
+Stage: 2
 Track: Chanson D'automne
 Artifact: Spite
+Content: BASE
 Log:
 I wonder how these landmasses stay afloat? I can't feel any gravitational abnormalities here, even when I'm beneath them. So far this planet has felt like walking on Mars, nothing would've indicated this as a possibility. After falling asleep on an isolated peninsula, I was shocked to wake up with company. Stone statues of hooded figures had surrounded me silently while I slept. No drag marks, no footsteps, no sound. Except there was a sound - a faint hum resonating between them. After a few minutes of stillness, I rose to my feet. I reached out to push them aside and the humming stopped.
 
 Ancient Valley
 Title: Frozen Tundra
+Stage: 3
 Track: Aurora Borealis
 Artifact: Glass
+Content: BASE
 Log:
 This bridge just goes on forever... but at least it _is_ a bridge. Between this blizzard and the mountain fog I can't see more than two meters ahead, even with my mounted lights. I know I haven't accidentally turned around because the stampede keeps rumbling in the distance behind me, though I'm starting to wonder if its just the wind against the crumbling cliffsides. There's scorched steel strewn along the road, still smoking. What kind of fire could burn in a place like this? I'll have to clamber down to the exposed access tunnels running underneath the bridge to rest, though I can't tell if the drop below is 10 meters or 10 miles.
 
 Boar Beach
 Title: Simpler Times
+Stage: 3.5
 Track: Aurora Borealis
 Artifact: None
+Content: BASE
 Log:
 Through some brambles and fencing I've come across a clearing in the fog. A big bang dropped me from my perch as boars rampaged, weaving in and out of the iron rebar collected from the endless bridge. The spikes were organized into patterns, almost like farm pens, and the pigs each took turns collecting dirt and piling it between them. Beyond that was a barren circle formed from repeated stomping in the tundra. Two boars were fighting within, but one dressed in a shirt appeared to be dancing between the other's attacks, as if it had years of experience.  
 What ki d o   eco s   s       n? W     a  --
@@ -57,36 +69,46 @@ What ki d o   eco s   s       n? W     a  --
 
 Sunken Tomb
 Title: Underwater Catacombs
+Stage: 3
 Track: 25 3°N 91 7°E
 Artifact: Enigma
+Content: BASE
 Log:
 It's hard to tell how deep these catacombs go. I don't have enough oxygen to explore more deeply. Murals describing some kind of war or migration are etched into the walls, though the water pressure must've torn them apart years ago. I can make out figures riding ships - it's hard to tell and I imagine any species that would build a tomb this deep underwater wouldn't require them. The sarcophagi lining the halls ring hollow and the tables and pots look untouched like some sort of nuclear shelter, frozen in time. The ceilings in here are so high and have skylights dug out from the earth above. The caustics are beautiful on the old stonework, though I don't see how they intended for the sun dial below to serve its purpose.
 
 Magma Barracks
 Title: The Core
+Stage: 4
 Track: Tropic of Capricorn
 Artifact: Sacrifice
+Content: BASE
 Log:
 It's hot. My suit can't regulate temperatures like these. I can see waterfalls of lava flowing from grand battlements above me feeding into lakes of magma. The giant turtles below seem quite fond of it, though the surrounding Lemurians seem to have built great steel pens to cage them in. I've caught glimpses of the tribes ferrying back and forth atop their ashen shells almost as frequently as I've seen sacrifices made to feed them. These walkways between the watch towers are calm for now, but the amount of weapons strewn about are concerning. I can hear the clanking of workshops ahead. The only way left is up from here. A mile or so above me I can see the roots of a great tree with battlements spiraling towards it. Maybe I won't need to take a portal this time?
 
 Hive Cluster
 Title: Deep Undergrowth
+Stage: 4
 Track: Chanson D'automne
 Artifact: Command
+Content: BASE
 Log:
 It's hard to tell whats alive and what isn't down here. The fibrous membranes that line the walls are sticky like fresh sap, and its difficult to avoid stepping on gestating pustules wherever you go. I'm stuck hanging from this flesh-rope for now. It's either waiting for these orange beasts to leave or upsetting the hive with more gunfire. At least this time I'm smelling strawberries instead of rot, but the sweet siren's call isn't doing much when I can see skeletons inside this thing. I can feel a slight crawling sensation around my hands and the heat pulses from these fibers like some kind of sick womb. I heard what sounded like crying a moment ago, but it's stopped since then. It was probably my imagination, the constant buzzing is as deafening as it is frightening.
 
 Temple of the Elders
 Title: Holy Ground
+Stage: 5
 Track: Artic Oscillation
 Artifact: Spirit
+Content: BASE
 Log:
 A vast hole of clouds swirls along the lip of this massive floating ridge. Towers and churches are constructed with windows and archways all standing with reverence toward the center of the miles-wide gap. A sort of vortex sucks the air downward and I can see flocks of birds dancing in the wind, like some sort of ritual. The sun touches these stones like nowhere else and a massive spire echoes into the sky, piercing the clouds only to be swallowed again before reaching the atmosphere. It has to have been a thousand steps climbed by now, with the corpses piling up in the nave below. Thunder roars down this spiral, with red lightning flashing shadows of future combatants against the walls. From this height I can finally see it: The Contact Light.
 
 Risk Of Rain
 Title: UES Contact Light
+Stage: Final
 Track: Coalescence
 Artifact: Origin
+Content: BASE
 Log:
 //-c o m m a n d   l o g  0 1 
 UES Class-D Ship 'Contact Light' is capable of carrying 8 million standard-load crates in a single voyage. Freight containers of varying sizes can be magnetized to its cargo hold, with rotational drums stabilizing any disturbances that may occur during space travel. With 50 years of shipments under its wing, it's still a relatively juvenile freighter within the D Suite. Recent restructuring has caused shipment schedules to be rotated among the lesser ships. With half of Class-A ships out of commission due to [REDACTED], the 'Contact Light' has been chosen to deliver [REDACTED]'s previously scheduled cargo. A new captain has been assigned to oversee the journey, and we have placed agents on-board for security reasons. Godspeed.
@@ -102,12 +124,12 @@ Items
 
 
 Meat Nugget
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Enemies drop chunks of healing meat.
+Full Description: 8% chance on hit to drop 2 meat nuggets that heal for 8 (+8 per stack) health.
+Rarity: Common	
+Category: Healing
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1509***********
@@ -132,12 +154,12 @@ Estimated Delivery:
 
 
 Fire Shield
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Retaliate on taking heavy damage.
+Full Description: After taking more than 10% of your health as damage, explode for 400% (+200% per stack) damage, knocking enemies away (+20% force per stack).
+Rarity: Common
+Category: Damage
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1512***********
@@ -161,12 +183,12 @@ Estimated Delivery:
 
 
 Bustling Fungus
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Heal quickly when standing still for 2 seconds.
+Full Description: After standing still for 2 seconds, heal for 4.5% (+4.5% per stack) of your health every second to yourself and nearby allies.
+Rarity: Common
+Category: Healing
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1519***********
@@ -192,12 +214,12 @@ Estimated Delivery:
 
 
 Lens Maker's Glasses
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Chance to deal double damage.
+Full Description: Your attacks have a 8% (+8% per stack) chance to 'Critically Strike', dealing double damage.
+Rarity: Common
+Category: Damage
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1525***********
@@ -223,12 +245,12 @@ Estimated Delivery:
 
 
 Sprouting Egg
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Rapidly heal outside of danger.
+Full Description: After not being hit for 7 seconds, increase health regeneration by 2.4 (+2.4 per stack) hp per second.
+Rarity: Common
+Category: Healing
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1498***********
@@ -252,12 +274,12 @@ Estimated Delivery:
 
 
 Headstompers
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Hurt enemies by falling.
+Full Description: Hurt enemies by falling for up to 600% (+300% per stack) damage.
+Rarity: Common
+Category: Damage
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1488***********
@@ -282,12 +304,12 @@ Estimated Delivery:
 
 
 Life Savings
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Gain gold over time.
+Full Description: Generate $1 (+$1 per stack) every 3 seconds. Scales with time.
+Rarity: Common
+Category: Utility
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1523***********
@@ -307,12 +329,12 @@ Estimated Delivery:
 
 
 Barbed Wire
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Hurts nearby enemies.
+Full Description: Hurt all enemies within 1m (+0.2m per stack) for 50% (+10% per stack) damage every 0.5 seconds.
+Rarity: Common
+Category: Damage
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1513***********
@@ -337,12 +359,12 @@ Estimated Delivery:
 
 
 Rusty Knife
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Chance to bleed on hit.
+Full Description: 15% (+15% per stack) chance to bleed an enemy for 4x35% TOTAL damage.
+Rarity: Common
+Category: Damage
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1522***********
@@ -366,12 +388,12 @@ Estimated Delivery:
 
 
 Mysterious Vial
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Increased health regeneration.
+Full Description: Increase health regeneration by 0.84 (+0.84 per stack) hp per second.
+Rarity: Common
+Category: Healing
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1508***********
@@ -399,12 +421,12 @@ Estimated Delivery:
 
 
 Mortar Tube
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Chance to launch a mortar.
+Full Description: 9% chance on hit to fire a mortar for 170% (+170% per stack) TOTAL damage.
+Rarity: Common
+Category: Damage
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1487***********
@@ -429,12 +451,12 @@ Estimated Delivery:
 
 
 Warbanner
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Drop a Warbanner on level up or activating the teleporter, giving you great strength.
+Full Description: On level up or activating the Teleporter, drop a banner that strengthens all allies within 4.6m (+1.4m per stack). Raise attack and movement speed by 30% and damage by 4. Also heals for 1% of your health every second.
+Rarity: Common
+Category: Damage / Utility / Healing
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1527***********
@@ -459,12 +481,12 @@ Estimated Delivery:
 
 
 Monster Tooth
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Heal after kills.
+Full Description: Killing an enemy heals you for 10 (+5 per stack) health.
+Rarity: Common
+Category: Healing
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1492***********
@@ -489,12 +511,12 @@ Estimated Delivery:
 
 
 Soldier's Syringe
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Increases attack speed.
+Full Description: Increases attack speed by 12% (+12% per stack).
+Rarity: Common
+Category: Damage
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1476***********
@@ -520,12 +542,12 @@ Estimated Delivery:
 
 
 Crowbar
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Deal bonus damage to healthy monsters.
+Full Description: Deal bonus damage to healthy monsters.
+Rarity: Common
+Category: Damage
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1489***********
@@ -548,12 +570,12 @@ Estimated Delivery:
 
 
 Medkit
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Receive a delayed heal after taking damage.
+Full Description: Heal for 10 (+10 per stack) health 1.5 seconds after getting hurt.
+Rarity: Common
+Category: Healing
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1478***********
@@ -578,12 +600,12 @@ Estimated Delivery:
 
 
 Bundle of Fireworks
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Activating an interactable launches fireworks at nearby enemies.
+Full Description: Activating an interactable launches 6 (+3 per stack) fireworks that deal 300% base damage.
+Rarity: Common
+Category: Damage
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1514***********
@@ -606,12 +628,12 @@ Estimated Delivery:
 
 
 Backup Magazine
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Add an extra charge of your Secondary skill.
+Full Description: Add +1 (+1 per stack) charge of your Secondary skill.
+Rarity: Common
+Category: Utility
+Content: RTRN
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 177***********
@@ -635,12 +657,12 @@ Estimated Delivery:
 
 
 Topaz Brooch
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Kills grant temporary barrier.
+Full Description: Killing an enemy grants 15 barrier (+15 per stack).
+Rarity: Common
+Category: Utility / Healing
+Content: RTRN
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 3094***********
@@ -668,12 +690,12 @@ Estimated Delivery:
 
 
 Taser
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Chance to snare on hit.
+Full Description: Chance to snare on hit.
+Rarity: Common
+Category: Utility
+Content: BASE
+Unlock: As Loader, travel 6,500 meters using the Hydraulic Gauntlet. (Bionic)
 Log:
 Shipping Details:
   Tracking Number: 1493***********
@@ -695,12 +717,12 @@ Estimated Delivery:
 
 
 Paul's Goat Hoof
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Move faster.
+Full Description: Increases movement speed by 15% (+15% per stack).
+Rarity: Common
+Category: Utility
+Content: BASE
+Unlock: Fail a shrine 3 times in a row. ("Is This Bugged?")
 Log:
 Shipping Details:
   Tracking Number: 1484***********
@@ -723,12 +745,12 @@ Estimated Delivery:
 
 
 Bitter Root
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Increases maximum health by 8%.
+Full Description: Increases maximum health by 8% (+8% per stack).
+Rarity: Common
+Category: Healing
+Content: BASE
+Unlock: Reach 650 health. (In Good Health)
 Log:
 Shipping Details:
   Tracking Number: 1504***********
@@ -753,12 +775,12 @@ Estimated Delivery:
 
 
 Sticky Bomb
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Chance to attach a bomb to enemies.
+Full Description: 9% chance on hit to attach a bomb to an enemy, detonating for 200% (+100% per stack) TOTAL damage.
+Rarity: Common
+Category: Damage
+Content: BASE
+Unlock: As Engineer, detonate 15 Bounding Mines within 5 seconds. (Controlled Demolition)
 Log:
 Shipping Details:
   Tracking Number: 1503***********
@@ -785,12 +807,12 @@ Estimated Delivery:
 
 
 Snake Eyes
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Gain increased critical strike chance on failing a shrine. Resets between stages.
+Full Description: Failing a shrine increases critical chance by 7% (+7% per stack), up to 6 times. Resets at the start of each stage.
+Rarity: Common
+Category: Damage
+Content: BASE
+Unlock: Pass a shrine 4 times in a row. (Lucky Devil)
 Log:
 Shipping Details:
   Tracking Number: 1505***********
@@ -815,12 +837,12 @@ Estimated Delivery:
 
 
 Hermit's Scarf
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Chance to evade incoming damage.
+Full Description: 10% (+10% per stack) chance to evade incoming damage.
+Rarity: Common
+Category: Utility
+Content: BASE
+Unlock: As Huntress, achieve 200% attack speed. (Rapidfire)
 Log:
 Shipping Details:
   Tracking Number: 1521***********
@@ -845,12 +867,12 @@ Estimated Delivery:
 
 
 Gasoline
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Killing enemies sets the ground on fire.
+Full Description: Killing enemies burns the ground for 60% (+40% per stack) damage.
+Rarity: Common
+Category: Damage
+Content: BASE
+Unlock: Defeat 20 Lemurians in one playthrough. (Lizard Bait)
 Log:
 Shipping Details:
   Tracking Number: 1477***********
@@ -875,12 +897,12 @@ Estimated Delivery:
 
 
 Spikestrip
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Drop spikestrips on being hit, snaring enemies.
+Full Description: When hit, drop spikestrips that snare enemies for 1 (+0.5 per stack) second.
+Rarity: Common
+Category: Utility
+Content: BASE
+Unlock: As Enforcer, block 2000 damage total with your shield.
 Log:
 Shipping Details:
   Tracking Number: 1482***********
@@ -905,12 +927,12 @@ Estimated Delivery:
 
 
 Mocha
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Slightly increase attack speed and movement speed.
+Full Description: Increases movement speed by 7.5% (+7.5% per stack) and attack speed by 6% (+6% per stack).
+Rarity: Common
+Category: Utility / Damage
+Content: RTRN
+Unlock: Level up to level 20. (The Grind)
 Log:
 Shipping Details:
   Tracking Number: 1665***********
@@ -944,12 +966,12 @@ Estimated Delivery:
 
 
 Voltaic Mitt
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Climbed ropes are electrified.
+Full Description: Climbing creates an electric trail that deals 50% damage (+30% per stack).
+Rarity: Common
+Category: Damage
+Content: RTRN
+Unlock: Complete the Providence Trial Hot-Rope Hop. (Rope Burn)
 Log:
 Shipping Details:
   Tracking Number: 531***********
@@ -973,12 +995,12 @@ Estimated Delivery:
 
 
 The Toxin
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Touch enemies to weaken them.
+Full Description: Infect enemies on contact for 3 seconds, causing them to receive 30% (+15% per stack) extra damage from all sources.
+Rarity: Common
+Category: Damage
+Content: RTRN
+Unlock: Find the illegal shipment. (Altered Genome)
 Log:
 Shipping Details:
 
@@ -1007,12 +1029,12 @@ Estimated Delivery:
 
 
 Mu Construct
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Heal periodically after activating the teleporter.
+Full Description: Heal by 2.5% of your maximum health every 5 (-25% per stack) seconds after the Teleporter has been activated.
+Rarity: Common
+Category: Healing
+Content: RTRN
+Unlock: Find this item hidden somewhere in the world to unlock it. (Pre-Alpha)
 Log:
 Shipping Details:
   Tracking Number: 1753***********
@@ -1037,12 +1059,12 @@ Estimated Delivery:
 
 
 Razor Penny
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Slightly increased Critical strike chance. Critical strikes give you gold.
+Full Description: Gain 4% critical chance (+4% per stack). Critical strikes drop $1 (+1$ per stack) gold.
+Rarity: Common
+Category: Damage / Utility
+Content: RTRN
+Unlock: Kill 12 enemies simultaneously using the Gold-Plated Bomb. (A Dime A Dozen)
 Log:
 Shipping Details:
   Tracking Number: 3023***********
@@ -1066,12 +1088,12 @@ Estimated Delivery:
 
 
 Arcane Blades
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Move faster after activating the Teleporter.
+Full Description: Increases movement speed by 30% (+30% per stack) after the Teleporter has been activated.
+Rarity: Common
+Category: Utility
+Content: RTRN
+Unlock: Complete the Providence Trial Kited Blades. ("...Or Your Money Back")
 Log:
 Shipping Details:
   Tracking Number: 2941***********
@@ -1098,12 +1120,12 @@ Estimated Delivery:
 
 
 Time Keeper's Secret
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Falling to low health stops time.
+Full Description: Falling below 25% health stops time for 3 (+1 per stack) seconds. Recharges after 7 minutes.
+Rarity: Uncommon
+Category: Utility
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1467***********
@@ -1128,12 +1150,12 @@ Estimated Delivery:
 
 
 Smart Shopper
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Enemies drop extra gold.
+Full Description: Killed enemies drop 25% (+25% per stack) more gold.
+Rarity: Uncommon
+Category: Utility
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1456***********
@@ -1158,12 +1180,12 @@ Estimated Delivery:
 
 
 Infusion
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Killing an enemy permanently increases your health.
+Full Description: Killing an enemy increases your health permanently by 1 (+0.5 per stack).
+Rarity: Uncommon
+Category: Healing
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1411***********
@@ -1188,12 +1210,12 @@ Estimated Delivery:
 
 
 Will-O'-The-Wisp
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Chance to detonate enemies on kill
+Full Description: 33% chance on killing an enemy to create a lava pillar for 300% (+200% per stack) damage, knocking enemies upwards.
+Rarity: Uncommon
+Category: Damage
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1455***********
@@ -1216,12 +1238,12 @@ Estimated Delivery:
 
 
 AtG Missile Mk. 1
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Chance to fire a missile.
+Full Description: 10% (+10% per stack) chance on hit to fire a missile that deals 300% TOTAL damage.
+Rarity: Uncommon
+Category: Damage
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1459***********
@@ -1247,12 +1269,12 @@ Estimated Delivery:
 
 
 Tough Times
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Reduce incoming damage by 14%
+Full Description: Increase armor by 14 (+14 per stack).
+Rarity: Uncommon
+Category: Utility
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1423***********
@@ -1277,12 +1299,12 @@ Estimated Delivery:
 
 
 Energy Cell
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
+Pickup Text: Attack faster at lower health. 
+Full Description: Increases attack speed by up to 40% (+30% per stack) at low health.
+Rarity: Uncommon
+Category: 
 Content:
-Unlock: 
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1447***********
@@ -1313,7 +1335,7 @@ Full Description:
 Rarity:
 Category:
 Content:
-Unlock: 
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1420***********
@@ -1342,7 +1364,7 @@ Full Description:
 Rarity:
 Category:
 Content:
-Unlock: 
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1461***********
@@ -1373,7 +1395,7 @@ Full Description:
 Rarity:
 Category:
 Content:
-Unlock: 
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1472***********
@@ -1404,7 +1426,7 @@ Full Description:
 Rarity:
 Category:
 Content:
-Unlock: 
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1472***********
@@ -1435,7 +1457,7 @@ Full Description:
 Rarity:
 Category:
 Content:
-Unlock: 
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1463***********
@@ -1465,7 +1487,7 @@ Full Description:
 Rarity:
 Category:
 Content:
-Unlock: 
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1439***********
@@ -1496,7 +1518,7 @@ Full Description:
 Rarity:
 Category:
 Content:
-Unlock: 
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1412***********
@@ -1524,7 +1546,7 @@ Full Description:
 Rarity:
 Category:
 Content:
-Unlock: 
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1422***********
@@ -1552,7 +1574,7 @@ Full Description:
 Rarity:
 Category:
 Content:
-Unlock: 
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1474***********
