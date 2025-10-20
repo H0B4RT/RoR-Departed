@@ -126,7 +126,7 @@ Items
 Meat Nugget
 Pickup Text: Enemies drop chunks of healing meat.
 Full Description: 8% chance on hit to drop 2 meat nuggets that heal for 8 (+8 per stack) health.
-Rarity: Common	
+Tier: Common	
 Category: Healing
 Content: BASE
 Unlock: Unlocked by default.
@@ -156,7 +156,7 @@ Estimated Delivery:
 Fire Shield
 Pickup Text: Retaliate on taking heavy damage.
 Full Description: After taking more than 10% of your health as damage, explode for 400% (+200% per stack) damage, knocking enemies away (+20% force per stack).
-Rarity: Common
+Tier: Common
 Category: Damage
 Content: BASE
 Unlock: Unlocked by default.
@@ -185,7 +185,7 @@ Estimated Delivery:
 Bustling Fungus
 Pickup Text: Heal quickly when standing still for 2 seconds.
 Full Description: After standing still for 2 seconds, heal for 4.5% (+4.5% per stack) of your health every second to yourself and nearby allies.
-Rarity: Common
+Tier: Common
 Category: Healing
 Content: BASE
 Unlock: Unlocked by default.
@@ -216,7 +216,7 @@ Estimated Delivery:
 Lens Maker's Glasses
 Pickup Text: Chance to deal double damage.
 Full Description: Your attacks have a 8% (+8% per stack) chance to 'Critically Strike', dealing double damage.
-Rarity: Common
+Tier: Common
 Category: Damage
 Content: BASE
 Unlock: Unlocked by default.
@@ -247,7 +247,7 @@ Estimated Delivery:
 Sprouting Egg
 Pickup Text: Rapidly heal outside of danger.
 Full Description: After not being hit for 7 seconds, increase health regeneration by 2.4 (+2.4 per stack) hp per second.
-Rarity: Common
+Tier: Common
 Category: Healing
 Content: BASE
 Unlock: Unlocked by default.
@@ -276,7 +276,7 @@ Estimated Delivery:
 Headstompers
 Pickup Text: Hurt enemies by falling.
 Full Description: Hurt enemies by falling for up to 600% (+300% per stack) damage.
-Rarity: Common
+Tier: Common
 Category: Damage
 Content: BASE
 Unlock: Unlocked by default.
@@ -306,7 +306,7 @@ Estimated Delivery:
 Life Savings
 Pickup Text: Gain gold over time.
 Full Description: Generate $1 (+$1 per stack) every 3 seconds. Scales with time.
-Rarity: Common
+Tier: Common
 Category: Utility
 Content: BASE
 Unlock: Unlocked by default.
@@ -331,7 +331,7 @@ Estimated Delivery:
 Barbed Wire
 Pickup Text: Hurts nearby enemies.
 Full Description: Hurt all enemies within 1m (+0.2m per stack) for 50% (+10% per stack) damage every 0.5 seconds.
-Rarity: Common
+Tier: Common
 Category: Damage
 Content: BASE
 Unlock: Unlocked by default.
@@ -361,7 +361,7 @@ Estimated Delivery:
 Rusty Knife
 Pickup Text: Chance to bleed on hit.
 Full Description: 15% (+15% per stack) chance to bleed an enemy for 4x35% TOTAL damage.
-Rarity: Common
+Tier: Common
 Category: Damage
 Content: BASE
 Unlock: Unlocked by default.
@@ -390,7 +390,7 @@ Estimated Delivery:
 Mysterious Vial
 Pickup Text: Increased health regeneration.
 Full Description: Increase health regeneration by 0.84 (+0.84 per stack) hp per second.
-Rarity: Common
+Tier: Common
 Category: Healing
 Content: BASE
 Unlock: Unlocked by default.
@@ -423,7 +423,7 @@ Estimated Delivery:
 Mortar Tube
 Pickup Text: Chance to launch a mortar.
 Full Description: 9% chance on hit to fire a mortar for 170% (+170% per stack) TOTAL damage.
-Rarity: Common
+Tier: Common
 Category: Damage
 Content: BASE
 Unlock: Unlocked by default.
@@ -453,7 +453,7 @@ Estimated Delivery:
 Warbanner
 Pickup Text: Drop a Warbanner on level up or activating the teleporter, giving you great strength.
 Full Description: On level up or activating the Teleporter, drop a banner that strengthens all allies within 4.6m (+1.4m per stack). Raise attack and movement speed by 30% and damage by 4. Also heals for 1% of your health every second.
-Rarity: Common
+Tier: Common
 Category: Damage / Utility / Healing
 Content: BASE
 Unlock: Unlocked by default.
@@ -483,7 +483,7 @@ Estimated Delivery:
 Monster Tooth
 Pickup Text: Heal after kills.
 Full Description: Killing an enemy heals you for 10 (+5 per stack) health.
-Rarity: Common
+Tier: Common
 Category: Healing
 Content: BASE
 Unlock: Unlocked by default.
@@ -513,7 +513,7 @@ Estimated Delivery:
 Soldier's Syringe
 Pickup Text: Increases attack speed.
 Full Description: Increases attack speed by 12% (+12% per stack).
-Rarity: Common
+Tier: Common
 Category: Damage
 Content: BASE
 Unlock: Unlocked by default.
@@ -544,7 +544,7 @@ Estimated Delivery:
 Crowbar
 Pickup Text: Deal bonus damage to healthy monsters.
 Full Description: Deal bonus damage to healthy monsters.
-Rarity: Common
+Tier: Common
 Category: Damage
 Content: BASE
 Unlock: Unlocked by default.
@@ -572,7 +572,7 @@ Estimated Delivery:
 Medkit
 Pickup Text: Receive a delayed heal after taking damage.
 Full Description: Heal for 10 (+10 per stack) health 1.5 seconds after getting hurt.
-Rarity: Common
+Tier: Common
 Category: Healing
 Content: BASE
 Unlock: Unlocked by default.
@@ -602,7 +602,7 @@ Estimated Delivery:
 Bundle of Fireworks
 Pickup Text: Activating an interactable launches fireworks at nearby enemies.
 Full Description: Activating an interactable launches 6 (+3 per stack) fireworks that deal 300% base damage.
-Rarity: Common
+Tier: Common
 Category: Damage
 Content: BASE
 Unlock: Unlocked by default.
@@ -630,7 +630,7 @@ Estimated Delivery:
 Backup Magazine
 Pickup Text: Add an extra charge of your Secondary skill.
 Full Description: Add +1 (+1 per stack) charge of your Secondary skill.
-Rarity: Common
+Tier: Common
 Category: Utility
 Content: RTRN
 Unlock: Unlocked by default.
@@ -659,7 +659,7 @@ Estimated Delivery:
 Topaz Brooch
 Pickup Text: Kills grant temporary barrier.
 Full Description: Killing an enemy grants 15 barrier (+15 per stack).
-Rarity: Common
+Tier: Common
 Category: Utility / Healing
 Content: RTRN
 Unlock: Unlocked by default.
@@ -692,7 +692,7 @@ Estimated Delivery:
 Taser
 Pickup Text: Chance to snare on hit.
 Full Description: Chance to snare on hit.
-Rarity: Common
+Tier: Common
 Category: Utility
 Content: BASE
 Unlock: As Loader, travel 6,500 meters using the Hydraulic Gauntlet. (Bionic)
@@ -719,7 +719,7 @@ Estimated Delivery:
 Paul's Goat Hoof
 Pickup Text: Move faster.
 Full Description: Increases movement speed by 15% (+15% per stack).
-Rarity: Common
+Tier: Common
 Category: Utility
 Content: BASE
 Unlock: Fail a shrine 3 times in a row. ("Is This Bugged?")
@@ -747,7 +747,7 @@ Estimated Delivery:
 Bitter Root
 Pickup Text: Increases maximum health by 8%.
 Full Description: Increases maximum health by 8% (+8% per stack).
-Rarity: Common
+Tier: Common
 Category: Healing
 Content: BASE
 Unlock: Reach 650 health. (In Good Health)
@@ -777,7 +777,7 @@ Estimated Delivery:
 Sticky Bomb
 Pickup Text: Chance to attach a bomb to enemies.
 Full Description: 9% chance on hit to attach a bomb to an enemy, detonating for 200% (+100% per stack) TOTAL damage.
-Rarity: Common
+Tier: Common
 Category: Damage
 Content: BASE
 Unlock: As Engineer, detonate 15 Bounding Mines within 5 seconds. (Controlled Demolition)
@@ -809,7 +809,7 @@ Estimated Delivery:
 Snake Eyes
 Pickup Text: Gain increased critical strike chance on failing a shrine. Resets between stages.
 Full Description: Failing a shrine increases critical chance by 7% (+7% per stack), up to 6 times. Resets at the start of each stage.
-Rarity: Common
+Tier: Common
 Category: Damage
 Content: BASE
 Unlock: Pass a shrine 4 times in a row. (Lucky Devil)
@@ -839,7 +839,7 @@ Estimated Delivery:
 Hermit's Scarf
 Pickup Text: Chance to evade incoming damage.
 Full Description: 10% (+10% per stack) chance to evade incoming damage.
-Rarity: Common
+Tier: Common
 Category: Utility
 Content: BASE
 Unlock: As Huntress, achieve 200% attack speed. (Rapidfire)
@@ -869,7 +869,7 @@ Estimated Delivery:
 Gasoline
 Pickup Text: Killing enemies sets the ground on fire.
 Full Description: Killing enemies burns the ground for 60% (+40% per stack) damage.
-Rarity: Common
+Tier: Common
 Category: Damage
 Content: BASE
 Unlock: Defeat 20 Lemurians in one playthrough. (Lizard Bait)
@@ -899,7 +899,7 @@ Estimated Delivery:
 Spikestrip
 Pickup Text: Drop spikestrips on being hit, snaring enemies.
 Full Description: When hit, drop spikestrips that snare enemies for 1 (+0.5 per stack) second.
-Rarity: Common
+Tier: Common
 Category: Utility
 Content: BASE
 Unlock: As Enforcer, block 2000 damage total with your shield.
@@ -929,7 +929,7 @@ Estimated Delivery:
 Mocha
 Pickup Text: Slightly increase attack speed and movement speed.
 Full Description: Increases movement speed by 7.5% (+7.5% per stack) and attack speed by 6% (+6% per stack).
-Rarity: Common
+Tier: Common
 Category: Utility / Damage
 Content: RTRN
 Unlock: Level up to level 20. (The Grind)
@@ -968,7 +968,7 @@ Estimated Delivery:
 Voltaic Mitt
 Pickup Text: Climbed ropes are electrified.
 Full Description: Climbing creates an electric trail that deals 50% damage (+30% per stack).
-Rarity: Common
+Tier: Common
 Category: Damage
 Content: RTRN
 Unlock: Complete the Providence Trial Hot-Rope Hop. (Rope Burn)
@@ -997,7 +997,7 @@ Estimated Delivery:
 The Toxin
 Pickup Text: Touch enemies to weaken them.
 Full Description: Infect enemies on contact for 3 seconds, causing them to receive 30% (+15% per stack) extra damage from all sources.
-Rarity: Common
+Tier: Common
 Category: Damage
 Content: RTRN
 Unlock: Find the illegal shipment. (Altered Genome)
@@ -1031,7 +1031,7 @@ Estimated Delivery:
 Mu Construct
 Pickup Text: Heal periodically after activating the teleporter.
 Full Description: Heal by 2.5% of your maximum health every 5 (-25% per stack) seconds after the Teleporter has been activated.
-Rarity: Common
+Tier: Common
 Category: Healing
 Content: RTRN
 Unlock: Find this item hidden somewhere in the world to unlock it. (Pre-Alpha)
@@ -1061,7 +1061,7 @@ Estimated Delivery:
 Razor Penny
 Pickup Text: Slightly increased Critical strike chance. Critical strikes give you gold.
 Full Description: Gain 4% critical chance (+4% per stack). Critical strikes drop $1 (+1$ per stack) gold.
-Rarity: Common
+Tier: Common
 Category: Damage / Utility
 Content: RTRN
 Unlock: Kill 12 enemies simultaneously using the Gold-Plated Bomb. (A Dime A Dozen)
@@ -1090,7 +1090,7 @@ Estimated Delivery:
 Arcane Blades
 Pickup Text: Move faster after activating the Teleporter.
 Full Description: Increases movement speed by 30% (+30% per stack) after the Teleporter has been activated.
-Rarity: Common
+Tier: Common
 Category: Utility
 Content: RTRN
 Unlock: Complete the Providence Trial Kited Blades. ("...Or Your Money Back")
@@ -1122,7 +1122,7 @@ Estimated Delivery:
 Time Keeper's Secret
 Pickup Text: Falling to low health stops time.
 Full Description: Falling below 25% health stops time for 3 (+1 per stack) seconds. Recharges after 7 minutes.
-Rarity: Uncommon
+Tier: Uncommon
 Category: Utility
 Content: BASE
 Unlock: Unlocked by default.
@@ -1152,7 +1152,7 @@ Estimated Delivery:
 Smart Shopper
 Pickup Text: Enemies drop extra gold.
 Full Description: Killed enemies drop 25% (+25% per stack) more gold.
-Rarity: Uncommon
+Tier: Uncommon
 Category: Utility
 Content: BASE
 Unlock: Unlocked by default.
@@ -1182,7 +1182,7 @@ Estimated Delivery:
 Infusion
 Pickup Text: Killing an enemy permanently increases your health.
 Full Description: Killing an enemy increases your health permanently by 1 (+0.5 per stack).
-Rarity: Uncommon
+Tier: Uncommon
 Category: Healing
 Content: BASE
 Unlock: Unlocked by default.
@@ -1212,7 +1212,7 @@ Estimated Delivery:
 Will-O'-The-Wisp
 Pickup Text: Chance to detonate enemies on kill
 Full Description: 33% chance on killing an enemy to create a lava pillar for 300% (+200% per stack) damage, knocking enemies upwards.
-Rarity: Uncommon
+Tier: Uncommon
 Category: Damage
 Content: BASE
 Unlock: Unlocked by default.
@@ -1240,7 +1240,7 @@ Estimated Delivery:
 AtG Missile Mk. 1
 Pickup Text: Chance to fire a missile.
 Full Description: 10% (+10% per stack) chance on hit to fire a missile that deals 300% TOTAL damage.
-Rarity: Uncommon
+Tier: Uncommon
 Category: Damage
 Content: BASE
 Unlock: Unlocked by default.
@@ -1271,7 +1271,7 @@ Estimated Delivery:
 Tough Times
 Pickup Text: Reduce incoming damage by 14%
 Full Description: Increase armor by 14 (+14 per stack).
-Rarity: Uncommon
+Tier: Uncommon
 Category: Utility
 Content: BASE
 Unlock: Unlocked by default.
@@ -1301,9 +1301,9 @@ Estimated Delivery:
 Energy Cell
 Pickup Text: Attack faster at lower health. 
 Full Description: Increases attack speed by up to 40% (+30% per stack) at low health.
-Rarity: Uncommon
-Category: 
-Content:
+Tier: Uncommon
+Category: Damage
+Content: BASE
 Unlock: Unlocked by default.
 Log:
 Shipping Details:
@@ -1330,11 +1330,11 @@ Estimated Delivery:
 
 
 Rusty Jetpack
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
+Pickup Text: Increase jump height and reduce gravity.
+Full Description: Decrease gravity while holding the jump button by 10% (-10% per stack) and increase jump height (increases per stack).	
+Tier: Uncommon
+Category: Utility
+Content: BASE
 Unlock: Unlocked by default.
 Log:
 Shipping Details:
@@ -1359,11 +1359,11 @@ Estimated Delivery:
 
 
 Leeching Seed
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
+Pickup Text: Attacking enemies heals you.
+Full Description: Attacking enemies heals you for 2 (+1 per stack) health.
+Tier: Uncommon
+Category: Healing
+Content: BASE
 Unlock: Unlocked by default.
 Log:
 Shipping Details:
@@ -1390,11 +1390,11 @@ Estimated Delivery:
 
 
 Ukelele
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
+Pickup Text: ...and his music was electric.
+Full Description: 20% chance on hit to fire chain lightning for 66% (+66% per stack) TOTAL damage on up to 3 targets.	
+Tier: Uncommon
+Category: Damage
+Content: BASE
 Unlock: Unlocked by default.
 Log:
 Shipping Details:
@@ -1421,11 +1421,11 @@ Estimated Delivery:
 
 
 Boxing Gloves
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
+Pickup Text: Chance to knock enemies backwards for extra damage.
+Full Description: 6% (+6% per stack) chance on hitting enemies to knock them back for 100% TOTAL damage.
+Tier: Uncommon
+Category: Utility / Damage
+Content: BASE
 Unlock: Unlocked by default.
 Log:
 Shipping Details:
@@ -1452,11 +1452,11 @@ Estimated Delivery:
 
 
 Prison Shackles
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
+Pickup Text: Slow enemies on attack.
+Full Description: Slow enemies on hit for -50% movement speed for 1.5 (+0.5 per stack) seconds.
+Tier: Uncommon
+Category: Utility
+Content: BASE
 Unlock: Unlocked by default.
 Log:
 Shipping Details:
@@ -1482,11 +1482,11 @@ Estimated Delivery:
 
 
 Guardian's Heart
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
+Pickup Text: Gain a shield. Recharges outside of danger.
+Full Description: Gain a 60 (+60 per stack) health shield. Recharges when outside of danger for 7 seconds.
+Tier: Uncommon
+Category: Utility
+Content: BASE
 Unlock: Unlocked by default.
 Log:
 Shipping Details:
@@ -1513,11 +1513,11 @@ Estimated Delivery:
 
 
 Hopoo Feather
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
+Pickup Text: Gain an extra jump.
+Full Description: Gain +1 (+1 per stack) maximum jump count.
+Tier: Uncommon
+Category: Utility
+Content: BASE
 Unlock: Unlocked by default.
 Log:
 Shipping Details:
@@ -1541,11 +1541,11 @@ Estimated Delivery:
 
 
 Frost Relic
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
+Pickup Text: Killing enemies surrounds you with icicles.
+Full Description: Killing an enemy temporarily surrounds you with 3 (+1 per stack) icicles that deal 33% damage each every 0.33 seconds.	
+Tier: Uncommon
+Category: Damage
+Content: BASE
 Unlock: Unlocked by default.
 Log:
 Shipping Details:
@@ -1569,11 +1569,11 @@ Estimated Delivery:
 
 
 Red Whip
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
+Pickup Text: Move fast out of combat.
+Full Description: Leaving combat for 2 seconds boosts your movement speed by 60% (+60% per stack).
+Tier: Uncommon
+Category: Utility
+Content: BASE
 Unlock: Unlocked by default.
 Log:
 Shipping Details:
@@ -1597,12 +1597,12 @@ Estimated Delivery:
 
 
 Chargefield Generator
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Create a ring of lightning after killing an enemy. Lasts 6 seconds.
+Full Description: Killing an enemy creates a ring of lightning that deals 50% (+20% per stack) damage every 0.5 seconds to 50% of enemies within. The ring starts with a radius of 4.7m and grows by 1.3m each kill up to 40m. Lasts for 6 seconds without killing enemies.
+Tier: Uncommon
+Category: Damage
+Content: BASE
+Unlock: As Mercenary, eviscerate 50 enemies. (Flash of Light)
 Log:
 Shipping Details:
   Tracking Number: 1474***********
@@ -1625,12 +1625,12 @@ Estimated Delivery:
 
 
 Arms Race
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Drones are equipped with explosive weaponry. Summons a drone helper.
+Full Description: Drones gain a 5% (+5% per stack) chance on hit to fire a missile for 300% TOTAL damage, and a 9% chance on hit to fire a mortar for 85% (+85% per stack) TOTAL damage. Summons a unique drone which regenerates each stage.
+Tier: Uncommon
+Category: Damage
+Content: BASE
+Unlock: As HAN-D, kill 10 enemies simultaneously with FORCED_REASSEMBLY.
 Log:
 Shipping Details:
   Tracking Number: 1458***********
@@ -1655,12 +1655,12 @@ Estimated Delivery:
 
 
 Golden Gun
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: More gold, more damage.
+Full Description: Deal bonus damage based on current gold, up to 40% damage. Caps at 700 (-50% per stack) gold. Scales with time.
+Tier: Uncommon
+Category: Damage
+Content: BASE
+Unlock: Bank 20,000 gold. (War Bonds)
 Log:
 Shipping Details:
   Tracking Number: 1460***********
@@ -1682,12 +1682,12 @@ Estimated Delivery:
 
 
 56 Leaf Clover
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Elite mobs have a chance to drop items.
+Full Description: Elite mobs have a 4% (+1.5% per stack) chance to drop items.
+Tier: Uncommon
+Category: Utility
+Content: BASE
+Unlock: Kill the Scavenger. (Junk Collector)
 Log:
 Shipping Details:
   Tracking Number: 1433***********
@@ -1710,12 +1710,12 @@ Estimated Delivery:
 
 
 Concussion Grenade
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Chance to stun enemies.
+Full Description: 6% (+6% per stack) chance on hitting enemies to stun them for 2 seconds.
+Tier: Uncommon
+Category: Utility
+Content: BASE
+Unlock: As Engineer, kill a boss in 15 seconds or less. (Optimal)
 Log:
 Shipping Details:
   Tracking Number: 1441***********
@@ -1740,12 +1740,12 @@ Estimated Delivery:
 
 
 Filial Imprinting
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Hatch a strange creature who drops buffs periodically.
+Full Description: Hatch 1 (+1 per stack) strange creature who drops buffs every 20 seconds. Buffs temporarily boost either movement speed, attack speed, or health regen.
+Tier: Uncommon
+Category: Utility / Damage / Healing
+Content: BASE
+Unlock: Drown 20 Whorls. (Watery Grave)
 Log:
 Shipping Details:
   Tracking Number: 1425***********
@@ -1767,12 +1767,12 @@ Estimated Delivery:
 
 
 Dead Man's Foot
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Drop a poison trap at low health.
+Full Description: Chance when damaged to drop a poison mine that deals 150% damage and poisons for x600% (+450% per stack) damage over time. Chance to drop starts at 15% and increases with low health.
+Tier: Uncommon
+Category: Damage
+Content: BASE
+Unlock: Find the bloated survivor. (Last Wish)
 Log:
 Shipping Details:
   Tracking Number: 1426***********
@@ -1795,12 +1795,12 @@ Estimated Delivery:
 
 
 Toxic Centipede
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Infected!
+Full Description: Infect a nearby enemy on contact for 6 (+2 per stack) seconds, dealing 50% damage every 0.5 seconds. Bounces to other enemies if the target dies. Recharges every 6 (-33% per stack) seconds.
+Tier: Uncommon
+Category: Damage
+Content: BASE
+Unlock: As Acrid, spread 3,300 feet of Caustic Sludge. (Dissolved)
 Log:
 Shipping Details:
   Tracking Number: 1445***********
@@ -1827,12 +1827,12 @@ Estimated Delivery:
 
 
 Harvester's Scythe
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Critical hits heal you.
+Full Description: Gain 5% critical chance. Critical strikes heal for 8 (+2 per stack) health.
+Tier: Uncommon
+Category: Healing
+Content: BASE
+Unlock: Use a health shrine that drops you below 5% health. (Insurance Fraud)
 Log:
 Shipping Details:
   Tracking Number: 1434***********
@@ -1855,12 +1855,12 @@ Estimated Delivery:
 
 
 Panic Mines
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Drop a mine at low health.
+Full Description: Chance when damaged to drop 1 (+1 per stack) mine that deals 400% damage. Chance to drop starts at 15% and increases with low health.
+Tier: Uncommon
+Category: Damage
+Content: BASE
+Unlock: As Miner, survive the teleporter event without falling below 50%. (Blazing Victory)
 Log:
 Shipping Details:
   Tracking Number: 1440***********
@@ -1886,12 +1886,12 @@ Estimated Delivery:
 
 
 Predatory Instincts
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Critical strikes increase attack speed. Buff stacks 5 times.
+Full Description: Gain 5% critical chance. Critical strikes increase attack speed by 10% (+7% per stack). Maximum cap of 30% (+21% per stack) attack speed.
+Tier: Uncommon
+Category: Damage
+Content: BASE
+Unlock: As Huntress, defeat the Ancient Wisp without taking damage. (Sixth Sense)
 Log:
 Shipping Details:
   Tracking Number: 1450***********
@@ -1914,12 +1914,12 @@ Estimated Delivery:
 
 
 Royal Medallion
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Bosses drop powerful buffing wisps when hit.
+Full Description: 10% chance on hitting a boss monster to drop a buffing wisp that improves health regen, attack speed, move speed, and base damage for 10 (+6 per stack) seconds.
+Tier: Uncommon
+Category: Damage / Utility / Healing
+Content: RTRN
+Unlock: Get a gold rank on at least 5 Providence Trials. (Gold Medalist)
 Log:
 Shipping Details:
   Tracking Number: 2762***********
@@ -1942,12 +1942,12 @@ Estimated Delivery:
 
 
 Prophet's Cape
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: All blocked damage heals you.
+Full Description: Briefly blocks all incoming damage upon being struck (Recharging after 15 seconds). Blocking damage heals you for 3 (+1 per stack) health.
+Tier: Uncommon
+Category: Healing
+Content: RTRN
+Unlock: As Commando, dodge 7 lethal attacks. (Close Calls)
 Log:
 Shipping Details:
   Tracking Number: 2685***********
@@ -1970,12 +1970,12 @@ Estimated Delivery:
 
 
 Locked Jewel
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Activating an interactable grants barrier and gold.
+Full Description: Activating an interactable heals 35% (+15% per stack) of your maximum barrier and grants $8 (scales with time).
+Tier: Uncommon
+Category: Healing
+Content: RTRN
+Unlock: Reach max barrier. (Strength of Will)
 Log:
 Shipping Details:
   Tracking Number: 1068***********
@@ -1998,12 +1998,12 @@ Estimated Delivery:
 
 
 Hunter's Harpoon
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Killing an enemy grants a temporary burst of speed.
+Full Description: Killing an enemy increases movement speed by 125% for 1 (+1 per stack) second. Consecutive kills increase buff duration for up to 25 seconds.
+Tier: Uncommon
+Category: Utility
+Content: RTRN
+Unlock: Complete the Providence Trial A Toxic Path. (Yoink)
 Log:
 Shipping Details:
   Tracking Number: 404***********
@@ -2025,13 +2025,13 @@ Estimated Delivery:
 
 
 
-Pesticide
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Insecticide
+Pickup Text: Chance to apply damage over time. Heal if the enemy dies.
+Full Description: 10% (+5% per stack) chance on hit to spray an enemy dealing 10% damage per second. Spray stacks up to 10 times. Killing enemies heals for 10 (+5 per spray stack) health.
+Tier: Uncommon
+Category: Damage / Healing
+Content: RTRN
+Unlock: Complete the Providence Trial Get Off My Lawn! (Field Testing)
 Log:
 Shipping Details:
   Tracking Number: 1779***********
@@ -2054,12 +2054,12 @@ Estimated Delivery:
 
 
 Decaying Sample
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Gain an orbiting follower that damages enemies.
+Full Description: Gain two orbiting spheres that strike for 100% (+ 50% stack) damage every 0.25 seconds.
+Tier: Uncommon
+Category: Damage
+Content: RTRN
+Unlock: Complete the Providence Trial Main Systems Offline. (A Little Extra Push)
 Log:
 Shipping Details:
   Tracking Number: 3570***********
@@ -2083,12 +2083,12 @@ Estimated Delivery:
 
 
 Thallium
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Chance to slow and damage enemies over time.
+Full Description: 10% (+10% per stack) chance on hit to damage by up to 2x60% enemy damage per second and slow for up to -150% movement speed over the course of 3 seconds.	
+Tier: Legendary
+Category: Damage / Utility
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1348***********
@@ -2111,12 +2111,12 @@ Estimated Delivery:
 
 
 Tesla Coil
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Passively shock nearby enemies.
+Full Description: Passively shock nearby enemies for 120% (+60% per stack) damage.
+Tier: Legendary
+Category: Damage
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1380***********
@@ -2139,12 +2139,12 @@ Estimated Delivery:
 
 
 Old Box
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Chance when damaged to drop a jack-in-the-box, fearing enemies.
+Full Description: Chance when damaged to drop a jack-in-the-box, fearing enemies for 2 (+1 per stack) seconds. Chance to drop starts at 10% and increases with low health.
+Tier: Legendary
+Category: Utility
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1391***********
@@ -2167,12 +2167,12 @@ Estimated Delivery:
 
 
 Beating Embryo
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Equipment has a chance to have double the effect.
+Full Description: Equipment has a 30% (+30% per stack) chance to deal double the effect.
+Tier: Legendary
+Category: Utility
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1379***********
@@ -2197,12 +2197,12 @@ Estimated Delivery:
 
 
 Permafrost
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Chance on hit to freeze enemies while also slowing.
+Full Description: Chance on hit to freeze enemies while also slowing.
+Tier: Legendary
+Category: Utility
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1385***********
@@ -2225,12 +2225,12 @@ Estimated Delivery:
 
 
 AtG Missile Mk. 2
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Hooah.
+Full Description: 7% (+7% per stack) chance on hit to fire three missiles that deal 3x200% TOTAL damage.
+Tier: Legendary
+Category: Damage
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1369***********
@@ -2254,12 +2254,12 @@ Estimated Delivery:
 
 
 Happiest Mask
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Killed enemies spawn friendly ghosts.
+Full Description: Killed enemies spawn ghosts that last 15 seconds with 100% (+20% per stack) health and 70% (+30% per stack) damage.
+Tier: Legendary
+Category: Damage / Utility
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1396***********
@@ -2284,12 +2284,12 @@ Estimated Delivery:
 
 
 Plasma Chain
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Chance on hit to tether onto up to 1 enemy, dealing damage to any enemies in the path.
+Full Description: Chance on hit to tether onto up to 1 (+1 per stack) enemy dealing 60% damage per 0.5 seconds to any enemies in the path.
+Tier: Legendary
+Category: BASE
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1384***********
@@ -2314,12 +2314,12 @@ Estimated Delivery:
 
 
 Heaven Cracker
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Every 4 basic attacks pierce through enemies.
+Full Description: Every 4 (-1 per stack) basic attacks pierce through enemies.
+Tier: Legendary
+Category: Damage
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1389***********
@@ -2345,12 +2345,12 @@ Estimated Delivery:
 
 
 Rapid Mitosis
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Reduce the cooldown of equipment.
+Full Description: Reduce the cooldown of equipment by 25% (+25% per stack).
+Tier: Legendary
+Category: Utility
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1406***********
@@ -2375,12 +2375,12 @@ Estimated Delivery:
 
 
 Ceremonial Dagger
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Killing an enemy fires spirit bolts.
+Full Description: Killing an enemy fires out 4 (+2 per stack) heat seaking bolts that deal 100% damage.
+Tier: Legendary
+Category: Damage
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1357***********
@@ -2403,12 +2403,12 @@ Estimated Delivery:
 
 
 Repulsion Armor
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: After taking damage, reflect all attacks for 4 seconds.
+Full Description: After 6 hits reflect incoming attacks for 400% damage and increase armor by 100 for 4 (+1 per stack) seconds.
+Tier: Legendary
+Category: Damage / Utility
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1370***********
@@ -2431,12 +2431,12 @@ Estimated Delivery:
 
 
 Brilliant Behemoth
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: All your attacks explode!
+Full Description: All your attacks explode for a bonus 20% (+20% per stack) TOTAL damage to nearby enemies.
+Tier: Legendary
+Category: Damage
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1393***********
@@ -2464,12 +2464,12 @@ Estimated Delivery:
 
 
 Hardlight Afterburner
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Add 2 extra charges of your Utility skill. Reduce Utility skill cooldown.
+Full Description: Add +2 (+2 per stack) charges of your Utility skill. Reduces Utility skill cooldown by 33%.
+Tier: Legendary
+Category: Utility
+Content: RTRN
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 3354***********
@@ -2494,12 +2494,12 @@ Estimated Delivery:
 
 
 Interstellar Desk Plant
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Sprout a tree on kill, granting healing fruits.
+Full Description: Upon killing an enemy, spawn an alien plant that heals you for 3% of your maximum health and recharges after 4 seconds. Plant lasts 15 (+5 per stack) seconds.
+Tier: Legendary
+Category: Healing
+Content: BASE
+Unlock: As CHEF, SEAR/FLAMBE 20 Sand Crabs. (Cracking Claws)
 Log:
 Shipping Details:
   Tracking Number: 1342***********
@@ -2527,12 +2527,12 @@ Estimated Delivery:
 
 
 Laser Turbine
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Using skills charges up to a huge laser blast.
+Full Description: Using skills charges the generator by 7.8% (+7.8% per stack) per second. At full power, fire a laser for 2000% damage.
+Tier: Legendary
+Category: Damage
+Content: BASE
+Unlock: As CHEF, have 20 cleavers out at once. (Catch and Release)
 Log:
 Shipping Details:
   Tracking Number: 1344***********
@@ -2555,12 +2555,12 @@ Estimated Delivery:
 
 
 Wicked Ring
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Critical strikes reduce all your cooldowns by 1.
+Full Description: Gain 5% (+10% per stack) critical chance. Critical strikes reduce cooldowns by 1 second.
+Tier: Legendary
+Category: Damage / Utility
+Content: BASE
+Unlock: Collect 4 Keycards. (Endless Voyage)
 Log:
 Shipping Details:
   Tracking Number: 1377***********
@@ -2585,12 +2585,12 @@ Estimated Delivery:
 
 
 Alien Head
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Reduces cooldowns for your skills.	
+Full Description: Decrease your skill cooldowns by 30% (+30% per stack).
+Tier: Legendary
+Category: Utility
+Content: BASE
+Unlock: Obtain 7 Monster Teeth and 1 Guardian's Heart. (Vampire)
 Log:
 Shipping Details:
   Tracking Number: 1349***********
@@ -2615,11 +2615,11 @@ Estimated Delivery:
 
 
 The Ol' Lopper
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
+Pickup Text: Enemies take more damage at lower health.
+Full Description: Deal bonus damage to enemies with lower health, up to +60% (+60% per stack) damage.
+Tier: Legendary
+Category: Damage
+Content: Survive 40 minutes. (The Lone Survivor)
 Unlock: 
 Log:
 Shipping Details:
@@ -2645,12 +2645,12 @@ Estimated Delivery:
 
 
 The Hit List
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Killing marked enemies permanently increases damage.
+Full Description: Randomly marks up to 1 (+1 per stack) enemy. Killing a marked enemy permanently increases damage by 0.5, up to 20 damage.
+Tier: Legendary
+Category: Damage
+Content: BASE
+Unlock: As Bandit, reset your cooldown 15 times consecutively. (Classic Man)
 Log:
 Shipping Details:
   Tracking Number: 1367***********
@@ -2681,12 +2681,12 @@ Estimated Delivery:
 
 
 Photon Jetpack
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: No hands.
+Full Description: Hold the jump button to fly for up to 1.6 (+0.8 per stack) seconds. Recharges over 1.6 seconds.
+Tier: Legendary
+Category: Utility
+Content: BASE
+Unlock: End a teleporter timer with 0 enemies on the map. (Zero Sum)
 Log:
 Shipping Details:
   Tracking Number: 1397***********
@@ -2709,12 +2709,12 @@ Estimated Delivery:
 
 
 Shattering Justice
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Reduce enemy armor on hit. Reduction stacks 5 times.
+Full Description: Attacks reduce enemy armor by 6 for 2 (+2 per stack) seconds. Reduction stacks up to -30 armor.
+Tier: Legendary
+Category: Damage
+Content: BASE
+Unlock: As Miner, reach level 10 without getting hurt more than once. (Hot Streak)
 Log:
 Shipping Details:
   Tracking Number: 1387***********
@@ -2737,12 +2737,12 @@ Estimated Delivery:
 
 
 Telescopic Sight
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Chance to instantly kill an enemy.
+Full Description: 1% (+0.5% per stack) chance on hit to instantly kill enemies. Does not work against bosses.
+Tier: Legendary
+Category: Damage
+Content: BASE
+Unlock: As Sniper, 1-shot kill 10 enemies consecutively. (Iron Sights)
 Log:
 Shipping Details:
   Tracking Number: 1371***********
@@ -2767,12 +2767,12 @@ Estimated Delivery:
 
 
 Fireman's Boots
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Fight fire with fire...
+Full Description: Walking leaves behind a fire trail that burns for 35% (+20% per stack) damage.
+Tier: Legendary
+Category: Damage
+Content: BASE
+Unlock: Survive in lava for 1 minute straight. (In the Soup)
 Log:
 Shipping Details:
   Tracking Number: 1405***********
@@ -2798,12 +2798,12 @@ Estimated Delivery:
 
 
 Hyper-Threader
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Pew pew.
+Full Description: Hitting enemies fires a laser that deals 40% damage and bounces to 2 (+1 per stack) enemies.
+Tier: Legendary
+Category: Damage
+Content: BASE
+Unlock: Complete the Providence Trial A Rung Above. (Thread the Needle)
 Log:
 Shipping Details:
   Tracking Number: 1365***********
@@ -2828,12 +2828,12 @@ Estimated Delivery:
 
 
 Dio's Best Friend
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Cheat death once.
+Full Description: Taking fatal damage consumes this item and revives you with 40% health and 2 seconds of invulnerability.
+Tier: Legendary
+Category: Utility
+Content: BASE
+Unlock: Die 50 times. (Sole Survivor)
 Log:
 Shipping Details:
   Tracking Number: 1402***********
@@ -2856,12 +2856,12 @@ Estimated Delivery:
 
 
 Ancient Scepter
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Upgrade your special skill.
+Full Description: Upgrade your special skill. Unique to each character. Reduces special skill cooldown by 30% per stack.
+Tier: Legendary
+Category: Utility
+Content: BASE
+Unlock: As Mercenary, beat the game on Monsoon difficulty. (Mastery)
 Log:
 Shipping Details:
   Tracking Number: 1388***********
@@ -2886,12 +2886,12 @@ Estimated Delivery:
 
 
 Bottled Chaos
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Using your Equipment triggers an additional, random Equipment effect.
+Full Description: Activating an Equipment triggers a random equipment effect 1 (+1 per stack) time(s).
+Tier: Legendary
+Category: Utility
+Content: RTRN
+Unlock: Use the same Equipment Activator 5 times. (Activated)
 Log:
 Shipping Details:
   Tracking Number: 3257***********
@@ -2912,12 +2912,12 @@ Estimated Delivery:
 
 
 Aegis
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Healing past full grants you a temporary barrier. Increased maximum barrier.
+Full Description: Healing past full grants you barrier equal to 50% (+50% per stack) of the amount you healed. Increases maximum barrier by 20% (+20% per stack).
+Tier: Legendary
+Category: Utility / Healing
+Content: RTRN
+Unlock: As Artificer, multi-kill 15 enemies. (Massacre)
 Log:
 Shipping Details:
   Tracking Number: 3021***********
@@ -2941,12 +2941,12 @@ Estimated Delivery:
 
 
 Substandard Duplicator
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Picked up items yield an additional temporary copy.
+Full Description: Picking up an item gives you a temporary copy of itself. Temporary items last an additional 10 (+10 per stack) seconds
+Tier: Legendary
+Category: Utility
+Content: RTRN
+Unlock: Complete the Providence Trial A Duplicator?! (By Design)
 Log:
 Shipping Details:
   Tracking Number: 2788***********
@@ -2971,12 +2971,12 @@ Estimated Delivery:
 
 
 Classified Access Codes
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Access a deadly weapon against the Teleporter bosses.
+Full Description: The Atlas Cannon appears each stage, activating it deals 40% (+20% per stack) of maximum health as damage to the teleporter boss after it spawns.
+Tier: Legendary
+Category: Damage
+Content: RTRN
+Unlock: Complete the Providence Trial Emergency Ejection. (Paratrooper)
 Log:
 Shipping Details:
   Tracking Number: 3208***********
@@ -3002,12 +3002,12 @@ Estimated Delivery:
 
 
 Umbrella
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: They fear the rain.
+Full Description: Rain begins for 15 seconds (increases per stack) upon activating the Teleporter. Rain stuns, damages, and weakens enemies. You are invincible while it is raining.
+Tier: Legendary
+Category: Utility
+Content: RTRN
+Unlock: Complete the Providence Trial Meteor Showers. (Chance of Showers)
 Log:
 Shipping Details:
   Tracking Number: 3509***********
@@ -3033,12 +3033,13 @@ Estimated Delivery:
 
 
 Rotten Brain
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Throw a bouncing brain.
+Full Description: Throw a brain that bounces in place, damaging/slowing enemies for 6x200%.
+Tier: Equipment
+Category: Damage
+Cooldown: 30
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1562***********
@@ -3061,12 +3062,13 @@ Estimated Delivery:
 
 
 Safeguard Lantern
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Drop a lantern that fears and damages enemies for 10 seconds.
+Full Description: Drop a lantern for 10 seconds. Fears and damages enemies for 100% damage.
+Tier: Equipment
+Category: Damage / Utility
+Cooldown: 45
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1580***********
@@ -3089,12 +3091,13 @@ Estimated Delivery:
 
 
 Snowglobe
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Randomly freeze enemies for 8 seconds.
+Full Description: Summon a snowstorm that freezes monsters at a 50% chance/sec over 7 seconds.
+Tier: Equipment
+Category: Utility
+Cooldown: 45
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1570***********
@@ -3117,12 +3120,13 @@ Estimated Delivery:
 
 
 Skeleton Key
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Unlocks all chests within 20 meters.
+Full Description: Open all chests within 20 meters.
+Tier: Equipment
+Category: Utility
+Cooldown: 90
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1559***********
@@ -3147,12 +3151,13 @@ Estimated Delivery:
 
 
 Foreign Fruit
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Heal on use.
+Full Description: Heal yourself for 50% of your health.
+Tier: Equipment
+Category: Healing
+Cooldown: 45
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1584***********
@@ -3177,12 +3182,13 @@ Estimated Delivery:
 
 
 Instant Minefield
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Drop many mines at your feet.
+Full Description: Drop 7 mines at your feet, each dealing 400% damage.
+Tier: Equipment
+Category: Damage
+Cooldown: 45
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1551***********
@@ -3207,12 +3213,13 @@ Estimated Delivery:
 
 
 Jar of Souls
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Summon a ghost for every enemy in the screen.
+Full Description: Duplicate every enemy as a ghost to fight on your side. Ghosts last 15 seconds and have 70% damage.
+Tier: Equipment
+Category: Damage / Utility
+Cooldown: 45
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1540***********
@@ -3235,12 +3242,13 @@ Estimated Delivery:
 
 
 Carrara Marble
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Place a marble gate. Teleport back to the gate by activating again.
+Full Description: Place a marble gate. Teleport back to the gate by activating again.
+Tier: Equipment
+Category: Utility
+Cooldown: 45
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1586***********
@@ -3265,12 +3273,13 @@ Estimated Delivery:
 
 
 Sawmerang
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Mow them down!
+Full Description: Throw out a sawmerang, slicing enemies for 500% damage and making them bleed for 4x100% damage. Boomerangs back.
+Tier: Equipment
+Category: Damage
+Cooldown: 45
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1569***********
@@ -3293,12 +3302,13 @@ Estimated Delivery:
 
 
 Shattered Mirror
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Create a shadow partner for 15 seconds.
+Full Description: For 15 seconds, double all your abilities' damage and effects.
+Tier: Equipment
+Category: Damage
+Cooldown: 75
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1543***********
@@ -3321,12 +3331,13 @@ Estimated Delivery:
 
 
 Disposable Missile Launcher
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Fire a swarm of missiles.
+Full Description: Fire a swarm of 12 missiles, dealing 200% damage each.
+Tier: Equipment
+Category: Damage
+Cooldown: 45
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1552***********
@@ -3351,12 +3362,13 @@ Estimated Delivery:
 
 
 Gold-Plated Bomb
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Drop and detonate 50% of your money.
+Full Description: Use 50% of your gold to create a bomb, dealing 1 damage per gold spent. Refund 20% of spent gold on kill.
+Tier: Equipment
+Category: Damage
+Cooldown: 45
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1567***********
@@ -3379,12 +3391,13 @@ Estimated Delivery:
 
 
 Drone Repair Kit
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Repair and empower all active drones. Summons a unique drone to assist.
+Full Description: All drones are repaired to full health and empowered for 8 seconds. Summons a unique drone.
+Tier: Equipment
+Category: Damage / Utility
+Cooldown: 45
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1537***********
@@ -3407,12 +3420,13 @@ Estimated Delivery:
 
 
 Thqwib
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Releases a bloom of Thqwibs, detonating on impact.
+Full Description: Release a bloom of 30 thqwibs, detonating on impact for 200% damage.
+Tier: Equipment
+Category: Damage
+Cooldown: 45
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1532***********
@@ -3437,12 +3451,13 @@ Estimated Delivery:
 
 
 Dynamite Plunger
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Hitting enemies drops dynamite. Use to detonate.
+Full Description: Hitting an enemy drops dynamite. Use to detonate for 200% damage.
+Tier: Equipment
+Category: Damage
+Cooldown: 45
+Content: BASE
+Unlock: Unlocked by default.
 Log:
 Shipping Details:
   Tracking Number: 1529***********
@@ -3465,12 +3480,13 @@ Estimated Delivery:
 
 
 Mace Replica
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Swing a powerful mace, activating your item effects.
+Full Description: Swing a powerful mace for 250% damage, knocking enemies away. Guaranteed to activate all on-hit item effects.
+Tier: Equipment
+Category: Damage
+Cooldown: 45
+Content: RTRN
+Unlock: As Commando, activate the 3rd teleporter without being hurt once. (Untouchable)
 Log:
 Shipping Details:
   Tracking Number: 2242***********
@@ -3495,12 +3511,13 @@ Estimated Delivery:
 
 
 Gigantic Amethyst
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Resets all your cooldowns.	
+Full Description: Reset all your cooldowns.
+Tier: Equipment
+Category: Utility
+Cooldown: 8
+Content: BASE
+Unlock: As Loader, kill the Overloading Magma Worm. (Snuffed Out)
 Log:
 Shipping Details:
   Tracking Number: 1523***********
@@ -3524,12 +3541,13 @@ Estimated Delivery:
 
 
 Crudely-Drawn Buddy
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Drop a decoy, attracting nearby enemies.
+Full Description: Blow up a decoy, attracting and confusing enemies for 8 seconds. Looks just like you.
+Tier: Equipment
+Category: Utility
+Cooldown: 45
+Content: BASE
+Unlock: As Sniper, achieve 15 consecutive perfect reloads. (High Caliber)
 Log:
 Shipping Details:
   Tracking Number: 1559***********
@@ -3553,12 +3571,13 @@ Estimated Delivery:
 
 
 Prescriptions
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Increase damage and attack speed for 8 seconds.
+Full Description: Increase damage by 30% and attack speed by 40% for 8 seconds.
+Tier: Equipment
+Category: Damage
+Cooldown: 45
+Content: BASE
+Unlock: As Enforcer, stay in Shield Mode for 5 minutes straight (in combat). (Turtle)
 Log:
 Shipping Details:
   Tracking Number: 1156***********
@@ -3585,12 +3604,13 @@ Estimated Delivery:
 
 
 Shield Generator
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Become invulnerable for 8 seconds.
+Full Description: Become invincible for 8 seconds.
+Tier: Equipment
+Category: Utility
+Cooldown: 45
+Content: BASE
+Unlock: As HAN-D, beat the third stage without falling below 60% health. (Like New)
 Log:
 Shipping Details:
   Tracking Number: 1577***********
@@ -3613,12 +3633,13 @@ Estimated Delivery:
 
 
 Unstable Watch
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Pause time for 7 seconds.
+Full Description: Stop time for 7 seconds.
+Tier: Equipment
+Category: Utility
+Cooldown: 67
+Content: BASE
+Unlock: Complete the 1st stage in under 5 minutes. (Never Look Back)
 Log:
 Shipping Details:
   Tracking Number: 1592***********
@@ -3642,12 +3663,13 @@ Estimated Delivery:
 
 
 Lost Doll
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Harm yourself to deal massive damage to an enemy.
+Full Description: Sacrifice 25% health to damage an enemy for 400% of your maximum health.
+Tier: Equipment
+Category: Damage
+Cooldown: 45
+Content: BASE
+Unlock: Survive a boss with less than 20% health. (Still Standing)
 Log:
 Shipping Details:
   Tracking Number: 1541***********
@@ -3675,12 +3697,13 @@ Estimated Delivery:
 
 
 Pillaged Gold
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: For 14 seconds, hitting enemies causes them to drop gold.
+Full Description: For 14 seconds, every hit drops gold.
+Tier: Equipment
+Category: Utility
+Cooldown: 45
+Content: BASE
+Unlock: As Bandit, kill a boss with Lights Out. (Desperado)
 Log:
 Shipping Details:
   Tracking Number: 1566***********
@@ -3705,12 +3728,13 @@ Estimated Delivery:
 
 
 Captain's Brooch
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: One man's wreckage is another man's treasure.	
+Full Description: Call down a chest nearby. Chest cost is doubled.	
+Tier: Equipment
+Category: Utility
+Cooldown: 135
+Content: BASE
+Unlock: Unlock a golden chest with the Skeleton Key. (Special Delivery)
 Log:
 Shipping Details:
   Tracking Number: 1548***********
@@ -3735,12 +3759,13 @@ Estimated Delivery:
 
 
 The Back-Up
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Call drones for backup. Lasts 10 seconds.
+Full Description: Create 4 drones to fight for you for 10 seconds.	
+Tier: Equipment
+Category: Damage
+Cooldown: 45
+Content: BASE
+Unlock: Have 4 drone helpers at once. (Mechanized Militia)
 Log:
 Shipping Details:
   Tracking Number: 1549***********
@@ -3763,12 +3788,13 @@ Estimated Delivery:
 
 
 Super Massive Leech
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Grant massive life on hit for 10 seconds.
+Full Description: For 10 seconds, every hit heals you for 9 health.
+Tier: Equipment
+Category: Healing
+Cooldown: 45
+Content: BASE
+Unlock: As Acrid, spread epidemic to 25 enemies. (Catchy)
 Log:
 Shipping Details:
   Tracking Number: 1574***********
@@ -3794,12 +3820,13 @@ Estimated Delivery:
 
 
 Glowing Meteorite
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Rain meteors from the sky, hurting both enemies and allies.
+Full Description: Meteors fall from the sky, damaging enemies and friends for 10% of their maximum health. Lasts 8 seconds.
+Tier: Equipment
+Category: Damage
+Cooldown: 70
+Content: BASE
+Unlock: Deal 5000 damage in one shot. (Macho)
 Log:
 Shipping Details:
   Tracking Number: 1547***********
@@ -3822,12 +3849,13 @@ Estimated Delivery:
 
 
 Legendary Spark
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Smite them. Smite them all.
+Full Description: 8% chance on hit to create 2 (+1 per stack) sparks that smite enemies for 200% TOTAL damage.
+Tier: Boss 
+Type: Item
+Category: Damage
+Content: BASE
+Drops From: Ancient Wisp
 Log:
 Shipping Details:
   Tracking Number: 1594***********
@@ -3849,12 +3877,13 @@ Estimated Delivery:
 
 
 Imp Overlord's Tentacle
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Cut off the head of the snake.. and the body lives on.
+Full Description: Summon an imp bodyguard. Revives after 60 (-10 per stack) seconds. Increase imp health and damage by 15% per stack.
+Tier: Boss 
+Type: Item
+Category: Utility
+Content: BASE
+Drops From: Imp Overlord
 Log:
 Shipping Details:
   Tracking Number: 1599***********
@@ -3877,12 +3906,13 @@ Estimated Delivery:
 
 
 Burning Witness
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: The Worm's eye seems to still see.. watching.. rewarding..
+Full Description: Killing enemies grants a fire trail and 30% movement speed for 6 (+2 per stack) seconds.
+Tier: Boss 
+Type: Item
+Category: Damage / Utility
+Content: BASE
+Drops From: Magma Worm
 Log:
 Shipping Details:
   Tracking Number: 1602***********
@@ -3905,12 +3935,13 @@ Estimated Delivery:
 
 
 Colossal Knurl
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Increase health, health regeneration, and armor.
+Full Description: Increase maximum health by 40, health regeneration by 1.2/second, and armor by 6.
+Tier: Boss 
+Type: Item
+Category: Healing
+Content: BASE
+Drops From: Colossus
 Log:
 Shipping Details:
   Tracking Number: 1595***********
@@ -3933,12 +3964,13 @@ Estimated Delivery:
 
 
 Ifrit's Horn
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Chance to fire a flaming wave.
+Full Description: 8% chance on hit to fire a flaming wave that incinerates enemies for 300% (+300% per stack) damage.
+Tier: Boss 
+Type: Item
+Category: Damage
+Content: BASE
+Drops From: Ifrit
 Log:
 Shipping Details:
   Tracking Number: 1596***********
@@ -3961,12 +3993,14 @@ Estimated Delivery:
 
 
 Nematocyst Nozzle
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Best served cold.
+Full Description: Shoot out 6 nematocysts that deal 400% damage.
+Tier: Boss 
+Type: Equipment
+Category: Damage
+Cooldown: 23
+Content: BASE
+Drops From: Wandering Vagrant
 Log:
 Shipping Details:
   Tracking Number: 1598***********
@@ -3989,12 +4023,14 @@ Estimated Delivery:
 
 
 Evolved Nematocyst Nozzle
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Cnidarian delicacy.
+Full Description: Shoot out 9 nematocysts that deal 400% damage.
+Tier: Boss 
+Type: Equipment
+Category: Damage
+Cooldown: 23
+Content: RTRN
+Drops From: Scrap an Evolved Young Jelly drone using a Drone Scrapper.
 Log:
 Shipping Details:
   Tracking Number: 1585***********
@@ -4017,12 +4053,13 @@ Estimated Delivery:
 
 
 Scorching Shell Piece
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Gain shield. Fire a barrage of projectiles when it breaks.
+Full Description: Gain a 20 (+20 per stack) health shield. Fire up to 4 (+2 per stack) projectiles at nearby enemies when it breaks.
+Tier: Boss 
+Type: Item
+Category: Damage / Utility
+Content: RTRN
+Drops From: Cremator
 Log:
 Shipping Details:
   Tracking Number: 2447***********
@@ -4045,12 +4082,13 @@ Estimated Delivery:
 
 
 Lost Pickaxe
-Pickup Text: 
-Full Description: 
-Rarity:
-Category:
-Content:
-Unlock: 
+Pickup Text: Scorching from beyond.
+Full Description: 15% (+10% per stack) chance on hit to summon a pickaxe that deals 220% TOTAL damage and pierces enemies.
+Tier: Boss 
+Type: Item
+Category: Damage
+Content: RTRN
+Drops From: Direseeker
 Log:
 Shipping Details:
   Tracking Number: 2725***********
