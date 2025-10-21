@@ -55,18 +55,6 @@ Content: BASE
 Log:
 This bridge just goes on forever... but at least it _is_ a bridge. Between this blizzard and the mountain fog I can't see more than two meters ahead, even with my mounted lights. I know I haven't accidentally turned around because the stampede keeps rumbling in the distance behind me, though I'm starting to wonder if its just the wind against the crumbling cliffsides. There's scorched steel strewn along the road, still smoking. What kind of fire could burn in a place like this? I'll have to clamber down to the exposed access tunnels running underneath the bridge to rest, though I can't tell if the drop below is 10 meters or 10 miles.
 
-Boar Beach
-Title: Simpler Times
-Stage: 3.5
-Track: Aurora Borealis
-Artifact: None
-Content: BASE
-Log:
-Through some brambles and fencing I've come across a clearing in the fog. A big bang dropped me from my perch as boars rampaged, weaving in and out of the iron rebar collected from the endless bridge. The spikes were organized into patterns, almost like farm pens, and the pigs each took turns collecting dirt and piling it between them. Beyond that was a barren circle formed from repeated stomping in the tundra. Two boars were fighting within, but one dressed in a shirt appeared to be dancing between the other's attacks, as if it had years of experience.  
-What ki d o   eco s   s       n? W     a  --
-
-///Data fragment error: EXCEPTION CCPLS_7479@@@@@@@@@@
-
 Sunken Tomb
 Title: Underwater Catacombs
 Stage: 3
@@ -3938,7 +3926,8 @@ Colossal Knurl
 Pickup Text: Increase health, health regeneration, and armor.
 Full Description: Increase maximum health by 40, health regeneration by 1.2/second, and armor by 6.
 Tier: Boss 
-Type: Item
+Type: 
+Class: Item
 Category: Healing
 Content: BASE
 Drops From: Colossus
@@ -3967,7 +3956,8 @@ Ifrit's Horn
 Pickup Text: Chance to fire a flaming wave.
 Full Description: 8% chance on hit to fire a flaming wave that incinerates enemies for 300% (+300% per stack) damage.
 Tier: Boss 
-Type: Item
+Type: 
+Class: Item
 Category: Damage
 Content: BASE
 Drops From: Ifrit
@@ -3996,7 +3986,8 @@ Nematocyst Nozzle
 Pickup Text: Best served cold.
 Full Description: Shoot out 6 nematocysts that deal 400% damage.
 Tier: Boss 
-Type: Equipment
+Type: 
+Class: Equipment
 Category: Damage
 Cooldown: 23
 Content: BASE
@@ -4026,7 +4017,8 @@ Evolved Nematocyst Nozzle
 Pickup Text: Cnidarian delicacy.
 Full Description: Shoot out 9 nematocysts that deal 400% damage.
 Tier: Boss 
-Type: Equipment
+Type: 
+Class: Equipment
 Category: Damage
 Cooldown: 23
 Content: RTRN
@@ -4056,7 +4048,8 @@ Scorching Shell Piece
 Pickup Text: Gain shield. Fire a barrage of projectiles when it breaks.
 Full Description: Gain a 20 (+20 per stack) health shield. Fire up to 4 (+2 per stack) projectiles at nearby enemies when it breaks.
 Tier: Boss 
-Type: Item
+Type: 
+Class: Item
 Category: Damage / Utility
 Content: RTRN
 Drops From: Cremator
@@ -4085,7 +4078,8 @@ Lost Pickaxe
 Pickup Text: Scorching from beyond.
 Full Description: 15% (+10% per stack) chance on hit to summon a pickaxe that deals 220% TOTAL damage and pierces enemies.
 Tier: Boss 
-Type: Item
+Type: 
+Class: Item
 Category: Damage
 Content: RTRN
 Drops From: Direseeker
@@ -4636,6 +4630,12 @@ Health: 100
 Damage: 14
 Speed: 22 KM/H
 Mobility: Jump, Fall, Climb
+Type: 
+Class:
+Description: Lemurians are purple anthropomorphic bipedal reptiles which stand 7 feet tall. They wear shoulder and arm plates, indicating high intelligence. Lemurians and their subspecies are common across all of Petrichor V, and appear to live in underground caverns and tunnels, from which they ambush prey. Lemurians seem to coordinate in a colony-like society, evidenced by their armor, underground logistic network, established hierarchical roles, and adoration for song and dance. They possess slender bodies covered with purple iridescent scales, and cyan accents streamlining across their inner legs, chest, and arms. Their limbs end with dull beige-colored claws. Their mouths have short, sharp fangs with brightly colored blue gums and tongues. Their eyes are bright cyan. Despite their apparent progress as an intelligent colonial faction, the regular Lemurians lack any weapons aside from their fangs, and claws, which they are not shown to use.
+Behavior: Lemurians engage the player by running towards them on land, and initiating a bite attack when in range. They can jump over ledges and climb ropes, and typically spawn in large groups, making up for their low damage and health. Due to their relatively small size, Lemurians are easily staggered by light attacks, and are easily countered by stuns or by outmaneuvering them. Lemurians are one of 4 enemies capable of climbing and attacking on ropes, the other three being Lynx Tribe, Children and Clay Men.
+Spawns: Desolate Forest, Dried Lake, Damp Caverns
+Content: BASE
 Field Notes:
 The first sentient species I discovered on my unfortunate arrival. Around 7' tall, with scaly skin not different from that of a lizard. Bipedal. Aggressive on sight, minus a few exceptions. These Lemurians have an extremely powerful bite, but don't seem to employ weapons.
 
@@ -4645,11 +4645,17 @@ From what I've briefly seen, they seem to enjoy song and dance.
 
 
 
-Stone Golem
+Rock Golem
 Health: 300
 Damage: 34
 Speed: 10 KM/H
 Mobility: None
+Type: 
+Class:
+Description: Rock Golems are 10-foot tall humanoids comprised entirely of stone, soil, and moss. They're animated by an unknown force and are among the slowest creatures in Petrichor V. They're gentle protectors that can use their slow, but powerful bulky arms to "clap" and generate tremendous amounts of force. Rock Golems revert back to the ground when they've sustained enough damage.
+Behavior: The Rock Golem is slow but tough. It has one attack, in which it claps its hands together when in melee range, dealing a great amount of damage in front of it. They cannot jump or climb but will loiter at the edge of cliffs if no survivor is in range. It is easily beaten by staying out of range or isolating it to a ledge from which it cannot reach the player, or by walking past it while its performing its sluggish, telegraphed attack. Rock golems are bulky enough to endure regular attacks, but are still susceptible to stuns.
+Spawns: Desolate Forest, Sky Meadow, Ancient Valley, Summoned by Colossus
+Content: BASE
 Field Notes:
 Now THEY are interesting. These Golems, which tower over me at 10' tall, are constructed from the soil and rock beneath my feet. After a brilliant red flash, the earth itself moves to create these constructs in 2 seconds flat. If I didn't know better, I would consider this.. magic.
 
@@ -4664,6 +4670,12 @@ Health: 300
 Damage: 34
 Speed: 22 KM/H
 Mobility: None
+Type: 
+Class:
+Description: The Sand Crab is a 10-foot tall brown crustacean with large light brown pincers and yellow beady eyes. It seems to hide under piles of sand and moss, digging itself in before popping up when prey is in sight. Sand Crabs possess a brown chitinous exoskeleton, usually covered in leftover moss after digging itself up from the ground. They have dark brown undersides, shifting to a deep blue hue further down their mouthparts. Their legs are short and spindly, but move dexterously enough to match the speed of a Lemurian.
+Behavior: Sand Crabs behave very similarly to Rock Golems, lacking the ability to climb rope, jump, or cross wide ledges. They attack by crushing their pincers together, dealing the same damage as a Rock Golem, with more or less the same attack speed. They're comparatively larger than Rock Golems, and therefore have a wider hitbox. As such, they're immune to light attack knockback but not stuns.
+Spawns: Dried Lake, Sunken Tomb
+Content: BASE
 Field Notes:
 A few hours after my crash, I finally decided to investigate the nearby area. As I moved past a particularly large mound of sand, it began to shift and roar. From it erupted a giant crab-like beast, standing above me at 10' with claws the size of a small man. The giant crab moves surprisingly fast for its size; the foliage growing on its back indicates that they stay still for long periods of time. This crab is either extremely patient or hibernates regularly.
 
@@ -4676,6 +4688,12 @@ Health: 170
 Damage: 17
 Speed: 27 KM/H
 Mobility: None
+Type: 
+Class:
+Description: Wisps appear as black masks that are encompassed entirely by bright orange and yellow flames. Wisps are not living beings, and are instead created either deliberately by a greater entity or as a consequence of nature. They have the ability to channel their flame into a beam that erupts at a medium distance. It is suggested by Risk of Rain 2 logbook entries that all forms of Wisps are forged by a species known as Grovetenders.
+Behavior: Despite what their floating figure may suggest, Wisps are incapable of flight movement-wise. They also cannot jump or climb ropes, instead wandering around and waiting for the player to come into range. When a survivor is in its line of sight, the Wisp will expel its flame forward in a line, dealing slightly more damage than a Lemurian. The Wisp's attack can damage players relatively far away by reaching over gaps, despite not being able to cross ledges.
+Spawns: Desolate Forest, Dried Lake, Damp Caverns, Magma Barracks, summoned by Blazing Colossus, spawn on Ancient Wisp death
+Content: BASE
 Field Notes:
 Characterized by their constant flame, the Wisps are not living beings. Each Wisp has a mask in its center, where all the fire erupts from. The Wisps are able to concentrate their heat into a long range heat blast, capable of scorching anything in its path. On taking heavy damage, the fuel powering the Wisp detonates, sending the mask soaring clear through the air.
 
@@ -4688,6 +4706,12 @@ Health: 470
 Damage: 23
 Speed: 27 KM/H
 Mobility: None
+Type: 
+Class:
+Description: The Greater Wisp is a larger and stronger version of the Wisp, with their flames burning a more intense and voluminous green color. Their masks are now much more skull-like in shape. In addition, they possess "arms" seemingly made from the same boney material that's made from their masks, also fully engulfed in their flames.
+Behavior:
+Spawns: 
+Content: BASE
 Field Notes:
 Oh lord. These.. Greater Wisps, as I have grown to call them, are absolutely terrifying to face. Tougher then the Rock Golem, faster then the Lemurian, and harder hitting then both combined. Unlike the lesser Wisps, the Greater Wisp has two arms capable of typical motion. They burn a brilliant green which pierces straight though my sun visor.
 
@@ -4700,6 +4724,12 @@ Health: 85
 Damage: 7
 Speed: 40 KM/H
 Mobility: Fly
+Type: 
+Class:
+Description:
+Behavior:
+Spawns: 
+Content: BASE
 Field Notes:
 An airborne creature, capable of flight using a combination of gases in its clear hull. Like the Jellyfish on earth, they also use pulsation to aid in locomotion; however, rather than a series of tentacles, they have two branches' made of many tentacles wrapped around themselves.
 
@@ -4712,6 +4742,12 @@ Health: 300
 Damage: 18
 Speed: 15 KM/H
 Mobility: Teleport
+Type: 
+Class:
+Description:
+Behavior:
+Spawns: 
+Content: RTRN
 Field Notes:
 While resting in the shade of a massive tree, I was startled at what I thought was an earthquake. The ground shifted beneath my feet and I was suddenly thrown into the air. Beneath me was the gaping maw of a Trokk, and if I weren't already gripping my pistol it would've crushed me into sheet metal. Beyond the stone exterior of this strange walking log is some kind of vulnerable flesh like the inside of an alligator's mouth. With no space for a stomach I shudder at the thought of what happens to its victims.
 
@@ -4722,6 +4758,12 @@ Health: 300
 Damage: 17
 Speed: 29 KM/H
 Mobility: Jump, Fall
+Type: 
+Class:
+Description:
+Behavior:
+Spawns: 
+Content: RTRN
 Field Notes:
 The Tuber is reminiscent of the small plants I cared for back on the ship, Nestling themselves deep in the ground, they hide from prey and wait for vibrations to initiate their fanged attack. Like fighting a giant antlion, sometimes the best strategy was to lure them out by tossing spent magazines. I tried stones and other bait, but their responses to the bait seemed dependant on some unseen quality. The behavior of the beasts on the planet continue to concern me I feel like all eyes are on me despite how natural these animals seem from a distance.
 
@@ -4732,6 +4774,12 @@ Health: 160
 Damage: 17
 Speed: 22 KM/H
 Mobility: None
+Type: 
+Class:
+Description:
+Behavior:
+Spawns: BASE
+Content:
 Field Notes:
 I have arrived in an even stranger land. After recovering from my sudden.. teleportation, I noticed that my suit was flashing warnings about air filtration. All across the landscape were giant fungi, some as tall as trees.
 
@@ -4746,6 +4794,12 @@ Health: 240
 Damage: 19
 Speed: 18 KM/H
 Mobility: None
+Type: 
+Class:
+Description:
+Behavior:
+Spawns: 
+Content: BASE
 Field Notes:
 Alas, another hostile creature. This one's nature certainly betrays its precocious appearance. It even seems to be vexed by my retaliation. What a petulant fellow.
 
@@ -4760,6 +4814,12 @@ Health: 125
 Damage: 14
 Speed: 24 KM/H
 Mobility: Jump, Fall, Climb
+Type: 
+Class:
+Description:
+Behavior:
+Spawns: 
+Content: BASE
 Field Notes:
 These small beings fill me with dread.. From a distance I can see them frolicking among the rocks- playing with the other ghostly 'children'. I don't know how else to describe them, they seem so innocent until I approach.
 
@@ -4772,6 +4832,10 @@ Health: 315
 Damage: 15
 Speed: 24 KM/H
 Mobility: Jump, Fall
+Description:
+Behavior:
+Spawns: 
+Content: BASE
 Field Notes:
 A deadly force, they rush at me mad with grief and rage. Parents will slam the ground; their only aim to crush the butcher of their offspring. Their powerful blows open great lashes in the quaking ground.
 
@@ -4784,6 +4848,10 @@ Health: 310
 Damage: 13
 Speed: 25 KM/H
 Mobility: Jump, Fall, Teleport
+Description:
+Behavior:
+Spawns: 
+Content: BASE
 Field Notes:
 Oh. Fear. The Imp causes me fear, with its razor sharp talons and its one eye, locked into mine through my helmet. The Imp uses a propellant to hover above the ground, giving it superior mobility over everything.. including me.
 
@@ -4796,6 +4864,10 @@ Health: 140
 Damage: 11
 Speed: 22 KM/H
 Mobility: Jump, Fall, Climb
+Description:
+Behavior:
+Spawns: 
+Content: BASE
 Field Notes:
 Quick with his sword and quicker with his feet; the agility of these clay 'people' is unexpected with a form so roughly shaped.
 
@@ -4808,6 +4880,10 @@ Health: 240
 Damage: 9
 Speed: 27 KM/H
 Mobility:
+Description:
+Behavior:
+Spawns: 
+Content: BASE
 Field Notes:
 The malware of our age! These mechanical parasites were probably lurking on the ship before the crash. Pirates will use these bugs to collect especially valuable cargo, redirect transmission signals, or even hijack ships. Spiders can be programmed with all kinds of malicious objectives.
 
@@ -4820,6 +4896,10 @@ Health: 430
 Damage: 17
 Speed: 27
 Mobility: None
+Description:
+Behavior:
+Spawns: 
+Content: BASE
 Field Notes:
 The teleporter nearly launched me into a steaming dung heap. I could not have anticipated such an enormous beast being the source. More impressive than their rumbling bellows is the bighorn's charge. Their many tons of muscle produce a crushing slam of horn and matted hair.
 
@@ -4832,6 +4912,10 @@ Health: 105
 Damage: 12
 Speed: 72 KM/H
 Mobility: Fly
+Description:
+Behavior:
+Spawns: 
+Content: RTRN
 Field Notes:
 These flying stones manage to stay airborne despite their shale armor. Like a thousand darts thrown from the sun, they dive so swiftly toward me that their beaks slam into the ground. I've yet to see a surface that they cannot puncture, and I'm shocked that their beaks never seem worn. Their predictive aim is troubling, and they seem to know where I'm headed before I do. I've witnessed packs of these strange birds circling like vultures in the distant sky, though I've never witnessed any of them scavenging for food. Attempts to fashion their armor into new blades have resulted into nothing but chips in my knife.
 
@@ -4842,6 +4926,10 @@ Health: 230
 Damage: 17
 Speed: 22 KM/H
 Mobility: None
+Description:
+Behavior:
+Spawns: 
+Content: BASE
 Field Notes:
 Day 8. I was awoken by an abrupt collision of something hard against my suit. A volley of sensors screamed in my ears as a hairline fracture arced across my vision.
 
@@ -4856,6 +4944,10 @@ Health: 90
 Damage: 14
 Speed: 32 KM/H
 Mobility: Jump, Fall
+Description:
+Behavior:
+Spawns: 
+Content: RTRN
 Field Notes:
 Sinking into an endless lake, I was caught off-guard by these huge cellular beasts. Bounding towards me, I can almost identify their internal anatomy behind thick membranes - How is it possible that some sort of microbe could get this large? Can this really be a single cell? Rough, thorn-like cilia coat its surface and it's flagellum serves as a razor sharp whip. The water doesn't seem to impede it at all, though its strange bouncing behavior may be a result of its attempts to pursue me under heavy water pressure. I'm weary of the force it seems to exert even within these conditions. My oxygen supply can't afford any leaks.
 
@@ -4866,6 +4958,10 @@ Health: 315
 Damage: 16
 Speed: 36 KM/H
 Mobility: Jump, Fall
+Description:
+Behavior:
+Spawns: 
+Content: RTRN
 Field Notes:
 Some kind of massive insect, this creature snaps like a viper and skitters like an ant. It shouldn't be possible at such a scale to move so abruptly and yet it does. Similar to the Macrobe, this monster is some kind of predatory cell. With a massive rope of nerves at its core, I can only image it acts on instinct alone. I dug into a corpse to see if the spinal rope could sustain me in this toxic hive, but I found my arms stuck to the thick membrane and I had to use my knife to remove the non-newtonian gel. It'd make a great trap for prey, but I don't have time to test that theory.
 
@@ -4874,7 +4970,10 @@ Health: 375
 Damage: 27
 Speed: 25 KM/H
 Mobility: Jump, Fall
-Field Notes:
+Description:
+Behavior:
+Spawns: 
+Content: BASE
 Field Notes:
 It is quite rare that I smell anything through my respirator. I could not have been prepared for how bizarre no longer having a sense of smell is. However, there have been a rare few occasions when I caught some trace aroma- generally somewhat bitter on this planet, but I savor them greedily.
 
@@ -4885,6 +4984,10 @@ Health: 125
 Damage: 14
 Speed: 54 KM/H
 Mobility: Jump, Fall, Fly
+Description:
+Behavior:
+Spawns: 
+Content: BASE
 Field Notes:
 Could this be a distant cousin of the Lemurians below? An ancient evolutionary leap? These airborne reptiles do not interact with the ground Lemurians except to harass them occasionally. Perhaps there is some kind of natural feud between the species?
 
@@ -4897,6 +5000,10 @@ Health: 405
 Damage: 23
 Speed: 18 KM/H
 Mobility: Jump, Fall
+Description:
+Behavior:
+Spawns: 
+Content: BASE
 Field Notes:
 Seems to be very large version of the Lemurians; perhaps this great lizard is a queen? With similar armor and much thicker skin, it took much more to bring down this foe. She moves much slower and posses a powerful scorching blast.
 
@@ -4909,6 +5016,10 @@ Health: 200
 Damage: 17
 Speed: 268 KM/H
 Mobility: Jump
+Description:
+Behavior:
+Spawns: 
+Content: RTRN
 Field Notes:
 I found a group of red Lemurians resting in the dilapidated ruins with domesticated boars alongside them. I've never seen a red species outside of the flying types, though I doubt these are any more welcoming. With great spears and flamboyant helmets, they resemble cavalry of times past, and I'm not equipped to face any chariots head-on. In the distance I can see two of them sparring atop their beasts. They attack with sharp agility and acrobatic prowess that I hope to never experience.
 
@@ -4919,6 +5030,10 @@ Health: 420
 Damage: 17
 Speed: 15 KM/H
 Mobility: None
+Description:
+Behavior:
+Spawns: 
+Content: BASE
 Field Notes:
 A robot creature that assembles itself.. I have not seen them materialize other than when I unknowingly trigger their presence. I cannot believe this is indeed a machine- and yet it is made from some alloy and uses heavy artillery! Was this on the ship, or are these guards a naturally occuring 'species' here? My suit's scanners are unable to detect any manufacturer's signature.
 
@@ -4931,6 +5046,10 @@ Health: 82
 Damage: 6
 Speed: 36 KM/H
 Mobility: Fly
+Description:
+Behavior:
+Spawns: 
+Content: BASE
 Field Notes:
 Such aggravating creatures! These insects come in droves- as a group their wings create a maddening whine. Even the other creatures seems disturbed by their presence. Though they are not particularly strong, the circling insects certainly frustrate me.
 
@@ -4943,6 +5062,10 @@ Health: 300
 Damage: 10
 Speed: 18 KM/H
 Mobility: None
+Description:
+Behavior:
+Spawns: 
+Content: RTRN
 Field Notes:
 While walking through overgrown ruins I found myself surrounded by strange rustling that I could not place. Stepping into a massive temple, vines whipped the entryway shut and the ivy began slithering down the walls. These living Brambles spit caustic venom and I'm thankful to only have holes left in my gloves. Their hypnotic sway distills fear in me and I recognize some higher intelligence in their movements. The bark at their base facilitates some kind of locomotions, though I can't identify any apparant muscular system inside that would drive it. After the encounter, the resulting coughs and spasms left me on edge as I scaled the tower and left the echoes behind me.
 
@@ -4953,6 +5076,10 @@ Health: 22
 Damage: 3
 Speed: 24 KM/H
 Mobility: Jump, Fall
+Description:
+Behavior:
+Spawns: 
+Content: BASE
 Field Notes:
 I seem to have found the one creature on this planet that DOESN'T want to kill me. These small, leathery creatures are spawned from vases I sometimes spot in the ruins. They seem to stay in packs, and frequently carry useful treasure.
 
@@ -4965,6 +5092,10 @@ Health: 160
 Damage: 14
 Speed: 27 KM/H
 Mobility: Jump, Fall, Climb
+Description:
+Behavior:
+Spawns: 
+Content: RTRN
 Field Notes:
 I glanced to one side, trying to get my bearings. By sheer luck, my eyes picked up something barely visible, so still it could be mistaken for a rock. A shiver ran down my spine as I realized it was alive. I hadn't heard anything approach; how long had it been watching me? Why hadn't it attacked me? I suppose the creature had never seen anything like me. As we exchanged gazes, I noticed there were more of them. Gripped by fear, I shot a glance at my firearm which, in my hubris, was still in its holster. A twig snapped, and I immediately looked back to them, but they were gone. I walk slowly now. There could be one of these behind every blade of grass.
 
@@ -4976,6 +5107,10 @@ Health: 1400
 Damage: 40
 Speed: 20 KM/H
 Mobility: None
+Description:
+Behavior:
+Spawns: 
+Content: BASE
 Field Notes:
 A low groaning, lasting for a few days at least. From the relative safety of my drop pod I watched as a mountain rose to its knees, pushing itself up with arms of stone and dirt and twine.
 
@@ -4991,6 +5126,10 @@ Health: 1400
 Damage: 12
 Speed: 24 KM/H
 Mobility: Fly
+Description:
+Behavior:
+Spawns: 
+Content: BASE
 Field Notes:
 Day 3. While looking through some wreckage of the old ship, I felt a hot sensation on my skin and a brilliant white flash. Over the horizon maybe 5 miles north I saw it, looming over the forest tops.
 
@@ -5006,6 +5145,10 @@ Health: 1400
 Damage: 55
 Speed: 268 KM/H
 Mobility: None
+Description:
+Behavior:
+Spawns: 
+Content: BASE
 Field Notes:
 I've stumbled upon an old relic, notably with two distinct stone prongs. On approaching it it whirred to life, apparantly charging up. This seemed to disturb something deep and violent below the ground..
 
@@ -5021,6 +5164,10 @@ Health: 1470
 Damage: 23
 Speed: 18 KM/H
 Mobility: None
+Description:
+Behavior:
+Spawns: 
+Content: BASE
 Field Notes:
 Could this be the architect of the smaller wisps? Perhaps this Ancient Wisp is the puppeteer behind the fiery masks harassing me thus far, or is he also a devilish device of something greater..?
 
@@ -5034,6 +5181,10 @@ Health: 1210
 Damage: 14
 Speed: 18 KM/H
 Mobility: Jump
+Description:
+Behavior:
+Spawns: 
+Content: RTRN
 Field Notes:
 Travelling through the fungal caverns, I kept seeing out of place rubble that trailed to nowhere. With no buildings in sight, I was shocked to see a brick wall in the distance. Little cat-like creatures with masks and weaponry danced around the structure, and I could hear them laugh with one another. They appeared to be practicing some kind of worship, though the structure looked unlike anything I've seen on this planet. More of them crawled out from the dirt nearby, but strangely I haven't seen any evidence of them resting or hiding in the soil prior to that. Luckily they were distracted - I don't know that I could take on a horde of that size, no matter how small they were.
 
@@ -5045,6 +5196,10 @@ Health: 1210
 Damage: 27
 Speed: 27 KM/H
 Mobility: Jump, Fall
+Description:
+Behavior:
+Spawns: 
+Content: BASE
 Field Notes:
 Oh, why me? My heart stopped when this great Imp manifested in previously empty space. So many horrendous eyes. With a gaping scream the Imp lets out a deadly red vapor. Some type of laser also trails me.
 
@@ -5058,6 +5213,10 @@ Health: 1500
 Damage: 17
 Speed: 45 KM/H
 Mobility: None
+Description:
+Behavior:
+Spawns: 
+Content: BASE
 Field Notes:
 Could this be..? Tales I never believed recounted a horrible beast, fire incarnate. Scourge of another solar system, the Ifrit nearly wiped out an entire space colony before being chained and launched into the great black void. Supposedly the flaming jets that accompanied his roars could be seen for days as he drifted outwards.
 
@@ -5071,6 +5230,10 @@ Health: 1460
 Damage: 17
 Speed: 33 KM/H
 Mobility: None
+Description:
+Behavior:
+Spawns: 
+Content: BASE
 Field Notes:
 This goliath's body has been carved by this world, covered in numerous scars. The squealing queen had seen many battles. Her coarse hair growing in jagged patches between each old wound only increased her fearsome appearance.
 
@@ -5084,6 +5247,10 @@ Health: 1150
 Damage: 12
 Speed: 45 KM/H
 Mobility: None
+Description:
+Behavior:
+Spawns: 
+Content: BASE
 Field Notes:
 I could not believe my eyes as this creature erupted from the lava. My suit's temperature gauges screeched in warning. How can anything subsist in such heat? The lava parts in waves as the monster swims rapidly through it.
 
@@ -5097,6 +5264,10 @@ Health: 1305
 Damage: 14
 Speed: 22 KM/H
 Mobility: None
+Description:
+Behavior:
+Spawns: 
+Content: BASE
 Field Notes:
 Who knew a pack rat could be so dangerous! This creature seems to be hoarding many of the items littered across this planet. I have seen no others of its kind. If it hadn't been so intent on slaying me I would have tried to gain this Scavenger as an ally..
 
@@ -5110,9 +5281,254 @@ Health: 9000
 Damage: 24
 Speed: 22 KM/H
 Mobility: None
+Description:
+Behavior:
+Spawns: 
+Content: BASE
 Field Notes:
 I recognized him from the security footage... he was the one who blew the cargo hatches open. He was the one who killed everyone.
 
 Providence, as I came to call him, moved faster and with more purpose than anything else I've seen on this planet. He must command great power, for he seemed to easily control two great gilded wurms of a species similar to the Magma Worm. Is he able to command everyone on this planet? I don't know his purpose, or his reasoning, but he did not give me a choice. I had to kill him... so why do I feel like I made a terrible mistake?
 
 ...Why did we have a teleporter from this planet in our cargo hold?
+
+
+
+
+
+Misc
+
+
+
+
+
+Boar Beach
+Title: Simpler Times
+Stage: 3.5
+Track: Aurora Borealis
+Artifact: None
+Content: BASE
+Log:
+Through some brambles and fencing I've come across a clearing in the fog. A big bang dropped me from my perch as boars rampaged, weaving in and out of the iron rebar collected from the endless bridge. The spikes were organized into patterns, almost like farm pens, and the pigs each took turns collecting dirt and piling it between them. Beyond that was a barren circle formed from repeated stomping in the tundra. Two boars were fighting within, but one dressed in a shirt appeared to be dancing between the other's attacks, as if it had years of experience.  
+What ki d o   eco s   s       n? W     a  --
+
+///Data fragment error: EXCEPTION CCPLS_7479@@@@@@@@@@
+
+
+
+White Undershirt (M)
+Pickup Text: +2 STR S>2m or best offer @@@@@@@@
+Full Description: Increase armor by 3 (+3 per stack).
+Tier: Special
+Type: 
+Class: Item
+Category: Special
+Content: BASE
+Acquisition: Drops from the Armored Boarlit on Boar Beach.
+
+
+
+Keycard
+Pickup Text: Opens locked security doors.
+Full Description: Opens locked security doors interacted with while held. Consumed on use.
+Tier: Special
+Type: 
+Class: Item
+Category: Special
+Content: Base
+Acquisition: Golden Canisters, enemy drops on Risk of Rain.
+
+
+
+Small Enigma
+Pickup Text: Reduce the cooldown of equipment.
+Full Description: Reduce equipment cooldown by 5% (+5% per stack).
+Tier: Special
+Type: 
+Class: Item
+Category: Special
+Content: BASE
+Acquisition: Drops whenever an equipment would have with the Artifact of Enigma enabled.
+
+
+
+Strange Battery
+Pickup Text: Bzzzt.
+Full Description: Fire chain lightning for 33% damage.
+Tier: Special
+Type: 
+Class: Equipment
+Category: Special
+Cooldown: 45
+Content: RTRN
+Acquisition: Hidden in a unique interactable vase on all variants of Temple of the Elders, but only on Drizzle.
+
+
+
+Metal Scrap
+Pickup Text: Useless.
+Full Description: Does nothing.
+Tier: Special
+Type: 
+Class: Item
+Category: Special
+Content: RTRN
+Acquisition: Scrap yourself after dying in multiplayer.
+
+
+
+Big Bison Steak
+Pickup Text: Increase health regeneration and movement speed.
+Full Description: Increase health regeneration by 0.6 HP/s (+0.6 per stack), and movement speed by 2km/h (+2 per stack).
+Tier: Special
+Type: 
+Class: Meal
+Category: Special
+Content: RTRN
+Acquisition: One of the meals CHEF can produce from COOK.
+
+
+
+Marinated Lizard Loaf
+Pickup Text: Increased damage.
+Full Description: Increase damage by 20% (+10% per stack).
+Tier: Special
+Type: 
+Class: Meal
+Category: Special
+Content: RTRN
+Acquisition: One of the meals CHEF can produce from COOK.
+
+
+
+Golem Essence on the Rocks
+Pickup Text: Gain barrier and increased armor.
+Full Description: Gain 50% max HP as barrier on pickup, and 40 armor (+10 per stack).
+Tier: Special
+Type: 
+Class: Meal
+Category: Special
+Content: RTRN
+Acquisition: One of the meals CHEF can produce from COOK.
+
+
+
+Jelly Brain Salad
+Pickup Text: Reduces skill cooldowns by 1 second.	
+Full Description: Reduces skill cooldowns by 1 second (+0.5s per stack). Cooldowns cannot go below 0.5s.
+Tier: Special
+Type: 
+Class: Meal
+Category: Special
+Content: RTRN
+Acquisition: One of the meals CHEF can produce from COOK.
+
+
+
+Fried Eyeball
+Pickup Text: Slow nearby enemies.
+Full Description: Slow enemy movement speed by 37.5% and attack speed by 25% in an area around you (stacks increase range).
+Tier: Special
+Type: 
+Class: Meal
+Category: Special
+Content: RTRN
+Acquisition: One of the meals CHEF can produce from COOK.
+
+
+
+Archaic Wisp
+Health: 900
+Damage: 23
+Speed: 27 KM/H
+Mobility: None
+Description: Archaic Wisps resemble Greater Wisps that glow a lavender purple instead of green, and with a different mask instead of a skull.
+Behavior: Archaic Wisps behave identically to Greater Wisps, only that their attack is split into two instances of damage, instead of being one instance.
+Spawns: Hive Cluster, Temple of the Elders, Risk of Rain
+Content: BASE
+Field Notes: 
+There is no log entry for this enemy.
+
+
+
+Young Vagrant
+Health: 700
+Damage: 4
+Speed: 32 KM/H
+Mobility: Fly
+Description: Young Vagrants are the adolescent phase of a Jellyfish's life cycle, continuing to mature into Wandering Vagrants. They appear as a larger version of a Jellyfish, but with two eye stalk-like protrusions stemming from the frontal cortex of their brain.
+Behavior: Young Vagrants behave much like Wandering Vagrants, slowly flying towards the player and dashing towards them once in range. They attack by shooting exploding projectiles directly at the player's location, indicated by white circle markers. However, unlike their larger variant, they only shoot 3 projectiles instead of 6.
+Spawns: Risk of Rain
+Content: BASE
+Field Notes: 
+There is no log entry for this enemy.
+
+
+
+Boarlit
+Health: 35
+Damage: 5
+Speed: 23 KM/H
+Mobility: Jump, Fall
+Description: A Boarlit is a small mammal that resembles Earth wild boar, covered in dark blue fur, and bearing small gray tusks.
+Behavior: Boarlits are individually weak enemies meant to serve as horde fodder when summoned by their presumed mother, the Toxic Beast. Their only method of attack is running towards survivors and dealing contact damage.
+Spawns: Boar Beach, Summoned by Toxic Beast
+Content: BASE
+Field Notes:
+There is no log entry for this enemy.
+
+
+
+Armored Boarlit
+Health: 35
+Damage: 5
+Speed: 23 KM/H
+Mobility: Jump, Fall
+Description: A unique type of Boarlit of which there's guaranteed to be only one of in Boar Beach. This variant frequently dodges damage, similarly to Hermit's scarfs effect, and always drops the White Undershirt (M) item.
+Behavior: See Boarlit.
+Spawns: Boar Beach
+Content: BASE
+Field Notes:
+There is no log entry for this enemy.
+
+
+
+Sanctuary Guard
+Health: 260
+Damage: 25
+Speed: 18 KM/H
+Mobility: None
+Description: Sanctuary Guards appear as upgraded version of Temple Guards. They’re coated a strong red color with cyan detailing and have an additional cannon on top of their neck, totaling to 3.
+Behavior: Sanctuary Guards behave identically to Temple Guards, but have less health, deal more damage, and are faster. On top of this, they shoot 3 shots at a time instead of 2.
+Spawns: Sanctuary Guards are summoned exclusively by Providence during his third phase.
+Content: BASE
+Field Notes:
+There is no log entry for this enemy.
+
+
+
+Acrid (NPC)
+Health: 1145
+Damage: 7
+Speed: 31 KM/H
+Mobility: Jump, Fall, Climb
+Description: Acrid is a special boss. It can be found in the Sunken Tomb in a metal crate. When opening the crate, Acrid will get out to fight. Killing Acrid completes the The Experiment challenge; Unlocking it as a playable character. Acrid is a tetrapodal creature with reptilian features, covered in maroon scales with spikes along its spine, tipped with bright green accents. It has limbs ending in three digit claws, along with four green eyes, and a mouth bearing a large jaw with sharp teeth. Its right upper limb is restrained with a ball and chain. It is capable of spreading noxious poison via its skin pores and saliva. It is able to forcefully spit said poison to great lengths.
+Behavior: The Boss variant of Acrid acts much like the playable Acrid with the exception of spreading contagion, though its actual stats are much different (besides retaining the fact that Acrid has 15 armor). It can slash with its claws at melee range, spit toxic bile, and spread poison along the ground.
+Spawns: Sunken Tomb on variant 1, 2, and 3, in the top right corner of the map.
+Content: BASE
+Field Notes:
+There is no log entry for this enemy, but there is one for them as a survivor.
+
+
+
+Gilded Wurms
+Health: 3000
+Damage: 12
+Speed: Unknown
+Mobility: Fly
+Description: The Gilded Wurms appear to be a genetically modified species of Magma Worm, tamed by Providence to assist him as his personal guard. The red Wurm has red scales and a black underside with light cyan accentuations, with spikes lining its entire body, and possesses two inward curved horns on its head. The black Wurm has pitch black scales with various dull red and cyan markings adorning its head. Unlike the Magma Worm, both Wurms have one jaw with vertical mandibular movement, and two white eyes. Their mouths contain gnashing teeth, which are a cyan color. Additionally, they’re capable of flight via unknown means, and are not seeing burrowing underground. Both Wurms are capable of manipulating vast amounts of energy, although with differing methods. The red Wurm breathes powerful red beams of energy at perpetrators. The black Wurm projects bright blue spheres of light that charge up momentarily and launch towards enemies.
+Behavior: The Gilded Wurms behave similarly to Magma Worms but are able to fly through the air. The blue Wurm regularly sparks electricity around itself. The red Wurm ignites any ground it touches. They have the following attacks: The Wurm's head flashes red and charges at the player, dealing damage on contact. Both Wurms possess this ability. A white reticle appears on the player. The red Wurm shoots a continuous red beam at the Player from its mouth, dealing damage in the point of impact and everything between it. The black Wurm shoots multiple white projectiles that behave similarly to Providence's. Once both Wurms are killed, Providence will return to the arena to begin Phase 3.
+Spawns: Spawned solely by Providence during his second phase.
+Content: BASE
+Field Notes:
+There is no log entry for these enemies.
