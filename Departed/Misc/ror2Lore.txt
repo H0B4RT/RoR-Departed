@@ -10,7 +10,7 @@ Environments
 
 
 
-A Moment, Fractured
+Name: A Moment, Fractured
 Title: Hidden Realm
 Stage: Hidden Realm
 Track: Petrichor V
@@ -34,7 +34,7 @@ If you insist, brother, I will go first. Forget about those creatures - and do n
  
  
  
-A Moment, Whole
+Name: A Moment, Whole
 Title: Hidden Realm
 Stage: Hidden Realm
 Track: Petrichor V
@@ -62,7 +62,7 @@ When you so choose, the beads of your oath will guide you to my vault. Reach out
  
  
  
-Abandoned Aqueduct
+Name: Abandoned Aqueduct
 Title: Origin of Tar
 Stage: 2
 Track: Terra Pluviam
@@ -98,7 +98,7 @@ Local audio transcriptions complete.
  
  
  
-Abyssal Depths
+Name: Abyssal Depths
 Title: Tectonic Relics
 Stage: 4
 Track: Terra Pluviam
@@ -120,7 +120,7 @@ Local text transcriptions complete.
  
  
  
-Aphelian Sanctuary
+Name: Aphelian Sanctuary
 Title: Cleansing Center
 Stage: 2
 Track: Once in a Lullaby
@@ -149,7 +149,7 @@ Translation Errors:</style
  
  
  
-Bazaar Between Time
+Name: Bazaar Between Time
 Title: Hidden Realm
 Stage: Hidden Realm
 Track: Parjanya
@@ -177,7 +177,7 @@ He didn’t notice the long, pale arms, grasping in the depths below.
  
  
  
-Bulwark's Ambry
+Name: Bulwark's Ambry
 Title: Hidden Realm
 Stage: Hidden Realm
 Track: The Raindrop that Fell to the Sky
@@ -197,7 +197,7 @@ Do you understand? It’s your turn, brother! I’ve simply found the compounds.
  
  
  
-Bulwark's Ambry (Aphelian)
+Name: Bulwark's Ambry (Aphelian)
 Title: Hidden Realm
 Stage: Hidden Realm
 Track: The Raindrop that Fell to the Sky
@@ -213,7 +213,7 @@ Too often I find my mind occupied with your actions, for they affect us both. Ye
  
  
  
-Bulwark's Ambry (Tar)
+Name: Bulwark's Ambry (Tar)
 Title: Hidden Realm
 Stage: Hidden Realm
 Track: The Raindrop that Fell to the Sky
@@ -230,7 +230,7 @@ You are their ruin.
  
  
  
-Bulwark's Ambry (Wisp)
+Name: Bulwark's Ambry (Wisp)
 Title: Hidden Realm
 Stage: Hidden Realm
 Track: The Raindrop that Fell to the Sky
@@ -248,7 +248,7 @@ ANSWER ME!
  
  
  
-Commencement
+Name: Commencement
 Title: Moon of Petrichor V
 Stage: Final
 Track: ...con lentitud poderosa
@@ -264,7 +264,7 @@ I know the planet you trail – of water and dirt. You fear their stability. Tha
  
  
  
-Distant Roost
+Name: Distant Roost
 Title: Ground Zero
 Stage: 1
 Track: Evapotranspiration
@@ -289,7 +289,7 @@ The old man gazes out of the window of his cabin, the moon shining in the night 
  
  
  
-Disturbed Impact
+Name: Disturbed Impact
 Title: Meter of the Restless
 Stage: 1 (PL)
 Track: I Should Build the Man a Statue
@@ -314,7 +314,7 @@ Translation Errors:
  
  
  
-Gilded Coast
+Name: Gilded Coast
 Title: Hidden Realm
 Stage: Hidden Realm
 Track: Into the Doldrums
@@ -326,7 +326,7 @@ But a cage of gold - no matter how beautiful - is still a cage.
  
  
  
-Golden Dieback
+Name: Golden Dieback
 Title: March of the Fallen
 Stage: 3 (PL)
 Track: Oṃ Maṇi Padme Hūṃ, part II
@@ -361,7 +361,7 @@ Sgt. Wylbies: "I see it. Reload! We have a few minutes before they-"
  
  
  
-Helminth Hatchery
+Name: Helminth Hatchery
 Title: Shadow of the Savior
 Stage: 5
 Track: 屋根の漏り (Yane No Mori)
@@ -382,7 +382,7 @@ His gift. No, his apology.
  
  
  
-Prime Meridian
+Name: Prime Meridian
 Title: Relic of the False Son
 Stage: 4
 Track: Oṃ Maṇi Padme Hūṃ, part I
@@ -406,7 +406,7 @@ Good. Then go and bring our great works to life! I will inform you when this gif
  
  
  
-Rallypoint Delta
+Name: Rallypoint Delta
 Title: 'Contact Light' Survivor Camp
 Stage: 3
 Track: Into the Doldrums
@@ -418,7 +418,7 @@ Log:
  
  
  
-Reformed Altar
+Name: Reformed Altar
 Title: Shadow of the Savior
 Stage: 2
 Track: Oṃ Maṇi Padme Hūṃ, part III
@@ -457,7 +457,7 @@ Translation Errors: 4
  
  
  
-Scorched Acres
+Name: Scorched Acres
 Title: Wisp Installation
 Stage: 3
 Track: Disdrometer
@@ -488,7 +488,7 @@ I discovered some strange artifacts today. Masks! How novel. For some reason… 
  
  
  
-Shattered Abodes
+Name: Shattered Abodes
 Title: Ground Zero
 Stage: 1
 Track: I Should Build the Man a Statue
@@ -521,7 +521,7 @@ Translation Errors:
  
  
  
-Siphoned Forest
+Name: Siphoned Forest
 Title: Ground Zero
 Stage: 1
 Track: Out of Whose Womb Came the Ice?
@@ -545,7 +545,7 @@ Complete!
  
  
  
-Siren's Call
+Name: Siren's Call
 Title: Ship Graveyard
 Stage: 4
 Track: The Raindrop that Fell to the Sky
@@ -580,7 +580,7 @@ Complete!
  
  
  
-Sky Meadow
+Name: Sky Meadow
 Title: Sprite Fields
 Stage: 5
 Track: The Rain Formerly Known as Purple
@@ -604,7 +604,7 @@ Wait… what was that noise?
  
  
  
-Sulfur Pools
+Name: Sulfur Pools
 Title: Pungent Spring
 Stage: 3
 Track: Who Can Fathom the Soundless Depths?
@@ -630,7 +630,7 @@ This review has been flagged security level: Classified
  
  
  
-Sundered Grove
+Name: Sundered Grove
 Title: Dormant Locus
 Stage: 4
 Track: They Might As Well Be Dead
@@ -644,7 +644,7 @@ Trees? Yes, trees are beautiful. I agree. We will have many trees.
  
  
  
-The Planetarium
+Name: The Planetarium
 Title: Cell V
 Stage: Final
 Track: The Face of the Deep
@@ -670,7 +670,7 @@ Am I still here?
  
  
  
-Titanic Plains
+Name: Titanic Plains
 Title: Ground Zero
 Stage: 1
 Track: Disdrometer
@@ -704,7 +704,7 @@ Local audio transcriptions complete.
  
  
  
-Treeborn Colony
+Name: Treeborn Colony
 Title: Path of the Protector
 Stage: 3
 Track: Oṃ Maṇi Padme Hūṃ, part II
@@ -768,7 +768,7 @@ Translation Errors: 2
  
  
  
-Verdant Falls
+Name: Verdant Falls
 Title: Ground Zero
 Stage: 1
 Track: It Can't Rain All The Time
@@ -811,7 +811,7 @@ Kelvin out.
  
  
  
-Viscous Falls
+Name: Viscous Falls
 Title: Ground Zero
 Stage: 1 (PL)
 Track: It Can't Rain All The Time
@@ -824,7 +824,7 @@ Soon they came in mass, leaving slick splatters.
  
  
  
-Void Fields
+Name: Void Fields
 Title: Cosmic Prison
 Stage: Hidden Realm
 Track: A Glacier Eventually Farts (And Don't You Listen to the Song of Life)
@@ -844,7 +844,7 @@ The cells were for everything.
  
  
  
-Void Locus
+Name: Void Locus
 Title: Cell IIIVIIIIIILVIIIVLVILIVLLLVVVILIVLI
 Stage: Hidden Realm
 Track: A Placid Island of Ignorance
@@ -864,7 +864,7 @@ Anyways, uh… where do I go from here?
  
  
  
-Wetland Aspect
+Name: Wetland Aspect
 Title: Rehabilitation Zone
 Stage: 2
 Track: Nocturnal Emission
@@ -904,7 +904,7 @@ Items
 
 
 
-57 Leaf Clover
+Name: 57 Leaf Clover
 Pickup Text: Luck is on your side.
 Full Description: All random effects are rolled +1 (+1 per stack) times for a favorable outcome.
 Tier: Legendary
@@ -938,7 +938,7 @@ Or were they just lucky?
  
  
  
-Aegis
+Name: Aegis
 Pickup Text: Healing past full grants you a temporary barrier.
 Full Description: Healing past full grants you a temporary barrier for 50% (+50% per stack) of the amount you healed.
 Tier: Legendary
@@ -961,7 +961,7 @@ It’s so lightweight, we figure it must've been entirely decorative. That seems
  
  
  
-Alien Head
+Name: Alien Head
 Pickup Text: Reduces cooldowns for your skills.
 Full Description: Reduce skill cooldowns by 25% (+25% per stack).
 Tier: Legendary
@@ -993,7 +993,7 @@ Ancestral Incubator
  
  
  
-Armor-Piercing Rounds
+Name: Armor-Piercing Rounds
 Pickup Text: Deal extra damage to bosses.
 Full Description: Deal an additional 20% damage (+20% per stack) to bosses.
 Tier: Common
@@ -1014,7 +1014,7 @@ Could you guys look into this so we don’t like, violate any Geneva Conventions
  
  
  
-Artifact Key
+Name: Artifact Key
 Pickup Text: A stone shard with immense power.
 Full Description: A stone shard with immense power.
 Tier: Boss
@@ -1035,7 +1035,7 @@ The key’s reality: the bitter realization that such a reality exists only in t
  
  
  
-AtG Missile Mk. 1
+Name: AtG Missile Mk. 1
 Pickup Text: Chance to fire a missile.
 Full Description: 10% chance to fire a missile that deals 300% (+300% per stack) TOTAL damage.
 Tier: Uncommon
@@ -1054,7 +1054,7 @@ Turning to face the oncoming mob, he loaded his shotgun. The adrenaline started 
  
  
  
-Backup Magazine
+Name: Backup Magazine
 Pickup Text: Add an extra charge of your Secondary skill.
 Full Description: Add +1 (+1 per stack) charge of your Secondary skill.
 Tier: Common
@@ -1073,7 +1073,7 @@ Shipping Details:
  
  
  
-Bandolier
+Name: Bandolier
 Pickup Text: Chance on kill to drop an ammo pack that resets all skill coodowns.
 Full Description: 18% (+10% per stack) chance on kill to drop an ammo pack that resets all skill cooldowns.
 Tier: Uncommon
@@ -1096,7 +1096,7 @@ The sling carries an impressive assortment of ammunition - Grundy himself carrie
  
  
  
-Beads of Fealty
+Name: Beads of Fealty
 Pickup Text: Seems to do nothing... but...
 Full Description: Seems to do nothing... but...
 Tier: Lunar
@@ -1118,7 +1118,7 @@ Never look back.
  
  
  
-Ben's Raincoat
+Name: Ben's Raincoat
 Pickup Text: Prevent debuffs, instead gain a temporary barrier. Recharges over time.
 Full Description: Prevent 1 (+1 per stack) debuff and instead grant a temporary barrier for 1-% of maximum health. Recharges every 5 seconds.
 Tier: Legendary
@@ -1144,7 +1144,7 @@ Please send a replacement that's blue.
  
  
  
-Benthic Bloom
+Name: Benthic Bloom
 Pickup Text: Upgrades your items at the start of each stage. Corrupts all 57 Leaf Clovers.
 Full Description: Upgrades 3 (+3 per stack) random items to items of the next higher rarity at the start of each stage. Corrupts all 57 Leaf Clovers.
 Tier: Void
@@ -1164,7 +1164,7 @@ We make our own luck."
  
  
  
-Berzerker's Pauldron
+Name: Berzerker's Pauldron
 Pickup Text: Enter a frenzy after killing 4 enemies in quick succession.
 Full Description: Killing 4 enemies within 1 second sends you into a frenzy for 6s (+4s per stack). Increases movement speed by 50% and attack speed by 100%.
 Tier: Uncommon
@@ -1185,7 +1185,7 @@ Of course, it’s just speculation, but… There were a lot of bodies surroundin
  
  
  
-Bison Steak
+Name: Bison Steak
 Pickup Text: Gain 25 max health.
 Full Description: Increases maximum health by 25 (+25 per stack).
 Tier: Common
@@ -1208,7 +1208,7 @@ Treated with special antibiotics to ensure exceptional growth, shelf life, and t
  
  
  
-Bolstering Lantern
+Name: Bolstering Lantern
 Pickup Text: Increases your attack speed for every nearby enemy and ally.
 Full Description: Increases your attack speed by 10% (+3.5% per stack) for up to 3 (+1 per stack) enemies and allies within 20 meters.
 Tier: Common
@@ -1230,7 +1230,7 @@ HOW WILL IT MAKE FRIENDS WITHOUT SOUL, ELDER ONE?
  
  
  
-Bottled Chaos
+Name: Bottled Chaos
 Pickup Text: Activating your Equipment triggers an additional, random Equipment effect.
 Full Description: Trigger a random equipment effect 1 (+1 per stack) time(s).
 Tier: Legendary
@@ -1250,7 +1250,7 @@ The lucky ones who did survive fled, nervously whispering of a crystalline blade
  
  
  
-Brainstalks
+Name: Brainstalks
 Pickup Text: Skills have NO cooldowns for a short period after killing an elite.
 Full Description: Upon killing an elite monster, enter a frenzy for 4s (+4s per stack) where skills have 0.5s cooldowns.
 Tier: Legendary
@@ -1275,7 +1275,7 @@ Please let us know if you find any explanation.
  
  
  
-Breaching Fin
+Name: Breaching Fin
 Pickup Text: Grounded enemies hit by any skill are launched and take bonus damage.
 Full Description: Grounded enemies hit with any skill are launched and stunned. Enemies hit while airborne are launched again up to 2 times (+1 per stack). Launched enemies take increased damage by 10% from all sources per launch.
 Tier: Uncommon
@@ -1305,7 +1305,7 @@ Get us a good commission for it will ya? And send down some playing cards, the s
  
  
  
-Brilliant Behemoth
+Name: Brilliant Behemoth
 Pickup Text: All your attacks explode!
 Full Description: All your attacks explode in a 4m (+2.5m per stack) radius for a bonus 60& TOTAL damage to nearby enemies.
 Tier: Legendary
@@ -1321,7 +1321,7 @@ But let me tell you... Nothing, and I mean NOTHING, is as timeless as gunpowder.
  
  
  
-Brittle Crown
+Name: Brittle Crown
 Pickup Text: Gain gold on hit... BUT surrender gold on getting hit.
 Full Description: 30% chance on hit to gain 2 (+2 per stack) gold. Scales over time. Lose gold on taking damage equal to 100% (+100% per stack) of the maximum health percentage you lost.
 Tier: Lunar
@@ -1343,7 +1343,7 @@ Your death is fated. When you die - and you WILL die - I will be ready. I have b
  
  
  
-Bundle of Fireworks
+Name: Bundle of Fireworks
 Pickup Text: Activating an interactable launches fireworks at nearby enemies.
 Full Description: Activating an interactable launches 8 (+4 per stack) fireworks that deal 300% base damage.
 Tier: Common
@@ -1361,7 +1361,7 @@ You can keep your eyes closed. Just listen. Ah - here it comes! In five... four.
  
  
  
-Bustling Fungus
+Name: Bustling Fungus
 Pickup Text: Heal all nearby allies after standing still for 1 second.
 Full Description: After standing still for 1 second, create a zone that heals for 4.5% (+2.25% per stack) of your health every second to all allies within 3m (+1.5m per stack).
 Tier: Common
@@ -1389,7 +1389,7 @@ Log:
  
  
  
-Cautious Slug
+Name: Cautious Slug
 Pickup Text: Rapidly heal outside of danger.
 Full Description: Increases base health regeneration by +3 hp/s (+3 hp/s per stack) while outside of combat.
 Tier: Common
@@ -1405,7 +1405,7 @@ So always remember: if your companion warns you of danger in the dark, you had b
  
  
  
-Ceremonial Dagger
+Name: Ceremonial Dagger
 Pickup Text: Killing an enemy releases homing daggers.
 Full Description: Killing an enemy fires out 3 homing daggers that deal 150% (+150% per stack) base damage.
 Tier: Legendary
@@ -1441,7 +1441,7 @@ The smell of sulfur fills the air.
  
  
  
-Chance Doll
+Name: Chance Doll
 Pickup Text: Chance to increase item rarity at Shrines of Chance.
 Full Description: 40% (+10% per stack) chance to get higher rarity items from chance shrines on success.
 Tier: Uncommon
@@ -1466,7 +1466,7 @@ Father, I will miss her.
  
  
  
-Charged Perforator
+Name: Charged Perforator
 Pickup Text: Chance on hit to call down a lightning strike.
 Full Description: 10% chance on hit to down a lightning strike, dealing 500% (+500% per stack) damage.
 Tier: Boss
@@ -1494,7 +1494,7 @@ Notes:
  
  
  
-Chronic Expansion
+Name: Chronic Expansion
 Pickup Text: Deal bonus damage for each enemy killed. 
 Full Description: Killing an enemy increases your damage by 3.5% (+1% per stack), up to 10 (+5 per stack), for 7s. Dealing damage refreshes the timer.
 Tier: Common
@@ -1524,7 +1524,7 @@ If this trial goes well, and their lungs return to normal, I’ll clear them for
  
  
  
-Chronobauble
+Name: Chronobauble
 Pickup Text: Slow enemies on hit.
 Full Description: Slow enemies on hit for -60% movement speed for 2s (+2s per stack).
 Tier: Uncommon
@@ -1547,7 +1547,7 @@ Anyways, I'm shipping this to myself - to arrive in 10 years. A gift, from me to
  
  
  
-Corpsebloom
+Name: Corpsebloom
 Pickup Text: Double your healing... BUT it's applied over time.
 Full Description: Heal +100% (+100% per stack) more. All healing is applied over time. Can heal for a maximum of 10% (-50% per stack) of your health per second.
 Tier: Lunar
@@ -1586,7 +1586,7 @@ No signs of life, but not necessary.
  
  
  
-Crowbar
+Name: Crowbar
 Pickup Text: Deal bonusdamage to enemies above 90% heath.
 Full Description: Deal +75% (+75% per stack) damage to enemies above 90% health.
 Tier: Common
@@ -1610,7 +1610,7 @@ Jesse laughed.
  
  
  
-Death Mark
+Name: Death Mark
 Pickup Text: Enemies with 4 or more debuffs are marked for death, taking bonus damage.
 Full Description: Enemies with 4 or more debuffs are marked for death, increasing damage taken by 50% from all sources for 7 (+7 per stack) seconds.
 Tier: Uncommon
@@ -1635,7 +1635,7 @@ I’ll find someone who will give me the recognition I deserve. I’ve worked to
  
  
  
-Defense Nucleus
+Name: Defense Nucleus
 Pickup Text: Summon an Alpha Construct on killing an elite.
 Full Description: Killing elite monsters spawns an Alpha Construct with bonus 300% damage and 300% health. Limited to 4 (+4 per stack).
 Tier: Boss
@@ -1680,7 +1680,7 @@ Log:
  
  
  
-Defensive Microbots
+Name: Defensive Microbots
 Pickup Text: Shoot down nearby projectiles. Recharge rate scales with attack speed.
 Full Description: Shoot down 1 (+1 per stack) projectiles within 20m every 0.5 seconds. Recharge rate scales with attack speed.
 Tier: Legendary
@@ -1698,7 +1698,7 @@ Quickly spinning on his heel, the old man fired his shotgun, decapitating the Le
  
  
  
-Defiant Gouge
+Name: Defiant Gouge
 Pickup Text: Using a Shrine summons enemies nearby.
 Full Description: Using a Shrine summons enemies (stronger per stack) nearby. Scales over time.
 Tier: Lunar
@@ -1716,7 +1716,7 @@ And just as the laborer did not recognize the beauty of the untouched statue, so
  
  
  
-Delicate Watch
+Name: Delicate Watch
 Pickup Text: Deal bonus damage. Breaks at low health.
 Full Description: Increase damage by 20% (+20% per stack). Taking damage to below 25% health breaks this item.
 Tier: Common
@@ -1738,7 +1738,7 @@ For a moment, all was quiet on the plains. Then, the silence was yet again broke
  
  
  
-Dio's Best Friend
+Name: Dio's Best Friend
 Pickup Text: Cheat death. Consumed on use.
 Full Description: Upon death, this item will be consumed and you will return to life with 3 seconds of invulnerability.
 Tier: Legendary
@@ -1761,7 +1761,7 @@ PS would it kill you to purr for mama every now and then?
  
  
  
-Egocentrism
+Name: Egocentrism
 Pickup Text: Gain multiple orbiting bombs. Every minute, assimilate another item into Egocentrism.
 Full Description: Every 3 (-50% per stack) seconds, gain an orbiting bomb that detonates on impact for 360% damage, up to a maximum of 3 bombs (+1 per stack). Every 60 seconds, a random item is converted into this item.
 Tier: Lunar
@@ -1795,7 +1795,7 @@ HOW COULD YOU LOVE THOSE IMPERFECT, FLAWED VERMIN BUT NOT ME? AFTER ALL I'VE DON
  
  
  
-Electric Boomerang
+Name: Electric Boomerang
 Pickup Text: On hit chance to throw a stunning boomerang.
 Full Description: 15% chance on hit to fire an electric boomerang that travels a short distance before returning, dealing 120% (+120% per stack) damage and stunning all enemies hit. Also deals an additional 42% (+42% per stack) per second. Can strike enemies on the way back.
 Tier: Legendary
@@ -1818,7 +1818,7 @@ Hesitating, he pulls it from the wall. He recognizes the signature, his mom’s 
  
  
  
-Elusive Antlers
+Name: Elusive Antlers
 Pickup Text: Spawns orbs of enery that give bonus movement speed.
 Full Description: Spawns orbs of energy nearby every 10s (-10% per stack), giving +12% movement speed up to 3 (+3 per stack) times for 12s.
 Tier: Common
@@ -1850,7 +1850,7 @@ I’ve tried many hemo-scrubs but whatever makes these so sturdy also made it im
  
  
  
-Empathy Cores
+Name: Empathy Cores
 Pickup Text: Recruit a pair of Solus Probes that gain power with more allies.
 Full Description: Every 30 seconds, summon two Solus Probes that gain +100% (+100% per stack) damage per ally on your team.
 Tier: Boss
@@ -1878,7 +1878,7 @@ Log:
  
  
  
-Encrusted Key
+Name: Encrusted Key
 Pickup Text: Gain access to an Encrusted Cache that contains a void item. Corrupts all Rusted Keys.
 Full Description: A hidden cache containing an item (60%/30%/10%) will appear in a random location on each stage. Opening the cache consumes this item. Corrupts all Rusted Keys.
 Tier: Void
@@ -1892,7 +1892,7 @@ Log:
  
  
  
-Energy Drink
+Name: Energy Drink
 Pickup Text: Increase sprint speed by +25%.
 Full Description: Sprint speed is improved by 25% (+25% per stack).
 Tier: Common
@@ -1915,7 +1915,7 @@ Radical Drinks is insisting that NONE of those were from their energy drink - wh
  
  
  
-Essence of Heresy
+Name: Essence of Heresy
 Pickup Text: Replace your Special Skill with 'Ruin'.
 Full Description: Replace your Special Skill with Ruin. Dealing damage adds a stack of Ruin for 10 (+10 per stack) seconds. Activating the skill detonates all Ruin stacks at unlimited range, dealing 300% damage plus 120% damage per stack of Ruin. Recharges after 8 (+8 per stack) seconds.
 Tier: Lunar
@@ -1929,7 +1929,7 @@ Log:
  
  
  
-Eulogy Zero
+Name: Eulogy Zero
 Pickup Text: Items and equipment have a small chance to transform into a Lunar item instead.
 Full Description: Items have a 5% (+5% per stack) chance to become a Lunar item instead.
 Tier: Lunar
@@ -1952,7 +1952,7 @@ It's getting dark. If you get lost it's alright, for now. I hope you enjoy the s
  
  
  
-Focus Crystal
+Name: Focus Crystal
 Pickup Text: Deal bonus damage to nearby enemies.
 Full Description: Increase damage to enemies within 13m by 20% (+20% per stack).
 Tier: Common
@@ -1971,7 +1971,7 @@ Hope they don’t up the price for this thing. I haven’t had troubles with UES
  
  
  
-Focused Convergence
+Name: Focused Convergence
 Pickup Text: Increase the speed of Teleporter charging... BUT reduce the size of the zone.
 Full Description: Teleporters charge 30% (+30% per stack) faster, but the size of the Teleporter zone is 50% (-50% per stack) smaller.
 Tier: Lunar
@@ -1989,7 +1989,7 @@ Do not let it take you. Take it instead. Here.
  
  
  
-Frost Relic
+Name: Frost Relic
 Pickup Text: Killing enemies surrounds you with an ice storm.
 Full Description: Killing an enemy surrounds you with an ice storm that deals 1200% damage per second and slows enemies by 80% for 1.5s. The storm grows with every kill, increasing its radius by 2m. Stacks up to 18m (+12m per stack).
 Tier: Legendary
@@ -2002,7 +2002,7 @@ Log:
  
  
  
-Fuel Cell
+Name: Fuel Cell
 Pickup Text: Hold an additional equipment charge. Reduce equipment cooldown.
 Full Description: Hold an additional equipment charge (+1 per stack). Reduce equipment cooldown by 15% (+15% per stack).
 Tier: Uncommon
@@ -2015,7 +2015,7 @@ Log:
  
  
  
-Gasoline
+Name: Gasoline
 Pickup Text: Killing an enemy ignites other nearby enemies.
 Full Description: Killing an enemy ignites all enemies within 12m (+4m per stack) for 150% base damage. Additionally, enemies burn for 150% (+75% per stack) base damage.
 Tier: Common
@@ -2065,7 +2065,7 @@ End of requested transcript.
  
  
  
-Genesis Loop
+Name: Genesis Loop
 Pickup Text: Fire an electric nova at low health.
 Full Description: Falling below 25% health causes you to explode, dealing 6000% base damage. Recharges every 30 / (2 +1 per stack) seconds.
 Tier: Boss
@@ -2096,7 +2096,7 @@ Notes:
  
  
  
-Gesture of the Drowned
+Name: Gesture of the Drowned
 Pickup Text: Dramatically reduce Equipment cooldown... BUT it automatically activates.
 Full Description: Reduce Equipment cooldown by 50% (+15% per stack). Forces your Equipment to activate whenever it is off cooldown.
 Tier: Lunar
@@ -2112,7 +2112,7 @@ Now, it is just calcium to me – and irrelevant to you. Isn’t that right?
  
  
  
-Ghor's Tome
+Name: Ghor's Tome
 Pickup Text: Chance on kill to drop a treasure.
 Full Description: 4% (+4% on stack) chance on kill to drop a treasure worth $25. Scales over time.
 Tier: Uncommon
@@ -2137,7 +2137,7 @@ And more importantly, Kosta, I trust you. Don't do anything that would draw atte
  
  
  
-Growth Nectar
+Name: Growth Nectar
 Pickup Text: Your buffs grant an increase to ALL of your stats.
 Full Description: Grants 4% increase to ALL stats for each buff, up to a maximum of 4 (+4 per stack).
 Tier: Legendary
@@ -2158,7 +2158,7 @@ TO THE COLONY THE SEED, TO US THE NECTAR.
  
  
  
-H3AD-5T v2
+Name: H3AD-5T v2
 Pickup Text: Increase jump height. Hold 'Interact' to slam down to the ground.
 Full Description: Increase jump height. Creates a 5m-100m radius kinetic explosion on hitting the ground, dealing 1000%-10000% base damage that scales up with fall distance. Recharges in 10 (-50% per stack) seconds.
 Tier: Legendary
@@ -2174,7 +2174,7 @@ The invention of Kinetic Dispersion Rings (above) help alleviate the stress of h
  
  
  
-Halcyon Seed
+Name: Halcyon Seed
 Pickup Text: Summon Aurelionite during the Teleporter event.
 Full Description: Summon Aurelionite during the teleporter event. It has 100% (+50% per stack) damage and 100% (+100% per stack) health.
 Tier: Boss
@@ -2209,7 +2209,7 @@ Go home. I will deal with this creature. We can discuss a better project for you
  
  
  
-Happiest Mask
+Name: Happiest Mask
 Pickup Text: Chance on killing an enemy to summon a ghost.
 Full Description: Killing enemies has a 7% chance to spawn a ghost of the killed enemy with 1500% damage. Lasts 30s (+30s per stack).
 Tier: Legendary
@@ -2239,7 +2239,7 @@ The man cursed under his breath as he loaded his shotgun. “This planet, I tell
  
  
  
-Hardlight Afterburner
+Name: Hardlight Afterburner
 Pickup Text: Add 2 extra charges of your Utility skill. Reduce Utility skill cooldown.
 Full Description: Add +2 (+2 per stack) charges of your Utility skill. Reduces Utility skill cooldown by 33%.
 Tier: Legendary
@@ -2262,7 +2262,7 @@ It should be obvious by its design, but to reiterate: stay away from the HL exha
  
  
  
-Harvester's Scythe
+Name: Harvester's Scythe
 Pickup Text: 'Critical Strikes' heal you.
 Full Description: Gain 5% critical chance. Critical strikes heal for 8 (+4 per stack) health.
 Tier: Uncommon
@@ -2278,7 +2278,7 @@ But me, I’m not afraid of death. Suffering is just another part of life, and l
  
  
  
-Hooks of Heresy
+Name: Hooks of Heresy
 Pickup Text: Replace your Secondary Skill with 'Slicing Maelstrom'.
 Full Description: Replace your Secondary Skill with Slicing Maelstrom. Charge up a projectile that deals 875% damage per second to nearby enemies, exploding after 3 seconds to deal 700% damage and root enemies for 3 (+3 per stack) seconds. Recharges after 5 (+5 per stack) seconds.
 Tier: Lunar
@@ -2292,7 +2292,7 @@ Log:
  
  
  
-Hopoo Feather
+Name: Hopoo Feather
 Pickup Text: Gain an extra jump.
 Full Description: Gain +1 (+1 per stack) maximum jump count.
 Tier: Uncommon
@@ -2306,7 +2306,7 @@ Log:
  
  
  
-Hunter's Harpoon
+Name: Hunter's Harpoon
 Pickup Text: Killing an enemy gives you a burst of movement speed.
 Full Description: Killing an enemy increases movement speed by 125%, fading over 1 (+0.5 per stack) seconds.
 Tier: Uncommon
@@ -2324,7 +2324,7 @@ They say that you can spear two catches with one throw of this ol' lassie. And h
  
  
  
-Ignition Tank
+Name: Ignition Tank
 Pickup Text: Your ignite effects deal quadruple damage.
 Full Description: Ignite effects deal +300% (+300% per stack) more damage over time.
 Tier: Uncommon
@@ -2343,7 +2343,7 @@ Er, hold that thought. It spontaneously combusted while I was writing this. I'll
  
  
  
-Infusion
+Name: Infusion
 Pickup Text: Killing an enemy permanently increases your maximum health, up to 100.
 Full Description: Killing an enemy increases your health permanently by 1 (+1 per stack), up to a maximum of 100 (+100 per stack) health.
 Tier: Uncommon
@@ -2363,7 +2363,7 @@ You can add whatever blood sample you want, as far as I know. Just make sure you
  
  
  
-Interstellar Desk Plant
+Name: Interstellar Desk Plant
 Pickup Text: Plant a healing fruit on kill.
 Full Description: On kill, plant a healing fruit seed that grows into a plant after 5 seconds. The plant heals for 5% of maximum health every 0.5 second to all allies within 10m (+5.0m per stack). Lasts 10 seconds.
 Tier: Legendary
@@ -2384,7 +2384,7 @@ I've also heard that it sorta gives off a glow that has medical benefits. That w
  
  
  
-Irradiant Pearl
+Name: Irradiant Pearl
 Pickup Text: Increase ALL of your stats.
 Full Description: Increases ALL stats by 10% (+10% per stack).
 Tier: Boss
@@ -2399,7 +2399,7 @@ Do not be mistaken – his influence is still dark. Despite how beautiful your p
  
  
  
-Item Scrap, Green
+Name: Item Scrap, Green
 Pickup Text: Does nothing. Prioritized when used with 3D Printers.
 Full Description: Does nothing. Prioritized when used with 3D Printers.
 Tier: Uncommon
@@ -2413,7 +2413,7 @@ Log:
  
  
  
-Item Scrap, Red
+Name: Item Scrap, Red
 Pickup Text: Does nothing. Prioritized when used with 3D Printers.
 Full Description: Does nothing. Prioritized when used with 3D Printers.
 Tier: Legendary
@@ -2427,7 +2427,7 @@ Log:
  
  
  
-Item Scrap, White
+Name: Item Scrap, White
 Pickup Text: Does nothing. Prioritized when used with 3D Printers.
 Full Description: Does nothing. Prioritized when used with 3D Printers.
 Tier: Common
@@ -2441,7 +2441,7 @@ Log:
  
  
  
-Item Scrap, Yellow
+Name: Item Scrap, Yellow
 Pickup Text: Does nothing. Prioritized when used with 3D Printers.
 Full Description: Does nothing. Prioritized when used with 3D Printers.
 Tier: Boss
@@ -2456,7 +2456,7 @@ Log:
  
  
  
-Kjaro's Band
+Name: Kjaro's Band
 Pickup Text: High damage hits also blasts enemies with a runic flame tornado. Recharges over time.
 Full Description: Hits that deal more than 400% damage also blasts enemies with a runic flame tornado, dealing 300% (+300% per stack) TOTAL damage over time. Recharges every 10 seconds.
 Tier: Uncommon
@@ -2473,7 +2473,7 @@ Will you die with me?"
  
  
  
-Laser Scope
+Name: Laser Scope
 Pickup Text: Your 'Critical Strikes' deal an additional 100% damage.
 Full Description: Critical Strikes deal an additional 100% damage (+100% per stack).
 Tier: Legendary
@@ -2494,7 +2494,7 @@ And, knowing you, it can blind your targets when you do those fancy acrobatics p
  
  
  
-Leeching Seed
+Name: Leeching Seed
 Pickup Text: Dealing damage heals you.
 Full Description: Dealing damage heals you for 1 (+1 per stack) health.
 Tier: Uncommon
@@ -2520,7 +2520,7 @@ Spreading his arms, the worker marveled at the gallery of dead plants. Dropping 
  
  
  
-Lens-Maker's Glasses
+Name: Lens-Maker's Glasses
 Pickup Text: Gain 10% chance for hits to 'Critically Strike', dealing double damage.
 Full Description:Your attacks have a 10% (+10% per stack) chance to 'Critically Strike', dealing double damage.
 Tier: Common
@@ -2540,7 +2540,7 @@ If it wasn’t for that shot, I wouldn’t be here telling this story.”
  
  
  
-Lepton Daisy
+Name: Lepton Daisy
 Pickup Text: Periodically release a healing nova during the Teleporter event and 'Holdout Zones' such as the Void Fields.
 Full Description: Release a healing nova during the Teleporter event, healing all nearby allies for 50% of their maximum health. Occurs 1 (+1 per stack) times.
 Tier: Uncommon
@@ -2563,7 +2563,7 @@ Just make sure to put it up high enough that Mushka can't get to it. I'm not sur
  
  
  
-Light Flux Pauldron
+Name: Light Flux Pauldron
 Pickup Text: Halve your cooldowns.. BUT halve your attack speed.
 Full Description: Decrease skill cooldowns by 50% (+50% per stack). Decrease attack speed by 50% (+50% per stack).
 Tier: Lunar
@@ -2577,7 +2577,7 @@ Log:
  
  
  
-Little Disciple
+Name: Little Disciple
 Pickup Text: Fire tracking wisps while sprinting.
 Full Description: Fire a tracking wisp for 300% (+300% per stack) damage. Fires every 1.6 seconds while sprinting. Fire rate increases with movement speed.
 Tier: Boss
@@ -2618,7 +2618,7 @@ WATCH HOW I TEND TO OUR GARDEN.
  
  
  
-Longstanding Solitude
+Name: Longstanding Solitude
 Pickup Text: Free purchases on level up... BUT gold converts to experience.
 Full Description: On level up gain a free unlock for the next purchase (+1 per stack) but all gold is converted to experience. Anything that costs gold is increased by 50% (+50% per stack).
 Tier: Lunar
@@ -2648,7 +2648,7 @@ ontheWAy
  
  
  
-Lost Seer's Lenses
+Name: Lost Seer's Lenses
 Pickup Text: Gain a 0.5% chance to instantly kill a non-boss enemy. Corrupts all Lens-Maker's Glasses.
 Full Description: Your attacks have a 0.5% (+0.5% per stack) chance to instantly kill a non-Boss enemy. Corrupts all Lens-Maker's Glasses.
 Tier: Void
@@ -2670,7 +2670,7 @@ Yes, it's the little things, but seeing those things... REALLY seeing them. Ah, 
  
  
  
-Luminous Shot
+Name: Luminous Shot
 Pickup Text: Activating your Secondary skill charges your Primary skill with powerful lightning strikes. Requires 3 charges.
 Full Description: Activating Secondary skill stores up to 5 charges (+1 per stack). Requires 3 charges for your Primary skill to fire lightning strikes, dealing 175% TOTAL damage (+50% per stack) each. Reduces Secondary skill cooldown by 20%.
 Tier: Uncommon
@@ -2701,7 +2701,7 @@ The coup still fresh on Europa’s mind, the new acting government confronts her
  
  
  
-Lysate Cell
+Name: Lysate Cell
 Pickup Text: Add an extra charge of your Special skill. Corrupts all Fuel Cells.
 Full Description: Add +1 (+1 per stack) charge of your Special skill. Reduces Special skill cooldown by 33%. Corrupts all Fuel Cells.
 Tier: Void
@@ -2717,7 +2717,7 @@ Do you get what I'm saying? There's opportunities for recycling all over the pla
  
  
  
-Medkit
+Name: Medkit
 Pickup Text: Receive a delayed heal after taking damage.
 Full Description: 2 seconds after getting hurt, heal for 20 plus an additional 5% (+5% per stack) of maximum health.
 Tier: Common
@@ -2745,7 +2745,7 @@ This time the man did not humor a reply. Grabbing his shotgun, he turned away fr
  
  
  
-Mercurial Rachis
+Name: Mercurial Rachis
 Pickup Text: Randomly create a Ward of Power. ALL characters deal bonus damage while in the Ward.
 Full Description: Creates a Ward of Power in a random location nearby that buffs both enemies and allies within 16m (+50% per stack), causing them to deal +50% damage.
 Tier: Lunar
@@ -2759,7 +2759,7 @@ Log:
  
  
  
-Mired Urn
+Name: Mired Urn
 Pickup Text: Siphon health from nearby enemies while in combat. 
 Full Description: While in combat, the nearest 1 (+1 per stack) enemies to you within 13m will be 'tethered' to you, dealing 100% damage per second, applying tar, and healing you for 100% of the damage dealt.
 Tier: Boss
@@ -2786,7 +2786,7 @@ Notes:
  
  
  
-Mocha
+Name: Mocha
 Pickup Text: Slightly increase attack speed and movement speed.
 Full Description: Increases attack speed by 7.5% (+7.5% per stack) and movement speed by 7% (+7% per stack).
 Tier: Common
@@ -2804,7 +2804,7 @@ My finest brew. Hope it doesn't spoil during transit. Remember to heat it back u
  
  
  
-Molten Perforator
+Name: Molten Perforator
 Pickup Text: Chance on hit to fire magma balls.
 Full Description: 10% chance on hit to call forth 3 magma balls from an enemy, dealing 300% (+300% per stack) damage each.
 Tier: Boss
@@ -2832,7 +2832,7 @@ Notes:
  
  
  
-Monster Tooth
+Name: Monster Tooth
 Pickup Text: Drop a healing orb on kill.
 Full Description: Killing an enemy spawns a healing orb that heals for 8 plus an additional 2% (+2% per stack) of maximum health.
 Tier: Common
@@ -2858,7 +2858,7 @@ Log:
  
  
  
-N'kuhana's Opinion
+Name: N'kuhana's Opinion
 Pickup Text: Fire haunting skulls when healed.
 Full Description: Store 100% (+100% per stack) of healing as Soul Energy. After your Soul Energy reaches 10% of your maximum health, fire a skull that deals 250% of your Soul Energy as damage.
 Tier: Legendary
@@ -2884,7 +2884,7 @@ Weshan!"
  
  
  
-Needletick
+Name: Needletick
 Pickup Text: Chance to collapse enemies on hit. Corrupts all Tri-Tip Daggers.
 Full Description: 10% (+10% per stack) chance to collapse an enemy for 400% base damage. Corrupts all Tri-Tip Daggers.
 Tier: Void
@@ -2927,7 +2927,7 @@ Reason: vomit in buckets
  
  
  
-Newly Hatched Zoea
+Name: Newly Hatched Zoea
 Pickup Text: Periodically recruit allies from the Void. Corrupts all yellow items.
 Full Description: Every 60 (-50% per stack) seconds, gain a random Void ally. Can have up to 1 (+1 per stack) allies at a time. Corrupts all yellow items.
 Tier: Void
@@ -2955,7 +2955,7 @@ End Of File
  
  
  
-Noxious Thorn
+Name: Noxious Thorn
 Pickup Text: Killing an enemy transfers debuffs to a nearby enemy.
 Full Description: Gain 10% chance to bleed an enemy. On killing an enemy, transfer 33% of every debuff stack to 1 enemy (+1 per stack) within 20m (+5m per stack).
 Tier: Uncommon
@@ -2986,7 +2986,7 @@ The Beetle twitches and falls, a splash of its warm blood hits Campbell.
  
  
  
-Oddly-shaped Opal
+Name: Oddly-shaped Opal
 Pickup Text: Reduce damage the first time you are hit.
 Full Description: Increase armor by 100 (+100 per stack) while out of danger.
 Tier: Common
@@ -3008,7 +3008,7 @@ Liz took a deep breath and slipped the opal back into her pocket. "It just helps
  
  
  
-Old Guillotine
+Name: Old Guillotine
 Pickup Text: Instantly kill low health Elite monsters.
 Full Description: Instantly kill Elite monsters below 13% (+13% per stack) health.
 Tier: Uncommon
@@ -3031,7 +3031,7 @@ Primas V is alive!
  
  
  
-Old War Stealthkit
+Name: Old War Stealthkit
 Pickup Text: Turn invisible at low health.
 Full Description: Falling below 25% health causes you to gain 40% movement speed and invisibility for 5s. Recharges every 30 seconds (-50% per stack).
 Tier: Uncommon
@@ -3052,7 +3052,7 @@ However, a slight issue: in transit, the truck hit a pothole and jostled all the
  
  
  
-Paul's Goat Hoof
+Name: Paul's Goat Hoof
 Pickup Text: Increase movement speed.
 Full Description: Increases movement speed by 14% (+14% per stack).
 Tier: Common
@@ -3071,7 +3071,7 @@ A hoof from one of my many goats; I noticed one day that one of my goats had an 
  
  
  
-Pearl
+Name: Pearl
 Pickup Text: Increase your maximum health.
 Full Description: Increases maximum health by 10% (+10% per stack).
 Tier: Boss
@@ -3086,7 +3086,7 @@ I do not blame you for your curiosity… but cleanse yourself of it immediately.
  
  
  
-Personal Shield Generator
+Name: Personal Shield Generator
 Pickup Text: Gain a recharging shield.
 Full Description: Gain a shield equal to 8% (+8% per stack) of your maximum health. Recharges outside of danger.
 Tier: Common
@@ -3100,7 +3100,7 @@ Log:
  
  
  
-Planula
+Name: Planula
 Pickup Text: Receive flat healing when attacked.
 Full Description: Heal from incoming damage for 15 (+15 per stack).
 Tier: Boss
@@ -3135,7 +3135,7 @@ Log:
  
  
  
-Plasma Shrimp
+Name: Plasma Shrimp
 Pickup Text: While you have shield, fire missiles on every hit. Corrupts all AtG Missile Mk. 1s.
 Full Description: Gain a shield equal to 10% of your maximum health. While you have a shield, hitting an enemy fires a missile that deals 40% (+40% per stack) TOTAL damage. Corrupts all AtG Missile Mk. 1s.
 Tier: Void
@@ -3149,7 +3149,7 @@ Log:
  
  
  
-Pluripotent Larva
+Name: Pluripotent Larva
 Pickup Text: Get a corrupted extra life. Consumed on use. Corrupts all Dio's Best Friends.
 Full Description: Upon death, this item will be consumed and you will return to life with 3 seconds of invulnerability, and all of your items that can be corrupted will be. Corrupts all Dio's Best Friends.
 Tier: Void
@@ -3163,7 +3163,7 @@ Why don't you take a ride in their shoes, just for one day? You may come out of 
  
  
  
-Pocket I.C.B.M.
+Name: Pocket I.C.B.M.
 Pickup Text: All Missile items deal more damage and fire an additional two missiles.
 Full Description: All missile items and equipment fire an additional 2 missiles. Increase missile damage by 0% (+50% per stack).
 Tier: Legendary
@@ -3179,7 +3179,7 @@ The Autobiography of Jans Czar, Modern King of Weaponry, First Draft
  
  
  
-Polylute
+Name: Polylute
 Pickup Text: Chance to repeatedly strike a single enemy with lightning. Corrupts all Ukuleles.
 Full Description: 25% chance to fire lightning for 60% TOTAL damage up to 3 (+3 per stack) times. Corrupts all Ukuleles.
 Tier: Void
@@ -3203,7 +3203,7 @@ How catchy!
  
  
  
-Power Elixir
+Name: Power Elixir
 Pickup Text: Receive an instant heal at low health. Consumed on use.
 Full Description: Taking damage to below 25% health consumes this item, healing you for 75% of maximum health.
 Tier: Common
@@ -3223,7 +3223,7 @@ My potions are too strong for you, buyer. I've instead downgraded you to a weake
  
  
  
-Prayer Beads
+Name: Prayer Beads
 Pickup Text: Gains experience alongside you. Upon removal, grants bonus stats.
 Full Description: Grows by gaining experience, storing 20% (+5% per stack) bonus stats (health, regeneration, and damage). On removal, gain all stored stats.
 Tier: Uncommon
@@ -3257,7 +3257,7 @@ Shipping details:
  
  
  
-Predatory Instincts
+Name: Predatory Instincts
 Pickup Text: 'Critical Strikes' increase attack speed. Stacks 3 times.
 Full Description: Gain 5% critical chance. Critical strikes increase attack speed by 12%. Maximum cap of 36% (+24% per stack) attack speed.
 Tier: Uncommon
@@ -3271,7 +3271,7 @@ A demon, fallen from the Sky, mighty enough to slay Providence and his Wurms. On
  
  
  
-Purity
+Name: Purity
 Pickup Text: Reduce your skill cooldowns by 2 seconds. You are unlucky.
 Full Description: All skill cooldowns are reduced by 2 (+1 per stack) seconds. All random effects are rolled +1 (+1 per stack) times for an unfavorable outcome.
 Tier: Lunar
@@ -3287,7 +3287,7 @@ It sounds like two brothers, chasing glass frogs in the sun.
  
  
  
-Queen's Gland
+Name: Queen's Gland
 Pickup Text: Recruit a Beetle Guard.
 Full Description: Every 30 seconds, summon a Beetle Guard with bonus 300% damage and 100% health. Can have up to 1 (+1 per stack) Guards at a time.
 Tier: Boss
@@ -3316,7 +3316,7 @@ Log:
  
  
  
-Razorwire
+Name: Razorwire
 Pickup Text: Retaliate in a burst of razors on taking damage.
 Full Description: Getting hit causes you to explode in a burst of razors, dealing 160% damage. Hits up to 5 (+2 per stack) targets in a 25m (+10m per stack) radius
 Tier: Uncommon
@@ -3339,7 +3339,7 @@ If I don’t get good reviews, expect to hear from my lawyers!
  
  
  
-Red Whip
+Name: Red Whip
 Pickup Text: Move fast out of combat.
 Full Description: Leaving combat boosts your movement speed by 30% (+30% per stack).
 Tier: Uncommon
@@ -3353,7 +3353,7 @@ Log:
  
  
  
-Regenerating Scrap
+Name: Regenerating Scrap
 Pickup Text: Prioritized when used with Uncommon 3D Printers. Usable once per stage.
 Full Description: Does nothing. Prioritized when used with Uncommon 3D Printers. At the start of each stage, it regenerates.
 Tier: Uncommon
@@ -3375,7 +3375,7 @@ Log:
  
  
  
-Rejuvenation Rack
+Name: Rejuvenation Rack
 Pickup Text: Double the strength of healing.
 Full Description: Heal +100% (+100% per stack) more.
 Tier: Legendary
@@ -3388,7 +3388,7 @@ Log:
  
  
  
-Repulsion Armor Plate
+Name: Repulsion Armor Plate
 Pickup Text: Receive flat damage reduction from all attacks.
 Full Description: Reduce all incoming damage by 5 (+5 per stack). Cannot be reduced below 1.
 Tier: Common
@@ -3409,7 +3409,7 @@ The segmented design is nice because I don’t have to shell out the cash for a 
  
  
  
-Resonance Disc
+Name: Resonance Disc
 Pickup Text: Obtain a Resonance Disc charged by killing enemies. Fires automatically when fully charged.
 Full Description: Killing 4 enemies in 7 seconds charges the Resonance Disc. The disc launches itself toward a target for 300% base damage (+300% per stack), piercing all enemies it doesn't kill, and then explodes for 1000% base damage (+1000% per stack). Returns to the user, striking all enemies along the way for 300% base damage (+300% per stack).
 Tier: Legendary
@@ -3428,7 +3428,7 @@ Oops, so sorry! I forgot to include the installation wizard with your new turbin
  
  
  
-Roll of Pennies
+Name: Roll of Pennies
 Pickup Text: Gain gold on taking damage.
 Full Description: Gain 3 (+3 per stack) gold on taking damage from an enemy. Scales over time.
 Tier: Common
@@ -3448,7 +3448,7 @@ Johnson returned to the battlefield, gunning down Lemurians in an effort to save
  
  
  
-Rose Buckler
+Name: Rose Buckler
 Pickup Text: Reduce incoming damage while sprinting.
 Full Description: Increase armor by 30 (+30 per stack) while sprinting.
 Tier: Uncommon
@@ -3469,7 +3469,7 @@ Papa
  
  
  
-Runald's Band
+Name: Runald's Band
 Pickup Text: High damage hits also blasts enemies with runic ice. Recharges over time.
 Full Description: Hits that deal more than 400% damage also blasts enemies with a runic ice blast, slowing them by 80% for 3s (+3s per stack) and dealing 250% (+250% per stack) TOTAL damage. Recharges every 10 seconds.
 Tier: Uncommon
@@ -3486,7 +3486,7 @@ Will you die with me?"
  
  
  
-Runic Lens
+Name: Runic Lens
 Pickup Text: Chance to call down a meteor. Damage and chance are increased with higher damage hits.
 Full Description: 3% chance on hit to call down a meteor, dealing 2000% base damage. Every 100% attack damage dealt increases the activation chance by 3% (+3% per stack) and damage by 150% (+50% per stack).
 Tier: Legendary
@@ -3522,7 +3522,7 @@ I’ve included the bill for my roof.
  
  
  
-Rusted Key
+Name: Rusted Key
 Pickup Text: Gain access to a Rusty Lockbox that contains a powerful item.
 Full Description: A hidden cache containing an item (80%/20%) will appear in a random location on each stage. Opening the cache consumes this item.
 Tier: Common
@@ -3543,7 +3543,7 @@ Anyways, I'm sending you exactly what I said I would - but it's too important to
  
  
  
-Safer Spaces
+Name: Safer Spaces
 Pickup Text: Block the next source of damage. Corrupts all Tougher Times.
 Full Description: Blocks incoming damage once. Recharges after 13.5 seconds (-10% per stack) Corrupts all Tougher Times.
 Tier: Void
@@ -3563,7 +3563,7 @@ Not without something very precious going squish."
  
  
  
-Sale Star
+Name: Sale Star
 Pickup Text: First chest bought yields more than one reward. Usable once per stage.
 Full Description: Gain an extra item on the first chest opened per stage. Each additional Sale Star increases the chance of getting more items by 5%.
 Tier: Uncommon
@@ -3603,7 +3603,7 @@ The Cadets exchange a nervous glance over the chute. Probably nothing.
  
  
  
-Sentient Meat Hook
+Name: Sentient Meat Hook
 Pickup Text: Chance to hook all nearby enemies.
 Full Description: 20% (+20% per stack) chance on hit to fire homing hooks at up to 10 (+5 per stack) enemies for 100% TOTAL damage.
 Tier: Legendary
@@ -3617,7 +3617,7 @@ Log:
  
  
  
-Shaped Glass
+Name: Shaped Glass
 Pickup Text: Double your damage... BUT halve your health.
 Full Description: Increase base damage by 100% (+100% per stack). Reduce maximum health by 50% (+50% per stack).
 Tier: Lunar
@@ -3656,7 +3656,7 @@ Y
  
  
  
-Shattering Justice
+Name: Shattering Justice
 Pickup Text: Reduce the armor of enemies after repeatedly striking them.
 Full Description: After hitting an enemy 5 times, reduce their armor by 60 for 8 (+8 per stack) seconds.
 Tier: Legendary
@@ -3673,7 +3673,7 @@ Please refer back to section 1.8 for information on proper handling and the incl
  
  
  
-Shatterspleen
+Name: Shatterspleen
 Pickup Text: Critical strikes always bleed enemies. Bleeding enemies now explode.
 Full Description: Gain 5% critical chance. Critical Strikes bleed enemies for 240% base damage. Bleeding enemies explode on death for 400% (+400% per stack) damage, plus an additional 15% (+15% per stack) of their maximum health.
 Tier: Boss
@@ -3704,7 +3704,7 @@ Notes:
  
  
  
-Shipping Request Form
+Name: Shipping Request Form
 Pickup Text: Get a delivery each stage that contains powerful items.
 Full Description: A delivery containing 2 items (79%/20%/1%) will appear in a random location on each stage. (Increases rarity chances of the items per stack).
 Tier: Uncommon
@@ -3728,7 +3728,7 @@ If you would like to join our reading list, reply with subject headline: UES.RL_
  
  
  
-Shuriken
+Name: Shuriken
 Pickup Text: Activating your Primary skill also throws a shuriken. Recharges over time.
 Full Description: Activating your Primary skill also throws a shuriken that deals 400% (+100% per stack) base damage. You can hold up to 3 (+1 per stack) shurikens which all reload over 10 seconds.
 Tier: Uncommon
@@ -3749,7 +3749,7 @@ However, you can say "hiyahh!" in your head. (I do too.)
  
  
  
-Singularity Band
+Name: Singularity Band
 Pickup Text: High damage hits also create unstable black holes. Recharges over time. Corrupts all Runald's and Kjaro's Bands.
 Full Description: Hits that deal more than 400% damage also fire a black hole that draws enemies within 15m into its center. Lasts 5 seconds before collapsing, dealing 100% (+100% per stack) TOTAL damage. Recharges every 20 seconds. Corrupts all Runald's and Kjaro's Bands.
 Tier: Void
@@ -3766,7 +3766,7 @@ We will end as one."
  
  
  
-Soldier's Syringe
+Name: Soldier's Syringe
 Pickup Text: Increase attack speed.
 Full Description: Increases attack speed by 15% (+15% per stack).
 Tier: Common
@@ -3780,7 +3780,7 @@ Log:
  
  
  
-Sonorous Whispers
+Name: Sonorous Whispers
 Pickup Text: Upon large or elite monster kill chance to drop items.
 Full Description: When a large monster is killed it will always drop an item. All elites have a 5% chance of dropping an item (+1% per item stack).
 Tier: Legendary
@@ -3798,7 +3798,7 @@ A soldier empties it once more with a shaking hand.
  
  
  
-Soulbound Catalyst
+Name: Soulbound Catalyst
 Pickup Text: Kills reduce equipment cooldown.
 Full Description: Kills reduce equipment cooldown by 4s (+2s per stack).
 Tier: Legendary
@@ -3821,7 +3821,7 @@ Payment will be at least twice as much as our previous deal. We can discuss it l
  
  
  
-Spare Drone Parts
+Name: Spare Drone Parts
 Pickup Text: Your drones fire faster, have less cooldowns, shoot missiles, and gain a bonus chaingun.
 Full Description: Gain Col. Droneman. Drones gain +50% (+50% per stack) attack speed and cooldown reduction. Drones gain 10% chance to fire a missile on hit, dealing 300% TOTAL damage. Drones gain an automatic chain gun that deals 6x100% damage, bouncing to 2 enemies.
 Tier: Legendary
@@ -3851,7 +3851,7 @@ Log:
  
  
  
-Squid Polyp
+Name: Squid Polyp
 Pickup Text: Activating an interactable summons a Squid Turret nearby.
 Full Description: Activating an interactable summons a Squid Turret that attacks nearby enemies at 100% (+100% per stack) attack speed. Lasts 30 seconds.
 Tier: Uncommon
@@ -3877,7 +3877,7 @@ Log:
  
  
  
-Sticky Bomb
+Name: Sticky Bomb
 Pickup Text: Chance on hit to attach a bomb to enemies.
 Full Description: 5% (+5% per stack) chance on hit to attach a bomb to an enemy, detonating for 180% TOTAL damage.
 Tier: Common
@@ -3907,7 +3907,7 @@ She heard a noise and turned around, recognizing another silhouette. It bounded 
  
  
  
-Stone Flux Pauldron
+Name: Stone Flux Pauldron
 Pickup Text: Double your health... BUT halve your speed.
 Full Description: Increase max health by 100% (+100% per stack). Reduce movement speed by 50% (+50% per stack).
 Tier: Lunar
@@ -3921,7 +3921,7 @@ Log:
  
  
  
-Strides of Heresy
+Name: Strides of Heresy
 Pickup Text: Replace your Utility Skill with 'Shadowfade'.
 Full Description: Replace your Utility Skill with Shadowfade. Fade away, becoming intangible and gaining +30% movement speed. Heal for 18.2% (+18.2% per stack) of your maximum health. Lasts 3 (+3 per stack) seconds.
 Tier: Lunar
@@ -3935,7 +3935,7 @@ Log:
  
  
  
-Stun Grenade
+Name: Stun Grenade
 Pickup Text: Chance to stun on hit.
 Full Description: 5% (+5% on stack) chance on hit to stun enemies for 2 seconds.
 Tier: Common
@@ -3962,7 +3962,7 @@ They were both admitted to the medical bay shortly after.
  
  
  
-Symbiotic Scorpion
+Name: Symbiotic Scorpion
 Pickup Text: Permanently reduce armor on hit.
 Full Description: 100% chance on hit to reduce armor by 2 (+2 per stack) permanently.
 Tier: Legendary
@@ -3980,7 +3980,7 @@ Burying them under a mound of scorpions."
  
  
  
-Tentabauble
+Name: Tentabauble
 Pickup Text: Chance to root enemies on hit. Corrupts all Chronobaubles.
 Full Description: 5% (+5% per stack) chance on hit to root enemies for 1s (+1s per stack). Corrupts all Chronobaubles.
 Tier: Void
@@ -4003,7 +4003,7 @@ Anyways, same drill as last time - shipping this to myself in 10 years. 10 years
  
  
  
-Titanic Knurl
+Name: Titanic Knurl
 Pickup Text: Boosts health and regeneration.
 Full Description: Increase maximum health by 40 (+40 per stack) and base health regeneration by +1.6 hp/s (+1.6 hp/s per stack).
 Tier: Boss
@@ -4029,7 +4029,7 @@ Notes:
  
  
  
-Topaz Brooch
+Name: Topaz Brooch
 Pickup Text: Gain a temporary barrier on kill.
 Full Description: Gain a temporary barrier on kill for 15 health (+15 per stack).
 Tier: Common
@@ -4052,7 +4052,7 @@ Good luck.
  
  
  
-Tougher Times
+Name: Tougher Times
 Pickup Text: Chance to block incoming damage.
 Full Description: 15% (+15% per stack) chance to block incoming damage. Unaffected by luck.
 Tier: Common
@@ -4086,7 +4086,7 @@ He grinned. "I think I'm gonna find it."
  
  
  
-Transcendence
+Name: Transcendence
 Pickup Text: Convert all your health into shield. Increase maximum health.
 Full Description: Convert all but 1 health into regenerating shields. Gain 50% (+25% per stack) maximum health.
 Tier: Lunar
@@ -4104,7 +4104,7 @@ You have revealed my hand. Because you have consumed this information, the [obse
  
  
  
-Tri-Tip Dagger
+Name: Tri-Tip Dagger
 Pickup Text: Gain +10% chance to bleed enemies on hit.
 Full Description: 10% (+10% per stack) chance to bleed an enemy for 240% base damage.
 Tier: Common
@@ -4144,7 +4144,7 @@ Reason: i think im gonna be sick
  
  
  
-Ukulele
+Name: Ukulele
 Pickup Text: ...and his music was electric.
 Full Description: 25% chance to fire chain lightning for 80% TOTAL damage on up to 3 (+2 per stack) targets within 20m (+2m per stack).
 Tier: Uncommon
@@ -4166,7 +4166,7 @@ He laughed, readying himself for an encore. Maybe things wouldn’t be so bad af
  
  
  
-Unstable Tesla Coil
+Name: Unstable Tesla Coil
 Pickup Text: Shock all nearby enemies every 10 seconds.
 Full Description: Fire out lightning that hits 3 (+2 per stack) enemies for 200% base damage every 0.5s. The Tesla Coil switches off every 10 seconds.
 Tier: Legendary
@@ -4201,7 +4201,7 @@ Initiating reboot procedure in 10...
  
  
  
-Unstable Transmitter
+Name: Unstable Transmitter
 Pickup Text: Gain a temporary barrier and a dimensional aura on low health.
 Full Description: Falling below 25% health gives you 60% of your maximum health as a temporary barrier. Gain a dimensional aura for 8s that bleeds and teleports away enemies. Enemies killed by the aura extend the duration by 1s. At the start of each stage, it regenerates.
 Tier: Uncommon
@@ -4216,7 +4216,7 @@ Log:
  
  
  
-Visions of Heresy
+Name: Visions of Heresy
 Pickup Text: Replace your Primary Skill with 'Hungering Gaze'.
 Full Description: Replace your Primary Skill with Hungering Gaze. Fire a flurry of tracking shards that detonate after a delay, dealing 120% base damage. Hold up to 12 charges (+12 per stack) that reload after 2 seconds (+2 per stack).
 Tier: Lunar
@@ -4232,7 +4232,7 @@ First, her many eyes were plucked from her skull and sealed in boiling glass, fo
  
  
  
-Voidsent Flame
+Name: Voidsent Flame
 Pickup Text: Full health enemies also detonate on hit. Corrupts all Will-o'-the-wisps.
 Full Description: Upon hitting an enemy at full health, spawn a lava pillar in a 12m (+2.4m per stack) radius for 260% (+156% per stack) base damage. Corrupts all Will-o'-the-wisps.
 Tier: Void
@@ -4269,7 +4269,7 @@ So much energy. I believe I can work with this.
  
  
  
-Wake of Vultures
+Name: Wake of Vultures
 Pickup Text: Temporarily steal the power of slain elites.
 Full Description: Gain the power of any killed elite monster for 8s (+5s per stack).
 Tier: Legendary
@@ -4290,7 +4290,7 @@ Somebody said this, I can’t remember who. Anyway, make sure to take great care
  
  
  
-War Bonds
+Name: War Bonds
 Pickup Text: Bombard boss events with missiles. The more gold earned, the more UES support is granted.
 Full Description: During boss events, 5 missiles bombard the area, dealing 2.5% of bosses' Max Health in damage. Before the boss event, gain additional missiles, up to a maximum of 20 (+5 per stack), per 50 gold gained. Gold requirement scales with time.
 Tier: Legendary
@@ -4327,7 +4327,7 @@ WAR BOND - SERIES 2057
  
  
  
-War Horn
+Name: War Horn
 Pickup Text: Activating your Equipment gives you a burst of attack speed.
 Full Description: Activating your Equipment gives you +70% attack speed for 8s (+4s per stack).
 Tier: Uncommon
@@ -4343,7 +4343,7 @@ The War Horn, pictured above was a favorite of the Northern Fist Rebellion for b
  
  
  
-Warbanner
+Name: Warbanner
 Pickup Text: Drop a Warbanner on level up or starting the Teleporter event. Grants allies attack and movement speed.
 Full Description: On level up or starting the Teleporter event, drop a banner that strengthens all allies within 16m (+8m per stack). Raise attack and movement speed by 30%.
 Tier: Common
@@ -4359,7 +4359,7 @@ The only proof of their last stand was a single banner, fluttering in the wind, 
  
  
  
-Warped Echo
+Name: Warped Echo
 Pickup Text: Incoming damage is reduced and dealt over time.
 Full Description: The next source of damage is reduced by 20% and spread into 3 (+1 per stack) hits. All echoed damage is non-lethal except for the final hit. Recharges every 15s.
 Tier: Common
@@ -4396,7 +4396,7 @@ I was about to send this boring thing off to Kosta for appraisal, but now we hav
  
  
  
-Wax Quail
+Name: Wax Quail
 Pickup Text: Jumping while sprinting boosts you forward.
 Full Description: Jumping while sprinting boosts you forward by 10m (+10m per stack).
 Tier: Uncommon
@@ -4421,7 +4421,7 @@ Mama
  
  
  
-Weeping Fungus
+Name: Weeping Fungus
 Pickup Text: Heal while sprinting. Corrupts all Bustling Fungi.
 Full Description: Heals for 2% (+2% per stack) of your health every second while sprinting. Corrupts all Bustling Fungi.
 Tier: Void
@@ -4455,7 +4455,7 @@ ROAAAAAAAAAAAAAR!!
  
  
  
-Will-o'-the-wisp
+Name: Will-o'-the-wisp
 Pickup Text: Detonate enemies on kill.
 Full Description: On killing an enemy, spawn a lava pillar in a 12m (+2.4m per stack) radius for 350% (+280% per stack) base damage.
 Tier: Uncommon
@@ -4491,7 +4491,7 @@ Printing...
 
 
 
-Blast Shower
+Name: Blast Shower
 Pickup Text: Cleanse all negative effects.
 Full Description: Cleanse all negative effects. Includes debuffs, damage over time, and nearby projectiles.
 Tier: Equipment
@@ -4512,7 +4512,7 @@ Disclaimer: Wear your protective suit while cleansing. Do not use product direct
  
  
  
-Disposable Missile Launcher
+Name: Disposable Missile Launcher
 Pickup Text: Fire a swarm of missiles.
 Full Description: Fire a swarm of 12 missiles that deal 12x300% damage.
 Tier: Equipment
@@ -4526,7 +4526,7 @@ Log:
  
  
  
-Eccentric Vase
+Name: Eccentric Vase
 Pickup Text: Create a quantum tunnel between two locations.
 Full Description: Create a quantum tunnel of up to 1000m in length. Lasts 30 seconds.
 Tier: Equipment
@@ -4544,7 +4544,7 @@ Robins would inspect the vase, looking at it up and down, but there weren’t an
  
  
  
-Effigy of Grief
+Name: Effigy of Grief
 Pickup Text: Drop a permanent effigy that cripples ALL characters inside. Can place up to 5.
 Full Description: ALL characters within are slowed by 50% and have their armor reduced by 20. Can place up to 5.
 Tier: Lunar Equipment
@@ -4558,7 +4558,7 @@ Log:
  
  
  
-Executive Card
+Name: Executive Card
 Pickup Text: Gain 10% cash back on all purchases. Multishops remain open.
 Full Description: Whenever you make a gold purchase, get 10% of the spent gold back. If the purchase is a multishop terminal, the other terminals will remain open.
 Tier: Equipment
@@ -4594,7 +4594,7 @@ Log:
  
  
  
-Foreign Fruit
+Name: Foreign Fruit
 Pickup Text: Heal on use.
 Full Description: Instantly heal for 50% of your maximum health. 
 Tier: Equipment
@@ -4608,7 +4608,7 @@ Log:
  
  
  
-Forgive Me Please
+Name: Forgive Me Please
 Pickup Text: Throw a cursed doll that repeatedly triggers your 'On Kill' effects.
 Full Description: Throw a cursed doll out that triggers any On-Kill effects you have every 1 second for 8 seconds.
 Tier: Equipment
@@ -4636,7 +4636,7 @@ You’re really killing me.
  
  
  
-Glowing Meteorite
+Name: Glowing Meteorite
 Pickup Text: Rain meteors from the sky, hurting both enemies and allies.
 Full Description: Rain meteors from the sky, damaging ALL characters for 600% damage per blast. Lasts 20 seconds.
 Tier: Lunar Equipment
@@ -4648,7 +4648,7 @@ What a... peculiar piece of the stars that serendipity has brought us. I'm sure 
  
  
  
-Gnarled Woodsprite
+Name: Gnarled Woodsprite
 Pickup Text: Heal over time. Activate to send to an ally.
 Full Description: Gain a Woodsprite follower that heals for 1.5% of your maximum health/second. Can be sent to an ally to heal them for 10% of their maximum health.
 Tier: Equipment
@@ -4671,7 +4671,7 @@ Either way, it's good to have them around, and I think they enjoy being around u
  
  
  
-Goobo Jr.
+Name: Goobo Jr.
 Pickup Text: Create a clone of you for 30 seconds.
 Full Description: Spawn a gummy clone that has 300% damage and 300% health. Expires in 30 seconds.
 Tier: Equipment
@@ -4697,7 +4697,7 @@ Log:
  
  
  
-Gorag's Opus
+Name: Gorag's Opus
 Pickup Text: You and all your allies enter a frenzy.
 Full Description: All allies enter a frenzy for 7 seconds. Increases movement speed by 50% and attack speed by 100%.
 Tier: Equipment
@@ -4721,7 +4721,7 @@ Printing...
  
  
  
-Helfire Tincture
+Name: Helfire Tincture
 Pickup Text: Burn everything nearby... including you and allies.
 Full Description: Ignite ALL characters within 15m for 12s. Deal 5% of your maximum health/second as burning as damage. The burn is 0.5x stronger on yourself, 0.25x stronger on allies, and 24x stronger on enemies.
 Tier: Lunar Equipment
@@ -4777,7 +4777,7 @@ I ignite. <He> measures my time.
  
  
  
-Jade Elephant
+Name: Jade Elephant
 Pickup Text: Gain massive armor for 5 seconds.
 Full Description: Gain 500 armor for 5 seconds.
 Tier: Equipment
@@ -4793,7 +4793,7 @@ Determination and resolve had essentially been carved into the very spirit of th
  
  
  
-Milky Chrysalis
+Name: Milky Chrysalis
 Pickup Text: Gain temporary flight.
 Full Description: Sprout wings and fly for 15 seconds. Gain +20% movement speed for the duration.
 Tier: Equipment
@@ -4816,7 +4816,7 @@ I can’t imagine that they don’t have an upper limit - a final form. What adj
  
  
  
-Molotov (6-Pack)
+Name: Molotov (6-Pack)
 Pickup Text: Throw 6 flaming molotovs that ignite enemies upon shattering.
 Full Description: Throw 6 molotov cocktails that ignites enemies for 500% base damage. Each molotov leaves a burning area for 200% damage per second.
 Tier: Equipment
@@ -4833,7 +4833,7 @@ Shipping Details: Let our friends inside know that we're coming over for drinks 
  
  
  
-Ocular HUD
+Name: Ocular HUD
 Pickup Text: Gain 100% Critical Strike Chance for 8 seconds.
 Full Description: Gain +100% Critical Strike Chance for 8 seconds.
 Tier: Equipment
@@ -4854,7 +4854,7 @@ While I still don't know everything, I feel like I'm already in too deep. You wo
  
  
  
-Preon Accumulator
+Name: Preon Accumulator
 Pickup Text: Fire a ball of energy that electrocutes nearby enemies before detonating.
 Full Description: Fires preon tendrils, zapping enemies within 35m for up to 600% damage/second. On contact, detonate in an enormous 20m explosion for 4000% damage.
 Tier: Equipment
@@ -4876,7 +4876,7 @@ At least try not to blow this one to bits for the first week, alright? Make our 
  
  
  
-Primordial Cube
+Name: Primordial Cube
 Pickup Text: Fire a black hole that draws enemies in.
 Full Description: Fire a black hole that draws enemies within 30m into its center. Lasts 10 seconds
 Tier: Equipment
@@ -4892,7 +4892,7 @@ While this is a historic scientific breakthrough, multiple scientists have spoke
  
  
  
-Radar Scanner
+Name: Radar Scanner
 Pickup Text: Reveal all nearby interactables.
 Full Description: Reveal all interactables within 500m for 10 seconds.
 Tier: Equipment
@@ -4911,7 +4911,7 @@ You’re asking for trouble, ordering this through the UES. Not very covert. Thi
  
  
  
-Recycler
+Name: Recycler
 Pickup Text: Transform an Item or Equipment into a different one. Can only recycle once.
 Full Description: Transform an Item or Equipment into a different one. Can only be converted into the same tier one time.
 Tier: Equipment
@@ -4934,7 +4934,7 @@ Thank you for recycling!
  
  
  
-Remote Caffeinator
+Name: Remote Caffeinator
 Pickup Text: Request a healing soda machine.
 Full Description: Request an Eclipse Zero Vending Machine from the UES Safe Travels. Delivery guaranteed in 5 seconds, dealing 2000% damage. Heal up to 3 targets for 25% of their maximum health.
 Tier: Equipment
@@ -4954,7 +4954,7 @@ This log entry was brought to you by Eclipse: The Galactic Quencher
  
  
  
-Royal Capacitor
+Name: Royal Capacitor
 Pickup Text: Call down a lightning strike on a targeted monster.
 Full Description: Call down a lightning strike on a targeted monster, dealing 3000% damage and stunning nearby monsters.
 Tier: Equipment
@@ -4975,7 +4975,7 @@ Here’s a replacement for your damaged equipment. Crazy how gang activity is st
  
  
  
-Sawmerang
+Name: Sawmerang
 Pickup Text: Throw a fan of buzzing saws that come back to you.
 Full Description: Throw three large saw blades that slice through enemies for 3x400% damage. Also deals an additional 3x100% damage per second while bleeding enemies. Can strike enemies again on the way back.
 Tier: Equipment
@@ -4987,7 +4987,7 @@ I'm so happy they let me bring my trusty disc toy on this trip! Trees need cutti
  
  
  
-Seed of Life
+Name: Seed of Life
 Pickup Text: Revives the user when killed or dead allies on activation. Consumed on use.
 Full Description: Revive dead, friendly Survivors upon activation. Dying while holding this Equipment returns only you to life. Reviving gives 3s of invulnerability and consumes the equipment.
 Tier: Equipment
@@ -5001,7 +5001,7 @@ On the surface, Beetles pour from lifeless stumps in neat lines. A thousand form
  
  
  
-Spinel Tonic
+Name: Spinel Tonic
 Pickup Text: Gain a massive boost to ALL stats. Chance to gain an affliction that reduces ALL stats.
 Full Description: Drink the Tonic, gaining a boost for 20 seconds. Increases damage by +100%. Increases attack speed by +70%. Increases armor by +20. Increases maximum health by +50%. Increases passive health regeneration by +300%. Increases movespeed by +30%. When the Tonic wears off, you have a 20% chance to gain a Tonic Affliction, reducing all of your stats by -5% (-5% per stack).
 Tier: Lunar Equipment
@@ -5015,7 +5015,7 @@ Log:
  
  
  
-Super Massive Leech
+Name: Super Massive Leech
 Pickup Text: Heal for a percentage of the damage you deal for 8 seconds.
 Full Description: Heal for 20% of the damage you deal. Lasts 8 seconds.
 Tier: Equipment
@@ -5040,7 +5040,7 @@ She stated that it made her feel fantastic, but no one else in the lab felt comf
  
  
  
-The Back-up
+Name: The Back-up
 Pickup Text: Call drones for back up. Lasts 25 seconds.
 Full Description: Call 4 Strike Drones to fight for you. Lasts 25 seconds.
 Tier: Equipment
@@ -5054,7 +5054,7 @@ Log:
  
  
  
-The Crowdfunder
+Name: The Crowdfunder
 Pickup Text: Toggle to fire. Costs gold per bullet.
 Full Description: Fires a continuous barrage that deals 100% damage per bullet. Costs $1 per bullet. Cost increases over time.
 Tier: Equipment
@@ -5077,7 +5077,7 @@ I don’t have to tell you how that turned out for them. It’s why my client is
  
  
  
-Trophy Hunter's Tricorn
+Name: Trophy Hunter's Tricorn
 Pickup Text: Execute a large monster and claim its trophy. Consumed on use.
 Full Description: Execute any enemy capable of spawning a unique reward, and it will drop that item. Equipment is consumed on use.
 Tier: Equipment
@@ -5095,7 +5095,7 @@ For a moment the general did not reply; he was smiling his curious red-lipped sm
  
  
  
-Volcanic Egg
+Name: Volcanic Egg
 Pickup Text: Transform into a speeding draconic fireball, dealing damage as you pass through enemies.
 Full Description: Turn into a draconic fireball for 5 seconds. Deal 500% damage on impact. Detonates at the end for 800% damage.
 Tier: Equipment
@@ -5122,7 +5122,7 @@ Survivors
 
 
 
-Acrid
+Name: Acrid
 Health: 160 (+48 per lvl)
 Damage: 15 (+3 per lvl)
 Speed: 7 m/s
@@ -5145,7 +5145,7 @@ They may have finally imprisoned something that could not be contained.
  
  
  
-Artificer
+Name: Artificer
 Health: 110 (+33 per lvl)
 Damage: 12 (+2.4 per lvl)
 Speed: 7 m/s
@@ -5164,7 +5164,7 @@ The House Beyond represents the most ambitious of the High Court's followers, sp
  
  
  
-Bandit
+Name: Bandit
 Health: 110 (+33 per lvl)
 Damage: 12 (+2.4 per lvl)
 Speed: 7 m/s
@@ -5187,7 +5187,7 @@ I’m a thief - not a plumber. Of course I’m bringing my coat.
 
 
 
-Captain
+Name: Captain
 Health: 110 (+33 per lvl)
 Damage: 12 (+2.4 per lvl)
 Speed: 7 m/s
@@ -5222,7 +5222,7 @@ He gave out another sigh – they’re always top secret - but a small smile cre
 
 
 
-CHEF
+Name: CHEF
 Health: 110 (+33 per lvl)
 Damage: 12 (+2.4 per lvl)
 Speed: 7 m/s
@@ -5246,7 +5246,7 @@ CHEF bot quickly slams the door shut again, the smell of burnt meat (and hair) f
  
  
  
-Commando
+Name: Commando
 Health: 110 (+33 per lvl)
 Damage: 12 (+2.4 per lvl)
 Speed: 7 m/s
@@ -5273,7 +5273,7 @@ Looks like the time to rest wasn’t coming any time soon.
  
  
  
-Engineer
+Name: Engineer
 Health: 130 (+39 per lvl)
 Damage: 14 (+2.8 per lvl)
 Speed: 7 m/s
@@ -5294,7 +5294,7 @@ The man postulated that mankind was walking on a tight rope – when do the cybe
  
  
  
-False Son
+Name: False Son
 Health: 180 (+54 per lvl)
 Damage: 13 (+2 per lvl)
 Speed: 7 m/s
@@ -5324,7 +5324,7 @@ With my club I create a new path.
  
  
  
-Heretic
+Name: Heretic
 Health: 440 (+132 per lvl)
 Damage: 18 (+3.6 per lvl)
 Speed: 8 m/s
@@ -5353,7 +5353,7 @@ Her last thoughts were interrupted instantly by a crystalline blade.
  
  
  
-Huntress
+Name: Huntress
 Health: 90 (+27 per lvl)
 Damage: 12 (+2.4 per lvl)
 Speed: 7 m/s
@@ -5382,7 +5382,7 @@ GOOD HUNTING
  
  
  
-Loader
+Name: Loader
 Health: 160 (+48 per lvl)
 Damage: 12 (+2.4 per lvl)
 Speed: 7 m/s
@@ -5409,7 +5409,7 @@ A lot of people would say that loading cargo is a dull job. The Loader could not
  
  
  
-Mercenary
+Name: Mercenary
 Health: 110 (+33 per lvl)
 Damage: 12 (+2.4 per lvl)
 Speed: 7 m/s
@@ -5430,7 +5430,7 @@ And as the antique clock kept ticking, the noble’s body hit the floor. The Mer
 
 
 
-MUL-T
+Name: MUL-T
 Health: 200 (+60 per lvl)
 Damage: 11 (+2.2 per lvl)
 Speed: 7 m/s
@@ -5507,7 +5507,7 @@ Hiroshi also stood up. “Yeah, I’m not too worried. How much trouble could it
 
 
 
-Railgunner
+Name: Railgunner
 Health: 110 (+33 per lvl)
 Damage: 12 (+2.4 per lvl)
 Speed: 7 m/s
@@ -5542,7 +5542,7 @@ Log:
 
 
 
-REX
+Name: REX
 Health: 130 (+39 per lvl)
 Damage: 12 (+2.4 per lvl)
 Speed: 7 m/s
@@ -5597,7 +5597,7 @@ Transcriptions complete.
  
  
  
-Seeker
+Name: Seeker
 Health: 115 (+34 per lvl)
 Damage: 12 (+2.4 per lvl)
 Speed: 7 m/s
@@ -5625,7 +5625,7 @@ House Beyond
  
  
  
-Void Fiend
+Name: Void Fiend
 Health: 110 (+33 per lvl)
 Damage: 12 (+2.4 per lvl)
 Speed: 7 m/s
@@ -5660,7 +5660,7 @@ Creatures
 
 
 
-Alloy Vulture
+Name: Alloy Vulture
 Health: 140 (+42)
 Damage: 15 (+3)
 Speed: 3 m/s
@@ -5715,7 +5715,7 @@ Karl: "EMIL. Shut up and make the call! We can continue this conversation /after
  
  
  
-Alloy Worship Unit
+Name: Alloy Worship Unit
 Health: 2500 (+750)
 Damage: 15 (+3)
 Speed: 7 m/s
@@ -5761,7 +5761,7 @@ Log:
  
  
  
-Alpha Construct
+Name: Alpha Construct
 Health: 100 (+30)
 Damage: 12 (+2.4)
 Speed: 0
@@ -5813,7 +5813,7 @@ WHATEVER
  
  
  
-Aurelionite
+Name: Aurelionite
 Health: 2100 (+630)
 Damage: 40 (+8)
 Speed: 5 m/s
@@ -5863,7 +5863,7 @@ Automated Message: Please contact a technician if you feel these exceptions were
  
  
  
-Beetle
+Name: Beetle
 Health: 80 (+24)
 Damage: 12 (+2.4)
 Speed: 6 m/s
@@ -5897,7 +5897,7 @@ I will describe its properties below. I have assigned their common name as ‘Wo
  
  
  
-Beetle Guard
+Name: Beetle Guard
 Health: 480 (+144)
 Damage: 12 (+2.4)
 Speed: 17 m/s
@@ -5931,7 +5931,7 @@ I will describe its properties below. I have assigned their common name as ‘Be
  
  
  
-Beetle Queen
+Name: Beetle Queen
 Health: 2100 (+630)
 Damage: 25 (+5)
 Speed: 6 m/s
@@ -5964,7 +5964,9 @@ I will describe her properties below. I have assigned her common name as “Beet
 
 * The Queen is able to summon unique Beetle specimens that can fly. These drones do not appear anywhere else on the planet – do these drones act as attendants to the Queen? Observing these flying drones is challenging – they only seem to last for a few seconds before expiring.
  
-Bighorn Bison
+ 
+ 
+Name: Bighorn Bison
 Health: 480 (+144)
 Damage: 12 (+2.4)
 Speed: 3 m/s
@@ -5982,7 +5984,9 @@ To this day, the vanishing of the Saturnian Bison remains as one of zoology’s 
 
 - Xenobiology of the Remus System, Second Edition
  
-Blind Pest
+ 
+ 
+Name: Blind Pest
 Health: 80 (+24)
 Damage: 15 (+3)
 Speed: 6 m/s
@@ -6010,7 +6014,9 @@ This is the logbook entry of D. Furthen, naturalist for the UES [Redacted] in co
 
 * They typically inhabit warmer, damper areas, like jungles. After our skirmish, I noted nests in the canopy. This indicates that the Pests are ambush predators, waiting for prey to waltz below their nests.
  
-Blind Vermin
+ 
+ 
+Name: Blind Vermin
 Health: 90 (+27)
 Damage: 15 (+3)
 Speed: 13 m/s
@@ -6040,7 +6046,9 @@ This is the logbook entry of D. Furthen, naturalist for the UES [Redacted] in co
 
 * Their terrible odor cannot be understated. Even through our suits' filters, we could still smell a foul odor, reminiscent of rotting flesh and excrement. I will not have Tharson disable his filters, despite my curiosity.
  
-Brass Contraption
+ 
+ 
+Name: Brass Contraption
 Health: 300 (+90)
 Damage: 10 (+2)
 Speed: 10 m/s
@@ -6071,7 +6079,9 @@ I am pleased to announce that we have discovered the first purely robotic lifefo
 
 * How the Contraptions function is still a mystery, as they possess no circuitry or onboard computers. Whatever force animates them must be unique to this planet, as no level of technology this advanced has ever been documented.
  
-Child
+ 
+ 
+Name: Child
 Health: 150 (+45)
 Damage: 14 (+2.8)
 Speed: 8.5 m/s
@@ -6093,7 +6103,9 @@ My heart skipped a beat, I swear it! Thankfully some bushes broke his fall, and 
 We decide to view these enchanting creatures from a greater distance.
 As we left, they followed us curiously for a while, but lost interest.
  
-Clay Apothecary
+ 
+ 
+Name: Clay Apothecary
 Health: 1050 (+315)
 Damage: 20 (+4)
 Speed: 5 m/s
@@ -6123,7 +6135,9 @@ And the Tar continued to spread."
 
 - Tragedy of Aphelia
  
-Clay Dunestrider
+ 
+ 
+Name: Clay Dunestrider
 Health: 2100 (+630)
 Damage: 20 (+4)
 Speed: 9 m/s
@@ -6155,7 +6169,9 @@ Between the sound and the sand, the entire herd bounded past me without realizin
 
 <Click> I still have no food. <Click>
  
-Clay Templar
+ 
+ 
+Name: Clay Templar
 Health: 700 (+210)
 Damage: 16 (+3.2)
 Speed: 6 m/s
@@ -6175,7 +6191,9 @@ A brief spark of hope – the survivor had some medical supplies in his shelter.
 
 That spark was quickly extinguished in a hail of bullets.
  
-Elder Lemurian
+ 
+ 
+Name: Elder Lemurian
 Health: 900 (+270)
 Damage: 16 (+3.2)
 Speed: 13 m/s
@@ -6199,7 +6217,9 @@ The elders constructed elaborate living quarters, decorated with tetrafoil and g
 Translation Errors:
 # [The Hero] could not be fully translated.
  
-False Son (Boss)
+ 
+ 
+Name: False Son (Boss)
 Health: 1100 (+300)
 Damage: 18 (+3.6)
 Speed: 12 m/s
@@ -6217,7 +6237,9 @@ A mockery of a greater being.
  Have you grown so tired of foolishness you wait to see what happens if you loosen the reins?
  ANSWER ME.
  
-Grandparent
+ 
+ 
+Name: Grandparent
 Health: 3625 (+1088)
 Damage: 26 (+5.2)
 Speed: 0
@@ -6246,7 +6268,9 @@ The unknown entity is uh, turning around.
 …
 MAYDAY MAYDAY THIS IS DS-9 WE HAVE BEEN STRUCK BY AN UNKNOWN ENTITY MAYDAY MAYDAY RENDEZVOUS 9 IS NOT SAFE I REPEAT NOT
  
-Greater Wisp
+ 
+ 
+Name: Greater Wisp
 Health: 750 (+225)
 Damage: 15 (+3)
 Speed: 7 m/s
@@ -6276,7 +6300,9 @@ YOU KNOW WHAT YOU MUST DO, YES? GOOD.
 
 GO... GO AND PROTECT OUR GARDEN.
  
-Grovetender
+ 
+ 
+Name: Grovetender
 Health: 2800 (+840)
 Damage: 23 (+4.6)
 Speed: 10 m/s
@@ -6308,7 +6334,9 @@ TO THIS DAY, MY KIND – AND YOU, LITTLE ONES – WORK TO PERFECT OUR HOME.
 
 NOW, I BELIEVE IT IS TIME TO RETURN TO WORK. COME, LITTLE ONES! LET US TEND TO OUR GARDEN.
  
-Gup
+ 
+ 
+Name: Gup
 Health: 1000 (+300)
 Damage: 12 (+2.4)
 Speed: 12 m/s
@@ -6338,7 +6366,9 @@ While out on a routine surveillance mission, Tharson began reporting an aroma wa
 
 * I had Tharson taste-test the Gup's slime, for science. Tharson reported an intensely bitter flavor, despite the pleasant aroma. Tharson is vomiting after this encounter, but is largely OK.
  
-Halcyonite
+ 
+ 
+Name: Halcyonite
 Health: 900 (+270)
 Damage: 20 (+4)
 Speed: 4.95 m/s
@@ -6383,7 +6413,9 @@ Exceptions Raised during Translation:
 ...
 Automated Message: Please contact a technician if you feel these exceptions were improperly raised or if you would like to report a bug.
  
-Hermit Crab
+ 
+ 
+Name: Hermit Crab
 Health: 100 (+30)
 Damage: 12 (+2.4)
 Speed: 10 m/s
@@ -6414,7 +6446,9 @@ I will describe its properties below. I have assigned its common name as “Forh
 
 * The Crabs seem to have “favorite shells.” I observed several specimens clearly too large for their shells, only ditching their shells once they are damaged and forced to find a new one. Some Crabs also seem to have favorite materials that they prefer.
  
-Imp
+ 
+ 
+Name: Imp
 Health: 140 (+42)
 Damage: 10 (+2)
 Speed: 10 m/s
@@ -6451,7 +6485,9 @@ Curse this place - and curse its master. May we find a way to send word to the h
 > Please refer to report 3bb540efade7e4df993c5d6c118830e7 for full audio excerpt.
 ==============================================================
  
-Imp Overlord
+ 
+ 
+Name: Imp Overlord
 Health: 2800 (+840)
 Damage: 16 (+3.2)
 Speed: 13 m/s
@@ -6498,7 +6534,9 @@ HAIL TO [the red plane]. [your eminence] OUT.
 > Please refer to report a13b2g8901cf2376102e for full audio excerpt.
 ===================================================
  
-Jellyfish
+ 
+ 
+Name: Jellyfish
 Health: 60 (+18)
 Damage: 5 (+1)
 Speed: 10 m/s
@@ -6530,7 +6568,9 @@ I will describe its properties below. I have assigned their common name as ‘Ic
 
 • By my request, Tharson approached a lone Jellyfish. After detecting his presence, it began to glow, quiver, and pulse before suddenly detonating with a brilliant flash and a loud bang, causing severe burns and temporary blindness to Tharson. I theorize that by exciting the gases inside of their hulls, these Jellyfish can ignite those gases and explode, scorching everything nearby. Tharson is OK from this encounter.
  
-Larva
+ 
+ 
+Name: Larva
 Health: 45 (+14)
 Damage: 11 (+2.2)
 Speed: 1.5 m/s
@@ -6560,7 +6600,9 @@ We've just found a great example of the diverse lifestyles of outer life! Analyz
 
 * Their acute senses prevent predators from sneaking up on them. On top of this, the creatures exhibit automimicry, their false head spewing acidic bile onto would-be attackers, leaving enough time for the Tick to escape.
  
-Lemurian
+ 
+ 
+Name: Lemurian
 Health: 80 (+24)
 Damage: 12 (+2.4)
 Speed: 7 m/s
@@ -6591,7 +6633,9 @@ I will describe its properties below. I have assigned its common name as “Lemu
 
 * When observed from a distance, the Lemurians are social creatures, usually hunting in packs and conversing amongst each other.  Their language is currently undeciphered, but it appears to be complex enough to support song and rhythmic flow.
  
-Lesser Wisp
+ 
+ 
+Name: Lesser Wisp
 Health: 35 (+10)
 Damage: 3.5 (+0.7)
 Speed: 6 m/s
@@ -6631,7 +6675,9 @@ WELL? DON’T KEEP THEM WAITING, LITTLE ONE.
 
 GO AND ENJOY LIFE – THIS IS MY GIFT TO YOU.
  
-Lunar Chimera (Exploder)
+ 
+ 
+Name: Lunar Chimera (Exploder)
 Health: 180 (+54)
 Damage: 11 (+2.2)
 Speed: 8 m/s
@@ -6647,7 +6693,9 @@ Simple designs. Simple interference. Simple locomotion.
 
 Quality of components reduces stability. I will tie destruction with destruction.
  
-Lunar Chimera (Golem)
+ 
+ 
+Name: Lunar Chimera (Golem)
 Health: 1615 (+485)
 Damage: 35 (+7)
 Speed: 8 m/s
@@ -6669,7 +6717,9 @@ Quadrupeds are easier, and more stable. We maintain that.
 
 And that, dear brother, is it. No dance. No song. These guardians do not need soul.
  
-Lunar Chimera (Wisp)
+ 
+ 
+Name: Lunar Chimera (Wisp)
 Health: 850 (+255)
 Damage: 15 (+3)
 Speed: 18 m/s
@@ -6687,7 +6737,9 @@ Slow acceleration – that can be improved. Speed is war.
 
 Feeble combat skills. Treatable. Those Templars may be of inspiration.
  
-Magma Worm
+ 
+ 
+Name: Magma Worm
 Health: 2400 (+720)
 Damage: 10 (+2)
 Speed: 20 m/s
@@ -6718,7 +6770,9 @@ Upon inspection of a curious pronged artifact, we happened to awaken something l
 
 * It appears that the worm is classically blind – what appear to be eyes are revealed to be symbiotes that grant the worm vision in exchange for protection against predators. How fascinating! I wonder how this relationship came about.
  
-Mini Mushrum
+ 
+ 
+Name: Mini Mushrum
 Health: 290 (+87)
 Damage: 16 (+3.2)
 Speed: 2 m/s
@@ -6748,7 +6802,9 @@ I will describe its properties below. I have assigned their common name as ‘Mi
 
 • After a long time studying their movements, I suggested to Tharson to retrieve a sample from one to take back with us. The one that the sample was taken from began to flee as the others began shaking, spilling their spores into the air. Our air filtration warnings went off so we left before the cloud of fungal gas became too overwhelming. We did not eat the sample.
  
-Mithrix
+ 
+ 
+Name: Mithrix
 Health: 1000 (+300)
 Damage: 16 (+3.2)
 Speed: 15 m/s
@@ -6774,7 +6830,9 @@ The beast stretched from one horizon to the next and belched storms that reminde
 
 - Galactic Fables, Volume IX
  
-Overloading Worm:
+ 
+ 
+Name: Overloading Worm
 Health: 12000 (+3600)
 Damage: 50 (+10)
 Speed: 20 m/s
@@ -6792,7 +6850,9 @@ The beast stretched from one horizon to the next and belched storms that reminde
 
 - Galactic Fables, Volume IX
 
-Parent
+
+
+Name: Parent
 Health: 585 (+176)
 Damage: 16 (+3.2)
 Speed: 11 m/s
@@ -6824,7 +6884,9 @@ I will describe its properties below. I have assigned their common name as ‘Pa
 
 • I had Tharson throw a stone near the creature and suddenly any signs of intelligence faded, replaced with primal fury. Deadly, wild force rained down as it smashed the ground with its fists, searching for the perpetrator of its peaceful moment. Our ship was not OK from this encounter.
  
-Scavenger
+ 
+ 
+Name: Scavenger
 Health: 3800 (+1140)
 Damage: 4 (+0.8)
 Speed: 3 m/s
@@ -6867,7 +6929,9 @@ The others say that these creatures came down from the sky, bringing so many thi
 
 Now is the time to be brave.
  
-Scorch Worm
+ 
+ 
+Name: Scorch Worm
 Health: 425 (+128)
 Damage: 20 (+4)
 Speed: 16 m/s
@@ -6889,7 +6953,9 @@ I watch in fascination as it crunches effortlessly into thin golden veins of mat
 Glassy gauges littering the area tell me this is a reliable feeding ground.
 With rations nearly out, I hope for one more sighting of the worm as Tharson packs camp.
  
-Solus Control Unit
+ 
+ 
+Name: Solus Control Unit
 Health: 2500 (+750)
 Damage: 15 (+3)
 Speed: 7 m/s
@@ -6938,7 +7004,9 @@ Log:
 
 %%%%%%%%%%%%%%%%%%%%%%%
  
-Solus Probe
+ 
+ 
+Name: Solus Probe
 Health: 220 (+66)
 Damage: 15 (+3)
 Speed: 10 m/s
@@ -6964,7 +7032,9 @@ Log:
 >
 12002; DO YOU LOVE THEM TOO
  
-Stone Golem
+ 
+ 
+Name: Stone Golem
 Health: 480 (+144)
 Damage: 20 (+4)
 Speed: 6.6 m/s
@@ -6980,7 +7050,9 @@ From basic observation, the Golems seem to act as a defense garrison for Petrich
 
 - The Mysteries of Petrichor V, First Draft
  
-Stone Titan
+ 
+ 
+Name: Stone Titan
 Health: 2100 (+630)
 Damage: 40 (+8) 
 Speed: 5 m/s
@@ -6997,7 +7069,9 @@ Compared to the Golems of the planet, the Titans do not seem to be created on th
 
 - The Mysteries of Petrichor V, First Draft
  
-Void Barnacle
+ 
+ 
+Name: Void Barnacle
 Health: 225 (+68)
 Damage: 6 (+1.2)
 Speed: 0 m/s
@@ -7045,7 +7119,9 @@ Do not worry. We are here for you.
 > Please refer to report a13b2g8901cf2376102e for full audio excerpt.
 ===================================================
  
-Void Devastator
+ 
+ 
+Name: Void Devastator
 Health: 2800 (+840)
 Damage: 12 (+2.4)
 Speed: 8 m/s
@@ -7063,7 +7139,9 @@ Such events undoubtedly inspired stories of gods who cast these events on their 
 
 Memoir of Sean Locke, Mythology Professor
  
-Void Infestor
+ 
+ 
+Name: Void Infestor
 Health: 45 (+14)
 Damage: 11 (+2.2)
 Speed: 14 m/s
@@ -7101,7 +7179,9 @@ Okay... okay...  Here, damned thing just record!  Just record!  Okay... light on
 >Full recording may be accessed on a need-to-know basis in report 596f757220707269736f6e.
 ==================================================================
  
-Void Jailer
+ 
+ 
+Name: Void Jailer
 Health: 2200 (+660)
 Damage: 14 (+2.8)
 Speed: 7 m/s
@@ -7125,7 +7205,9 @@ Those who lurk in the calm, dark abyss at the bottom of everything.
 
 And once you find them, it will only be too late. As you struggle against the void, you may find that every path you take just brings you deeper, deeper, yet deeper.
  
-Void Reaver
+ 
+ 
+Name: Void Reaver
 Health: 1900 (+570)
 Damage: 12 (+2.4)
 Speed: 6 m/s
@@ -7151,7 +7233,9 @@ Something is still wrong with my head. I can't even seem to work up the power to
 
 And what about all those times I heard that same sound - before I ever came to this awful place?
  
-Voidling
+ 
+ 
+Name: Voidling
 Health: 2000 (+600)
 Damage: 15 (+3)
 Speed: 45 m/s
@@ -7172,7 +7256,9 @@ For a moment I snapped out of it.  I felt fear.  I wanted to scream out, to rais
 
 We almost got rid of it.
  
-Wandering Vagrant
+ 
+ 
+Name: Wandering Vagrant
 Health: 2100 (+630)
 Damage: 6.5 (+1.3)
 Speed: 6 m/s
@@ -7205,7 +7291,9 @@ I will describe its properties below. I have assigned its common name as “Icar
 
 * When the clouds part, dozens of Vagrants can be seen lazily drifting throughout the sky, twinkling like stars. Despite their beauty, it raises a horrifying question – are the stars at night on this planet truly stars, or just more Vagrants? The answer can spell truly horrifying implications for our stay on this planet.
  
-Xi Construct
+ 
+ 
+Name: Xi Construct
 Health: 2800 (+840)
 Damage: 13 (+2.6)
 Speed: 60 m/s

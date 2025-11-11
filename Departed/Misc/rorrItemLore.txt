@@ -1,0 +1,4097 @@
+Meat Nugget
+`Enemies drop chunks of healing meat.
+`8% chance on hit to drop 2 meat nuggets that heal for 8 (+8 per stack) health.
+`Common	
+`Healing
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1509***********
+
+Order Details:
+
+MM. Delicious.
+
+Just kidding, it's awful. I didn't know it was for petmunk, so I thought I would have a sample. BIG. MISTAKE. If its cubic shape wasn't enough to throw you off, it is grey, smelly, and cold. I have no idea why I ate it. Maybe I'm protein deficient.
+
+Sent To:
+1400,
+Grahs Farm,
+Earth
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+11/14/2056
+
+
+
+Fire Shield
+`Retaliate on taking heavy damage.
+`After taking more than 10% of your health as damage, explode for 400% (+200% per stack) damage, knocking enemies away (+20% force per stack).
+`Common
+`Damage
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1512***********
+
+Order Details:
+
+The thing is only half-done, but it will do the job. The flux-chains are very unstable, resulting in a large explosion when struck. PLEASE handle with care!
+
+Sent To:
+Soloman
+-
+Backwaters
+Mars
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+6/06/2056
+
+
+
+Bustling Fungus
+`Heal quickly when standing still for 2 seconds.
+`After standing still for 2 seconds, heal for 4.5% (+4.5% per stack) of your health every second to yourself and nearby allies.
+`Common
+`Healing
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1519***********
+
+Order Details:
+
+The strongest biological healing agent.. is a mushroom. Found in an abandoned house. I find some humor in that.
+This fungus has developed an amazing defense mechanism of hiding underground when bothered, allowing it to live long enough to distribute spores.
+
+Can be either ground into a paste or.. planted directly into the wound. A small warning; you'll feel it enter you, and it is every bit as unpleasant as it sounds.
+
+Sent To:
+5243 22nd,
+Rolling Fields,
+Earth
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+11/9/1753
+
+
+
+Lens Maker's Glasses
+`Chance to deal double damage.
+`Your attacks have a 8% (+8% per stack) chance to 'Critically Strike', dealing double damage.
+`Common
+`Damage
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1525***********
+
+Order Details:
+
+Calibrated for high focal alignment. Should allow for the precision you were asking for. I must ask.. for what reasons do you need such glasses? Surely the Department of Science would provide them for you?
+
+I can't think of a single.. scientific reason why you would want this. Have you been hired by [REDACTED]? If you're in trouble, you can always ask me for help.
+
+Sent To:
+Greivenkamp
+5th Houston St.
+Prism Tower
+Earth
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+4/29/2056
+
+
+
+Sprouting Egg
+`Rapidly heal outside of danger.
+`After not being hit for 7 seconds, increase health regeneration by 2.4 (+2.4 per stack) hp per second.
+`Common
+`Healing
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1498***********
+
+Order Details:
+
+This egg seems to be somewhere between hatching and dying. Leaving it undisturbed usually causes it to wiggle around a bit, maybe sticking a tendril out. Trying to remove it from its shell is greeted by the most horrible screetching!
+
+I can't bring it to myself to cook it alive. I don't know what to do with it, so here you go; maybe it will hatch in a warmer climate like yours. As useless as he is, I have grown a bit fond of him. Please take care!
+
+Sent To:
+Battle Creek
+49017 Mars
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+09/17/2056
+
+
+
+Headstompers
+`Hurt enemies by falling.
+`Hurt enemies by falling for up to 600% (+300% per stack) damage.
+`Common
+`Damage
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1488***********
+
+Order Details:
+
+Have you found the kill-count of your shoes to be 0? Do you find that disturbing? So do we. Combat Ready Spikeshoes, lovingly nicknamed 'Headstompers,' allow you to get the drop on foes. Literally. Vertically.
+
+Titanium-tipped spikes, along with steel soles, guarantee that landing on foes will result in the messiest recreation of old school video games that you have ever seen. NOTE: Spikes deploy only after reaching a certain vertical velocity.
+
+Sent To:
+200,
+Maple Lane,
+Mars
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+5/11/2005
+
+
+
+Life Savings
+`Gain gold over time.
+`Generate $1 (+$1 per stack) every 3 seconds. Scales with time.
+`Common
+`Utility
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1523***********
+
+Order Details:
+
+hi im billy and heer is money for mom thanks
+
+Sent To:
+moms house
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+02/22/2056
+
+
+Barbed Wire
+`Hurts nearby enemies.
+`Hurt all enemies within 1m (+0.2m per stack) for 50% (+10% per stack) damage every 0.5 seconds.
+`Common
+`Damage
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1513***********
+
+Order Details:
+
+Great big bundle of barbed wire! Should help you.. 'catch fish?' Not sure what use barbed wire is for catching fish, but all the power to ya!
+Should have about 500 ft included. The safety layer dissolves in water, so simply drop it on your tub and its ready to roll.
+
+Disclaimer: I, or my company, am not responsible for any bodily harm delivered to..
+
+Sent To:
+D. Sherman
+NLTS Way
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+04/29/2056
+
+
+
+Rusty Knife
+`Chance to bleed on hit.
+`15% (+15% per stack) chance to bleed an enemy for 4x35% TOTAL damage.
+`Common
+`Damage
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1522***********
+
+Order Details:
+
+Murder weapon, case name ELIAS. Probably a lover's spat? Make sure to box it; I've heard some men in suits were asking around.
+There is still dried blood on the knife, so mark it as biological.
+
+Sent To:
+NYPD
+5351 and 4th
+EARTH
+
+Shipping Method:
+Standard/Biological
+
+Estimated Delivery:
+2/28/2056
+
+
+
+Mysterious Vial
+`Increased health regeneration.
+`Increase health regeneration by 0.84 (+0.84 per stack) hp per second.
+`Common
+`Healing
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1508***********
+
+Order Details:
+
+Apply to skin for a rapidly acting gel that contains both antiseptics and an agent to encourage protein synthesis!
+
+Small wounds applied with our gel should heal within a maximum of 5 hours, while broken bones and torn ligaments may take a few weeks.
+
+NOTE: Side effects may include itching, rashes, bleeding, sensitivity of skin, dry patches, permanent scarring, misaligned bone regrowth, rotting of the..
+
+Sent To:
+Sheridan S.
+4000 15th Ave
+UNITED STATES
+Earth
+
+Shipping Method:
+Standard/Fragile
+
+Estimated Delivery:
+03/06/2056
+
+
+
+Mortar Tube
+`Chance to launch a mortar.
+`9% chance on hit to fire a mortar for 170% (+170% per stack) TOTAL damage.
+`Common
+`Damage
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1487***********
+
+Order Details:
+
+Well, uh.. it's a little outdated. You stick explosives down the end, then you fire the explosive. With more explosives. If you're trying to reduce your injury rate, don't use these.
+
+Other than its archaic design, the mortar tube is actually pretty decent if you get a lot of them in a battery. Can blanket a big area, like [REDACTED]. I suppose you can beat them with the tube afterwards.
+
+Sent To:
+437 West,
+Old Bunker,
+Earth
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+5/19/1946
+
+
+
+Warbanner
+`Drop a Warbanner on level up or activating the teleporter, giving you great strength.
+`On level up or activating the Teleporter, drop a banner that strengthens all allies within 4.6m (+1.4m per stack). Raise attack and movement speed by 30% and damage by 4. Also heals for 1% of your health every second.
+`Common
+`Damage / Utility / Healing
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1527***********
+
+Order Details:
+
+Very very valuable. Don't drop it; it's worth more than you.
+
+What is it? Well, are you blind? It's obviously a warbanner from the War of 2019 from one of the rebel groups. Yes, maybe a little overdramatic, but inspiring nonetheless. They say - they say that warbanners won the war for them. Gave them.. magical strength.
+
+Sent To:
+Jungle VII,
+Museum of 2019,
+Earth
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+11/5/1843
+
+
+
+Monster Tooth
+`Heal after kills.
+`Killing an enemy heals you for 10 (+5 per stack) health.
+`Common
+`Healing
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1492***********
+
+Order Details:
+
+Ripped it RIGHT out of 'is mouth! A big fight that one gave me, I tell ya! Wrestled me right down, jaws wrapped around my head! Good thing Bishop here got him with that vaporiser, eh? Hahaha!
+
+It's been my good luck charm for a while, but hey, with the money you're payin' for it I'll give 'er up. Sometimes I feel like it helped me on hunts though, ya know? Like.. instincts.
+
+Sent To:
+421 Lane,
+Lab [21],
+Mars
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+10/28/2056
+
+
+
+Soldier's Syringe
+`Increases attack speed.
+`Increases attack speed by 12% (+12% per stack).
+`Common
+`Damage
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1476***********
+
+Order Details:
+
+Should help with multi-purpose requirements needed of soldiers. Contains vaccinations, antibiotics, pain killers, steroids, heroin, gasoline.. and something that feels like burning.
+Use standard procedures for injections.. clean the area, sterilize, no air, give them a candy, etc.
+
+Works for my boys, so no reason it shouldn't work for yours! The more shots the better; very few of my men have actually died from overdosing on it. Most just get sick.
+
+Sent To:
+1803
+Combat Zone
+Venus
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+08/1/2056
+
+
+
+Crowbar
+`Deal bonus damage to healthy monsters.
+`Deal bonus damage to healthy monsters.
+`Common
+`Damage
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1489***********
+
+Order Details:
+
+Crowbar/prybar/wrecking bar allows for both prying and smashing! Carbon steel, so it should last for a very long time, at least until the 3rd edition arrives.
+
+Sent To:
+Life Tower,
+South Wing,
+Venus
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+9/1/2056
+
+
+
+Medkit
+`Receive a delayed heal after taking damage.
+`Heal for 10 (+10 per stack) health 1.5 seconds after getting hurt.
+`Common
+`Healing
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1478***********
+
+Order Details:
+
+Alright, big shipment coming in. Each Medkit should contain bandages, sterile dressings, soap, antiseptics, saline, gloves, scissors, aspirin, codeine, and an Epipen. Should be a huge step up from what you had before, and should.. uh, prevent any future problems like last week.
+
+Thanks.
+
+Sent To:
+9119,
+Bit Hospital,
+Mars
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+11/2/2056
+
+
+
+Bundle of Fireworks
+`Activating an interactable launches fireworks at nearby enemies.
+`Activating an interactable launches 6 (+3 per stack) fireworks that deal 300% base damage.
+`Common
+`Damage
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1514***********
+
+Order Details:
+
+Yeah, celebration! Bought these from a friend, forgot where he said he got them. I'm glad that we finally re-legalized residential use of fireworks in 2054 after the... well, the terrorist attacks. Disguising homing missiles as fireworks? Don't ever quote me on it, but it was pretty smart. Anyways, these are for your kids to use. Have fun!
+
+Sent To:
+PNO Fireworks
+Quarter 1
+Earth
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+07/04/2056
+
+
+
+Backup Magazine
+`Add an extra charge of your Secondary skill.
+`Add +1 (+1 per stack) charge of your Secondary skill.
+`Common
+`Utility
+`RTRN
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 177***********
+
+Order Details:
+
+It's not much, but our damaged spares in the back of the warehouse should be better than nothing. I'm really putting myself in a bad spot doing this outside of regulations, but the treaties make it tough to send out the good stuff. I can't let my buddies just die out there because of some big-wigs who are afraid to get the job done.
+Give em a few smacks before loading and fire a shot or two inside before trusting the mags. Good luck out there. At least we haven't seen any restrictions on the meds.
+
+Sent To:
+1803
+Combat Zone
+Venus
+
+Shipping Method:
+High Priority
+
+Estimated Delivery:
+9/12/2056
+
+
+
+Topaz Brooch
+`Kills grant temporary barrier.
+`Killing an enemy grants 15 barrier (+15 per stack).
+`Common
+`Utility / Healing
+`RTRN
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 3094***********
+
+Order Details:
+
+Thank you for doing business. This shipment of brooches should find your operatives well. The functionality activates with just a single press, and use may be extended through applications of iron-rich substances. In the case of dysfunction, please send them back for repair. We will be awaiting your positive review.
+
+Remember we went public a few weeks ago, I'm sure we'd all like to enjoy the benefits together.
+
+//RoMantek Technologies Ltd.
+
+Sent To:
+Facility 2
+2 Sentry Way
+Lightyard,
+Venus
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+8/16/2056
+
+
+
+Taser
+`Chance to snare on hit.
+`Chance to snare on hit.
+`Common
+`Utility
+`BASE
+`As Loader, travel 6,500 meters using the Hydraulic Gauntlet. (Bionic)
+`
+Shipping Details:
+  Tracking Number: 1493***********
+
+Order Details:
+
+You say you can fix 'em? These tasers are very very faulty; got a few of my officers hurt they did. They fire, but they don't do nothin' like, 99% of the time! My department is running low on money, so I expect a good deal for these!
+
+Sent To:
+94123 Bldg. 201,
+Fort Mason
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+11/14/2056
+
+
+
+Paul's Goat Hoof
+`Move faster.
+`Increases movement speed by 15% (+15% per stack).
+`Common
+`Utility
+`BASE
+`Fail a shrine 3 times in a row. ("Is This Bugged?")
+`
+Shipping Details:
+  Tracking Number: 1484***********
+
+Order Details:
+
+A hoof from one of my goats; I noticed one day that one of my goats had an abnormaly large foot. Thinking it was cancerous, I went to the doctors and lo-and-behold; it was. My goat died shortly after.
+
+Sent To:
+2663rd
+Fields,Redmound
+Venus
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+03/27/2056
+
+
+
+Bitter Root
+`Increases maximum health by 8%.
+`Increases maximum health by 8% (+8% per stack).
+`Common
+`Healing
+`BASE
+`Reach 650 health. (In Good Health)
+`
+Shipping Details:
+  Tracking Number: 1504***********
+
+Order Details:
+
+Biggest. Ginseng. Root. Ever.
+
+Not really, but it's pretty freakin' huge. You can boil it or sun dry it, whatever you want. I'll be curious to see if your cancer research actually pans out; sounds like voodoo magic to me, herbal medicine, but if the natives say it works, it works.
+
+Sent To:
+103 110th,
+Northlake,
+Mars
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+6/4/2056
+
+
+
+Sticky Bomb
+`Chance to attach a bomb to enemies.
+`9% chance on hit to attach a bomb to an enemy, detonating for 200% (+100% per stack) TOTAL damage.
+`Common
+`Damage
+`BASE
+`As Engineer, detonate 15 Bounding Mines within 5 seconds. (Controlled Demolition)
+`
+Shipping Details:
+  Tracking Number: 1503***********
+
+Order Details:
+
+Jesus, okay. The only reason I'm sending you guys another shipment is because of what you did for Shelby. Consider that debt paid.
+
+Since you APPARENTLY didn't get my message the first time, I'll tell you again. See the orange end? Don't touch it. Once you take the wrapping off, the adhesive is ACTIVE. DON'T TOUCH IT. YOU STICK THAT END ON BAD THINGS, NOT YOURSELF.
+
+The cadets? Those lives are on you, not me.
+
+Sent To:
+Painted-Rock,
+B.Water,
+Neptune
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+3/8/2056
+
+
+
+Snake Eyes
+`Gain increased critical strike chance on failing a shrine. Resets between stages.
+`Failing a shrine increases critical chance by 7% (+7% per stack), up to 6 times. Resets at the start of each stage.
+`Common
+`Damage
+`BASE
+`Pass a shrine 4 times in a row. (Lucky Devil)
+`
+Shipping Details:
+  Tracking Number: 1505***********
+
+Order Details:
+
+You dirty ---------er. You KNEW I had to win to pay off my debts. Are you in with the casinos? Of course you are; a snake like you would. A dice that's loaded for SNAKE EYES. CUTE MOVE, --------er.
+
+I'm comin' for you, ----.
+
+Sent To:
+1843,
+GMG Services,
+Venus
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+1/1/2056
+
+
+
+Hermit's Scarf
+`Chance to evade incoming damage.
+`10% (+10% per stack) chance to evade incoming damage.
+`Common
+`Utility
+`BASE
+`As Huntress, achieve 200% attack speed. (Rapidfire)
+`
+Shipping Details:
+  Tracking Number: 1521***********
+
+Order Details:
+
+So you know the solar flare, from a few days ago? Well it destroyed the lower district, and I was on clean-up crew.
+
+Found this scarf in the rubble, essentially untouched. All these dead bodies and strewn pieces, and this scarf is peeking out like some ----in flag. I know I shouldn't have taken it home, but I did. I.. feel safer with it. This thing survived that horrible day, it must be able to survive whatever I have to endure, right? Haha..
+
+Sent To:
+1782-Left,
+M. Rover,
+Sun Orbital
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+7/17/2056
+
+
+
+Gasoline
+`Killing enemies sets the ground on fire.
+`Killing enemies burns the ground for 60% (+40% per stack) damage.
+`Common
+`Damage
+`BASE
+`Defeat 20 Lemurians in one playthrough. (Lizard Bait)
+`
+Shipping Details:
+  Tracking Number: 1477***********
+
+Order Details:
+
+Gasoline, eh? Surprising to find a gas station these days, with everyone drivin' around them electro cars.
+Got yourself quite a few gallons, so for the few cars and planes left runnin on gas.. this should do it!
+Very flammable, even the fumes, so be careful now!
+
+Sent To:
+Gas Station
+Mars
+Old Lincoln
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+02/25/2056
+
+
+
+Spikestrip
+`Drop spikestrips on being hit, snaring enemies.
+`When hit, drop spikestrips that snare enemies for 1 (+0.5 per stack) second.
+`Common
+`Utility
+`BASE
+`As Enforcer, block 2000 damage total with your shield.
+`
+Shipping Details:
+  Tracking Number: 1482***********
+
+Order Details:
+
+Hey bud! Do you remember... summer of 2032, was it? The night with Alicia? Well, um, remember when we got waay too drunk and broke into the police station? Well, I still have those spikestrips from then. Haha, good times right?
+
+The doctors say I don't have much time left. Since you're in the force now and all, I felt obligated to return it to you! Haha. So.. yeah. Hope you're doing well. It's been lonely here without you.
+
+Sent To:
+300,
+Enf. Station,
+Jupiter
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+1/18/2056
+
+
+
+Mocha
+`Slightly increase attack speed and movement speed.
+`Increases movement speed by 7.5% (+7.5% per stack) and attack speed by 6% (+6% per stack).
+`Common
+`Utility / Damage
+`RTRN
+`Level up to level 20. (The Grind)
+`
+Shipping Details:
+  Tracking Number: 1665***********
+
+Order Details:
+
+Thank you for ordering with DropCup!
+--
+Your order should arrive in
+3 MONTHS
+--
+Get real time updates and special offers with the DropCup application!
+--
+Order Details:
+1 Stacked Mocha (Triple-Shot)
+1 Napkins
+(Total: $19.94)
+
+Sent To:
+10 Sunway
+Bldg. 3
+Durandal,
+Hyperion
+
+Shipping Method:
+High Priority/Biological
+
+Estimated Delivery:
+7/22/2056
+
+
+
+Voltaic Mitt
+`Climbed ropes are electrified.
+`Climbing creates an electric trail that deals 50% damage (+30% per stack).
+`Common
+`Damage
+`RTRN
+`Complete the Providence Trial Hot-Rope Hop. (Rope Burn)
+`
+Shipping Details:
+  Tracking Number: 531***********
+
+Order Details:
+
+This one is from your uncle. It's interesting that after these years, nobody else took the classic hand buzzer to the next level, it's only natural! Of course, it's way more than a prank toy, and it goes without saying you have to be careful. It could kill a whole namooth!
+He says you'd have a lot of fun with it, so... do your thing.
+
+Sent To:
+402.10.1,
+Strongstone,
+Neptune
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+11/16/2056
+
+
+
+The Toxin
+`Touch enemies to weaken them.
+`Infect enemies on contact for 3 seconds, causing them to receive 30% (+15% per stack) extra damage from all sources.
+`Common
+`Damage
+`RTRN
+`Find the illegal shipment. (Altered Genome)
+`
+Shipping Details:
+
+
+Order Details:
+
+TEST SUMMARY [id.416c7068615468726565]
+Subject stabilized - Notable levels of arousal.
+Increased disposition to disperse.
+Specialized containment necessary if active.
+N31 applied, watch for adverse reactions.
+Handling prohibited for this phase.
+AOD: 53 75 6e 46 61 6c 6c
+
+Sent To:
+EICO labs,
+City of Gold,
+Earth
+
+Shipping Method:
+Unmarked
+
+Estimated Delivery:
+4/30/2056
+
+
+
+Mu Construct
+`Heal periodically after activating the teleporter.
+`Heal by 2.5% of your maximum health every 5 (-25% per stack) seconds after the Teleporter has been activated.
+`Common
+`Healing
+`RTRN
+`Find this item hidden somewhere in the world to unlock it. (Pre-Alpha)
+`
+Shipping Details:
+  Tracking Number: 1753***********
+
+Order Details:
+
+...And I thought everything on this planet was out to kill me.
+Once I found it, it wouldn't stop following me. It's very curious about shiny objects and has taken to spinning whenever I am trying to rest. It simply doesn't want to stand still.
+It's pushy, but this far away from home I find the company very soothing.
+
+Sent To:
+Complex 3B,
+Saturn,
+???
+
+Shipping Method:
+Field-Found
+
+Estimated Delivery:
+6/4/2056
+
+
+
+Razor Penny
+`Slightly increased Critical strike chance. Critical strikes give you gold.
+`Gain 4% critical chance (+4% per stack). Critical strikes drop $1 (+1$ per stack) gold.
+`Common
+`Damage / Utility
+`RTRN
+`Kill 12 enemies simultaneously using the Gold-Plated Bomb. (A Dime A Dozen)
+`
+Shipping Details:
+  Tracking Number: 3023***********
+
+Order Details:
+
+No way they allowed these on the market. I know it was ages ago but it's seriously concerning. Imagine having... I don't know, 10 of these in your pocket (you know, pocket change)? Reach in and woops! Mangled hand!
+Cities didn't switch to virtual currencies for nothing...
+
+Sent To:
+Residential 24,
+Anlesburg,
+Mars
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+1/22/2056
+
+
+
+Arcane Blades
+`Move faster after activating the Teleporter.
+`Increases movement speed by 30% (+30% per stack) after the Teleporter has been activated.
+`Common
+`Utility
+`RTRN
+`Complete the Providence Trial Kited Blades. ("...Or Your Money Back")
+`
+Shipping Details:
+  Tracking Number: 2941***********
+
+Order Details:
+
+HEY KID!! happy birthday i found these old skates in the attic they were granddads but they look great.. you were talking about getting more exercise last time you visited these should do the trick.
+ma is still obsessed with her garden you should visit next summer and see how crazy she is
+do you still have that boyfriend?? mom wants to know when your getting married haha
+CALL ME SOMETIME!!!!
+DAD
+
+Sent To:
+5 Tiptop Rd.
+Neverrock,
+Mars
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+5/8/2056
+
+
+
+Time Keeper's Secret
+`Falling to low health stops time.
+`Falling below 25% health stops time for 3 (+1 per stack) seconds. Recharges after 7 minutes.
+`Uncommon
+`Utility
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1467***********
+
+Order Details:
+
+My old grandfather's hourglass. As the Time Keeper in the Hall of The Revered, he valued this hourglass a lot. He claimed that it would keep him safe in times of danger. For some reason, the sand never seems to run out! That's all an illusion, however. There must be some mechanism at the bottom of the hourglass that replenishes the top well. Very cute.
+
+My old grandfather's hourglass. As the Time Keeper in the..
+
+Sent To:
+5th Ave,
+Limbo Road,
+Mars
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+7/13/2056
+
+
+
+Smart Shopper
+`Enemies drop extra gold.
+`Killed enemies drop 25% (+25% per stack) more gold.
+`Uncommon
+`Utility
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1456***********
+
+Order Details:
+
+Honey! HONEY! Look! I /told/ you I still had enough left over! Yeah, weird huh? I swear the last $5 I used was the last one I had in my purse, but then when I looked again, I still had a bit left over. Strange, huh?
+
+Maybe it's black magic, haha! Honey?
+
+Sent To:
+200 West Street,
+City of Gold,
+Earth
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+12/24/1962
+
+
+
+Infusion
+`Killing an enemy permanently increases your health.
+`Killing an enemy increases your health permanently by 1 (+0.5 per stack).
+`Uncommon
+`Healing
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1411***********
+
+Order Details:
+
+Contains samples from bears, leeches, tigers, elephants, elephant sharks, sharks, bull sharks, ants, and anteaters. Simply hook up to a dialysis machine along with the necessary equipment and swap out your blood for genetically superior ones!
+
+You can add whatever blood sample you want, as far as I know. Just make sure you take the pills that allow the body to accept the new blood, or your body will reject the cross-species infusion. Remember that sampling from other animals is a great basis for experimentation!
+
+Sent To:
+Rage Valley,
+Fleet Hanger,
+Mars
+
+Shipping Method:
+Priority/Biological
+
+Estimated Delivery:
+02/8/2056
+
+
+
+Will-O'-The-Wisp
+`Chance to detonate enemies on kill
+`33% chance on killing an enemy to create a lava pillar for 300% (+200% per stack) damage, knocking enemies upwards.
+`Uncommon
+`Damage
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1455***********
+
+Order Details:
+
+Found the little thing on my last hike up. Tiny guy; must be a baby. He (she?) doesn't seem to eat anything at all, so I'm hoping you guys can help the fella out. I don't think he can get out of the jar; it hasn't made any attempt to.
+
+Sent To:
+Hidden Cubby,
+Mt. Creation,
+Venus
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+9/28/2056
+
+
+
+AtG Missile Mk. 1
+`Chance to fire a missile.
+`10% (+10% per stack) chance on hit to fire a missile that deals 300% TOTAL damage.
+`Uncommon
+`Damage
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1459***********
+
+Order Details:
+
+Shipment of [REDACTED] AtG Viper Missiles for Fort Joseph.
+
+Lightweight and attachable to torso for free use of both hands. Can store up to 120 heat-seaking missiles, which is just what your men need to fight off the [REDACTED]
+
+Sent To:
+Fort Joseph
+Belt Num.1053
+[REDACTED]
+Boron System
+
+Shipping Method:
+MILITARY
+
+Estimated Delivery:
+[REDACTED]
+
+
+
+Tough Times
+`Reduce incoming damage by 14%
+`Increase armor by 14 (+14 per stack).
+`Uncommon
+`Utility
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1423***********
+
+Order Details:
+
+"Bears are just about the only toy that can lose just about everything and still maintain their dignity and worth." - Samantha Armstrong.
+
+Don't forget, hon. I'm coming home soon. Stay strong.
+
+Sent To:
+18601,
+Frozen Valley,
+Jupiter
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+9/29/2056
+
+
+
+Energy Cell
+`Attack faster at lower health. 
+`Increases attack speed by up to 40% (+30% per stack) at low health.
+`Uncommon
+`Damage
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1447***********
+
+Order Details:
+
+FOR: ----- - J.
+CC#: ---- ---- - ---
+ACCT#: 200158
+Use ONLY in fusion - based vehicles and machinery. Do NOT upload to mainframe.
+
+Sent To:
+6511,
+CronTech Labs,
+Mars
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+11/9/2056
+
+
+
+Rusty Jetpack
+`Increase jump height and reduce gravity.
+`Decrease gravity while holding the jump button by 10% (-10% per stack) and increase jump height (increases per stack).	
+`Uncommon
+`Utility
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1420***********
+
+Order Details:
+
+Sorry, it seems to be broken. It only works for a split second; maybe I'll send you a fully working jetpack in a few months? Should work well enough for the carnival!
+Make sure to keep the kiddos away from the bottom; it shoots out quite a jet. Can make for fun obstacle challenges.
+
+Sent To:
+Fun Center
+2105
+NE Taurus
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+01/01/2056
+
+
+
+Leeching Seed
+`Attacking enemies heals you.
+`Attacking enemies heals you for 2 (+1 per stack) health.
+`Uncommon
+`Healing
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1461***********
+
+Order Details:
+
+These seeds are recently germinating, so be quick! These flesh-infesting pods seem to burrow, balloon, and then pop in a few months. Most test patients have.. died. However, before they die, they feel increased health and state of mind!
+In fact, the pods themselves seem to develop spores, which if collected can be turned into a pain reliever..
+
+Find a way to stop its growth cycle at that state, and you have yourself a great healing agent.
+
+Sent To:
+3030 Matlock,
+Prod. Facility
+Mars
+
+Shipping Method:
+Priority/Biological
+
+Estimated Delivery:
+08/4/2056
+
+
+
+Ukelele
+`...and his music was electric.
+`20% chance on hit to fire chain lightning for 66% (+66% per stack) TOTAL damage on up to 3 targets.	
+`Uncommon
+`Damage
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1472***********
+
+Order Details:
+
+Very rare artifact! An ancient ukulele, from the legendary artist born on Mars. It was said that he was a son of a god, gifted with the power of lightning himself.
+People say that he was the most humble man.. and that his music was simply.. electric!
+
+NOTE: No tests have managed to make the ukulele actually generate electricity. Use with care.
+
+Sent To:
+Whaley Station,
+Box.364
+Mars
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+06/6/2056
+
+
+
+Boxing Gloves
+`Chance to knock enemies backwards for extra damage.
+`6% (+6% per stack) chance on hitting enemies to knock them back for 100% TOTAL damage.
+`Uncommon
+`Utility / Damage
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1472***********
+
+Order Details:
+
+Very rare artifact! An ancient ukulele, from the legendary artist born on Mars. It was said that he was a son of a god, gifted with the power of lightning himself.
+People say that he was the most humble man.. and that his music was simply.. electric!
+
+NOTE: No tests have managed to make the ukulele actually generate electricity. Use with care.
+
+Sent To:
+Whaley Station,
+Box.364
+Mars
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+06/6/2056
+
+
+
+Prison Shackles
+`Slow enemies on attack.
+`Slow enemies on hit for -50% movement speed for 1.5 (+0.5 per stack) seconds.
+`Uncommon
+`Utility
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1463***********
+
+Order Details:
+
+An artifact from the old ages, before we used holo-cuffs. The advantage is that EMP blasts and remote-hacking can't disable good-old steel and chains. Fitting this on larger prisoners may be harder.
+I know you guys have been having a serious break-out problem in the last few months, and this is sure to throw those prison breakers for a loop. Just don't lose the key.
+
+We are shipping about.. 500, because we have nothing better to do with them than smelt them for steel, which is barely worth more than dirt this day and age. Would probably cost more than getting rid of them.
+
+Sent To:
+94123 Bldg. 201,
+Fort Mason
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+02/6/2056
+
+
+
+Guardian's Heart
+`Gain a shield. Recharges outside of danger.
+`Gain a 60 (+60 per stack) health shield. Recharges when outside of danger for 7 seconds.
+`Uncommon
+`Utility
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1439***********
+
+Order Details:
+
+Test subject 150053 results. While living, the subject had advanced muscle growth, cell regeneration, higher agility, and increased intelligence, along with a blue hue to his skin.
+On 08/23/2056, the subject broke free of his restraints and freed all other test subjects. All test subjects, including 150053, were terminated.
+
+His heart seems to still beat independent of the rest of his body. Perhaps a transplant into another subject can continue research.
+
+Sent To:
+1100 Fairview,
+Research Center
+Mars
+
+Shipping Method:
+Priority/Biological
+
+Estimated Delivery:
+09/16/2056
+
+
+
+Hopoo Feather
+`Gain an extra jump.
+`Gain +1 (+1 per stack) maximum jump count.
+`Uncommon
+`Utility
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1412***********
+
+Order Details:
+
+A feather from the hopoo, found only natively in Europa. Ever since its extreme light-weight vs tensile strength was discovered, the hopoo was almost driven to extinction from poaching. There are only 3 left; I hope you can keep their location safe.
+
+Sent To:
+2341
+RKR Center
+Io
+
+Shipping Method:
+Priority/Biological
+
+Estimated Delivery:
+07/03/2056
+
+
+
+Frost Relic
+`Killing enemies surrounds you with icicles.
+`Killing an enemy temporarily surrounds you with 3 (+1 per stack) icicles that deal 33% damage each every 0.33 seconds.	
+`Uncommon
+`Damage
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1422***********
+
+Order Details:
+
+Biggest snowflake, to date. Technically, it isn't a snowflake, it's just a chunk of ice, but STILL. That's hard to sell as a museum piece. Anyways, the thing is hard as rock; I got drunk one day and dropped it on the floor, and it went right through, so don't worry about transportation.
+
+Sent To:
+10681
+Frozen Valley,
+Pluto
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+03/14/2056
+
+
+
+Red Whip
+`Move fast out of combat.
+`Leaving combat for 2 seconds boosts your movement speed by 60% (+60% per stack).
+`Uncommon
+`Utility
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1474***********
+
+Order Details:
+
+I know exactly why you want these and I want you to never tell me.
+
+Sent To:
+Violet Heights
+Elderly Home
+Venus
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+01/01/2057
+
+
+
+Chargefield Generator
+`Create a ring of lightning after killing an enemy. Lasts 6 seconds.
+`Killing an enemy creates a ring of lightning that deals 50% (+20% per stack) damage every 0.5 seconds to 50% of enemies within. The ring starts with a radius of 4.7m and grows by 1.3m each kill up to 40m. Lasts for 6 seconds without killing enemies.
+`Uncommon
+`Damage
+`BASE
+`As Mercenary, eviscerate 50 enemies. (Flash of Light)
+`
+Shipping Details:
+  Tracking Number: 1474***********
+
+Order Details:
+
+I know exactly why you want these and I want you to never tell me.
+
+Sent To:
+Violet Heights
+Elderly Home
+Venus
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+01/01/2057
+
+
+
+Arms Race
+`Drones are equipped with explosive weaponry. Summons a drone helper.
+`Drones gain a 5% (+5% per stack) chance on hit to fire a missile for 300% TOTAL damage, and a 9% chance on hit to fire a mortar for 85% (+85% per stack) TOTAL damage. Summons a unique drone which regenerates each stage.
+`Uncommon
+`Damage
+`BASE
+`As HAN-D, kill 10 enemies simultaneously with FORCED_REASSEMBLY.
+`
+Shipping Details:
+  Tracking Number: 1458***********
+
+Order Details:
+
+Psst. Hey. Yeah, I'm whispering over text.
+
+So the upgrades for your drones are in. It's compatible with all KS-I slotted drones, even the non-combat oriented ones, so you can refurbish some of your cleaning units to help in the fight. Strap it onto the back, and the drone AI should sort itself out. Contains both a missile and mortar launcher. Let's continue this arms race, eh?
+
+Sent To:
+9834,
+Cortical Fund,
+Mars
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+8/3/2056
+
+
+
+Golden Gun
+`More gold, more damage.
+`Deal bonus damage based on current gold, up to 40% damage. Caps at 700 (-50% per stack) gold. Scales with time.
+`Uncommon
+`Damage
+`BASE
+`Bank 20,000 gold. (War Bonds)
+`
+Shipping Details:
+  Tracking Number: 1460***********
+
+Order Details:
+
+Was this supposed to.. intimidate me? I do like its look, however; perhaps I'll set it above my fireplace.
+
+Sent To:
+James. B
+??
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+12/19/1974
+
+
+
+56 Leaf Clover
+`Elite mobs have a chance to drop items.
+`Elite mobs have a 4% (+1.5% per stack) chance to drop items.
+`Uncommon
+`Utility
+`BASE
+`Kill the Scavenger. (Junk Collector)
+`
+Shipping Details:
+  Tracking Number: 1433***********
+
+Order Details:
+
+A FIFTY-FREAKIN-SIX leaf clover! It was sent to me from a fan, picked from the top of Mount Drummond. It lived through the mountain fire; imagine that! I'm keeping it in observation to make sure it doesn't wilt; this is a once in a lifetime specimen! Think of all the elixirs we could make.. I may use a few of them myself and go hit the lottery!
+
+Sent To:
+777,
+Lucky Drop,
+Earth
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+12/24/2056
+
+
+
+Concussion Grenade
+`Chance to stun enemies.
+`6% (+6% per stack) chance on hitting enemies to stun them for 2 seconds.
+`Uncommon
+`Utility
+`BASE
+`As Engineer, kill a boss in 15 seconds or less. (Optimal)
+`
+Shipping Details:
+  Tracking Number: 1441***********
+
+Order Details:
+
+Designed to detonate directly on impact and disorient targets. Fires pellets intended for stunning, not for killing! SWAT teams will love these, but any men you have on the field should use fragmentation grenades instead.
+
+Pull the pin and throw in the general direction of the bad guys. If you can't figure it out, you deserve to get hurt.
+
+Sent To:
+20016 Bay,
+Longbranch,
+Mars
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+07/14/2056
+
+
+
+Filial Imprinting
+`Hatch a strange creature who drops buffs periodically.
+`Hatch 1 (+1 per stack) strange creature who drops buffs every 20 seconds. Buffs temporarily boost either movement speed, attack speed, or health regen.
+`Uncommon
+`Utility / Damage / Healing
+`BASE
+`Drown 20 Whorls. (Watery Grave)
+`
+Shipping Details:
+  Tracking Number: 1425***********
+
+Order Details:
+
+You didn't tell me the roe was FERTILIZED. Good Lord! Anyways, one of the suckers actually hatched, and have been nothing but friendly to me. Filial imprinting, perhaps.
+I quite like the little guy. He is almost dog-like in how affectionate he is to me. I.. have begun to care a lot about the thing. I've been feeding nutapples and he seems to enjoy it, but I doubt that it's very nutritious. Suggestions?
+
+Sent To:
+Row E, Mutation Hold, Earth
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+4/14/2056
+
+
+
+Dead Man's Foot
+`Drop a poison trap at low health.
+`Chance when damaged to drop a poison mine that deals 150% damage and poisons for x600% (+450% per stack) damage over time. Chance to drop starts at 15% and increases with low health.
+`Uncommon
+`Damage
+`BASE
+`Find the bloated survivor. (Last Wish)
+`
+Shipping Details:
+  Tracking Number: 1426***********
+
+Order Details:
+
+Poor guy. It looked like he was infested by some bug-like creatures, and exploded when I got close. I hope his death wasn't too painful; his family will know how he died. Rest in peace.
+
+Sent To:
+Planet IV,
+R.Night,
+Unknown
+
+Shipping Method:
+Field-found
+
+Estimated Delivery:
+3/17/2056
+
+
+
+Toxic Centipede
+`Infected!
+`Infect a nearby enemy on contact for 6 (+2 per stack) seconds, dealing 50% damage every 0.5 seconds. Bounces to other enemies if the target dies. Recharges every 6 (-33% per stack) seconds.
+`Uncommon
+`Damage
+`BASE
+`As Acrid, spread 3,300 feet of Caustic Sludge. (Dissolved)
+`
+Shipping Details:
+  Tracking Number: 1445***********
+
+Order Details:
+
+Extremely interesting species found on OMEGA-19. Resembles a worm, snake, or limbless lizard. Seems to exude poison from its glands, so much that the 'worm' can even contain it in its mouth.
+
+May be a strain of stomach parasites found on other planets, but obviously much larger and deadlier. I hope you find some interesting knowledge from this species; it killed 16 of our workers alone.
+
+It also seem to give offspring everytime, but we have found only 13. Please respond quickly.
+
+Sent To:
+Carolyn Williams
+Study Center
+Venus
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+07/03/2056
+
+
+
+Harvester's Scythe
+`Critical hits heal you.
+`Gain 5% critical chance. Critical strikes heal for 8 (+2 per stack) health.
+`Uncommon
+`Healing
+`BASE
+`Use a health shrine that drops you below 5% health. (Insurance Fraud)
+`
+Shipping Details:
+  Tracking Number: 1434***********
+
+Order Details:
+
+It takes a brave man to look death in the eye and claim they don't need help.
+
+Sent To:
+Goodland Fields,
+South lot,
+Earth
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+6/12/2009
+
+
+
+Panic Mines
+`Drop a mine at low health.
+`Chance when damaged to drop 1 (+1 per stack) mine that deals 400% damage. Chance to drop starts at 15% and increases with low health.
+`Uncommon
+`Damage
+`BASE
+`As Miner, survive the teleporter event without falling below 50%. (Blazing Victory)
+`
+Shipping Details:
+  Tracking Number: 1440***********
+
+Order Details:
+
+Must be strapped onto vehicles, NOT personnel! After taking heavy fire, the automatic dispenser should drop and are a mine to make a hasty retreat (or blow enemies sky-high who are dumb enough to follow.)
+Includes smart-fire, but leave the blast radius regardless. the laws of phisics dont pick sides. Very high yield for how small it is.
+
+If you want to use it offensively.. then.. well just get shot. A lot. Preferably by small arms fire, or you'll die trying to have the mines drop
+
+Sent To:
+107.22.188.221,
+Crater Lake,
+Neptune
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+05/17/2056
+
+
+
+Predatory Instincts
+`Critical strikes increase attack speed. Buff stacks 5 times.
+`Gain 5% critical chance. Critical strikes increase attack speed by 10% (+7% per stack). Maximum cap of 30% (+21% per stack) attack speed.
+`Uncommon
+`Damage
+`BASE
+`As Huntress, defeat the Ancient Wisp without taking damage. (Sixth Sense)
+`
+Shipping Details:
+  Tracking Number: 1450***********
+
+Order Details:
+
+Wolves. Nasty creatures. Was tendin' my crops, then a pack of 'em come out. I thought the mine field finished them all off, but the big guy, the alpha dog, was still around. Came RIGHT after me. Gut the thing right then and there. The hunter is now the hunted, eh? You ain't sayin much anymore, are ya?
+
+Sent To:
+19453,
+Plot 12,
+Earth
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+2/19/2016
+
+
+
+Royal Medallion
+`Bosses drop powerful buffing wisps when hit.
+`10% chance on hitting a boss monster to drop a buffing wisp that improves health regen, attack speed, move speed, and base damage for 10 (+6 per stack) seconds.
+`Uncommon
+`Damage / Utility / Healing
+`RTRN
+`Get a gold rank on at least 5 Providence Trials. (Gold Medalist)
+`
+Shipping Details:
+  Tracking Number: 2762***********
+
+Order Details:
+
+On the outer orbits of our system lies a confederacy of people. With kings and lords; knights and warriors, it's monarchical in nature, Each member of the major hierarchy carries a medallion, granting courage and fortitude. This one belonged to a prince, his name buried under strife and accusations of treachery. Stripped away from his belongings, his medallion remained as nothing more than a curiosity by the humble forager who found it, far from where it was worn. Now, I pass it on to you. Whether your destiny lies in the stars or your heart calls for home, your valor will be unrivaled. Keep fighting, son.
+
+Sent To:
+#4 Visitors,
+Wing 4,
+Aeolus 2
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+5/3/2056
+
+
+
+Prophet's Cape
+`All blocked damage heals you.
+`Briefly blocks all incoming damage upon being struck (Recharging after 15 seconds). Blocking damage heals you for 3 (+1 per stack) health.
+`Uncommon
+`Healing
+`RTRN
+`As Commando, dodge 7 lethal attacks. (Close Calls)
+`
+Shipping Details:
+  Tracking Number: 2685***********
+
+Order Details:
+
+An exquisite piece from the War of 2019! Unlike all the fakes, it has a perfectly knit pattern that allegedly caused the prophet's followers to see their visions. I think it's just 'magic' pseudo-science nonsense but it's a truly awe-inspiring piece that belongs in your exhibition.
+
+Sent To:
+Artes #10,
+Neo Belgica,
+Earth
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+4/16/2056
+
+
+
+Locked Jewel
+`Activating an interactable grants barrier and gold.
+`Activating an interactable heals 35% (+15% per stack) of your maximum barrier and grants $8 (scales with time).
+`Uncommon
+`Healing
+`RTRN
+`Reach max barrier. (Strength of Will)
+`
+Shipping Details:
+  Tracking Number: 1068***********
+
+Order Details:
+
+i hope this is arriving well i am not used to sending anything through here so hopefully i didn't mess it up....
+
+Sent To:
+Block 3 Delta Phobos,
+Amna 2,
+Unknown
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+9/15/2056
+
+
+
+Hunter's Harpoon
+`Killing an enemy grants a temporary burst of speed.
+`Killing an enemy increases movement speed by 125% for 1 (+1 per stack) second. Consecutive kills increase buff duration for up to 25 seconds.
+`Uncommon
+`Utility
+`RTRN
+`Complete the Providence Trial A Toxic Path. (Yoink)
+`
+Shipping Details:
+  Tracking Number: 404***********
+
+Order Details:
+
+Keep this somewhere safe. The old hunters got run out a long time ago by the fishing regulations so this is a real relic. I put a new rope on it myself, but I wouldn't recommend it using it. Maybe you can find a museum that'll take it? Back in the day the shape was supposed to mean something maybe someone out there knows some Martian history? I can't sell it, so I figure I may as well give it to someone who might appreciate it. It's priority so hopefully this thing doesn't get lost.
+
+Sent To:
+19 Slart Ave,
+Breezemont,
+Neptune
+
+Shipping Method:
+Priority/Fragile
+
+Estimated Delivery:
+4/16/2056
+
+
+
+Insecticide
+`Chance to apply damage over time. Heal if the enemy dies.
+`10% (+5% per stack) chance on hit to spray an enemy dealing 10% damage per second. Spray stacks up to 10 times. Killing enemies heals for 10 (+5 per spray stack) health.
+`Uncommon
+`Damage / Healing
+`RTRN
+`Complete the Providence Trial Get Off My Lawn! (Field Testing)
+`
+Shipping Details:
+  Tracking Number: 1779***********
+
+Order Details:
+
+I got your back!!! This brand is, in my opinion, THE BEST against those pesky crawlers over there. Trust me, I tried plenty. People always say they need to be protected because blahblah 'they are endangered!!!' but I AM SO GLAD THEY ARE. It's SO ANNOYING to have to deal with their disgusting chirring at night. Every. Single. Day. Take care and STAY GOLDEN!!
+
+Sent To:
+423 Burgle St,
+Neo Mexico,
+Saturn
+
+Shipping Method:
+Priority
+
+Estimated Delivery:
+6/4/2056
+
+
+
+Decaying Sample
+`Gain an orbiting follower that damages enemies.
+`Gain two orbiting spheres that strike for 100% (+ 50% stack) damage every 0.25 seconds.
+`Uncommon
+`Damage
+`RTRN
+`Complete the Providence Trial Main Systems Offline. (A Little Extra Push)
+`
+Shipping Details:
+  Tracking Number: 3570***********
+
+Order Details:
+
+Our lab is about finished with this. We agreed that without additional funding, we'd have to ship it back out to complete the project - so here it is. The fields are a bit unstable currently without additional shielding, and the sample you provided was less than ideal, but I would say given the test results we're operating at at least 75% of the efficiency goal. I would recommend that you find a sample with less copper impurities, less than 50 ppm to reach optimal results.
+
+Sent To:
+Hare Run Labs
+1 Lab Way
+Cryon,
+Jupiter
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+2/26/2056
+
+
+
+Thallium
+`Chance to slow and damage enemies over time.
+`10% (+10% per stack) chance on hit to damage by up to 2x60% enemy damage per second and slow for up to -150% movement speed over the course of 3 seconds.	
+`Legendary
+`Damage / Utility
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1348***********
+
+Order Details:
+
+She shouldn't notice.
+
+Sent To:
+0909,
+K&K Union,
+Earth
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+5/14/2056
+
+
+
+Tesla Coil
+`Passively shock nearby enemies.
+`Passively shock nearby enemies for 120% (+60% per stack) damage.
+`Legendary
+`Damage
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1380***********
+
+Order Details:
+
+A memorial perfect for your Tesla museum. Fit enough for Mr. Tesla himself! Make sure you keep the thing in the glass vacuum as we talked about. Even then, keep the safety lines at least 5 feet AWAY from the glass, you don't want your centerpiece killing your guests, huh?
+
+Sent To:
+2013,
+Eon Drive,
+Earth
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+6/28/2056
+
+
+
+Old Box
+`Chance when damaged to drop a jack-in-the-box, fearing enemies.
+`Chance when damaged to drop a jack-in-the-box, fearing enemies for 2 (+1 per stack) seconds. Chance to drop starts at 10% and increases with low health.
+`Legendary
+`Utility
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1391***********
+
+Order Details:
+
+Musty, saggy, loose box. You can see it was used a lot already. Its bad shape honestly makes it scarier; you never know when the stupid thing pops out again. Sometimes it sits in there for days!
+
+Sent To:
+Breezy Drive,
+Middle-land,
+Mars
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+5/4/2056
+
+
+
+Beating Embryo
+`Equipment has a chance to have double the effect.
+`Equipment has a 30% (+30% per stack) chance to deal double the effect.
+`Legendary
+`Utility
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1379***********
+
+Order Details:
+
+Ah. We seem to have found a.. hive of sorts. Without its caretaker, however, most of the eggs seemed to have died off. Must have been caused by our previous specimen.
+KEEP IT REFRIGERATED. You do not want this... beating embryo.. hatching in your care. God knows what will happen.
+
+Sent To:
+Carolyn Williams
+Rare/Extinct
+Study Center
+Venus
+
+Shipping Method:
+Biological/Extremely Fragile
+
+Estimated Delivery:
+07/04/2056
+
+
+
+Permafrost
+`Chance on hit to freeze enemies while also slowing.
+`Chance on hit to freeze enemies while also slowing.
+`Legendary
+`Utility
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1385***********
+
+Order Details:
+
+The core of this ice cube is VERY VERY close to absolute zero, much closer than anything we made in the lab before. Test it! TEST! This will lead to HUGE breakthroughs in superconductor technology.
+
+Sent To:
+10681,
+Frozen Valley,
+Pluto
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+4/17/2056
+
+
+
+AtG Missile Mk. 2
+`Hooah.
+`7% (+7% per stack) chance on hit to fire three missiles that deal 3x200% TOTAL damage.
+`Legendary
+`Damage
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1369***********
+
+Order Details:
+
+Test System for Viper Missiles. Should now [REDACTED] on use instead of just one. Do not use on the field; it is UNSTABLE. I am only sending [REDACTED] shipments, so be smart.
+
+Sent To:
+Fort Joseph
+Belt Num.1053
+[REDACTED]
+Boron System
+
+Shipping Method:
+MILITARY
+
+Estimated Delivery:
+[REDACTED]
+
+
+
+Happiest Mask
+`Killed enemies spawn friendly ghosts.
+`Killed enemies spawn ghosts that last 15 seconds with 100% (+20% per stack) health and 70% (+30% per stack) damage.
+`Legendary
+`Damage / Utility
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1396***********
+
+Order Details:
+
+This is GREAT! The circus is just as GOOD as I hoped it to be; it is a dream come true! I'm so GLAD that I followed my dream. I love you; tell mom too. Tell her..
+
+I'm happy! I'M HAPPY! SEE! I SAID I'M HAPPY PLEASE DON'T
+
+Sent To:
+Crux Fairgrounds,
+Tent 7,
+Earth
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+5/11/2056
+
+
+
+Plasma Chain
+`Chance on hit to tether onto up to 1 enemy, dealing damage to any enemies in the path.
+`Chance on hit to tether onto up to 1 (+1 per stack) enemy dealing 60% damage per 0.5 seconds to any enemies in the path.
+`Legendary
+`BASE
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1384***********
+
+Order Details:
+
+Hey there, my wife and I am returning a lost plasma chain. It is still fully operational and can haul my spaceship easily, so we expect the full reward!
+
+We found it in an unmarked cave with a very large claw wrapped around it. The serial number should tell you the previous owner; the finder's fee can be sent to the same account that I'm sending this message from. Thank you.
+
+Sent To:
+799,
+Mg.Sys INC
+Jupiter
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+5/15/2056
+
+
+
+Heaven Cracker
+`Every 4 basic attacks pierce through enemies.
+`Every 4 (-1 per stack) basic attacks pierce through enemies.
+`Legendary
+`Damage
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1389***********
+
+Order Details:
+
+Contains about 500 horse power of torque. Diamond tipped and coated, along with composite steel. Strong enough to pierce the most heavenly of materials.
+Can be used for manual drilling, or swap to laser-mode to fire a mining laser instead. The former will wear it out much quicker, but will also have better results.
+
+Why I bother telling you all this is beyond me. You people aren't planning on using it for mining anyways.
+
+Sent To:
+East Hanndor,
+Weapon Facility,
+Mars
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+5/24/2056
+
+
+
+Rapid Mitosis
+`Reduce the cooldown of equipment.
+`Reduce the cooldown of equipment by 25% (+25% per stack).
+`Legendary
+`Utility
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1406***********
+
+Order Details:
+
+Very interesting sample. Found in the egg of an indigenous species in Sector 13. It undergoes mitosis that we all know, but at a much faster rate; about 2140x faster. Obviously can be useful for medicinal purposes.
+
+Make sure to follow the instructions included to keep the sample alive. We have sent it frozen to stop the rapid duplications; since it increases in cell count exponentially, it could very well spiral out of control otherwise.
+
+Sent To:
+Saury Cosmo,
+Beacon Post,
+Space
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+12/14/2056
+
+
+
+Ceremonial Dagger
+`Killing an enemy fires spirit bolts.
+`Killing an enemy fires out 4 (+2 per stack) heat seaking bolts that deal 100% damage.
+`Legendary
+`Damage
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1357***********
+
+Order Details:
+
+Finally found the heretic. Foolish boy, thinking he could save his sister. With the knife returned, we can continue our rituals. Ah.. that should please Her.
+
+Sent To:
+Tomb 1661,
+Burial Site,
+Venus
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+7/18/2056
+
+
+
+Repulsion Armor
+`After taking damage, reflect all attacks for 4 seconds.
+`After 6 hits reflect incoming attacks for 400% damage and increase armor by 100 for 4 (+1 per stack) seconds.
+`Legendary
+`Damage / Utility
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1370***********
+
+Order Details:
+
+Prototype Repulsion Armor; it doesn't quite work as advertised. The protective shielding will activate, but only after... repeated triggers. You'll have to get hit a lot of times before it activates. We have tried increasing the sensitivity, but it lead to the armor triggering from simple movements. We will send an improved prototype next month.
+
+Sent To:
+Chad Hills,
+Lock-Box 3,
+Jupiter
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+6/1/2056
+
+
+
+Brilliant Behemoth
+`All your attacks explode!
+`All your attacks explode for a bonus 20% (+20% per stack) TOTAL damage to nearby enemies.
+`Legendary
+`Damage
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1393***********
+
+Order Details:
+
+Pristine condition from the War of Slopes, 2019. All genuine and a real good collector's item!
+
+She still works, but I would -not- try to fire it. Requires blackpowder which is expensive enough as is, but she makes a loud bang!
+Selling for $200,000 starting. Send it back or I'll have my boys over.
+
+Sent To:
+Francis M
+29th Ave
+'Powderkeg Bar'
+Old York
+Mercury
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+11/1/2056
+
+
+
+Hardlight Afterburner
+`Add 2 extra charges of your Utility skill. Reduce Utility skill cooldown.
+`Add +2 (+2 per stack) charges of your Utility skill. Reduces Utility skill cooldown by 33%.
+`Legendary
+`Utility
+`RTRN
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 3354***********
+
+Order Details:
+
+Take this somewhere PRIVATE before opening. Don't let your wife see, don't even let your kids see. I know you're 'out of the business' but this is the biggest haul we've ever done. They called this thing a 'hard lightburner' or something, and it's suppose to be infinite fuel. I don't know, I couldn't understand them from up in the vents but CAN YOU IMAGINE? Gas prices have been through the roof since the spill in 2040, imagine how much cash you could make just rigging this thing up to your neighborhood for a little somethin'-somethin'! Anyway, they said it was wicked dangerous and to rig it to something stable, so chain it down or something.
+Send back 50%
+Remember who had your back before you were a 'family man'
+
+Sent To:
+P.O. Box 75
+Crassantett,
+Mars
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+7/22/2056
+
+
+
+Interstellar Desk Plant
+`Sprout a tree on kill, granting healing fruits.
+`Upon killing an enemy, spawn an alien plant that heals you for 3% of your maximum health and recharges after 4 seconds. Plant lasts 15 (+5 per stack) seconds.
+`Legendary
+`Healing
+`BASE
+`As CHEF, SEAR/FLAMBE 20 Sand Crabs. (Cracking Claws)
+`
+Shipping Details:
+  Tracking Number: 1342***********
+
+Order Details:
+
+FORGET ALOE VERA. THIS IS THE NEXT THING.
+
+
+You know how people always have those on their desks? Well this isn't just for the cuts and burns; this makes you feel good EVERYWHERE. Vitamins, proteins, you name it, this plant got it. Takes very little time for it to bear another fruit as well, but it does require some strange potting soil... as in carcasses. Small carcasses.
+
+
+ANYWAYS, shoot me an email if you are interested!
+Sent To:
+7887
+Dextro Way
+Earth
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+1/19/2056
+
+
+
+Laser Turbine
+`Using skills charges up to a huge laser blast.
+`Using skills charges the generator by 7.8% (+7.8% per stack) per second. At full power, fire a laser for 2000% damage.
+`Legendary
+`Damage
+`BASE
+`As CHEF, have 20 cleavers out at once. (Catch and Release)
+`
+Shipping Details:
+  Tracking Number: 1344***********
+
+Order Details:
+
+Replacement laser turbine for the photon power plant. The thing is deceptively small, but it holds immense power. Keep it away from all electromagnetic sources; it will charge from the field, and if the capacitor becomes overloaded, it WILL discharge.
+
+Sent To:
+73421
+Calorum St.
+Saturn
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+08/17/2056
+
+
+
+Wicked Ring
+`Critical strikes reduce all your cooldowns by 1.
+`Gain 5% (+10% per stack) critical chance. Critical strikes reduce cooldowns by 1 second.
+`Legendary
+`Damage / Utility
+`BASE
+`Collect 4 Keycards. (Endless Voyage)
+`
+Shipping Details:
+  Tracking Number: 1377***********
+
+Order Details:
+
+With how many rings he had, you would think more would have been found, eh? Nope, just this one. The King used to sacrifice one of his own sons to embue with dark spirits. He claimed that the spirits warded away any ill omen. The King lived until he was 104, so hey, maybe he was right.
+
+As the last remaining Wicked ring, I expect a hefty sum.
+
+Sent To:
+1414 East,
+Fillmore,
+Venus
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+2/22/2056
+
+
+
+Alien Head
+`Reduces cooldowns for your skills.	
+`Decrease your skill cooldowns by 30% (+30% per stack).
+`Legendary
+`Utility
+`BASE
+`Obtain 7 Monster Teeth and 1 Guardian's Heart. (Vampire)
+`
+Shipping Details:
+  Tracking Number: 1349***********
+
+Order Details:
+
+Important sign from the spirits. Passed down for many generations. Must be used for high noon ritual to ward off sickness and fatigue. Must be kept cool or will rot.
+Helps energize the kinfolk and can be used for extra human strength and agility. Important.
+
+Sent To:
+Soloman
+-
+Backwaters
+Mars
+
+Shipping Method:
+High Priority/Biological
+
+Estimated Delivery:
+7/13/2056
+
+
+
+The Ol' Lopper
+`Enemies take more damage at lower health.
+`Deal bonus damage to enemies with lower health, up to +60% (+60% per stack) damage.
+`Legendary
+`Damage
+`Survive 40 minutes. (The Lone Survivor)
+`
+`
+Shipping Details:
+  Tracking Number: 1359***********
+
+Order Details:
+
+Chop! CHOP! I need SHARPER! The lopper don't lop no more!
+
+I go to lop and.. and the head STAYS ON! No good! Only works on weak! Neck OFF! New lopper NEEDED!
+
+Sent To:
+Box 11,
+Sues Drive,
+Jupiter
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+3/2/2056
+
+
+
+The Hit List
+`Killing marked enemies permanently increases damage.
+`Randomly marks up to 1 (+1 per stack) enemy. Killing a marked enemy permanently increases damage by 0.5, up to 20 damage.
+`Legendary
+`Damage
+`BASE
+`As Bandit, reset your cooldown 15 times consecutively. (Classic Man)
+`
+Shipping Details:
+  Tracking Number: 1367***********
+
+Order Details:
+
+Don't forget.. don't forget what they did..
+-A.Bn
+-Fr.Ntn
+-[CLEARED]
+-[CLEARED]
+-Random wildlife
+-[CLEARED]
+-Grvnmk
+-[CLEARED]
+
+Sent To:
+St Johns,
+Cluster 6,
+Venus
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+11/14/2056
+
+
+
+Photon Jetpack
+`No hands.
+`Hold the jump button to fly for up to 1.6 (+0.8 per stack) seconds. Recharges over 1.6 seconds.
+`Legendary
+`Utility
+`BASE
+`End a teleporter timer with 0 enemies on the map. (Zero Sum)
+`
+Shipping Details:
+  Tracking Number: 1397***********
+
+Order Details:
+
+Here it is, sir. Please just be careful; I'm not quite sure what you are planning, but I don't think the jetpack lasts long enough to fly over to the other office. 77 floors is a long way to fall, sir.
+
+Sent To:
+Floor 77,
+Corp INC,
+Jupiter
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+12/29/2056
+
+
+
+Shattering Justice
+`Reduce enemy armor on hit. Reduction stacks 5 times.
+`Attacks reduce enemy armor by 6 for 2 (+2 per stack) seconds. Reduction stacks up to -30 armor.
+`Legendary
+`Damage
+`BASE
+`As Miner, reach level 10 without getting hurt more than once. (Hot Streak)
+`
+Shipping Details:
+  Tracking Number: 1387***********
+
+Order Details:
+
+I'm glad people still use hammers in combat; I find it much more intimate than guns. This thing weighs 5 TONS (yes, TONS), so only your Combat Equipped soldiers can use it. Five tons in a few square feet means that the hammer can crush enemy tanks, EASILY.
+
+Sent To:
+Lockbox 8,
+Hero's Barracks,
+Mars
+
+Shipping Method:
+High Priority
+
+Estimated Delivery:
+2/23/2056
+
+
+
+Telescopic Sight
+`Chance to instantly kill an enemy.
+`1% (+0.5% per stack) chance on hit to instantly kill enemies. Does not work against bosses.
+`Legendary
+`Damage
+`BASE
+`As Sniper, 1-shot kill 10 enemies consecutively. (Iron Sights)
+`
+Shipping Details:
+  Tracking Number: 1371***********
+
+Order Details:
+
+Can be used for both night and day shooting, and comes with infrared attachments and built-in distance finder.
+
+...And please, actually use the scope. We are all impressed you can hit a target without it, but I'm tired of watching your videos. Spinning while firing is also a great way to lose your license.
+
+Sent To:
+Royal Drive,
+Bubble Station,
+Mars
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+4/20/2056
+
+
+
+Fireman's Boots
+`Fight fire with fire...
+`Walking leaves behind a fire trail that burns for 35% (+20% per stack) damage.
+`Legendary
+`Damage
+`BASE
+`Survive in lava for 1 minute straight. (In the Soup)
+`
+Shipping Details:
+  Tracking Number: 1405***********
+
+Order Details:
+
+With the insane temperatures of your condition, it has come to our attention that you would probably want the strongest flame-retardent equipment. Well here it is; it works literally 'fighting fire with fire.'
+
+It dispenses fluids that burn at low-temperature, which consumes large amounts of oxygen. This should starve any high-burning flames nearby, but obviously will leave a flaming trail behind you. Don't use outside the correct conditions, or you will burn your house down.
+Can be refilled with gasoline, kerosene, or really anything that burns decently.
+
+Sent To:
+U.Cave,
+Orbit Station,
+Sun
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+8/8/2056
+
+
+
+Hyper-Threader
+`Pew pew.
+`Hitting enemies fires a laser that deals 40% damage and bounces to 2 (+1 per stack) enemies.
+`Legendary
+`Damage
+`BASE
+`Complete the Providence Trial A Rung Above. (Thread the Needle)
+`
+Shipping Details:
+  Tracking Number: 1365***********
+
+Order Details:
+
+Despite its appearance, the FNA 200 'Hyper-Threader' Energy Subrifle is anything but fragile.
+
+Using direct energy energy technology, the FNA 200 can fire superheated gases at a high fire rate. The FNA 200 also requires little to no charging, instead generating energy from the air around it.
+
+Sent To:
+6900 West,
+Advanced Warfare Center,
+Mars
+
+Shipping Method:
+High Priority
+
+Estimated Delivery:
+12/8/2056
+
+
+
+Dio's Best Friend
+`Cheat death once.
+`Taking fatal damage consumes this item and revives you with 40% health and 2 seconds of invulnerability.
+`Legendary
+`Utility
+`BASE
+`Die 50 times. (Sole Survivor)
+`
+Shipping Details:
+  Tracking Number: 1402***********
+
+Order Details:
+
+Here you go; you can remember Dio forever with this. A cheers, to the best kitten ever born. We all love you, despite your flaws. Please stick around for a long time!
+
+Sent To:
+6101 251st,
+Blue Mound,
+Earth
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+7/3/1993
+
+
+
+Ancient Scepter
+`Upgrade your special skill.
+`Upgrade your special skill. Unique to each character. Reduces special skill cooldown by 30% per stack.
+`Legendary
+`Utility
+`BASE
+`As Mercenary, beat the game on Monsoon difficulty. (Mastery)
+`
+Shipping Details:
+  Tracking Number: 1388***********
+
+Order Details:
+
+A glowing scepter, with a name engraved in the handle. I can't read with it says; I was hoping you could decipher it. It must have some magical powers; look at how impressive it is! It's much better than your Lance of Legends, that's for sure.
+
+And before you ask, yes, the handle is supposed to be hard to hold. Culls the weak.
+
+Sent To:
+99th Floor,
+Crumbling Tower,
+Venus
+
+Shipping Method:
+High Priority
+
+Estimated Delivery:
+1/30/1142
+
+
+
+Bottled Chaos
+`Using your Equipment triggers an additional, random Equipment effect.
+`Activating an Equipment triggers a random equipment effect 1 (+1 per stack) time(s).
+`Legendary
+`Utility
+`RTRN
+`Use the same Equipment Activator 5 times. (Activated)
+`
+Shipping Details:
+  Tracking Number: 3257***********
+
+Order Details:
+
+This horrid bottle fills me with fear. I can see the reflections in the glass of things that are not there. My psychologist sees nothing in the bottle, but through the glass her face looks distorted beyond my understanding. I can't carry it anymore, I'm sorry. It's been only three days but I can't sleep with the sound of clacking and rattling occupying my dreams. Give it to someone else for safekeeping, I don't care about the job.
+
+Sent To:
+RETURN TO SENDER
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+3/30/2056
+
+
+
+Aegis
+`Healing past full grants you a temporary barrier. Increased maximum barrier.
+`Healing past full grants you barrier equal to 50% (+50% per stack) of the amount you healed. Increases maximum barrier by 20% (+20% per stack).
+`Legendary
+`Utility / Healing
+`RTRN
+`As Artificer, multi-kill 15 enemies. (Massacre)
+`
+Shipping Details:
+  Tracking Number: 3021***********
+
+Order Details:
+
+Hey boss, in the crate you should find a couple of the artifacts from our last dig in that secret room. You should see 5 items, we stored them in foam. Should be an ornamental shield, some kind of shortsword or dagger, half of a crown, and two shreds of some kind of stiff fabric. Be careful handling the fabric, feels like it could crumble with just slight pressure. The shield must be hollow or something, it's unusually light. I know you are, but be extra careful with it. Don't let the students even breathe on it.
+
+Sent To:
+Bldg. 1
+3 Wry Ave.
+Theworl,
+Titan
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+10/20/2056
+
+
+
+Substandard Duplicator
+`Picked up items yield an additional temporary copy.
+`Picking up an item gives you a temporary copy of itself. Temporary items last an additional 10 (+10 per stack) seconds
+`Legendary
+`Utility
+`RTRN
+`Complete the Providence Trial A Duplicator?! (By Design)
+`
+Shipping Details:
+  Tracking Number: 2788***********
+
+Order Details:
+
+A designer delight. Or so it would be if it worked like it should...
+Out of all my birthday presents this is what I was the happiest about, yet all its dupes are... Terrible! They don't last a minute without breaking apart.
+Can you help me out please?
+
+Sent To:
+Nevenstraat 2,
+Central Way,
+Jupiter
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+12/7/2056
+
+
+
+Classified Access Codes
+`Access a deadly weapon against the Teleporter bosses.
+`The Atlas Cannon appears each stage, activating it deals 40% (+20% per stack) of maximum health as damage to the teleporter boss after it spawns.
+`Legendary
+`Damage
+`RTRN
+`Complete the Providence Trial Emergency Ejection. (Paratrooper)
+`
+Shipping Details:
+  Tracking Number: 3208***********
+
+Order Details:
+
+Item necessary for current designated task.
+Follow all protocols as stated on you form [REDACTED]
+send on [REDACTED].
+Monitoring available at [REDACTED], maintain secrecy at all costs.
+
+Sent To:
+piece #24,
+[REDACTED],
+[REDACTED]
+
+Shipping Method:
+High Priority/Fragile
+
+Estimated Delivery:
+10/2/2056
+
+
+
+Umbrella
+`They fear the rain.
+`Rain begins for 15 seconds (increases per stack) upon activating the Teleporter. Rain stuns, damages, and weakens enemies. You are invincible while it is raining.
+`Legendary
+`Utility
+`RTRN
+`Complete the Providence Trial Meteor Showers. (Chance of Showers)
+`
+Shipping Details:
+  Tracking Number: 3509***********
+
+Order Details:
+
+Thank you for ordering the Crossplat Umbrella Infinitive! your order should arrive in 5 to 10 business years! Look forward to a drier tomorrow! Guaranteed to protect from all weather conditions from a light drizzle up to a heavy downpour*!
+Special Warranty period secures this product for up to 1 year,
+
+
+Umbrella quality only guaranteed for up to 8 seconds.
+Sent To:
+2 Grumpy Old Men Rd,
+Orofino Idaho,
+EARTH
+
+Shipping Method:
+Standard
+
+Estimated Delivery:
+8/3/2060
+
+
+
+Rotten Brain
+`Throw a bouncing brain.
+`Throw a brain that bounces in place, damaging/slowing enemies for 6x200%.
+`Equipment
+`Damage
+` 30
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1562***********
+
+Order Details:
+
+You really messed that up, didn't you? Dammit. The ****ing thing is bouncing, Harold. How the hell are we supposed to do ANYTHING with this? Now we will never know the truth. How - how did you even MANAGE to mess up this badly? Consider this useless hunk of grey matter your letter of termination. Keep the damn thing.
+
+Sent To:
+4120,
+Frazux Colony,
+Mars
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+2/14/2056
+
+
+
+Safeguard Lantern
+`Drop a lantern that fears and damages enemies for 10 seconds.
+`Drop a lantern for 10 seconds. Fears and damages enemies for 100% damage.
+`Equipment
+`Damage / Utility
+` 45
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1580***********
+
+Order Details:
+
+Protects you on the darkest nights. Don't stand too close; some claim to see terrors in the flame. Me? I just see hope.
+
+Sent To:
+The Watch
+Camp 1
+Mars
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+5/20/2056
+
+
+
+Snowglobe
+`Randomly freeze enemies for 8 seconds.
+`Summon a snowstorm that freezes monsters at a 50% chance/sec over 7 seconds.
+`Equipment
+`Utility
+` 45
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1570***********
+
+Order Details:
+
+Here you go honey, I got you a snowglobe! Do you see what's in it? Yeah, it's based off of your favourite video game! I hope you'll love it, I put a lot of effort into it. Cheers!
+
+Sent To:
+3rd Igloo,
+Tundra Zone,
+Neptune
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+11/25/2056
+
+
+
+Skeleton Key
+`Unlocks all chests within 20 meters.
+`Open all chests within 20 meters.
+`Equipment
+`Utility
+` 90
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1559***********
+
+Order Details:
+
+Strange artifact. Seems to be made of nano-technology, allowing it to solidify and liquify at will. I have yet to find a lock this key cannot open. Highly Illegal I imagine..
+
+Has opened traditional lock and bolt, card readers, eye scanners, dead bolts, chains, zippers, and my phone password.
+I expect a hefty sum for this, because otherwise.. well.. your guild will simply become obsolete because of one key.
+
+Sent To:
+Merchants Guild
+Mercury
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+12/01/2056
+
+
+
+Foreign Fruit
+`Heal on use.
+`Heal yourself for 50% of your health.
+`Equipment
+`Healing
+` 45
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1584***********
+
+Order Details:
+
+Ya feelin down? Then eat Fabien's Nutapple! No preservatives. No chemicals. All fruit. Tastes like an apple and a cashew; together!
+Guaranteed to make you feel 50% healthier or your money back!
+
+Sent To:
+Fabien H
+32nd and Pike
+New Africa
+Mars
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+5/19/2056
+
+
+
+Instant Minefield
+`Drop many mines at your feet.
+`Drop 7 mines at your feet, each dealing 400% damage.
+`Equipment
+`Damage
+` 45
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1551***********
+
+Order Details:
+
+Should help in holding choke positions without losing so many men. I know that hercules is simply held because of pride; we've blown any resources we could've mined into the stratosphere by now.
+
+Just simply lay it down and its smart-fire should prevent it from blowing your own legs off. Spits out about six. Realize that it takes about.. 45 seconds to reload the minelayer and about a second to arm.
+
+Sent To:
+HERCULES 29-5
+Combat Zone 15
+Sgt. Snd
+
+Shipping Method:
+Volatile/Military
+
+Estimated Delivery:
+03/09/2056
+
+
+
+Jar of Souls
+`Summon a ghost for every enemy in the screen.
+`Duplicate every enemy as a ghost to fight on your side. Ghosts last 15 seconds and have 70% damage.
+`Equipment
+`Damage / Utility
+` 45
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1540***********
+
+Order Details:
+
+[The recording only contains wailing and screaming. Would you like to contact authorities? Y/N]
+
+Sent To:
+O.Crypt 74,
+W. Path,
+??
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+6/6/2056
+
+
+
+Carrara Marble
+`Place a marble gate. Teleport back to the gate by activating again.
+`Place a marble gate. Teleport back to the gate by activating again.
+`Equipment
+`Utility
+` 45
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1586***********
+
+Order Details:
+
+Carrara marble is very hard to find these days. It's been very popular since Ancient Rome; however, most deposits ran out, so a chunk of Carrara marble marks up a pretty price. I'm thinking $800,000 for the amount I'm offering.
+
+You can make those sculptures you've always dreamed of.
+
+Sent To:
+King Street,
+Trans. Ctr,
+Unknown
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+11/28/2056
+
+
+
+Sawmerang
+`Mow them down!
+`Throw out a sawmerang, slicing enemies for 500% damage and making them bleed for 4x100% damage. Boomerangs back.
+`Equipment
+`Damage
+` 45
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1569***********
+
+Order Details:
+
+This is one of many sawblades that I will be sending for analysis. We still haven't ID'd all the bodies from the factory accident, so its up to you to run dna tests on all the.. blood and flesh. Word of caution: it smells like rotten meat.
+
+Sent To:
+North Speck,
+Warehouse lot-88,
+Jupiter
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+11/13/2056
+
+
+
+Shattered Mirror
+`Create a shadow partner for 15 seconds.
+`For 15 seconds, double all your abilities' damage and effects.
+`Equipment
+`Damage
+` 75
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1543***********
+
+Order Details:
+
+I know you; you avoid looking at yourself. You feel disgust at your own reflection; you wish every mirror to be shattered. It is time to change. You are not alone.
+
+Sent To:
+Fox Plaza,
+1711 Box,
+Neptune
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+11/17/2056
+
+
+
+Disposable Missile Launcher
+`Fire a swarm of missiles.
+`Fire a swarm of 12 missiles, dealing 200% damage each.
+`Equipment
+`Damage
+` 45
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1552***********
+
+Order Details:
+
+So here is a prototype of the disposable missile launcher you requested. The box itself is made of cardboard, which raises some safety issues but also lowers the production costs immensely. The missiles are also the dumb ones that didn't pass inspection the first time around, allowing us to fit sixteen into this!
+
+The entire thing costs about.. $40. Make sure that you don't store them together; some of the rounds have been observed to explode by themselves.
+
+Sent To:
+Steve Ruxx,
+Quadrant 001,
+Mars
+
+Shipping Method:
+MILITARY
+
+Estimated Delivery:
+11/3/2056
+
+
+
+Gold-Plated Bomb
+`Drop and detonate 50% of your money.
+`Use 50% of your gold to create a bomb, dealing 1 damage per gold spent. Refund 20% of spent gold on kill.
+`Equipment
+`Damage
+` 45
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1567***********
+
+Order Details:
+
+Yeah, so? Of course I made a bomb powered by how rich you are. Dude, what? You can't afford a bomb out of money? What are you... poor? It's JUST money.
+
+Sent To:
+Warpship,
+Xeron TC,
+Neptune
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+5/28/2056
+
+
+
+Drone Repair Kit
+`Repair and empower all active drones. Summons a unique drone to assist.
+`All drones are repaired to full health and empowered for 8 seconds. Summons a unique drone.
+`Equipment
+`Damage / Utility
+` 45
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1537***********
+
+Order Details:
+
+We have learned from nature that the best relationships are the symbiotic ones; the nanodrones go and fix up all the scratches and broken pieces of the attack drones, and in return they get scrap metal to replicate. Win-win for both.
+
+Sent To:
+1803-A,
+Southern Pub,
+Mars
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+3/17/2056
+
+
+
+Thqwib
+`Releases a bloom of Thqwibs, detonating on impact.
+`Release a bloom of 30 thqwibs, detonating on impact for 200% damage.
+`Equipment
+`Damage
+` 45
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1532***********
+
+Order Details:
+
+Thqwibs naturally live in very low atmosphere, so the pressurized container is for their own safety. If released into the room, they'll die immediately, so don't.
+
+I included approximately 30 thqwibs; despite their similar appearance to other creatures, they are naturally social and will become depressed if left alone.
+
+Sent To:
+1803-A,
+Southern Pub,
+Mars
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+11/23/2056
+
+
+
+Dynamite Plunger
+`Hitting enemies drops dynamite. Use to detonate.
+`Hitting an enemy drops dynamite. Use to detonate for 200% damage.
+`Equipment
+`Damage
+` 45
+`BASE
+`Unlocked by default.
+`
+Shipping Details:
+  Tracking Number: 1529***********
+
+Order Details:
+
+Another one for you folks. You liked the previous shipment so much, I thought I would send you more outdated tech. When I say outdated, I MEAN outdated. This thing triggers from plunging; while it still uses microwave signals to connect between sticks of dynamite, it is otherwise the same as the classics.
+
+Sent To:
+East Hanndor,
+Weapon Facility,
+Mars
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+9/03/2056
+
+
+
+Mace Replica
+`Swing a powerful mace, activating your item effects.
+`Swing a powerful mace for 250% damage, knocking enemies away. Guaranteed to activate all on-hit item effects.
+`Equipment
+`Damage
+` 45
+`RTRN
+`As Commando, activate the 3rd teleporter without being hurt once. (Untouchable)
+`
+Shipping Details:
+  Tracking Number: 2242***********
+
+Order Details:
+
+Yet another antique. I don't get the hype around melees, they are just kind of boring.
+I think the point of this one was to hit harder but any cannon would just be more efficient at that.
+Anyway, who am I to judge, right?
+
+Sent To:
+Bay F5,
+Lake moore,
+Mars
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+11/10/2056
+
+
+
+Gigantic Amethyst
+`Resets all your cooldowns.	
+`Reset all your cooldowns.
+`Equipment
+`Utility
+` 8
+`BASE
+`As Loader, kill the Overloading Magma Worm. (Snuffed Out)
+`
+Shipping Details:
+  Tracking Number: 1523***********
+
+Order Details:
+
+Use for focus lasers, I assume. Anyways, this is the biggest one I could find ANYWHERE. Outside of the Crown Amethyst of Venus, which I obviously can't get you, this is the best for your purposes. You'll be able to reach AMAZING quality with this; good luck!
+
+Sent To:
+Grievenkamp
+5th Houston St
+Prism Tower
+Earth
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+5/12/2056
+
+
+
+Crudely-Drawn Buddy
+`Drop a decoy, attracting nearby enemies.
+`Blow up a decoy, attracting and confusing enemies for 8 seconds. Looks just like you.
+`Equipment
+`Utility
+` 45
+`BASE
+`As Sniper, achieve 15 consecutive perfect reloads. (High Caliber)
+`
+Shipping Details:
+  Tracking Number: 1559***********
+
+Order Details:
+
+W-what do you mean? No, no, n-no! It's SUPPOSED to look like that. Yes, with the smudge, and the.. yes. It's my /style/. If you have nothing nice to say, don't say anything at all.
+It looks life-like to me. Essentially a caricature of you. Could fool anyone.
+
+Sent To:
+1111,
+Middle-Ground,
+Mars
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+11/9/2056
+
+
+
+Prescriptions
+`Increase damage and attack speed for 8 seconds.
+`Increase damage by 30% and attack speed by 40% for 8 seconds.
+`Equipment
+`Damage
+` 45
+`BASE
+`As Enforcer, stay in Shield Mode for 5 minutes straight (in combat). (Turtle)
+`
+Shipping Details:
+  Tracking Number: 1156***********
+
+Order Details:
+
+Are these pills legal? No. Are these pills helpful? Yes. Do pigs fly? No.
+
+Van-Ex increases strength and muscle mass in only 24 hours! Proven by science!
+
+Make sure to take only 2 every 8 hours, max! Otherwise you may find yourself dead!
+
+Sent To:
+JusticeCenter,
+Science Dept,
+Venus
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+1/18/2056
+
+
+
+Shield Generator
+`Become invulnerable for 8 seconds.
+`Become invincible for 8 seconds.
+`Equipment
+`Utility
+` 45
+`BASE
+`As HAN-D, beat the third stage without falling below 60% health. (Like New)
+`
+Shipping Details:
+  Tracking Number: 1577***********
+
+Order Details:
+
+While intended for anti-artillery use, the ONI-CV117 has become wildly popular in the private sector as both a personal and automobile defence device. By protecting the user in 'hard light' that closely wraps around, shock is absorbed throughout the light, rather than by the user. However, the shield generator requires time to charge, meaning it has a short uptime. Time it wisely.
+
+Sent To:
+Geshka Tower,
+33rd Fl
+Mars
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+9/24/2056
+
+
+
+Unstable Watch
+`Pause time for 7 seconds.
+`Stop time for 7 seconds.
+`Equipment
+`Utility
+` 67
+`BASE
+`Complete the 1st stage in under 5 minutes. (Never Look Back)
+`
+Shipping Details:
+  Tracking Number: 1592***********
+
+Order Details:
+
+Doesn't work at all..! Sometimes it keeps time fine, and sometimes it sends me for a tizzy! I can be watchin' (haha) it and I'll see it jump 10 seconds, sometimes 15. No mater what I do it keeps doin' it, and I have no idea why. Luck for ya!
+I gotta go sit down.. feelin a bit tired..
+
+Sent To:
+Loodi Tower,
+Floor 19,
+Mars
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+11/09/2056
+
+
+
+Lost Doll
+`Harm yourself to deal massive damage to an enemy.
+`Sacrifice 25% health to damage an enemy for 400% of your maximum health.
+`Equipment
+`Damage
+` 45
+`BASE
+`Survive a boss with less than 20% health. (Still Standing)
+`
+Shipping Details:
+  Tracking Number: 1541***********
+
+Order Details:
+
+Get this out of my house. Please. Just take it.
+
+Since I've received this god-forsaken thing, my husband has fallen down the stairs and broke his neck, my son got hit by a bus, and my daughter has drowned in the bathtub. And.. oh god.. I swear it moves around the house. I've tried leaving it locked in a safe, and it will be out the next day. It wont burn. Cutting it has resulted in the amputation of both my arms.
+
+
+Please..
+
+Sent To:
+Tibb Station,
+Box Unknown,
+Venus
+
+Shipping Method:
+Volatile/Military
+
+Estimated Delivery:
+2/12/2056
+
+
+
+Pillaged Gold
+`For 14 seconds, hitting enemies causes them to drop gold.
+`For 14 seconds, every hit drops gold.
+`Equipment
+`Utility
+` 45
+`BASE
+`As Bandit, kill a boss with Lights Out. (Desperado)
+`
+Shipping Details:
+  Tracking Number: 1566***********
+
+Order Details:
+
+Yar! All yer enemies be a source of swag for ye, hear me true. Open the bag, facing o'er directions cutthroats, and all the gold will beck out of their britches, and into ye hand.
+
+I sent this across the galactic seas fer your offer; ye'll better look in yar deepest depths for a wise trade.
+
+Sent To:
+Crisis Street,
+2008,
+Mars
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+08/8/2056
+
+
+
+Captain's Brooch
+`One man's wreckage is another man's treasure.	
+`Call down a chest nearby. Chest cost is doubled.	
+`Equipment
+`Utility
+` 135
+`BASE
+`Unlock a golden chest with the Skeleton Key. (Special Delivery)
+`
+Shipping Details:
+  Tracking Number: 1548***********
+
+Order Details:
+
+The brooch has been passed down for many generations in my family, signifying the new captain of Contact Light. I'll actually be personally delivering this back to my home, so mark it as high priority.
+
+..hmm? There is a very small button on the back. Pressing it seems to do nothing...
+
+Sent To:
+Box 1,
+The Lusty Lad,
+Venus
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+9/12/2056
+
+
+
+The Back-Up
+`Call drones for backup. Lasts 10 seconds.
+`Create 4 drones to fight for you for 10 seconds.	
+`Equipment
+`Damage
+` 45
+`BASE
+`Have 4 drone helpers at once. (Mechanized Militia)
+`
+Shipping Details:
+  Tracking Number: 1549***********
+
+Order Details:
+
+The Radio is hooked up to my personal line; call, and I'll have a whole squadron of Hellfire Drones at your position before the second ring. Just remember that once you call, your cover is blown. Emergencies only.
+
+Sent To:
+1511
+Sixth Ave,
+Earth
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+11/15/1967
+
+
+
+Super Massive Leech
+`Grant massive life on hit for 10 seconds.
+`For 10 seconds, every hit heals you for 9 health.
+`Equipment
+`Healing
+` 45
+`BASE
+`As Acrid, spread epidemic to 25 enemies. (Catchy)
+`
+Shipping Details:
+  Tracking Number: 1574***********
+
+Order Details:
+
+Giant leeches found in the pools of HYPERION-5. Very similar to its counterpart on Earth, but it seems to have developed teeth as well, allowing it to eat meat as well as siphon blood.
+
+A few have been spotted to ballon to enormous proportions,up to the size of a small dog. Like the common leech, this has obvious medical implications. You will just have to be extra careful, or you may come back to no patient and a giant bloody leech.
+
+Sent To:
+Carolyn Williams
+Rare/Extinct
+Study Center
+Venus
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+6/19/2056
+
+
+
+Glowing Meteorite
+`Rain meteors from the sky, hurting both enemies and allies.
+`Meteors fall from the sky, damaging enemies and friends for 10% of their maximum health. Lasts 8 seconds.
+`Equipment
+`Damage
+` 70
+`BASE
+`Deal 5000 damage in one shot. (Macho)
+`
+Shipping Details:
+  Tracking Number: 1547***********
+
+Order Details:
+
+This hunk of space metal came shooting down and almost hit our town! Thankfully it just fell in the nearby mountains, but man did it make a loud bang, scientists say it's a 'vanguard meteorite'; one of the first meteors from a series of many, many more. Cool!
+
+Sent To:
+8912,
+6th Planet,
+Saturn
+
+Shipping Method:
+Volatile
+
+Estimated Delivery:
+6/18/2056
+
+
+
+Legendary Spark
+`Smite them. Smite them all.
+`8% chance on hit to create 2 (+1 per stack) sparks that smite enemies for 200% TOTAL damage.
+`Boss 
+` Item
+`Damage
+`BASE
+` Ancient Wisp
+`
+Shipping Details:
+  Tracking Number: 1594***********
+
+Order Details:
+
+After slaying the flaming abomination, it crumpled and fell apart, like an empty suit of armor. Its pauldron especially caught my eye; I could tell it was a source of great power. More armor can't possibly hurt in this hellhole.
+
+Sent To:
+Lost Planet,
+Unknown
+
+Shipping Method:
+Field-Found
+
+Estimated Delivery:
+1/26/2056
+
+
+
+Imp Overlord's Tentacle
+`Cut off the head of the snake.. and the body lives on.
+`Summon an imp bodyguard. Revives after 60 (-10 per stack) seconds. Increase imp health and damage by 15% per stack.
+`Boss 
+` Item
+`Utility
+`BASE
+` Imp Overlord
+`
+Shipping Details:
+  Tracking Number: 1599***********
+
+Order Details:
+
+I believe the Imp Overlord's had tentacle serves as a symbol of power; the bigger the tentacle, the more powerful you are in the social hiararchy. Losing a tentacle is a sign of failure or social outcasting. I.. have no idea how I know that. I just do.
+
+Sent To:
+1005,
+Daimera's Lair,
+Unknown
+
+Shipping Method:
+Field-Found
+
+Estimated Delivery:
+5-13-2013
+
+
+
+Burning Witness
+`The Worm's eye seems to still see.. watching.. rewarding..
+`Killing enemies grants a fire trail and 30% movement speed for 6 (+2 per stack) seconds.
+`Boss 
+` Item
+`Damage / Utility
+`BASE
+` Magma Worm
+`
+Shipping Details:
+  Tracking Number: 1602***********
+
+Order Details:
+
+Found by killing a... giant magma worm. Yes, you read that correctly. After it died, its body lay dormant but its eyes seem to still look around, watching. Removal of the eye showed that it may be a parasite that attaches to the worm itself; the worm grants it protection, while the eye gives it the vision it needs.
+
+Sent To:
+Central Core,
+Lock Box 52,
+Sun
+
+Shipping Method:
+Field-Found
+
+Estimated Delivery:
+--
+
+
+
+Colossal Knurl
+`Increase health, health regeneration, and armor.
+`Increase maximum health by 40, health regeneration by 1.2/second, and armor by 6.
+`Boss 
+` Item
+`Healing
+`BASE
+` Colossus
+`
+Shipping Details:
+  Tracking Number: 1595***********
+
+Order Details:
+
+There is obviously some essence left in this hunk; the Knurl is still attracting nearby earth and dirt, trying to reconstruct itself. Perhaps I can use this to my advantage; a self-repairing chunk of earth could serve as a good shield.
+
+Sent To:
+6542,
+Fractured Rock,
+Unknown
+
+Shipping Method:
+Field-Found
+
+Estimated Delivery:
+7/22/2056
+
+
+
+Ifrit's Horn
+`Chance to fire a flaming wave.
+`8% chance on hit to fire a flaming wave that incinerates enemies for 300% (+300% per stack) damage.
+`Boss 
+` Item
+`Damage
+`BASE
+` Ifrit
+`
+Shipping Details:
+  Tracking Number: 1596***********
+
+Order Details:
+
+When I finally took the beast down, I carved off his horn, hoping for it to help on this journey. I've felt a strange power since obtaining it... while I feel stronger, I feel like I am no longer alone.
+
+Sent To:
+Lot Z,
+Auction House,
+Unknown
+
+Shipping Method:
+Field-Found
+
+Estimated Delivery:
+4/10/2056
+
+
+
+Nematocyst Nozzle
+`Best served cold.
+`Shoot out 6 nematocysts that deal 400% damage.
+`Boss 
+` Equipment
+`Damage
+` 23
+`BASE
+` Wandering Vagrant
+`
+Shipping Details:
+  Tracking Number: 1598***********
+
+Order Details:
+
+I scavenged the corpse of the Vagrant to better understand its biology, and I discovered this tube, or nozzle. The Vagrant must use a chemical concoction of gasses and liquids in order to fire and detonate its explosive payload. I can see this being useful.
+
+Sent To:
+8800,
+Gentle Valley,
+Unknown
+
+Shipping Method:
+Field-Found
+
+Estimated Delivery:
+8/18/2056
+
+
+
+Evolved Nematocyst Nozzle
+`Cnidarian delicacy.
+`Shoot out 9 nematocysts that deal 400% damage.
+`Boss 
+` Equipment
+`Damage
+` 23
+`RTRN
+` Scrap an Evolved Young Jelly drone using a Drone Scrapper.
+`
+Shipping Details:
+  Tracking Number: 1585***********
+
+Order Details:
+
+Across all the hills and valleys of the planet I've yet to see a single jellyfish of this hue. More passive than the others, I found this golden juvenile clinging onto some excess lump of flesh. It seems familiar, but the heat emanating from the mound is unlike anything I've come across. This is dangerous.
+
+Sent To:
+8800,
+Gentle Valley,
+Unknown
+
+Shipping Method:
+Field-Found
+
+Estimated Delivery:
+12/31/2056
+
+
+
+Scorching Shell Piece
+`Gain shield. Fire a barrage of projectiles when it breaks.
+`Gain a 20 (+20 per stack) health shield. Fire up to 4 (+2 per stack) projectiles at nearby enemies when it breaks.
+`Boss 
+` Item
+`Damage / Utility
+`RTRN
+` Cremator
+`
+Shipping Details:
+  Tracking Number: 2447***********
+
+Order Details:
+
+Flames and ashes, nothing was meant to withstand the heat of the magma that surrounded me. Nothing but the immense creature I took down. A fragment, piece of its shell fell close enough to me that I was able to take it. Hot like the fire it was born in, it felt special. A reminder of what I am able to overcome.
+
+Sent To:
+Quarter 3,
+Lambda 20,
+Unknown
+
+Shipping Method:
+Field-Found
+
+Estimated Delivery:
+12/7/2056
+
+
+
+Lost Pickaxe
+`Scorching from beyond.
+`15% (+10% per stack) chance on hit to summon a pickaxe that deals 220% TOTAL damage and pierces enemies.
+`Boss 
+` Item
+`Damage
+`RTRN
+` Direseeker
+`
+Shipping Details:
+  Tracking Number: 2725***********
+
+Order Details:
+
+Unfortunately, I know whose this is. His kids would be lucky to ever see him again.
+
+I'd be lucky to ever see him again.
+
+Sent To:
+Chicago Grand Terminal,
+United States,
+Earth
+
+Shipping Method:
+Field-Found
+
+Estimated Delivery:
+7/22/2057
+
+
+
+White Undershirt (M)
+`+2 STR S>2m or best offer @@@@@@@@
+`Increase armor by 3 (+3 per stack).
+`Special
+` Item
+`Special
+`BASE
+` Drops from the Armored Boarlit on Boar Beach.
+
+
+
+Keycard
+`Opens locked security doors.
+`Opens locked security doors interacted with while held. Consumed on use.
+`Special
+` Item
+`Special
+`Base
+` Golden Canisters, enemy drops on Risk of Rain.
+
+
+
+Small Enigma
+`Reduce the cooldown of equipment.
+`Reduce equipment cooldown by 5% (+5% per stack).
+`Special
+` Item
+`Special
+`BASE
+` Drops whenever an equipment would have with the Artifact of Enigma enabled.
+
+
+
+Strange Battery
+`Bzzzt.
+`Fire chain lightning for 33% damage.
+`Special
+` Equipment
+`Special
+` 45
+`RTRN
+` Hidden in a unique interactable vase on all variants of Temple of the Elders, but only on Drizzle.
+
+
+
+Metal Scrap
+`Useless.
+`Does nothing.
+`Special
+` Item
+`Special
+`RTRN
+` Scrap yourself after dying in multiplayer.
+
+
+
+Big Bison Steak
+`Increase health regeneration and movement speed.
+`Increase health regeneration by 0.6 HP/s (+0.6 per stack), and movement speed by 2km/h (+2 per stack).
+`Special
+` Meal
+`Special
+`RTRN
+` One of the meals CHEF can produce from COOK.
+
+
+
+Marinated Lizard Loaf
+`Increased damage.
+`Increase damage by 20% (+10% per stack).
+`Special
+` Meal
+`Special
+`RTRN
+` One of the meals CHEF can produce from COOK.
+
+
+
+Golem Essence on the Rocks
+`Gain barrier and increased armor.
+`Gain 50% max HP as barrier on pickup, and 40 armor (+10 per stack).
+`Special
+` Meal
+`Special
+`RTRN
+` One of the meals CHEF can produce from COOK.
+
+
+
+Jelly Brain Salad
+`Reduces skill cooldowns by 1 second.	
+`Reduces skill cooldowns by 1 second (+0.5s per stack). Cooldowns cannot go below 0.5s.
+`Special
+` Meal
+`Special
+`RTRN
+` One of the meals CHEF can produce from COOK.
+
+
+
+Fried Eyeball
+`Slow nearby enemies.
+`Slow enemy movement speed by 37.5% and attack speed by 25% in an area around you (stacks increase range).
+`Special
+` Meal
+`Special
+`RTRN
+` One of the meals CHEF can produce from COOK.

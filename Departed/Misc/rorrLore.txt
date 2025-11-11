@@ -10,92 +10,120 @@ Environments
 
 
 
-Desolate Forest
+Name: Desolate Forest
 Title: Ground Zero
 Stage: 1
 Track: Monsoon
 Artifact: Honor
+Creatures: Lemurian, Rock Golem, Wisp, Greater Wisp, Jellyfish, Trokk, Colossus, Wandering Vagrant, Magma Worm, Lemurian Calvary
 Content: BASE
 Log:
 Crashing into a verdant field isn't the worst outcome. I can see lush, rolling hills and strange castles built into mountains. There are foreign species patrolling the grasslands and bizarre housing foundations erected along worn footpaths. I've seen lizards who walk like men and otherworldly stone creatures infused by blazing lights. They seem docile and intelligent, passing by one another with little interaction, but their stiffened postures leave me wary. There's so much culture here for an undocumented planet. There's so much history to these buildings, but their construction doesn't make any sense. Rebar and concrete make up juvenile fabrications, accompanied by worn bricks gathered from ancient castles just meters away. Tree stumps and dead branches litter the landscape as if a forest was felled. But decay settled on this garden long ago... How do you get to concrete before raising a single village? Red sparks dance in the distant sky. I don't know what I'm hoping for.
 
-Dried Lake
+
+
+Name: Dried Lake
 Title: Ground Zero
 Stage: 1
 Track: Aurora Borealis
 Artifact: Kin
+Creatures: Lemurian, Sand Crab, Wisp, Greater Wisp, Jellyfish, Tuber, Colossus, Wandering Vagrant, Magma Worm, Lemurian Calvary
 Content: BASE
 Log:
 A massive desert filled with boardwalks and ten-foot crabs. I'm shocked that this is anywhere near the forest I was just in, but I can still see those mountains in the distance - All that greenery traded for dust and skeletons. I would think these catwalks were built to protect from the hot sand below, but these wrecked ships are buried in such shallow dunes. When was there water here? Rain hits my helmet and sizzles at my feet. The overcast sky softens the shadows of petrified barnacles cast over the distant wooden structures. They're held together like old junk in a garage. I can feel the planks bow under my weight, but I'd rather take my chances than wade through a muddy sea of claws and mandibles.
 
-Damp Caverns
+
+
+Name: Damp Caverns
 Title: Fungal Haven
 Stage: 2
 Track: Cyclogenesis
 Artifact: Distortion
+Creatures: Lemurian, Wisp, Greater Wisp, Mushrum, Spitter, Imp, Tuber, Magma Worm, Ancient Wisp, Lynx Totem, Bramble
 Content: BASE
 Log:
 I'm launched into darkness. The bioluminescence is fighting with the pitch black of the caverns, and I can barely make out cliffs and valleys alongside these enormous mushrooms. Some younger ones toddle around and release dense gas clouds, but I've yet to see any individuals who have grown beyond my height. I'm cautious to touch the stalks of any of these towering masses should I find one, so I'm left creeping through the dark bellows towards the next pronged portal. The earth's rotten constitution leaves the ground pillowy. Distant sinkholes above me dot the ceiling like stars. It'd be nice, if it weren't for the constant excretions pouring around my boots. And the rotten stench. I can't even hold my nose.
 
-Sky Meadow
+
+
+Name: Sky Meadow
 Title: Field of Sprites
 Stage: 2
 Track: Chanson D'automne
 Artifact: Spite
+Creatures: Rock Golem, Greater Wisp, Jellyfish, Child, Parent, Magma Worm, Ancient Wisp, Lynx Totem, Bramble
 Content: BASE
 Log:
 I wonder how these landmasses stay afloat? I can't feel any gravitational abnormalities here, even when I'm beneath them. So far this planet has felt like walking on Mars, nothing would've indicated this as a possibility. After falling asleep on an isolated peninsula, I was shocked to wake up with company. Stone statues of hooded figures had surrounded me silently while I slept. No drag marks, no footsteps, no sound. Except there was a sound - a faint hum resonating between them. After a few minutes of stillness, I rose to my feet. I reached out to push them aside and the humming stopped.
 
-Ancient Valley
+
+
+Name: Ancient Valley
 Title: Frozen Tundra
 Stage: 3
 Track: Aurora Borealis
 Artifact: Glass
+Creatures: Rock Golem, Clay Man, Mechanical Spider, Bighorn Bison, Swift, Colossus, Imp Overlord, Ifrit
 Content: BASE
 Log:
 This bridge just goes on forever... but at least it _is_ a bridge. Between this blizzard and the mountain fog I can't see more than two meters ahead, even with my mounted lights. I know I haven't accidentally turned around because the stampede keeps rumbling in the distance behind me, though I'm starting to wonder if its just the wind against the crumbling cliffsides. There's scorched steel strewn along the road, still smoking. What kind of fire could burn in a place like this? I'll have to clamber down to the exposed access tunnels running underneath the bridge to rest, though I can't tell if the drop below is 10 meters or 10 miles.
 
-Sunken Tomb
+
+
+Name: Sunken Tomb
 Title: Underwater Catacombs
 Stage: 3
 Track: 25 3°N 91 7°E
 Artifact: Enigma
+Creatures: Sand Crab, Imp, Clay Man, Whorl, Macrobe, Colossus, Wandering Vagrant, Imp Overlord
 Content: BASE
 Log:
 It's hard to tell how deep these catacombs go. I don't have enough oxygen to explore more deeply. Murals describing some kind of war or migration are etched into the walls, though the water pressure must've torn them apart years ago. I can make out figures riding ships - it's hard to tell and I imagine any species that would build a tomb this deep underwater wouldn't require them. The sarcophagi lining the halls ring hollow and the tables and pots look untouched like some sort of nuclear shelter, frozen in time. The ceilings in here are so high and have skylights dug out from the earth above. The caustics are beautiful on the old stonework, though I don't see how they intended for the sun dial below to serve its purpose.
 
-Magma Barracks
+
+
+Name: Magma Barracks
 Title: The Core
 Stage: 4
 Track: Tropic of Capricorn
 Artifact: Sacrifice
+Creatures: Wisp, Mechanical Spider, Bighorn Bison, Evolve Lemurian, Macrobic Predator, Imp Overlord, Toxic Beast, Cremator, Direseeker
 Content: BASE
 Log:
 It's hot. My suit can't regulate temperatures like these. I can see waterfalls of lava flowing from grand battlements above me feeding into lakes of magma. The giant turtles below seem quite fond of it, though the surrounding Lemurians seem to have built great steel pens to cage them in. I've caught glimpses of the tribes ferrying back and forth atop their ashen shells almost as frequently as I've seen sacrifices made to feed them. These walkways between the watch towers are calm for now, but the amount of weapons strewn about are concerning. I can hear the clanking of workshops ahead. The only way left is up from here. A mile or so above me I can see the roots of a great tree with battlements spiraling towards it. Maybe I won't need to take a portal this time?
 
-Hive Cluster
+
+
+Name: Hive Cluster
 Title: Deep Undergrowth
 Stage: 4
 Track: Chanson D'automne
 Artifact: Command
+Creatures: Spitter, Parent, Gup, Evolved Lemurian, Archaic Wisp, Macrobe, Imp Overlord, Toxic Beast
 Content: BASE
 Log:
 It's hard to tell whats alive and what isn't down here. The fibrous membranes that line the walls are sticky like fresh sap, and its difficult to avoid stepping on gestating pustules wherever you go. I'm stuck hanging from this flesh-rope for now. It's either waiting for these orange beasts to leave or upsetting the hive with more gunfire. At least this time I'm smelling strawberries instead of rot, but the sweet siren's call isn't doing much when I can see skeletons inside this thing. I can feel a slight crawling sensation around my hands and the heat pulses from these fibers like some kind of sick womb. I heard what sounded like crying a moment ago, but it's stopped since then. It was probably my imagination, the constant buzzing is as deafening as it is frightening.
 
-Temple of the Elders
+
+
+Name: Temple of the Elders
 Title: Holy Ground
 Stage: 5
 Track: Artic Oscillation
 Artifact: Spirit
+Creatures: Clay Man, Elder Lemurian, Temple Guard, Archer Bug, Swift, Lemurian Calvary, Bramble, Imp Overlord, Toxic Beast, Lynx Totem
 Content: BASE
 Log:
 A vast hole of clouds swirls along the lip of this massive floating ridge. Towers and churches are constructed with windows and archways all standing with reverence toward the center of the miles-wide gap. A sort of vortex sucks the air downward and I can see flocks of birds dancing in the wind, like some sort of ritual. The sun touches these stones like nowhere else and a massive spire echoes into the sky, piercing the clouds only to be swallowed again before reaching the atmosphere. It has to have been a thousand steps climbed by now, with the corpses piling up in the nave below. Thunder roars down this spiral, with red lightning flashing shadows of future combatants against the walls. From this height I can finally see it: The Contact Light.
 
-Risk Of Rain
+
+
+Name: Risk Of Rain
 Title: UES Contact Light
 Stage: Final
 Track: Coalescence
 Artifact: Origin
+Creatures: Clay Man, Archaic Wisp, Elder Lemurian, Temple GUard, Young Vagrant, Macrobic Predator, Lemurian Calvary, Imp Overlord, Scavenger, Providence
 Content: BASE
 Log:
 //-c o m m a n d   l o g  0 1 
@@ -111,7 +139,7 @@ Items
 
 
 
-Meat Nugget
+Name: Meat Nugget
 Pickup Text: Enemies drop chunks of healing meat.
 Full Description: 8% chance on hit to drop 2 meat nuggets that heal for 8 (+8 per stack) health.
 Tier: Common	
@@ -141,7 +169,7 @@ Estimated Delivery:
 
 
 
-Fire Shield
+Name: Fire Shield
 Pickup Text: Retaliate on taking heavy damage.
 Full Description: After taking more than 10% of your health as damage, explode for 400% (+200% per stack) damage, knocking enemies away (+20% force per stack).
 Tier: Common
@@ -170,7 +198,7 @@ Estimated Delivery:
 
 
 
-Bustling Fungus
+Name: Bustling Fungus
 Pickup Text: Heal quickly when standing still for 2 seconds.
 Full Description: After standing still for 2 seconds, heal for 4.5% (+4.5% per stack) of your health every second to yourself and nearby allies.
 Tier: Common
@@ -201,7 +229,7 @@ Estimated Delivery:
 
 
 
-Lens Maker's Glasses
+Name: Lens Maker's Glasses
 Pickup Text: Chance to deal double damage.
 Full Description: Your attacks have a 8% (+8% per stack) chance to 'Critically Strike', dealing double damage.
 Tier: Common
@@ -232,7 +260,7 @@ Estimated Delivery:
 
 
 
-Sprouting Egg
+Name: Sprouting Egg
 Pickup Text: Rapidly heal outside of danger.
 Full Description: After not being hit for 7 seconds, increase health regeneration by 2.4 (+2.4 per stack) hp per second.
 Tier: Common
@@ -261,7 +289,7 @@ Estimated Delivery:
 
 
 
-Headstompers
+Name: Headstompers
 Pickup Text: Hurt enemies by falling.
 Full Description: Hurt enemies by falling for up to 600% (+300% per stack) damage.
 Tier: Common
@@ -291,7 +319,7 @@ Estimated Delivery:
 
 
 
-Life Savings
+Name: Life Savings
 Pickup Text: Gain gold over time.
 Full Description: Generate $1 (+$1 per stack) every 3 seconds. Scales with time.
 Tier: Common
@@ -316,7 +344,7 @@ Estimated Delivery:
 02/22/2056
 
 
-Barbed Wire
+Name: Barbed Wire
 Pickup Text: Hurts nearby enemies.
 Full Description: Hurt all enemies within 1m (+0.2m per stack) for 50% (+10% per stack) damage every 0.5 seconds.
 Tier: Common
@@ -346,7 +374,7 @@ Estimated Delivery:
 
 
 
-Rusty Knife
+Name: Rusty Knife
 Pickup Text: Chance to bleed on hit.
 Full Description: 15% (+15% per stack) chance to bleed an enemy for 4x35% TOTAL damage.
 Tier: Common
@@ -375,7 +403,7 @@ Estimated Delivery:
 
 
 
-Mysterious Vial
+Name: Mysterious Vial
 Pickup Text: Increased health regeneration.
 Full Description: Increase health regeneration by 0.84 (+0.84 per stack) hp per second.
 Tier: Common
@@ -408,7 +436,7 @@ Estimated Delivery:
 
 
 
-Mortar Tube
+Name: Mortar Tube
 Pickup Text: Chance to launch a mortar.
 Full Description: 9% chance on hit to fire a mortar for 170% (+170% per stack) TOTAL damage.
 Tier: Common
@@ -438,7 +466,7 @@ Estimated Delivery:
 
 
 
-Warbanner
+Name: Warbanner
 Pickup Text: Drop a Warbanner on level up or activating the teleporter, giving you great strength.
 Full Description: On level up or activating the Teleporter, drop a banner that strengthens all allies within 4.6m (+1.4m per stack). Raise attack and movement speed by 30% and damage by 4. Also heals for 1% of your health every second.
 Tier: Common
@@ -468,7 +496,7 @@ Estimated Delivery:
 
 
 
-Monster Tooth
+Name: Monster Tooth
 Pickup Text: Heal after kills.
 Full Description: Killing an enemy heals you for 10 (+5 per stack) health.
 Tier: Common
@@ -498,7 +526,7 @@ Estimated Delivery:
 
 
 
-Soldier's Syringe
+Name: Soldier's Syringe
 Pickup Text: Increases attack speed.
 Full Description: Increases attack speed by 12% (+12% per stack).
 Tier: Common
@@ -529,7 +557,7 @@ Estimated Delivery:
 
 
 
-Crowbar
+Name: Crowbar
 Pickup Text: Deal bonus damage to healthy monsters.
 Full Description: Deal bonus damage to healthy monsters.
 Tier: Common
@@ -557,7 +585,7 @@ Estimated Delivery:
 
 
 
-Medkit
+Name: Medkit
 Pickup Text: Receive a delayed heal after taking damage.
 Full Description: Heal for 10 (+10 per stack) health 1.5 seconds after getting hurt.
 Tier: Common
@@ -587,7 +615,7 @@ Estimated Delivery:
 
 
 
-Bundle of Fireworks
+Name: Bundle of Fireworks
 Pickup Text: Activating an interactable launches fireworks at nearby enemies.
 Full Description: Activating an interactable launches 6 (+3 per stack) fireworks that deal 300% base damage.
 Tier: Common
@@ -615,7 +643,7 @@ Estimated Delivery:
 
 
 
-Backup Magazine
+Name: Backup Magazine
 Pickup Text: Add an extra charge of your Secondary skill.
 Full Description: Add +1 (+1 per stack) charge of your Secondary skill.
 Tier: Common
@@ -644,7 +672,7 @@ Estimated Delivery:
 
 
 
-Topaz Brooch
+Name: Topaz Brooch
 Pickup Text: Kills grant temporary barrier.
 Full Description: Killing an enemy grants 15 barrier (+15 per stack).
 Tier: Common
@@ -677,7 +705,7 @@ Estimated Delivery:
 
 
 
-Taser
+Name: Taser
 Pickup Text: Chance to snare on hit.
 Full Description: Chance to snare on hit.
 Tier: Common
@@ -704,7 +732,7 @@ Estimated Delivery:
 
 
 
-Paul's Goat Hoof
+Name: Paul's Goat Hoof
 Pickup Text: Move faster.
 Full Description: Increases movement speed by 15% (+15% per stack).
 Tier: Common
@@ -732,7 +760,7 @@ Estimated Delivery:
 
 
 
-Bitter Root
+Name: Bitter Root
 Pickup Text: Increases maximum health by 8%.
 Full Description: Increases maximum health by 8% (+8% per stack).
 Tier: Common
@@ -762,7 +790,7 @@ Estimated Delivery:
 
 
 
-Sticky Bomb
+Name: Sticky Bomb
 Pickup Text: Chance to attach a bomb to enemies.
 Full Description: 9% chance on hit to attach a bomb to an enemy, detonating for 200% (+100% per stack) TOTAL damage.
 Tier: Common
@@ -794,7 +822,7 @@ Estimated Delivery:
 
 
 
-Snake Eyes
+Name: Snake Eyes
 Pickup Text: Gain increased critical strike chance on failing a shrine. Resets between stages.
 Full Description: Failing a shrine increases critical chance by 7% (+7% per stack), up to 6 times. Resets at the start of each stage.
 Tier: Common
@@ -824,7 +852,7 @@ Estimated Delivery:
 
 
 
-Hermit's Scarf
+Name: Hermit's Scarf
 Pickup Text: Chance to evade incoming damage.
 Full Description: 10% (+10% per stack) chance to evade incoming damage.
 Tier: Common
@@ -854,7 +882,7 @@ Estimated Delivery:
 
 
 
-Gasoline
+Name: Gasoline
 Pickup Text: Killing enemies sets the ground on fire.
 Full Description: Killing enemies burns the ground for 60% (+40% per stack) damage.
 Tier: Common
@@ -884,7 +912,7 @@ Estimated Delivery:
 
 
 
-Spikestrip
+Name: Spikestrip
 Pickup Text: Drop spikestrips on being hit, snaring enemies.
 Full Description: When hit, drop spikestrips that snare enemies for 1 (+0.5 per stack) second.
 Tier: Common
@@ -914,7 +942,7 @@ Estimated Delivery:
 
 
 
-Mocha
+Name: Mocha
 Pickup Text: Slightly increase attack speed and movement speed.
 Full Description: Increases movement speed by 7.5% (+7.5% per stack) and attack speed by 6% (+6% per stack).
 Tier: Common
@@ -953,7 +981,7 @@ Estimated Delivery:
 
 
 
-Voltaic Mitt
+Name: Voltaic Mitt
 Pickup Text: Climbed ropes are electrified.
 Full Description: Climbing creates an electric trail that deals 50% damage (+30% per stack).
 Tier: Common
@@ -982,7 +1010,7 @@ Estimated Delivery:
 
 
 
-The Toxin
+Name: The Toxin
 Pickup Text: Touch enemies to weaken them.
 Full Description: Infect enemies on contact for 3 seconds, causing them to receive 30% (+15% per stack) extra damage from all sources.
 Tier: Common
@@ -1016,7 +1044,7 @@ Estimated Delivery:
 
 
 
-Mu Construct
+Name: Mu Construct
 Pickup Text: Heal periodically after activating the teleporter.
 Full Description: Heal by 2.5% of your maximum health every 5 (-25% per stack) seconds after the Teleporter has been activated.
 Tier: Common
@@ -1046,7 +1074,7 @@ Estimated Delivery:
 
 
 
-Razor Penny
+Name: Razor Penny
 Pickup Text: Slightly increased Critical strike chance. Critical strikes give you gold.
 Full Description: Gain 4% critical chance (+4% per stack). Critical strikes drop $1 (+1$ per stack) gold.
 Tier: Common
@@ -1075,7 +1103,7 @@ Estimated Delivery:
 
 
 
-Arcane Blades
+Name: Arcane Blades
 Pickup Text: Move faster after activating the Teleporter.
 Full Description: Increases movement speed by 30% (+30% per stack) after the Teleporter has been activated.
 Tier: Common
@@ -1107,7 +1135,7 @@ Estimated Delivery:
 
 
 
-Time Keeper's Secret
+Name: Time Keeper's Secret
 Pickup Text: Falling to low health stops time.
 Full Description: Falling below 25% health stops time for 3 (+1 per stack) seconds. Recharges after 7 minutes.
 Tier: Uncommon
@@ -1137,7 +1165,7 @@ Estimated Delivery:
 
 
 
-Smart Shopper
+Name: Smart Shopper
 Pickup Text: Enemies drop extra gold.
 Full Description: Killed enemies drop 25% (+25% per stack) more gold.
 Tier: Uncommon
@@ -1167,7 +1195,7 @@ Estimated Delivery:
 
 
 
-Infusion
+Name: Infusion
 Pickup Text: Killing an enemy permanently increases your health.
 Full Description: Killing an enemy increases your health permanently by 1 (+0.5 per stack).
 Tier: Uncommon
@@ -1197,7 +1225,7 @@ Estimated Delivery:
 
 
 
-Will-O'-The-Wisp
+Name: Will-O'-The-Wisp
 Pickup Text: Chance to detonate enemies on kill
 Full Description: 33% chance on killing an enemy to create a lava pillar for 300% (+200% per stack) damage, knocking enemies upwards.
 Tier: Uncommon
@@ -1225,7 +1253,7 @@ Estimated Delivery:
 
 
 
-AtG Missile Mk. 1
+Name: AtG Missile Mk. 1
 Pickup Text: Chance to fire a missile.
 Full Description: 10% (+10% per stack) chance on hit to fire a missile that deals 300% TOTAL damage.
 Tier: Uncommon
@@ -1256,7 +1284,7 @@ Estimated Delivery:
 
 
 
-Tough Times
+Name: Tough Times
 Pickup Text: Reduce incoming damage by 14%
 Full Description: Increase armor by 14 (+14 per stack).
 Tier: Uncommon
@@ -1286,7 +1314,7 @@ Estimated Delivery:
 
 
 
-Energy Cell
+Name: Energy Cell
 Pickup Text: Attack faster at lower health. 
 Full Description: Increases attack speed by up to 40% (+30% per stack) at low health.
 Tier: Uncommon
@@ -1317,7 +1345,7 @@ Estimated Delivery:
 
 
 
-Rusty Jetpack
+Name: Rusty Jetpack
 Pickup Text: Increase jump height and reduce gravity.
 Full Description: Decrease gravity while holding the jump button by 10% (-10% per stack) and increase jump height (increases per stack).	
 Tier: Uncommon
@@ -1346,7 +1374,7 @@ Estimated Delivery:
 
 
 
-Leeching Seed
+Name: Leeching Seed
 Pickup Text: Attacking enemies heals you.
 Full Description: Attacking enemies heals you for 2 (+1 per stack) health.
 Tier: Uncommon
@@ -1377,7 +1405,7 @@ Estimated Delivery:
 
 
 
-Ukelele
+Name: Ukelele
 Pickup Text: ...and his music was electric.
 Full Description: 20% chance on hit to fire chain lightning for 66% (+66% per stack) TOTAL damage on up to 3 targets.	
 Tier: Uncommon
@@ -1408,7 +1436,7 @@ Estimated Delivery:
 
 
 
-Boxing Gloves
+Name: Boxing Gloves
 Pickup Text: Chance to knock enemies backwards for extra damage.
 Full Description: 6% (+6% per stack) chance on hitting enemies to knock them back for 100% TOTAL damage.
 Tier: Uncommon
@@ -1439,7 +1467,7 @@ Estimated Delivery:
 
 
 
-Prison Shackles
+Name: Prison Shackles
 Pickup Text: Slow enemies on attack.
 Full Description: Slow enemies on hit for -50% movement speed for 1.5 (+0.5 per stack) seconds.
 Tier: Uncommon
@@ -1469,7 +1497,7 @@ Estimated Delivery:
 
 
 
-Guardian's Heart
+Name: Guardian's Heart
 Pickup Text: Gain a shield. Recharges outside of danger.
 Full Description: Gain a 60 (+60 per stack) health shield. Recharges when outside of danger for 7 seconds.
 Tier: Uncommon
@@ -1500,7 +1528,7 @@ Estimated Delivery:
 
 
 
-Hopoo Feather
+Name: Hopoo Feather
 Pickup Text: Gain an extra jump.
 Full Description: Gain +1 (+1 per stack) maximum jump count.
 Tier: Uncommon
@@ -1528,7 +1556,7 @@ Estimated Delivery:
 
 
 
-Frost Relic
+Name: Frost Relic
 Pickup Text: Killing enemies surrounds you with icicles.
 Full Description: Killing an enemy temporarily surrounds you with 3 (+1 per stack) icicles that deal 33% damage each every 0.33 seconds.	
 Tier: Uncommon
@@ -1556,7 +1584,7 @@ Estimated Delivery:
 
 
 
-Red Whip
+Name: Red Whip
 Pickup Text: Move fast out of combat.
 Full Description: Leaving combat for 2 seconds boosts your movement speed by 60% (+60% per stack).
 Tier: Uncommon
@@ -1584,7 +1612,7 @@ Estimated Delivery:
 
 
 
-Chargefield Generator
+Name: Chargefield Generator
 Pickup Text: Create a ring of lightning after killing an enemy. Lasts 6 seconds.
 Full Description: Killing an enemy creates a ring of lightning that deals 50% (+20% per stack) damage every 0.5 seconds to 50% of enemies within. The ring starts with a radius of 4.7m and grows by 1.3m each kill up to 40m. Lasts for 6 seconds without killing enemies.
 Tier: Uncommon
@@ -1612,7 +1640,7 @@ Estimated Delivery:
 
 
 
-Arms Race
+Name: Arms Race
 Pickup Text: Drones are equipped with explosive weaponry. Summons a drone helper.
 Full Description: Drones gain a 5% (+5% per stack) chance on hit to fire a missile for 300% TOTAL damage, and a 9% chance on hit to fire a mortar for 85% (+85% per stack) TOTAL damage. Summons a unique drone which regenerates each stage.
 Tier: Uncommon
@@ -1642,7 +1670,7 @@ Estimated Delivery:
 
 
 
-Golden Gun
+Name: Golden Gun
 Pickup Text: More gold, more damage.
 Full Description: Deal bonus damage based on current gold, up to 40% damage. Caps at 700 (-50% per stack) gold. Scales with time.
 Tier: Uncommon
@@ -1669,7 +1697,7 @@ Estimated Delivery:
 
 
 
-56 Leaf Clover
+Name: 56 Leaf Clover
 Pickup Text: Elite mobs have a chance to drop items.
 Full Description: Elite mobs have a 4% (+1.5% per stack) chance to drop items.
 Tier: Uncommon
@@ -1697,7 +1725,7 @@ Estimated Delivery:
 
 
 
-Concussion Grenade
+Name: Concussion Grenade
 Pickup Text: Chance to stun enemies.
 Full Description: 6% (+6% per stack) chance on hitting enemies to stun them for 2 seconds.
 Tier: Uncommon
@@ -1727,7 +1755,7 @@ Estimated Delivery:
 
 
 
-Filial Imprinting
+Name: Filial Imprinting
 Pickup Text: Hatch a strange creature who drops buffs periodically.
 Full Description: Hatch 1 (+1 per stack) strange creature who drops buffs every 20 seconds. Buffs temporarily boost either movement speed, attack speed, or health regen.
 Tier: Uncommon
@@ -1754,7 +1782,7 @@ Estimated Delivery:
 
 
 
-Dead Man's Foot
+Name: Dead Man's Foot
 Pickup Text: Drop a poison trap at low health.
 Full Description: Chance when damaged to drop a poison mine that deals 150% damage and poisons for x600% (+450% per stack) damage over time. Chance to drop starts at 15% and increases with low health.
 Tier: Uncommon
@@ -1782,7 +1810,7 @@ Estimated Delivery:
 
 
 
-Toxic Centipede
+Name: Toxic Centipede
 Pickup Text: Infected!
 Full Description: Infect a nearby enemy on contact for 6 (+2 per stack) seconds, dealing 50% damage every 0.5 seconds. Bounces to other enemies if the target dies. Recharges every 6 (-33% per stack) seconds.
 Tier: Uncommon
@@ -1814,7 +1842,7 @@ Estimated Delivery:
 
 
 
-Harvester's Scythe
+Name: Harvester's Scythe
 Pickup Text: Critical hits heal you.
 Full Description: Gain 5% critical chance. Critical strikes heal for 8 (+2 per stack) health.
 Tier: Uncommon
@@ -1842,7 +1870,7 @@ Estimated Delivery:
 
 
 
-Panic Mines
+Name: Panic Mines
 Pickup Text: Drop a mine at low health.
 Full Description: Chance when damaged to drop 1 (+1 per stack) mine that deals 400% damage. Chance to drop starts at 15% and increases with low health.
 Tier: Uncommon
@@ -1873,7 +1901,7 @@ Estimated Delivery:
 
 
 
-Predatory Instincts
+Name: Predatory Instincts
 Pickup Text: Critical strikes increase attack speed. Buff stacks 5 times.
 Full Description: Gain 5% critical chance. Critical strikes increase attack speed by 10% (+7% per stack). Maximum cap of 30% (+21% per stack) attack speed.
 Tier: Uncommon
@@ -1901,7 +1929,7 @@ Estimated Delivery:
 
 
 
-Royal Medallion
+Name: Royal Medallion
 Pickup Text: Bosses drop powerful buffing wisps when hit.
 Full Description: 10% chance on hitting a boss monster to drop a buffing wisp that improves health regen, attack speed, move speed, and base damage for 10 (+6 per stack) seconds.
 Tier: Uncommon
@@ -1929,7 +1957,7 @@ Estimated Delivery:
 
 
 
-Prophet's Cape
+Name: Prophet's Cape
 Pickup Text: All blocked damage heals you.
 Full Description: Briefly blocks all incoming damage upon being struck (Recharging after 15 seconds). Blocking damage heals you for 3 (+1 per stack) health.
 Tier: Uncommon
@@ -1957,7 +1985,7 @@ Estimated Delivery:
 
 
 
-Locked Jewel
+Name: Locked Jewel
 Pickup Text: Activating an interactable grants barrier and gold.
 Full Description: Activating an interactable heals 35% (+15% per stack) of your maximum barrier and grants $8 (scales with time).
 Tier: Uncommon
@@ -1985,7 +2013,7 @@ Estimated Delivery:
 
 
 
-Hunter's Harpoon
+Name: Hunter's Harpoon
 Pickup Text: Killing an enemy grants a temporary burst of speed.
 Full Description: Killing an enemy increases movement speed by 125% for 1 (+1 per stack) second. Consecutive kills increase buff duration for up to 25 seconds.
 Tier: Uncommon
@@ -2013,7 +2041,7 @@ Estimated Delivery:
 
 
 
-Insecticide
+Name: Insecticide
 Pickup Text: Chance to apply damage over time. Heal if the enemy dies.
 Full Description: 10% (+5% per stack) chance on hit to spray an enemy dealing 10% damage per second. Spray stacks up to 10 times. Killing enemies heals for 10 (+5 per spray stack) health.
 Tier: Uncommon
@@ -2041,7 +2069,7 @@ Estimated Delivery:
 
 
 
-Decaying Sample
+Name: Decaying Sample
 Pickup Text: Gain an orbiting follower that damages enemies.
 Full Description: Gain two orbiting spheres that strike for 100% (+ 50% stack) damage every 0.25 seconds.
 Tier: Uncommon
@@ -2070,7 +2098,7 @@ Estimated Delivery:
 
 
 
-Thallium
+Name: Thallium
 Pickup Text: Chance to slow and damage enemies over time.
 Full Description: 10% (+10% per stack) chance on hit to damage by up to 2x60% enemy damage per second and slow for up to -150% movement speed over the course of 3 seconds.	
 Tier: Legendary
@@ -2098,7 +2126,7 @@ Estimated Delivery:
 
 
 
-Tesla Coil
+Name: Tesla Coil
 Pickup Text: Passively shock nearby enemies.
 Full Description: Passively shock nearby enemies for 120% (+60% per stack) damage.
 Tier: Legendary
@@ -2126,7 +2154,7 @@ Estimated Delivery:
 
 
 
-Old Box
+Name: Old Box
 Pickup Text: Chance when damaged to drop a jack-in-the-box, fearing enemies.
 Full Description: Chance when damaged to drop a jack-in-the-box, fearing enemies for 2 (+1 per stack) seconds. Chance to drop starts at 10% and increases with low health.
 Tier: Legendary
@@ -2154,7 +2182,7 @@ Estimated Delivery:
 
 
 
-Beating Embryo
+Name: Beating Embryo
 Pickup Text: Equipment has a chance to have double the effect.
 Full Description: Equipment has a 30% (+30% per stack) chance to deal double the effect.
 Tier: Legendary
@@ -2184,7 +2212,7 @@ Estimated Delivery:
 
 
 
-Permafrost
+Name: Permafrost
 Pickup Text: Chance on hit to freeze enemies while also slowing.
 Full Description: Chance on hit to freeze enemies while also slowing.
 Tier: Legendary
@@ -2212,7 +2240,7 @@ Estimated Delivery:
 
 
 
-AtG Missile Mk. 2
+Name: AtG Missile Mk. 2
 Pickup Text: Hooah.
 Full Description: 7% (+7% per stack) chance on hit to fire three missiles that deal 3x200% TOTAL damage.
 Tier: Legendary
@@ -2241,7 +2269,7 @@ Estimated Delivery:
 
 
 
-Happiest Mask
+Name: Happiest Mask
 Pickup Text: Killed enemies spawn friendly ghosts.
 Full Description: Killed enemies spawn ghosts that last 15 seconds with 100% (+20% per stack) health and 70% (+30% per stack) damage.
 Tier: Legendary
@@ -2271,7 +2299,7 @@ Estimated Delivery:
 
 
 
-Plasma Chain
+Name: Plasma Chain
 Pickup Text: Chance on hit to tether onto up to 1 enemy, dealing damage to any enemies in the path.
 Full Description: Chance on hit to tether onto up to 1 (+1 per stack) enemy dealing 60% damage per 0.5 seconds to any enemies in the path.
 Tier: Legendary
@@ -2301,7 +2329,7 @@ Estimated Delivery:
 
 
 
-Heaven Cracker
+Name: Heaven Cracker
 Pickup Text: Every 4 basic attacks pierce through enemies.
 Full Description: Every 4 (-1 per stack) basic attacks pierce through enemies.
 Tier: Legendary
@@ -2332,7 +2360,7 @@ Estimated Delivery:
 
 
 
-Rapid Mitosis
+Name: Rapid Mitosis
 Pickup Text: Reduce the cooldown of equipment.
 Full Description: Reduce the cooldown of equipment by 25% (+25% per stack).
 Tier: Legendary
@@ -2362,7 +2390,7 @@ Estimated Delivery:
 
 
 
-Ceremonial Dagger
+Name: Ceremonial Dagger
 Pickup Text: Killing an enemy fires spirit bolts.
 Full Description: Killing an enemy fires out 4 (+2 per stack) heat seaking bolts that deal 100% damage.
 Tier: Legendary
@@ -2390,7 +2418,7 @@ Estimated Delivery:
 
 
 
-Repulsion Armor
+Name: Repulsion Armor
 Pickup Text: After taking damage, reflect all attacks for 4 seconds.
 Full Description: After 6 hits reflect incoming attacks for 400% damage and increase armor by 100 for 4 (+1 per stack) seconds.
 Tier: Legendary
@@ -2418,7 +2446,7 @@ Estimated Delivery:
 
 
 
-Brilliant Behemoth
+Name: Brilliant Behemoth
 Pickup Text: All your attacks explode!
 Full Description: All your attacks explode for a bonus 20% (+20% per stack) TOTAL damage to nearby enemies.
 Tier: Legendary
@@ -2451,7 +2479,7 @@ Estimated Delivery:
 
 
 
-Hardlight Afterburner
+Name: Hardlight Afterburner
 Pickup Text: Add 2 extra charges of your Utility skill. Reduce Utility skill cooldown.
 Full Description: Add +2 (+2 per stack) charges of your Utility skill. Reduces Utility skill cooldown by 33%.
 Tier: Legendary
@@ -2481,7 +2509,7 @@ Estimated Delivery:
 
 
 
-Interstellar Desk Plant
+Name: Interstellar Desk Plant
 Pickup Text: Sprout a tree on kill, granting healing fruits.
 Full Description: Upon killing an enemy, spawn an alien plant that heals you for 3% of your maximum health and recharges after 4 seconds. Plant lasts 15 (+5 per stack) seconds.
 Tier: Legendary
@@ -2514,7 +2542,7 @@ Estimated Delivery:
 
 
 
-Laser Turbine
+Name: Laser Turbine
 Pickup Text: Using skills charges up to a huge laser blast.
 Full Description: Using skills charges the generator by 7.8% (+7.8% per stack) per second. At full power, fire a laser for 2000% damage.
 Tier: Legendary
@@ -2542,7 +2570,7 @@ Estimated Delivery:
 
 
 
-Wicked Ring
+Name: Wicked Ring
 Pickup Text: Critical strikes reduce all your cooldowns by 1.
 Full Description: Gain 5% (+10% per stack) critical chance. Critical strikes reduce cooldowns by 1 second.
 Tier: Legendary
@@ -2572,7 +2600,7 @@ Estimated Delivery:
 
 
 
-Alien Head
+Name: Alien Head
 Pickup Text: Reduces cooldowns for your skills.	
 Full Description: Decrease your skill cooldowns by 30% (+30% per stack).
 Tier: Legendary
@@ -2602,7 +2630,7 @@ Estimated Delivery:
 
 
 
-The Ol' Lopper
+Name: The Ol' Lopper
 Pickup Text: Enemies take more damage at lower health.
 Full Description: Deal bonus damage to enemies with lower health, up to +60% (+60% per stack) damage.
 Tier: Legendary
@@ -2632,7 +2660,7 @@ Estimated Delivery:
 
 
 
-The Hit List
+Name: The Hit List
 Pickup Text: Killing marked enemies permanently increases damage.
 Full Description: Randomly marks up to 1 (+1 per stack) enemy. Killing a marked enemy permanently increases damage by 0.5, up to 20 damage.
 Tier: Legendary
@@ -2668,7 +2696,7 @@ Estimated Delivery:
 
 
 
-Photon Jetpack
+Name: Photon Jetpack
 Pickup Text: No hands.
 Full Description: Hold the jump button to fly for up to 1.6 (+0.8 per stack) seconds. Recharges over 1.6 seconds.
 Tier: Legendary
@@ -2696,7 +2724,7 @@ Estimated Delivery:
 
 
 
-Shattering Justice
+Name: Shattering Justice
 Pickup Text: Reduce enemy armor on hit. Reduction stacks 5 times.
 Full Description: Attacks reduce enemy armor by 6 for 2 (+2 per stack) seconds. Reduction stacks up to -30 armor.
 Tier: Legendary
@@ -2724,7 +2752,7 @@ Estimated Delivery:
 
 
 
-Telescopic Sight
+Name: Telescopic Sight
 Pickup Text: Chance to instantly kill an enemy.
 Full Description: 1% (+0.5% per stack) chance on hit to instantly kill enemies. Does not work against bosses.
 Tier: Legendary
@@ -2754,7 +2782,7 @@ Estimated Delivery:
 
 
 
-Fireman's Boots
+Name: Fireman's Boots
 Pickup Text: Fight fire with fire...
 Full Description: Walking leaves behind a fire trail that burns for 35% (+20% per stack) damage.
 Tier: Legendary
@@ -2785,7 +2813,7 @@ Estimated Delivery:
 
 
 
-Hyper-Threader
+Name: Hyper-Threader
 Pickup Text: Pew pew.
 Full Description: Hitting enemies fires a laser that deals 40% damage and bounces to 2 (+1 per stack) enemies.
 Tier: Legendary
@@ -2815,7 +2843,7 @@ Estimated Delivery:
 
 
 
-Dio's Best Friend
+Name: Dio's Best Friend
 Pickup Text: Cheat death once.
 Full Description: Taking fatal damage consumes this item and revives you with 40% health and 2 seconds of invulnerability.
 Tier: Legendary
@@ -2843,7 +2871,7 @@ Estimated Delivery:
 
 
 
-Ancient Scepter
+Name: Ancient Scepter
 Pickup Text: Upgrade your special skill.
 Full Description: Upgrade your special skill. Unique to each character. Reduces special skill cooldown by 30% per stack.
 Tier: Legendary
@@ -2873,7 +2901,7 @@ Estimated Delivery:
 
 
 
-Bottled Chaos
+Name: Bottled Chaos
 Pickup Text: Using your Equipment triggers an additional, random Equipment effect.
 Full Description: Activating an Equipment triggers a random equipment effect 1 (+1 per stack) time(s).
 Tier: Legendary
@@ -2899,7 +2927,7 @@ Estimated Delivery:
 
 
 
-Aegis
+Name: Aegis
 Pickup Text: Healing past full grants you a temporary barrier. Increased maximum barrier.
 Full Description: Healing past full grants you barrier equal to 50% (+50% per stack) of the amount you healed. Increases maximum barrier by 20% (+20% per stack).
 Tier: Legendary
@@ -2928,7 +2956,7 @@ Estimated Delivery:
 
 
 
-Substandard Duplicator
+Name: Substandard Duplicator
 Pickup Text: Picked up items yield an additional temporary copy.
 Full Description: Picking up an item gives you a temporary copy of itself. Temporary items last an additional 10 (+10 per stack) seconds
 Tier: Legendary
@@ -2958,7 +2986,7 @@ Estimated Delivery:
 
 
 
-Classified Access Codes
+Name: Classified Access Codes
 Pickup Text: Access a deadly weapon against the Teleporter bosses.
 Full Description: The Atlas Cannon appears each stage, activating it deals 40% (+20% per stack) of maximum health as damage to the teleporter boss after it spawns.
 Tier: Legendary
@@ -2989,7 +3017,7 @@ Estimated Delivery:
 
 
 
-Umbrella
+Name: Umbrella
 Pickup Text: They fear the rain.
 Full Description: Rain begins for 15 seconds (increases per stack) upon activating the Teleporter. Rain stuns, damages, and weakens enemies. You are invincible while it is raining.
 Tier: Legendary
@@ -3020,7 +3048,7 @@ Estimated Delivery:
 
 
 
-Rotten Brain
+Name: Rotten Brain
 Pickup Text: Throw a bouncing brain.
 Full Description: Throw a brain that bounces in place, damaging/slowing enemies for 6x200%.
 Tier: Equipment
@@ -3049,7 +3077,7 @@ Estimated Delivery:
 
 
 
-Safeguard Lantern
+Name: Safeguard Lantern
 Pickup Text: Drop a lantern that fears and damages enemies for 10 seconds.
 Full Description: Drop a lantern for 10 seconds. Fears and damages enemies for 100% damage.
 Tier: Equipment
@@ -3078,7 +3106,7 @@ Estimated Delivery:
 
 
 
-Snowglobe
+Name: Snowglobe
 Pickup Text: Randomly freeze enemies for 8 seconds.
 Full Description: Summon a snowstorm that freezes monsters at a 50% chance/sec over 7 seconds.
 Tier: Equipment
@@ -3107,7 +3135,7 @@ Estimated Delivery:
 
 
 
-Skeleton Key
+Name: Skeleton Key
 Pickup Text: Unlocks all chests within 20 meters.
 Full Description: Open all chests within 20 meters.
 Tier: Equipment
@@ -3138,7 +3166,7 @@ Estimated Delivery:
 
 
 
-Foreign Fruit
+Name: Foreign Fruit
 Pickup Text: Heal on use.
 Full Description: Heal yourself for 50% of your health.
 Tier: Equipment
@@ -3169,7 +3197,7 @@ Estimated Delivery:
 
 
 
-Instant Minefield
+Name: Instant Minefield
 Pickup Text: Drop many mines at your feet.
 Full Description: Drop 7 mines at your feet, each dealing 400% damage.
 Tier: Equipment
@@ -3200,7 +3228,7 @@ Estimated Delivery:
 
 
 
-Jar of Souls
+Name: Jar of Souls
 Pickup Text: Summon a ghost for every enemy in the screen.
 Full Description: Duplicate every enemy as a ghost to fight on your side. Ghosts last 15 seconds and have 70% damage.
 Tier: Equipment
@@ -3229,7 +3257,7 @@ Estimated Delivery:
 
 
 
-Carrara Marble
+Name: Carrara Marble
 Pickup Text: Place a marble gate. Teleport back to the gate by activating again.
 Full Description: Place a marble gate. Teleport back to the gate by activating again.
 Tier: Equipment
@@ -3260,7 +3288,7 @@ Estimated Delivery:
 
 
 
-Sawmerang
+Name: Sawmerang
 Pickup Text: Mow them down!
 Full Description: Throw out a sawmerang, slicing enemies for 500% damage and making them bleed for 4x100% damage. Boomerangs back.
 Tier: Equipment
@@ -3289,7 +3317,7 @@ Estimated Delivery:
 
 
 
-Shattered Mirror
+Name: Shattered Mirror
 Pickup Text: Create a shadow partner for 15 seconds.
 Full Description: For 15 seconds, double all your abilities' damage and effects.
 Tier: Equipment
@@ -3318,7 +3346,7 @@ Estimated Delivery:
 
 
 
-Disposable Missile Launcher
+Name: Disposable Missile Launcher
 Pickup Text: Fire a swarm of missiles.
 Full Description: Fire a swarm of 12 missiles, dealing 200% damage each.
 Tier: Equipment
@@ -3349,7 +3377,7 @@ Estimated Delivery:
 
 
 
-Gold-Plated Bomb
+Name: Gold-Plated Bomb
 Pickup Text: Drop and detonate 50% of your money.
 Full Description: Use 50% of your gold to create a bomb, dealing 1 damage per gold spent. Refund 20% of spent gold on kill.
 Tier: Equipment
@@ -3378,7 +3406,7 @@ Estimated Delivery:
 
 
 
-Drone Repair Kit
+Name: Drone Repair Kit
 Pickup Text: Repair and empower all active drones. Summons a unique drone to assist.
 Full Description: All drones are repaired to full health and empowered for 8 seconds. Summons a unique drone.
 Tier: Equipment
@@ -3407,7 +3435,7 @@ Estimated Delivery:
 
 
 
-Thqwib
+Name: Thqwib
 Pickup Text: Releases a bloom of Thqwibs, detonating on impact.
 Full Description: Release a bloom of 30 thqwibs, detonating on impact for 200% damage.
 Tier: Equipment
@@ -3438,7 +3466,7 @@ Estimated Delivery:
 
 
 
-Dynamite Plunger
+Name: Dynamite Plunger
 Pickup Text: Hitting enemies drops dynamite. Use to detonate.
 Full Description: Hitting an enemy drops dynamite. Use to detonate for 200% damage.
 Tier: Equipment
@@ -3467,7 +3495,7 @@ Estimated Delivery:
 
 
 
-Mace Replica
+Name: Mace Replica
 Pickup Text: Swing a powerful mace, activating your item effects.
 Full Description: Swing a powerful mace for 250% damage, knocking enemies away. Guaranteed to activate all on-hit item effects.
 Tier: Equipment
@@ -3498,7 +3526,7 @@ Estimated Delivery:
 
 
 
-Gigantic Amethyst
+Name: Gigantic Amethyst
 Pickup Text: Resets all your cooldowns.	
 Full Description: Reset all your cooldowns.
 Tier: Equipment
@@ -3528,7 +3556,7 @@ Estimated Delivery:
 
 
 
-Crudely-Drawn Buddy
+Name: Crudely-Drawn Buddy
 Pickup Text: Drop a decoy, attracting nearby enemies.
 Full Description: Blow up a decoy, attracting and confusing enemies for 8 seconds. Looks just like you.
 Tier: Equipment
@@ -3558,7 +3586,7 @@ Estimated Delivery:
 
 
 
-Prescriptions
+Name: Prescriptions
 Pickup Text: Increase damage and attack speed for 8 seconds.
 Full Description: Increase damage by 30% and attack speed by 40% for 8 seconds.
 Tier: Equipment
@@ -3591,7 +3619,7 @@ Estimated Delivery:
 
 
 
-Shield Generator
+Name: Shield Generator
 Pickup Text: Become invulnerable for 8 seconds.
 Full Description: Become invincible for 8 seconds.
 Tier: Equipment
@@ -3620,7 +3648,7 @@ Estimated Delivery:
 
 
 
-Unstable Watch
+Name: Unstable Watch
 Pickup Text: Pause time for 7 seconds.
 Full Description: Stop time for 7 seconds.
 Tier: Equipment
@@ -3650,7 +3678,7 @@ Estimated Delivery:
 
 
 
-Lost Doll
+Name: Lost Doll
 Pickup Text: Harm yourself to deal massive damage to an enemy.
 Full Description: Sacrifice 25% health to damage an enemy for 400% of your maximum health.
 Tier: Equipment
@@ -3684,7 +3712,7 @@ Estimated Delivery:
 
 
 
-Pillaged Gold
+Name: Pillaged Gold
 Pickup Text: For 14 seconds, hitting enemies causes them to drop gold.
 Full Description: For 14 seconds, every hit drops gold.
 Tier: Equipment
@@ -3715,7 +3743,7 @@ Estimated Delivery:
 
 
 
-Captain's Brooch
+Name: Captain's Brooch
 Pickup Text: One man's wreckage is another man's treasure.	
 Full Description: Call down a chest nearby. Chest cost is doubled.	
 Tier: Equipment
@@ -3746,7 +3774,7 @@ Estimated Delivery:
 
 
 
-The Back-Up
+Name: The Back-Up
 Pickup Text: Call drones for backup. Lasts 10 seconds.
 Full Description: Create 4 drones to fight for you for 10 seconds.	
 Tier: Equipment
@@ -3775,7 +3803,7 @@ Estimated Delivery:
 
 
 
-Super Massive Leech
+Name: Super Massive Leech
 Pickup Text: Grant massive life on hit for 10 seconds.
 Full Description: For 10 seconds, every hit heals you for 9 health.
 Tier: Equipment
@@ -3807,7 +3835,7 @@ Estimated Delivery:
 
 
 
-Glowing Meteorite
+Name: Glowing Meteorite
 Pickup Text: Rain meteors from the sky, hurting both enemies and allies.
 Full Description: Meteors fall from the sky, damaging enemies and friends for 10% of their maximum health. Lasts 8 seconds.
 Tier: Equipment
@@ -3836,7 +3864,7 @@ Estimated Delivery:
 
 
 
-Legendary Spark
+Name: Legendary Spark
 Pickup Text: Smite them. Smite them all.
 Full Description: 8% chance on hit to create 2 (+1 per stack) sparks that smite enemies for 200% TOTAL damage.
 Tier: Boss 
@@ -3864,7 +3892,7 @@ Estimated Delivery:
 
 
 
-Imp Overlord's Tentacle
+Name: Imp Overlord's Tentacle
 Pickup Text: Cut off the head of the snake.. and the body lives on.
 Full Description: Summon an imp bodyguard. Revives after 60 (-10 per stack) seconds. Increase imp health and damage by 15% per stack.
 Tier: Boss 
@@ -3893,7 +3921,7 @@ Estimated Delivery:
 
 
 
-Burning Witness
+Name: Burning Witness
 Pickup Text: The Worm's eye seems to still see.. watching.. rewarding..
 Full Description: Killing enemies grants a fire trail and 30% movement speed for 6 (+2 per stack) seconds.
 Tier: Boss 
@@ -3922,12 +3950,11 @@ Estimated Delivery:
 
 
 
-Colossal Knurl
+Name: Colossal Knurl
 Pickup Text: Increase health, health regeneration, and armor.
 Full Description: Increase maximum health by 40, health regeneration by 1.2/second, and armor by 6.
 Tier: Boss 
-Type: 
-Class: Item
+Type: Item
 Category: Healing
 Content: BASE
 Drops From: Colossus
@@ -3952,12 +3979,11 @@ Estimated Delivery:
 
 
 
-Ifrit's Horn
+Name: Ifrit's Horn
 Pickup Text: Chance to fire a flaming wave.
 Full Description: 8% chance on hit to fire a flaming wave that incinerates enemies for 300% (+300% per stack) damage.
 Tier: Boss 
-Type: 
-Class: Item
+Type: Item
 Category: Damage
 Content: BASE
 Drops From: Ifrit
@@ -3982,12 +4008,11 @@ Estimated Delivery:
 
 
 
-Nematocyst Nozzle
+Name: Nematocyst Nozzle
 Pickup Text: Best served cold.
 Full Description: Shoot out 6 nematocysts that deal 400% damage.
 Tier: Boss 
-Type: 
-Class: Equipment
+Type: Equipment
 Category: Damage
 Cooldown: 23
 Content: BASE
@@ -4013,12 +4038,11 @@ Estimated Delivery:
 
 
 
-Evolved Nematocyst Nozzle
+Name: Evolved Nematocyst Nozzle
 Pickup Text: Cnidarian delicacy.
 Full Description: Shoot out 9 nematocysts that deal 400% damage.
 Tier: Boss 
-Type: 
-Class: Equipment
+Type: Equipment
 Category: Damage
 Cooldown: 23
 Content: RTRN
@@ -4044,12 +4068,11 @@ Estimated Delivery:
 
 
 
-Scorching Shell Piece
+Name: Scorching Shell Piece
 Pickup Text: Gain shield. Fire a barrage of projectiles when it breaks.
 Full Description: Gain a 20 (+20 per stack) health shield. Fire up to 4 (+2 per stack) projectiles at nearby enemies when it breaks.
 Tier: Boss 
-Type: 
-Class: Item
+Type: Item
 Category: Damage / Utility
 Content: RTRN
 Drops From: Cremator
@@ -4074,12 +4097,11 @@ Estimated Delivery:
 
 
 
-Lost Pickaxe
+Name: Lost Pickaxe
 Pickup Text: Scorching from beyond.
 Full Description: 15% (+10% per stack) chance on hit to summon a pickaxe that deals 220% TOTAL damage and pierces enemies.
 Tier: Boss 
-Type: 
-Class: Item
+Type: Item
 Category: Damage
 Content: RTRN
 Drops From: Direseeker
@@ -4114,7 +4136,7 @@ Survivors
 
 
 
-Commando
+Name: Commando
 Health: 110 (+32 per lvl)
 Regen: 0.60 (+0.12 per lvl)
 Damage: 12 (+3 per lvl)
@@ -4150,7 +4172,7 @@ Contractor equipped with Standard MARCH Mk. II Commando armor. Built for light r
 
 
 
-Huntress
+Name: Huntress
 Health: 90 (+32 per lvl)
 Regen: 0.60 (+0.12 per lvl)
 Damage: 12 (+3 per lvl)
@@ -4185,7 +4207,7 @@ Passenger boarded with Agile-Class Hunter armor. Warp drives were aged, but only
 
 
 
-Enforcer
+Name: Enforcer
 Health: 119 (+34 per lvl)
 Regen: 1.20 (+0.12 per lvl)
 Damage: 12 (+3 per lvl)
@@ -4221,7 +4243,7 @@ Officer boarded with 2055 Heavy-SWAT variant police gear, an SDN standardized au
 
 
 
-Bandit
+Name: Bandit
 Health: 115 (+34 per lvl)
 Regen: 1.20 (+0.15 per lvl)
 Damage: 12 (+3.5 per lvl)
@@ -4250,7 +4272,7 @@ Occupant appears to have hidden in cargo bay for potentially weeks since the poi
 
 
 
-HAN-D
+Name: HAN-D
 Health: 120 (+44 per lvl)
 Regen: 1.80 (+0.18 per lvl)
 Damage: 13 (+3 per lvl)
@@ -4271,7 +4293,7 @@ Lost manual for HAN-D bot. We've had it around for a long time, I don't see any 
 
 
 
-Engineer
+Name: Engineer
 Health: 120 (+34 per lvl)
 Regen: 0.90 (+0.18 per lvl)
 Damage: 12 (+3 per lvl)
@@ -4308,7 +4330,7 @@ Passenger boarded with a modified CronTech cybernetic enhancement suit. Attached
 
 
 
-Miner
+Name: Miner
 Health: 118 (+36 per lvl)
 Regen: 1.20 (+0.15 per lvl)
 Damage: 12 (+3.20 per lvl)
@@ -4342,7 +4364,7 @@ Passenger boarded with a weather-emergency graded exosuit and standardized heat 
 
 
 
-Sniper
+Name: Sniper
 Health: 119 (+33 per lvl)
 Regen: 1.20 (+0.24 per lvl)
 Damage: 15 (+4 per lvl)
@@ -4378,7 +4400,7 @@ Soldier boarded with a standard military reconnaissance personnel uniform, a 205
 [Note S1b] Contact Light personnel has been instructed by the Deimos military to delete records of additional hardware loaded alongside their soldier.
 
 
-Acrid
+Name: Acrid
 Health: 114 (+36 per lvl)
 Regen: 0.6 (+0.24 per lvl)
 Damage: 12 (+3 per lvl)
@@ -4408,7 +4430,7 @@ Estimated Delivery:
 
 
 
-Mercenary
+Name: Mercenary
 Health: 122 (+36 per lvl)
 Regen: 2.4 (+0.18 per lvl)
 Damage: 12 (+3 per lvl)
@@ -4445,7 +4467,7 @@ Passenger boarded with a Tacton branded YMI armorset and a high-velocity vibrobl
 
 
 
-Loader
+Name: Loader
 Health: 115 (+40 per lvl)
 Regen: 2.4 (+0.3 per lvl)
 Damage: 10 (+3 per lvl)
@@ -4483,7 +4505,7 @@ Each UES loader-class employee comes equipped with a state-of-the-art titanium e
 
 
 
-CHEF
+Name: CHEF
 Health: 115 (+35 per lvl)
 Regen: 0.6 (+0.24 per lvl)
 Damage: 12 (+3 per lvl)
@@ -4510,7 +4532,7 @@ Thank you for purchasing the CHEF Model-A robotic kitchen assistant! Automated c
 
 
 
-Pilot
+Name: Pilot
 Health: 100 (+25 per lvl)
 Regen: 0.6 (+0.12 per lvl)
 Damage: 12 (+4 per lvl)
@@ -4546,7 +4568,7 @@ United Enterprise Shipping invites pilots from across the known universe to appl
 
 
 
-Artificer
+Name: Artificer
 Health: 110 (+32 per lvl)
 Regen: 0.6 (+0.12 per lvl)
 Damage: 12 (+3 per lvl)
@@ -4581,7 +4603,7 @@ High Court passenger equipped with standard ENV suit. Due to UES relations with 
 
 
 
-Drifter
+Name: Drifter
 Health: 120 (+32 per lvl)
 Regen: 0.6 (+0.18 per lvl)
 Damage: 13 (+3 per lvl)
@@ -4625,13 +4647,13 @@ Creatures
 
 
 
-Lemurian
+Name: Lemurian
 Health: 100
 Damage: 14
 Speed: 22 KM/H
 Mobility: Jump, Fall, Climb
-Type: 
-Class:
+Type: Enemy
+Class: Melee
 Description: Lemurians are purple anthropomorphic bipedal reptiles which stand 7 feet tall. They wear shoulder and arm plates, indicating high intelligence. Lemurians and their subspecies are common across all of Petrichor V, and appear to live in underground caverns and tunnels, from which they ambush prey. Lemurians seem to coordinate in a colony-like society, evidenced by their armor, underground logistic network, established hierarchical roles, and adoration for song and dance. They possess slender bodies covered with purple iridescent scales, and cyan accents streamlining across their inner legs, chest, and arms. Their limbs end with dull beige-colored claws. Their mouths have short, sharp fangs with brightly colored blue gums and tongues. Their eyes are bright cyan. Despite their apparent progress as an intelligent colonial faction, the regular Lemurians lack any weapons aside from their fangs, and claws, which they are not shown to use.
 Behavior: Lemurians engage the player by running towards them on land, and initiating a bite attack when in range. They can jump over ledges and climb ropes, and typically spawn in large groups, making up for their low damage and health. Due to their relatively small size, Lemurians are easily staggered by light attacks, and are easily countered by stuns or by outmaneuvering them. Lemurians are one of 4 enemies capable of climbing and attacking on ropes, the other three being Lynx Tribe, Children and Clay Men.
 Spawns: Desolate Forest, Dried Lake, Damp Caverns
@@ -4645,14 +4667,14 @@ From what I've briefly seen, they seem to enjoy song and dance.
 
 
 
-Rock Golem
+Name: Stone Golem
 Health: 300
 Damage: 34
 Speed: 10 KM/H
 Mobility: None
-Type: 
-Class:
-Description: Rock Golems are 10-foot tall humanoids comprised entirely of stone, soil, and moss. They're animated by an unknown force and are among the slowest creatures in Petrichor V. They're gentle protectors that can use their slow, but powerful bulky arms to "clap" and generate tremendous amounts of force. Rock Golems revert back to the ground when they've sustained enough damage.
+Type: Enemy
+Class: Melee
+Description: Stone Golems are 10-foot tall humanoids comprised entirely of stone, soil, and moss. They're animated by an unknown force and are among the slowest creatures in Petrichor V. They're gentle protectors that can use their slow, but powerful bulky arms to "clap" and generate tremendous amounts of force. Stone Golems revert back to the ground when they've sustained enough damage.
 Behavior: The Rock Golem is slow but tough. It has one attack, in which it claps its hands together when in melee range, dealing a great amount of damage in front of it. They cannot jump or climb but will loiter at the edge of cliffs if no survivor is in range. It is easily beaten by staying out of range or isolating it to a ledge from which it cannot reach the player, or by walking past it while its performing its sluggish, telegraphed attack. Rock golems are bulky enough to endure regular attacks, but are still susceptible to stuns.
 Spawns: Desolate Forest, Sky Meadow, Ancient Valley, Summoned by Colossus
 Content: BASE
@@ -4665,13 +4687,13 @@ Despite their powerful combat abilities, the golems are gentle to everybody but 
 
 
 
-Sand Crab
+Name: Sand Crab
 Health: 300
 Damage: 34
 Speed: 22 KM/H
 Mobility: None
-Type: 
-Class:
+Type: Enemy
+Class: Melee
 Description: The Sand Crab is a 10-foot tall brown crustacean with large light brown pincers and yellow beady eyes. It seems to hide under piles of sand and moss, digging itself in before popping up when prey is in sight. Sand Crabs possess a brown chitinous exoskeleton, usually covered in leftover moss after digging itself up from the ground. They have dark brown undersides, shifting to a deep blue hue further down their mouthparts. Their legs are short and spindly, but move dexterously enough to match the speed of a Lemurian.
 Behavior: Sand Crabs behave very similarly to Rock Golems, lacking the ability to climb rope, jump, or cross wide ledges. They attack by crushing their pincers together, dealing the same damage as a Rock Golem, with more or less the same attack speed. They're comparatively larger than Rock Golems, and therefore have a wider hitbox. As such, they're immune to light attack knockback but not stuns.
 Spawns: Dried Lake, Sunken Tomb
@@ -4683,13 +4705,13 @@ After exhausting my supplies in taking it down, I salvaged what meat I could. Ve
 
 
 
-Lesser Wisp
+Name: Lesser Wisp
 Health: 170
 Damage: 17
 Speed: 27 KM/H
 Mobility: None
-Type: 
-Class:
+Type: Enemy
+Class: Ranged
 Description: Wisps appear as black masks that are encompassed entirely by bright orange and yellow flames. Wisps are not living beings, and are instead created either deliberately by a greater entity or as a consequence of nature. They have the ability to channel their flame into a beam that erupts at a medium distance. It is suggested by Risk of Rain 2 logbook entries that all forms of Wisps are forged by a species known as Grovetenders.
 Behavior: Despite what their floating figure may suggest, Wisps are incapable of flight movement-wise. They also cannot jump or climb ropes, instead wandering around and waiting for the player to come into range. When a survivor is in its line of sight, the Wisp will expel its flame forward in a line, dealing slightly more damage than a Lemurian. The Wisp's attack can damage players relatively far away by reaching over gaps, despite not being able to cross ledges.
 Spawns: Desolate Forest, Dried Lake, Damp Caverns, Magma Barracks, summoned by Blazing Colossus, spawn on Ancient Wisp death
@@ -4701,16 +4723,16 @@ How they function is a mystery to me. While I've seen 'deactivated' masks all ar
 
 
 
-Greater Wisp
+Name: Greater Wisp
 Health: 470
 Damage: 23
 Speed: 27 KM/H
 Mobility: None
-Type: 
-Class:
+Type: Enemy
+Class: Ranged
 Description: The Greater Wisp is a larger and stronger version of the Wisp, with their flames burning a more intense and voluminous green color. Their masks are now much more skull-like in shape. In addition, they possess "arms" seemingly made from the same boney material that's made from their masks, also fully engulfed in their flames.
-Behavior:
-Spawns: 
+Behavior: Greater Wisps behave much like their lesser predecessors, being unable to cross ledges, jump, fly or climb ladders. However, they make up for it by having much more attack, and more than double the health. Their attack is largely the same as the Wisp's, only hitting harder and with roughly double the range. Being larger in size and boasting higher health, Greater Wisps are immune to light knockback, and can only be immobilized by stuns. Greater Wisps usually spawn in groups of 1-3 at a time, and always appear in pairs from the body of a slain Ancient Wisp.
+Spawns: Desolate Forest, Dried Lake, Damp Caverns
 Content: BASE
 Field Notes:
 Oh lord. These.. Greater Wisps, as I have grown to call them, are absolutely terrifying to face. Tougher then the Rock Golem, faster then the Lemurian, and harder hitting then both combined. Unlike the lesser Wisps, the Greater Wisp has two arms capable of typical motion. They burn a brilliant green which pierces straight though my sun visor.
@@ -4719,16 +4741,16 @@ Their combat abilities are unprecedented; I can be clear 200m away, and they sti
 
 
 
-Jellyfish
+Name: Jellyfish
 Health: 85
 Damage: 7
 Speed: 40 KM/H
 Mobility: Fly
-Type: 
-Class:
-Description:
-Behavior:
-Spawns: 
+Type: Enemy
+Class: Melee
+Description: The Jellyfish bears much resemblance to real-life jellyfish, with a few distinguishing differences. The translucent body of the Jellyfish houses a human-looking brain, from which their tentacles are connected from. The existence of a brain in the jellyfish may suggest intelligence, sentience, or sapience. It is unknown if it possesses any of those qualities. Instead of producing venom, Jellyfish administer electrostatic shocks. Finally, Jellyfish fly through the air using gases they absorb from the ground and convert to energy to propel themselves.
+Behavior: The Jellyfish is always seen flying in from the corner of the screen, usually from a diagonal angle that is above the survivor. It makes a beeline straight towards their target and gain a burst of speed when within close proximity to the player. Jellyfish then try their best to stay as close to the player as possible, dealing low but continuous damage on contact. Unlike creatures of similar mass to the Jellyfish, they cannot be knocked back by light attacks. they can only be knocked back with stuns.
+Spawns: Desolate Forest, Dried Lake, Sky Meadow
 Content: BASE
 Field Notes:
 An airborne creature, capable of flight using a combination of gases in its clear hull. Like the Jellyfish on earth, they also use pulsation to aid in locomotion; however, rather than a series of tentacles, they have two branches' made of many tentacles wrapped around themselves.
@@ -4737,49 +4759,49 @@ Also like the Jellyfish, they have quite the sting, capable of penetrating my we
 
 
 
-Trokk
+Name: Trokk
 Health: 300
 Damage: 18
 Speed: 15 KM/H
 Mobility: Teleport
-Type: 
-Class:
-Description:
-Behavior:
-Spawns: 
+Type: Enemy
+Class: Melee
+Description: Trokks are unusual soft-tissued arthropod creatures that resemble tall stone pillars. They either repurpose natural rock, soil, and sediment into camouflage and armor, or somehow develop tough stone-like exoskeletons naturally. Aside from their rocky exterior, they possess a singular glowing horizontal slit-eye at the base of their bodies, where their four insectoid legs are present. Trokks are ambush predators, waiting for prey to get close to them before quickly burrowing underground and appearing below them to crush them with their two massive mandibles. They apparently lack a digestive system, with their long mandibles measuring several times their base body size. If not for sustenance, it is unknown what purpose Trokks have for hunting prey. While not after prey, Trokks move extremely slowly, only slightly faster than the Bramble, presumably due to the sheer weight of their outward shell.
+Behavior: When the player is distant, Trokks will bury beneath the ground and reappear close to the player and bite them. Trokks will attempt to predict player movement when burrowing, and appear slightly in front of whatever direction they're moving. They do not naturally have a "hidden" state, like Tubers, which when paired with the Trokk's extremely sluggish method of attack, makes them extremely predictable. Trokks possess the same health as a Rock Golem, and are immune to staggers when not performing their attacks. This means that Trokks are most dangerous when the player is distracted, such as when dealing with a horde or a boss.
+Spawns: Desolate Forest
 Content: RTRN
 Field Notes:
 While resting in the shade of a massive tree, I was startled at what I thought was an earthquake. The ground shifted beneath my feet and I was suddenly thrown into the air. Beneath me was the gaping maw of a Trokk, and if I weren't already gripping my pistol it would've crushed me into sheet metal. Beyond the stone exterior of this strange walking log is some kind of vulnerable flesh like the inside of an alligator's mouth. With no space for a stomach I shudder at the thought of what happens to its victims.
 
 
 
-Tuber
+Name: Tuber
 Health: 300
 Damage: 17
 Speed: 29 KM/H
 Mobility: Jump, Fall
-Type: 
-Class:
-Description:
-Behavior:
-Spawns: 
+Type: Enemy
+Class: Melee
+Description: Tubers are a type of animate fungus that acquires nutrients by hunting prey in an ambush predator fashion. They are quadruped in nature and resemble an upside-down turnip in appearance. They have a unique protrusion at the top of their heads that bears three burgundy-colored spherical growths, the largest one up highest. The Tuber hunts by digging itself down until just the protrusion on its head pokes out, sporting its berry-like growths to lure prey. Once the Tuber detects prey from the seismic vibrations, it will launch out of the ground and use its powerful jaws lined with four oversized conical teeth to attack.
+Behavior: Tubers will burrow into the ground and stay in a passive state until a player comes near them. When in this state, they take half damage from all attacks and cannot be targeted by homing projectiles. This state cannot be interrupted by damaging them. Once a target enters a Tuber's range, or enough time has passed without one, it will leap out of the ground and lunge towards them to attack. Once uprooted, Tubers will behave similarly to Rock Golems or Sand Crabs, moving towards survivors and attacking once in range. In this state, they cannot be staggered but can be stunned.
+Spawns: Dried Lake, Damp Caverns
 Content: RTRN
 Field Notes:
 The Tuber is reminiscent of the small plants I cared for back on the ship, Nestling themselves deep in the ground, they hide from prey and wait for vibrations to initiate their fanged attack. Like fighting a giant antlion, sometimes the best strategy was to lure them out by tossing spent magazines. I tried stones and other bait, but their responses to the bait seemed dependant on some unseen quality. The behavior of the beasts on the planet continue to concern me I feel like all eyes are on me despite how natural these animals seem from a distance.
 
 
 
-Mushrum
+Name: Mushrum
 Health: 160
 Damage: 17
 Speed: 22 KM/H
 Mobility: None
-Type: 
-Class:
-Description:
-Behavior:
-Spawns: BASE
-Content:
+Type: Enemy
+Class: Melee? Ranged?
+Description: Mushrums are an overgrown bipedal species of fungus. Their stalk and gills are an earth dark brown color, with their caps bearing a reddish-orange wet texturing. Mushrums possess false eyes on their stalks meant to intimidate and scare away potential predators. They emit massive clusters of poisonous purple spores to then feed on the dead matter by planting their feet and feeding on it via their mycelium.
+Behavior: The Mushrum, upon seeing a player, will begin to move towards them slowly. when within range, the Mushrum will hunch down towards the ground and shake off a cloud of purple spores, dealing constant damage and obscuring the player's view. The Mushrum cannot jump or climb, making them easy to outmaneuver.
+Spawns: Damp Caverns
+Content: BASE
 Field Notes:
 I have arrived in an even stranger land. After recovering from my sudden.. teleportation, I noticed that my suit was flashing warnings about air filtration. All across the landscape were giant fungi, some as tall as trees.
 
@@ -4789,16 +4811,16 @@ While sentient, these mushrums were not very intelligent. It had what looked lik
 
 
 
-Spitter
+Name: Spitter
 Health: 240
 Damage: 19
 Speed: 18 KM/H
 Mobility: None
-Type: 
-Class:
-Description:
-Behavior:
-Spawns: 
+Type: Enemy
+Class: Ranged
+Description: Spitters are creatures unlike any other on Petrichor V, instead resembling artificially created organisms or perhaps purposed scavengers made to dispose of toxic waste or carrion. Spitters are pale beige bipedal aberrations, possessing 4 limbs, two for walking, each terminating in three sharp digits, excepting the upper “arms” which have opposable sharp thumbs as well. They possess a large head with no neck, which splits in half vertically to reveal their mouth, lined with stout pointed teeth. The head has two large circular yellow eyes on both sides opposite of the mouth. Spitters sport orange-brown colored lines upon their back, and their extremities are stained with a darker shade of drab green, presumably from rummaging through the toxic bile, sewage or biological waste they filter through. In addition, Spitters have a relatively short tail, reaching half their body height when fully extended. Whether this tail is prehensile, or even has a purpose, is unknown. Lastly, like their name implies, Spitters are able to reel their bodies backward thanks to their cartilaginous middle skeletal structure, and by violently lashing forward and gnashing their teeth together, spit and subsequently detonate the bile expelled from their mouth.
+Behavior: Spitters have below average stats, and don’t possess good mobility, lacking the ability to climb ropes, cross ledges, or jump, but they’re some of the few enemies capable of directly aiming at the player from range in any angle via their spit attack. Despite their immobility, Spitters can still remain dangerous over large distances, ledges, and elevation differences. Aside from their freedom over open areas and sight-lines, Spitters attack incredibly slowly between each attack instance, they are susceptible to stuns and staggers whilst not charging up their spitting attack. In clusters, Spitters pose a much larger threat. By lowering the amount of time between every attack, a group of Spitters can quickly overwhelm players with sheer area denial.
+Spawns: Damp Caverns, Hive Cluster
 Content: BASE
 Field Notes:
 Alas, another hostile creature. This one's nature certainly betrays its precocious appearance. It even seems to be vexed by my retaliation. What a petulant fellow.
@@ -4809,16 +4831,16 @@ Post-mortem I was able to discover the source of the creature's impressive flexi
 
 
 
-Child
+Name: Child
 Health: 125
 Damage: 14
 Speed: 24 KM/H
 Mobility: Jump, Fall, Climb
-Type: 
-Class:
-Description:
-Behavior:
-Spawns: 
+Type: Enemy
+Class: Melee
+Description: Children are small humanoid beings, vaguely resembling human children. Their entire body glows a singular, warm, bright yellow color, with dark dotted accentuations lined in a semicircle formation downwards from their neck. Children lack any facial features, instead having a slight inward indentation where one’s face would be, highlighted in a brighter yellow color. Children can often be found in groups, typically “playing” or otherwise spending time with each other, but they also appear in solitude. Despite their carefree appearance and seemingly innocent aura, they are aggressive to survivors and presumably other creatures. Children seem to be able to project short, concentrated blasts of energy from their fingertips, specifically when their hands are in a “finger gun” position. This appears to be their main method of self defense and offense.
+Behavior: Children possess average stats, slightly above the Lemurian’s, boasting slightly more speed and health. When in range of the player, the Child will point in a finger-gun fashion and shoot a point-blank range blast with an average cooldown. Children are susceptible to staggers and stuns, and often appear in large groups, typically along with Parents, solidifying their similarities to Lemurians as a horde-fodder enemy. Children are one of 4 enemies capable of climbing and attacking on ropes, the other three being Lynx Tribe, Lemurian and Clay Men.
+Spawns: Sky Meadow
 Content: BASE
 Field Notes:
 These small beings fill me with dread.. From a distance I can see them frolicking among the rocks- playing with the other ghostly 'children'. I don't know how else to describe them, they seem so innocent until I approach.
@@ -4827,14 +4849,14 @@ Once I am spotted it as if some wicked switch is flipped and I am their playthin
 
 
 
-Parent
+Name: Parent
 Health: 315
 Damage: 15
 Speed: 24 KM/H
 Mobility: Jump, Fall
-Description:
-Behavior:
-Spawns: 
+Description: Parents are tall, imposing humanoids. Their entire figure glows a white bright yellow color, with dark red cavities pierced in a semicircle formation downwards on their chest. Parents have an exaggerated upper body, with their shoulders tapering off straight down from their "head", which lacks a neck, and instead consists of a tall top-rounded tube shape with a pitch black vertical line slitting across their head, outlined by an intense red color. Their forearms are massive, ending in hulking four-digit hands, both of which they use to smash the ground with. Parents bear a pronounced ribcage outline, casting a heavy shadow on their midsection. Curiously, they also possess a linea alba leading down to a navel. Despite this, their life cycle resemble nothing that of a human's, let alone any known carbon based lifeform's. Parents are surrounded by a constant heaving shine, trailing upwards in sharp lines.
+Behavior: Parents are faster than the average tank and heavy hitter enemies. They slam their fists down to the ground on a medium cooldown, in a wide area in front of them. They are faster and slightly tougher than Sand Crabs, but possess a significantly lower damage stat. Parents can jump, but not climb ropes or fall off of ledges. This makes them particularly lacking in vertical reach, despite their tall stature. Climbing up a rope effectively neutralizes any Parent attack coming one's way.
+Spawns: Sky Meadow, Hive Cluster
 Content: BASE
 Field Notes:
 A deadly force, they rush at me mad with grief and rage. Parents will slam the ground; their only aim to crush the butcher of their offspring. Their powerful blows open great lashes in the quaking ground.
@@ -4843,14 +4865,14 @@ Though my guilt almost stays my hand, I cannot let them keep me from surviving t
 
 
 
-Imp
+Name: Imp
 Health: 310
 Damage: 13
 Speed: 25 KM/H
 Mobility: Jump, Fall, Teleport
-Description:
-Behavior:
-Spawns: 
+Description: Imps are mysterious vaguely humanoid entities that are a dull bluish-black in coloration, lacking a neck, with single, bright red eye embedded in a gaping hole slit vertically where one’s head would be. Black Imps have four limbs, with the upper limbs ending in two digits and a thumb, both razor sharp and discolored in a dried blood red. Their lower legs aren’t used in a traditional sense, instead floating above the ground with ominous red particles trailing off their extremities. Their “head” breaks off at the top into two points, resembling horns, albeit made from the same material as the rest of their body. These appendages can be interpreted as sensory organs, or balancing receptors responsible for keeping them balanced while they’re afloat. Black Imps have the ability to fade away and materialize in a different location, instantly teleporting between the two points. They use this to quickly close the distance to their enemies and rend them apart with their claws.
+Behavior: Imps have lopsided stats, boasting triple the health of a Lemurian while being slightly faster and dealing less damage per strike. Black Imps move by floating short distances to their target, or by teleporting longer distances, including from different elevations. They cannot climb ladders, but their teleportation ability allows them to move around much more efficiently than most other enemies. Black Imps quickly strike twice at a time, making their rather low damage stat misleading.
+Spawns: Damp Caverns, Sky Meadow, Sunken Tomb, summoned by the Artifact of Origin
 Content: BASE
 Field Notes:
 Oh. Fear. The Imp causes me fear, with its razor sharp talons and its one eye, locked into mine through my helmet. The Imp uses a propellant to hover above the ground, giving it superior mobility over everything.. including me.
@@ -4859,14 +4881,14 @@ Unlike the other fauna on this planet, the black imp is aggressive to all other 
 
 
 
-Clay Man
+Name: Clay Man
 Health: 140
 Damage: 11
 Speed: 22 KM/H
 Mobility: Jump, Fall, Climb
-Description:
-Behavior:
-Spawns: 
+Description: Clay Men are short humanoid beings covered entirely with jet-black tar. Their bodies vaguely resemble male human musculature, with their otherwise only other distinguishing feature being the urn on their head, which is siam-yellow colored with a single embossed gold horizontal line streaked along its middle. They wield a fully golden sword that shines with a light green sheen, and a purple gem embedded in its pommel.
+Behavior: The Clay Man moves quickly towards the player, sharply thrusting its sword forward when within attack range and dealing rather low amounts of damage, on a low cooldown. The Clay man possesses the ability to roll, allowing it to quickly cover ground in a burst of speed. However, Clay men can still be hit while rolling, and especially susceptible to stuns and staggers. Clay Men are one of 4 enemies capable of climbing and attacking on ropes, the other three being Lynx Tribe, Children and Lemurians.
+Spawns: Ancient Valley, Sunken Tomb, Temple of the Elders, Risk of Rain
 Content: BASE
 Field Notes:
 Quick with his sword and quicker with his feet; the agility of these clay 'people' is unexpected with a form so roughly shaped.
@@ -4875,14 +4897,14 @@ When faced with one of the few creatures here which I feel some humanity in, my 
 
 
 
-Mechanical Spider
+Name: Mechanical Spider
 Health: 240
 Damage: 9
 Speed: 27 KM/H
-Mobility:
-Description:
-Behavior:
-Spawns: 
+Mobility: Jump, Fall
+Description: Mechanical Spiders are four-legged mechanical constructs composed of a matte-gray metal with evident rusting and oil spillage all throughout their small form. Their jointed legs are mounted atop a small base, with a horizontal green light located below a small radar-like system. Mechanical Spiders are able to expel small bursts of heat or cold from their base, depending on the environment they inhabit.
+Behavior: Mechanical Spiders are minor pests meant to overwhelm the survivor with their numbers and fast attacks. They possess a high health stat relative to their body mass, but have extremely low damage attacks. Mechanical Spiders are unable to jump, climb ladders or fall off of ledges, but can still be interrupted with small staggers and stuns, making them especially susceptible to even regular attacks. They shoot a single projectile at a time on a low cooldown that has high range and travels along the ground in a straight line. Due to their high spawn rates, Mechanical Spiders are only really a threat when in overwhelming numbers, where their combined attacks threaten low-mobility survivors with their area denial.
+Spawns: Ancient Valley, Magma Barracks
 Content: BASE
 Field Notes:
 The malware of our age! These mechanical parasites were probably lurking on the ship before the crash. Pirates will use these bugs to collect especially valuable cargo, redirect transmission signals, or even hijack ships. Spiders can be programmed with all kinds of malicious objectives.
@@ -4891,14 +4913,14 @@ In general they are quite difficult to find and eradicate on large vessels, but 
 
 
 
-Bighorn Bison
+Name: Bighorn Bison
 Health: 430
 Damage: 17
 Speed: 27
 Mobility: None
-Description:
-Behavior:
-Spawns: 
+Description: The Saturnian Bison, also known as the Bighorn Bison, is an enormous species of Bison native to the planet Saturn. They are much larger than earth bison and live in the Ancient Valley, and in the polar opposite of that region, the Magma Barracks. The Bighorn Bison has long and shaggy brown fur, and three yellow orbs which are assumed to be eyes perched vertically atop one another on its face. It has two large, spiraling horns coming off the top of its head, and four muscular legs. The Bighorn Bison has a pattern of light-brown fur in a ring around its neck. The purpose of this is unknown; perhaps it is used for mating, or maybe to tell each other apart, like giraffe and zebra's patterns.
+Behavior: Bighorn Bison are tanky enemies with surprising mobility. They walk slowly towards survivors and after a short windup, initiate a charge attack that advances them a large distance forward, dealing heavy damage in the process. Due to their large size, Bighorn Bison can cross one-tile gaps, and by extension use their attack to cross them. They cannot cross gaps larger than 2 tiles, as they cannot jump or drop off of ledges. They cannot be staggered but may still be stunned.
+Spawns: Ancient Valley, Magma Barracks
 Content: BASE
 Field Notes:
 The teleporter nearly launched me into a steaming dung heap. I could not have anticipated such an enormous beast being the source. More impressive than their rumbling bellows is the bighorn's charge. Their many tons of muscle produce a crushing slam of horn and matted hair.
@@ -4907,28 +4929,28 @@ When they are not stampeding after me I have observed these monsters using their
 
 
 
-Swift
+Name: Swift
 Health: 105
 Damage: 12
 Speed: 72 KM/H
 Mobility: Fly
-Description:
-Behavior:
-Spawns: 
+Description: Swifts are inorganic avian creatures resembling polished cave stalactites with wings. They are a muted emerald gray in coloration and bear resemblance to Earth birds, though with a large, dart shaped pointed “beak” in place of a head. Swifts are made of a tough, extremely sharp type of rock, that is able to pierce and bore through most surfaces and materials. Swifts’ sole two limbs are their wings, making them unable to land and walk on ground. This anatomy implies that Swifts perpetually remain afloat for their entire existence, as they haven’t been observed to rest or need sustenance. Swifts’ main method of attack is by diving beak-first into their prey. Upon miss, they strike the surface with such force that their beaks embed into the ground, forcing them to wiggle their way out and back into flight again.
+Behavior: Swifts hover above the ground, passing through obstacles, and typically try to align themselves in a diagonal angle above survivors to dive towards them. Whenever a Swift hits a surface, regardless if it was successful, it’ll embed itself into the ground and be unable to act for one second, and then recover back to flight. Swifts aren’t difficult to dodge, but they’re most dangerous when the player is preoccupied with something else, such as climbing a ladder or kiting a horde/boss during a teleporter event.
+Spawns: Ancient Valley, Temple of the Elders
 Content: RTRN
 Field Notes:
 These flying stones manage to stay airborne despite their shale armor. Like a thousand darts thrown from the sun, they dive so swiftly toward me that their beaks slam into the ground. I've yet to see a surface that they cannot puncture, and I'm shocked that their beaks never seem worn. Their predictive aim is troubling, and they seem to know where I'm headed before I do. I've witnessed packs of these strange birds circling like vultures in the distant sky, though I've never witnessed any of them scavenging for food. Attempts to fashion their armor into new blades have resulted into nothing but chips in my knife.
 
 
 
-Whorl
+Name: Whorl
 Health: 230
 Damage: 17
 Speed: 22 KM/H
 Mobility: None
-Description:
-Behavior:
-Spawns: 
+Description: Whorls are an aquatic cephalopod species with a deep dark purple coloration and a light purple curled circular shell, with alternating pale cyan lines across it. They have a bright lime-green eye positioned below their shell. Rather than swimming, Whorls propel themselves through the sunken depths using gas, which seeps through the ground from various crevices and deposits littered throughout Petrichor V's oceans. Through unknown means, Whorls are able to channel a bright green focused point of energy and expel it forwards by lashing their tentacles outward, creating a powerful beam of energy.
+Behavior: Whorls have above average stats. While slightly behind in toughness compared to Sand Crabs, they attack faster, which when paired with their long range makes them a formidable foe in the Sunken Tomb. Despite their appearance and method of locomotion, Whorls cannot fly, jump, cross ledges or climb ladders. They are immune to staggers but not stuns. Whorls can be compared to a weaker Greater Wisp, having similar range but lower damage and health. Often appearing in groups, they make up for these shortcomings by being numerous and covering a lot of ground, forcing survivors to resort to constantly dodge their attacks by jumping or retreat.
+Spawns: Sunken Tomb
 Content: BASE
 Field Notes:
 Day 8. I was awoken by an abrupt collision of something hard against my suit. A volley of sensors screamed in my ears as a hairline fracture arced across my vision.
@@ -4939,54 +4961,58 @@ These carapaced organisms propel themselves with some form of gas-propulsion. De
 
 
 
-Macrobe
+Name: Macrobe
 Health: 90
 Damage: 14
 Speed: 32 KM/H
 Mobility: Jump, Fall
-Description:
-Behavior:
-Spawns: 
+Description: Macrobes are single-celled organisms that have managed to reach a massive size through biological means. Their cell barrier is adorned with short thorny hairs, and hides their color-muted innards, at the very front of which is a mouth-part resembling avian beaks composed of soft tissue. Marcobes possess two exposed, fleshy appendages at the far back end of their bodies, which split off into 2 digits. These appendages assist the Marcobe in locomotion, by weakly hopping off the ground in small strides. Their main method of traversal is swimming through water as if they were a normal-sized cell.
+Behavior: Macrobes are fragile, small enemies that can be seen as the inverse to Mechanical Spiders, denying vertical area instead of ground. They make up for their low damage and health stats with sheer numbers and having vastly improved mobility. Macrobes have the ability to make long angled jumps to then glide down slowly and damage the player on contact. In addition to this, they're able to jump normally, fall off of ledges, but cannot climb ladders. As with most low body-mass monsters, Macrobes are susceptible to both staggers and stuns. Macrobes are one of two "Macrobial Creatures" in the game, the other being the Macrobic Predator. This quality grants them a regenerating shield that must be damaged first before being able to hurt their health bar.
+Spawns: Sunken Tomb, Hive Cluster
 Content: RTRN
 Field Notes:
 Sinking into an endless lake, I was caught off-guard by these huge cellular beasts. Bounding towards me, I can almost identify their internal anatomy behind thick membranes - How is it possible that some sort of microbe could get this large? Can this really be a single cell? Rough, thorn-like cilia coat its surface and it's flagellum serves as a razor sharp whip. The water doesn't seem to impede it at all, though its strange bouncing behavior may be a result of its attempts to pursue me under heavy water pressure. I'm weary of the force it seems to exert even within these conditions. My oxygen supply can't afford any leaks.
 
 
 
-Macrobic Predator
+Name: Macrobic Predator
 Health: 315
 Damage: 16
 Speed: 36 KM/H
 Mobility: Jump, Fall
-Description:
-Behavior:
-Spawns: 
+Description: The Macrobic Predator is a large highly developed macroorganism with arthropod-like features. The Macrobic Predator displays a multitude of qualities common among regular fauna, which include a visible mouth with teeth present inside it lined with four pincers, two on each side, along with several antennae-like appendages that penetrate their cell barrier along their entire body, and four anthropomorphic arms. Macrobic Predators are able to retract their membranous exterior near the front of their mouthpart, and fling their red, fleshy mandibles at prey.
+Behavior: Macrobic Predators are tough, fast combatants that can attack both horizontally and vertically. Macrobic Predators Attack by extending their mandibles towards the player. Depending on their position relative to viable targets, Macrobic Predators will attack either horizontally, or if their target is above/below them, vertically. These attacks can go through terrain. Macrobic Predators are one of two "Macrobial Creatures" in the game, the other being the Macrobe. This quality grants them a regenerating shield that must be damaged first before being able to hurt their health bar.
+Spawns: Magma Barracks, Risk of Rain
 Content: RTRN
 Field Notes:
 Some kind of massive insect, this creature snaps like a viper and skitters like an ant. It shouldn't be possible at such a scale to move so abruptly and yet it does. Similar to the Macrobe, this monster is some kind of predatory cell. With a massive rope of nerves at its core, I can only image it acts on instinct alone. I dug into a corpse to see if the spinal rope could sustain me in this toxic hive, but I found my arms stuck to the thick membrane and I had to use my knife to remove the non-newtonian gel. It'd make a great trap for prey, but I don't have time to test that theory.
 
-Gup
+
+
+Name: Gup
 Health: 375
 Damage: 27
 Speed: 25 KM/H
 Mobility: Jump, Fall
-Description:
-Behavior:
-Spawns: 
+Description: Gups, Geeps and Gips are rotund gelatinous life forms with two flowery antennae, six appendages on their lower body, and four yellow eyes. Their bodies consist of a single orange mass with sickly green/yellow bubbling patches covering the border of their skin barrier. The collective species appears to undergo rapid, gigantically sized "cell division" when threatened and split into lesser fragments of the prior organism. This begins with Gups being the progenitors of the division, followed by Geeps, and finally Gips. Geeps and Gips are smaller and are a lighter orange color, shifting to yellow eventually. It is unknown if each individual Gup remains the same entity upon splitting, or if their cognition "dies" and is rapidly transferred into their lesser forms, assuming they're sapient to begin with. Gups, Geeps and Gips, all share one defense mechanism; momentarily shrinking and shaping their bodies into spikes, which then extend outward in a forceful burst.
+Behavior: Gups move towards nearby players. Once in range, they attack by extending spikes out of their body, dealing damage all around them. Once a Gup is killed, it will split into two smaller Geeps, each splitting into two Gips.
+Spawns: Hive Cluster
 Content: BASE
 Field Notes:
 It is quite rare that I smell anything through my respirator. I could not have been prepared for how bizarre no longer having a sense of smell is. However, there have been a rare few occasions when I caught some trace aroma- generally somewhat bitter on this planet, but I savor them greedily.
 
 When I encountered this gelatinous beast I was assailed by a sweet smell! A strangely fruity scent.. Oh, how it brings me back to a more innocent time! As I struck the congealed blimp of a creature it divided and seemed to gain energy. With each blow more of the saccharine odor escaped the monster. I must admit, I may have been overzealous in my attack..
 
-Evolved Lemurian
+
+
+Name: Evolved Lemurian
 Health: 125
 Damage: 14
 Speed: 54 KM/H
 Mobility: Jump, Fall, Fly
-Description:
-Behavior:
-Spawns: 
+Description: Evolved Lemurians are a winged variant of the Lemurian. Their main distinguishing trait are their extended digits, which developed into full blown wings. Just like their terrestrial relatives, their bodies are partially covered with armor. Unlike them, their scales are of a red bordo color, with a lighter shade of red lining their abdomen and inner limbs.
+Behavior: Evolved Lemurians passively fly through the air, ignoring obstacles and trying to remain close to the player. They attack by charging towards their target from an angle in a flurry of swipes. Occasionally, either passively or after missing an attack, Evolved Lemurians will ground themselves and proceed on foot, behaving as a normal Lemurian, using a bite as their method of attack. Evolved Lemurians have the same mass as regular Lemurians, being susceptible to staggers and stuns.
+Spawns: Hive Cluster, Magma Barracks
 Content: BASE
 Field Notes:
 Could this be a distant cousin of the Lemurians below? An ancient evolutionary leap? These airborne reptiles do not interact with the ground Lemurians except to harass them occasionally. Perhaps there is some kind of natural feud between the species?
@@ -4995,14 +5021,14 @@ It is the membranous skin that attaches their long arms to their body which enab
 
 
 
-Elder Lemurian
+Name: Elder Lemurian
 Health: 405
 Damage: 23
 Speed: 18 KM/H
 Mobility: Jump, Fall
-Description:
-Behavior:
-Spawns: 
+Description: The Elder Lemurian, like its lesser subspecies, the Lemurian, is an anthropomorphic lizard creature. Elder Lemurians have scales lining their spine and tail, they are much larger and taller than regular Lemurians and similarly wear shoulder plates and armor. Their scales are a muted olive green color, as opposed to the iridescent purple of Lemurians.
+Behavior: Compared to Lemurians, Elder Lemurians are slower and bulkier, but are deadlier. They lumber towards the player upon sight. Once in range, they breath flames in an area in front of them, rooting themselves in place for a few seconds.
+Spawns: Temple of the Elders, Risk of Rain
 Content: BASE
 Field Notes:
 Seems to be very large version of the Lemurians; perhaps this great lizard is a queen? With similar armor and much thicker skin, it took much more to bring down this foe. She moves much slower and posses a powerful scorching blast.
@@ -5011,28 +5037,28 @@ I would willingly give up some of my dwindling rations to explore the Lemurian t
 
 
 
-Lemurian Calvary
+Name: Lemurian Calvary
 Health: 200
 Damage: 17
 Speed: 268 KM/H
 Mobility: Jump
-Description:
-Behavior:
-Spawns: 
+Description: The Lemurian Cavalry appear as bordo-red Lemurians wearing the same shoulder plates as Lemurians and Elder Lemurians, alongside a downwards curved helmet, with a sharp point at the bottom, and a red plume sprouting from the top. The Lemurian Cavalry ride a domesticated species of Boarlit, appearing larger, with longer tusks, and a coat of muddy beige and black fur/skin. Lemurian Cavalries uniquely wield weapons, specifically a serrated spear, contrary to other Lemurians, who fight unarmed. Whether Lemurian Cavalries are an elite ranking position in the Lemurian faction, or if different Lemurian colonies have rivalry between them to employ different methods of attack and evolution, is left ambiguous.
+Behavior: Lemurian Cavalries are dynamic enemies, with high total durability, mobility and fast attacks. Normally, the Lemurian Cavalry will charge towards the player atop their mounts, lashing out wildly with their spear, displacing and forcefully knocking survivors up, continuing their charge afterward and repeating the process on the way back. The Lemurian Lancer and the Boar are considered two different enemies, and if one dies, the other will keep attacking. If the Boar dies first, the Lemurian will hop off and start attacking with a different moveset. It has two different attacks. The first is a pounce and thrust, indicated by the Lemurian Lancer glowing a red sheen. This attack can allow the Lemurian Lancer to go through terrain. For their second attack, they will throw quickly throw a high velocity blue glowing spear at the player. Their behavior is consistent, and will always perform the pounce attack first and the spear throw second. If the Lemurian Lancer dies first, the Boar will behave similarly to a Boarlit, with the addition of a charge attack that knocks survivors upwards. The Lemurian Cavarly’s resistances and mobility are as follows: While mounted, can jump but not drop from ledges or climb ladders, can be stunned but not staggered. The lemurian lancer can jump but cannot climb, their pounce travels through obstacles directly towards the player, cannot drop from ledges or climb ladders. Can be stunned but staggered only if not currently attacking. The boar cannot jump, drop from ledges or climb ladders. Can only be stunned.
+Spawns: Temple of the Elders, Risk of Rain, Desolate Forest, Dried Lake
 Content: RTRN
 Field Notes:
 I found a group of red Lemurians resting in the dilapidated ruins with domesticated boars alongside them. I've never seen a red species outside of the flying types, though I doubt these are any more welcoming. With great spears and flamboyant helmets, they resemble cavalry of times past, and I'm not equipped to face any chariots head-on. In the distance I can see two of them sparring atop their beasts. They attack with sharp agility and acrobatic prowess that I hope to never experience.
 
 
 
-Temple Guard
+Name: Temple Guard
 Health: 420
 Damage: 17
 Speed: 15 KM/H
 Mobility: None
-Description:
-Behavior:
-Spawns: 
+Description: Temple Guards are artificial constructs thought to be constructed by Providence using the design Mithrix showed him. Temple Guards are made of a heavy turquoise metal alloy. They consist of a humanoid torso mounted on a mobile quadruped base, which is lined with a red sash stylized with golden accents. They have two cannons in place of upper limbs that shoot simultaneously at targets. Temple Guards have the unusual ability to materialize and construct themselves spontaneously in the presence of intruders.
+Behavior: Temple Guards serve as slow, persistent artillery enemies that can threaten any survivor in their range. They possess a high health pool, but are relatively immobile, being unable to jump, drop from ledges, or climb ladders. Temple Guard are able to directly shoot at any player in a massive range and at any angle. In between attacks, they may buff their own defense, indicated by a shield icon appearing above them. While their damage may appear low, they always shoot two shots at a time. Their projectiles are telegraphed by a firing animation and two circular targets that indicate where they will hit. Due to their large mass, they are resistant to staggers but not stuns.
+Spawns: Temple of the Elders, Risk of Rain
 Content: BASE
 Field Notes:
 A robot creature that assembles itself.. I have not seen them materialize other than when I unknowingly trigger their presence. I cannot believe this is indeed a machine- and yet it is made from some alloy and uses heavy artillery! Was this on the ship, or are these guards a naturally occuring 'species' here? My suit's scanners are unable to detect any manufacturer's signature.
@@ -5041,14 +5067,14 @@ They seem to be determined not to let me pass. They attack with unlimited focus.
 
 
 
-Archer Bug
+Name: Archer Bug
 Health: 82
 Damage: 6
 Speed: 36 KM/H
 Mobility: Fly
-Description:
-Behavior:
-Spawns: 
+Description: Archer Bugs are large, turquoise flying four-legged arthropods with pale yellow-orange wings and four green glowing compound eyes. They have two black antennae and four black legs. They build nests with no known purpose, presumably for reproduction and eusociality. This makes them similar to eusocial Earth insects, such as bees or wasps. Archer Bugs possess an enlarged abdomen, from which they’re able to excrete and forcefully shoot out caustic spit.
+Behavior: Archer bugs are a fast, horde type enemy meant to be especially dangerous in groups. They fly perpetually, passing through obstacles, attempting to align themselves in a circle around the player. Archer bugs attack by shooting evenly-spread triple projectile spit that individually deals low damage. Archer bugs cannot be staggered, but can be stunned and knocked back. Archer bugs often spawn in groups, so while their individual stats are rather low, their triple shots multiplied by their quantity can quickly deny areas and restrict movement, forcing survivors to maneuver around their shots dexterously and making them a high priority.
+Spawns: Hive Cluster, Temple of the Elders
 Content: BASE
 Field Notes:
 Such aggravating creatures! These insects come in droves- as a group their wings create a maddening whine. Even the other creatures seems disturbed by their presence. Though they are not particularly strong, the circling insects certainly frustrate me.
@@ -5057,28 +5083,28 @@ A small amount of their projectile spit managed to penetrate one of the layers o
 
 
 
-Bramble
+Name: Bramble
 Health: 300
 Damage: 10
 Speed: 18 KM/H
 Mobility: None
-Description:
-Behavior:
-Spawns: 
+Description: Brambles are an aggressive plant-like species that sprout from a mobile quadruped plant base. Their most notable feature is a extendable piece of vine that connects their head to their body, allowing them great vertical freedom. They have two mouths with two mandibles each, and a shining blue eye. Brambles are capable of spitting caustic venomous projectiles that are expelled from both of their mouths simultaneously. Despite their mouth being lined with 'teeth', they do not bite to attack. It is unknown if Brambles are carnivorous or if their mouths have a use otherwise.
+Behavior: Brambles are turret-like enemies that make up for their low health and damage by being able to reach the player at almost any height and overwhelm them with continuous projectile fire. Bramble's heads are susceptible to attacks along with their body. This trivializes them if dealt with quickly as they have a long cooldown after attacking. Dodging their first shot allows for dispatching them quickly. They are also unable to cross ledges or gaps, jump, or climb ropes and are susceptible to staggers and stuns.
+Spawns: Temple of the Elders, Damp Caverns, Sky Meadow
 Content: RTRN
 Field Notes:
 While walking through overgrown ruins I found myself surrounded by strange rustling that I could not place. Stepping into a massive temple, vines whipped the entryway shut and the ivy began slithering down the walls. These living Brambles spit caustic venom and I'm thankful to only have holes left in my gloves. Their hypnotic sway distills fear in me and I recognize some higher intelligence in their movements. The bark at their base facilitates some kind of locomotions, though I can't identify any apparant muscular system inside that would drive it. After the encounter, the resulting coughs and spasms left me on edge as I scaled the tower and left the echoes behind me.
 
 
 
-Tiny Imp
+Name: Tiny Imp
 Health: 22
 Damage: 3
 Speed: 24 KM/H
 Mobility: Jump, Fall
-Description:
-Behavior:
-Spawns: 
+Description: Tiny Imps are infant Black Imps that aren't capable of combat or teleportation. They typically inhabit small black urns and are forced to run away from predators when their habitats are overturned.
+Behavior: Once spawned, the imps will immediately scatter away from the player in different directions, frequently hopping weakly to try and escape their demise.
+Spawns: Summoned from Imp Shrines
 Content: BASE
 Field Notes:
 I seem to have found the one creature on this planet that DOESN'T want to kill me. These small, leathery creatures are spawned from vases I sometimes spot in the ruins. They seem to stay in packs, and frequently carry useful treasure.
@@ -5087,29 +5113,29 @@ Immediately after spawning, these tiny imps run in all directions. While I do fe
 
 
 
-Lynx Tribe
+Name: Lynx Tribe
 Health: 160
 Damage: 14
 Speed: 27 KM/H
 Mobility: Jump, Fall, Climb
-Description:
-Behavior:
-Spawns: 
+Description: Lynx Tribals are anthropomorphic feline creatures that reside in the lush jungles of Petrichor V. They are masked, wield weapons, and wear various trinkets and accessories all over their bodies that indicate a high degree of sentience and civilization. They are part of a religion which worships the Lynx Totems.
+Behavior: The Lynx Tribe consists of three distinct creatures, each with their own stats and methods of attack. The scout behaves identically to a Lemurian, chasing the player and attacking with a medium range melee slash. The hunter charges forward and thrusts with its spear when survivors are in range. The archer actively avoids survivors and tends to climb to high elevations. Shoots medium velocity arrows in an arc towards the exact position of survivors, and uses a short slash to attack survivors at close range.
+Spawns: Summoned from Lynx Totems
 Content: RTRN
 Field Notes:
 I glanced to one side, trying to get my bearings. By sheer luck, my eyes picked up something barely visible, so still it could be mistaken for a rock. A shiver ran down my spine as I realized it was alive. I hadn't heard anything approach; how long had it been watching me? Why hadn't it attacked me? I suppose the creature had never seen anything like me. As we exchanged gazes, I noticed there were more of them. Gripped by fear, I shot a glance at my firearm which, in my hubris, was still in its holster. A twig snapped, and I immediately looked back to them, but they were gone. I walk slowly now. There could be one of these behind every blade of grass.
 
 
 
-Colossus
+Name: Colossus
 Title: Giant Stone Guardian
 Health: 1400
 Damage: 40
 Speed: 20 KM/H
 Mobility: None
-Description:
-Behavior:
-Spawns: 
+Description: The Colossus is a gigantic humanoid stone construct, with mounds of moss resting on its shoulders. It has various red windows and architecture haphazardly incorporated into its body. Its head resembles a castle tower, with a large glass window serving as a “face”.
+Behavior: Upon spawning, the Colossus claps its hands spawning a Rock Golem, and will do so every time it claps its hands again. These claps will damage the player. When getting close to the Colossus, it will stomp the ground and deal heavy damage to survivors in a low area in front of it.
+Spawns: Desolate Forest, Dried Lake, Sunken Tomb, Ancient Valley
 Content: BASE
 Field Notes:
 A low groaning, lasting for a few days at least. From the relative safety of my drop pod I watched as a mountain rose to its knees, pushing itself up with arms of stone and dirt and twine.
@@ -5120,15 +5146,15 @@ I've begun to find a dark humor in the absolute overkill that I face. This is si
 
 
 
-Wandering Vagrant
+Name: Wandering Vagrant
 Title: Gentle Protector
 Health: 1400
 Damage: 12
 Speed: 24 KM/H
 Mobility: Fly
-Description:
-Behavior:
-Spawns: 
+Description: It appears as a larger version of the Jellyfish. However, unlike the jellyfish, the Vagrant's head is occupied by mutiple colorful organs instead of one large brain.
+Behavior: The Vagrant quickly floats towards the player it's targeting. It deals no contact damage, instead attacking by creating six projectiles that quickly fly towards and detonate where the player was standing.
+Spawns: Desolate Forest, Dried Lake, Sky Meadow, Sunken Tomb
 Content: BASE
 Field Notes:
 Day 3. While looking through some wreckage of the old ship, I felt a hot sensation on my skin and a brilliant white flash. Over the horizon maybe 5 miles north I saw it, looming over the forest tops.
@@ -5139,15 +5165,15 @@ This Vagrant, as I've come to call it, seems to wander amidst the skies, followe
 
 
 
-Magma Worm
+Name: Magma Worm
 Title: Ancient Lava Swimmer
 Health: 1400
 Damage: 55
 Speed: 268 KM/H
 Mobility: None
-Description:
-Behavior:
-Spawns: 
+Description: The Magma Worm is a giant predator that is serpentine in form, having no appendages other than its three jaws. Its exterior is perpetually aflame, which serves the purpose of helping the creature burrow into the hard terrain, and also acts as a hunting tool. Due to the high calorie requirement that comes with its vast size, the worm spends most of its time hibernating underground.
+Behavior: The magma worm attacks by jumping up, through any platform and ground, and diving back down dealing damage on contact, leaving behind a patch of fire.
+Spawns: Desolate Forest, Dried Lake, Damp Caverns, Sky Meadow
 Content: BASE
 Field Notes:
 I've stumbled upon an old relic, notably with two distinct stone prongs. On approaching it it whirred to life, apparantly charging up. This seemed to disturb something deep and violent below the ground..
@@ -5158,15 +5184,15 @@ Reaching about.. 200 meters, the worm moves extremely fast for its size. Permane
 
 
 
-Ancient Wisp
+Name: Ancient Wisp
 Title: Banished And Chained
 Health: 1470
 Damage: 23
 Speed: 18 KM/H
 Mobility: None
-Description:
-Behavior:
-Spawns: 
+Description: The Ancient Wisp is the highest known form of wisp on Petrichor V. It is an inanimate entity in the form of a menacing helmet and a dilapidated suit of armor engulfed by vivid purple flames. It is able to project scalding hot pillars of lightning, scorching enemies and terrain alike in their wake.
+Behavior: The Ancient Wisp follows survivors in range, dealing no contact damage. Its only attack is summoning rows of lightning on the ground. This attack has a long cooldown, and is telegraphed by dots lining the area they'll strike one second prior. They can be dodged by standing between the gaps, or by jumping when the attack hits. Once the Ancient Wisp is killed, 2 Greater Wisps and 2 Wisps are spawned.
+Spawns: Damp Caverns, Sky Meadow
 Content: BASE
 Field Notes:
 Could this be the architect of the smaller wisps? Perhaps this Ancient Wisp is the puppeteer behind the fiery masks harassing me thus far, or is he also a devilish device of something greater..?
@@ -5175,30 +5201,30 @@ The heat coming off the purple flames is extreme. Ferocious columns of lightning
 
 
 
-Lynx Totem
+Name: Lynx Totem
 Title: Nkuhana's Faithful
 Health: 1210
 Damage: 14
 Speed: 18 KM/H
 Mobility: Jump
-Description:
-Behavior:
-Spawns: 
+Description: The Lynx Totem is a tall stone structure engraved with various markings and covered in foliage. It is the subject of worship of the Lynx Tribe and the centerpiece of their religion. The towering structure is animated with the help of a Lynx Tribe shaman, who rests atop it. The Lynx Totem is capable of locomotion using two stubby legs.
+Behavior: Lynx Totem is a summoner boss and the only boss that can jump. It deals no contact damage, instead attacking in two different ways: Summoning four random Lynx Tribe members, two on both of its sides. If the Lynx Totem is elite, the summoned enemies will inherit its elite type. A ground pound move that deals damage at ground level and summons two blocks on both of its sides.
+Spawns: Damp Caverns, Sky Meadow, Temple of the Elders
 Content: RTRN
 Field Notes:
 Travelling through the fungal caverns, I kept seeing out of place rubble that trailed to nowhere. With no buildings in sight, I was shocked to see a brick wall in the distance. Little cat-like creatures with masks and weaponry danced around the structure, and I could hear them laugh with one another. They appeared to be practicing some kind of worship, though the structure looked unlike anything I've seen on this planet. More of them crawled out from the dirt nearby, but strangely I haven't seen any evidence of them resting or hiding in the soil prior to that. Luckily they were distracted - I don't know that I could take on a horde of that size, no matter how small they were.
 
 
 
-Imp Overlord
+Name: Imp Overlord
 Title: Lord of the Red Plane
 Health: 1210
 Damage: 27
 Speed: 27 KM/H
 Mobility: Jump, Fall
-Description:
-Behavior:
-Spawns: 
+Description: The Imp Overlord is a massive specie of Imp, with a multitude of red eyes strewn across its front body. The two appendages on the top of its head are elongated, and further split into two thinner sections. Its limbs are smaller in comparison to its body, ending in longer flexible digits that contort into sharp lashing claws when the Imp Overlord attacks. The Imp Overlord has a minor recessing line across its abdomen, within which hides a large eye that allows it to materialize flashes of red vapor that disintegrates anything in its path. Similarly to the Black Imp, the Imp Overlord's body violently splits in half upon death, with its numerous eyes floating momentarily before bursting in a horrifying display of gore.
+Behavior: The Imp Overlord has three attacks, and is one of the most mobile bosses in the game, as it is capable of teleportation. The Imp Overlord flails its arms towards the ground, damaging survivors over multiple damage instances in a low area towards the center of the ground. It tends to teleport directly to the position of survivors before initiating this attack. The Imp Overlord immediately charges towards a target direction, dealing heavy damage over multiple damage instances and traveling a long distance unless halted by environment. The Imp Overlord emits a horrible screech towards survivors that summons a horizontal red line of vapor traveling along the ground or air. This attack is telegraphed by a red line scanning the area it'll target.
+Spawns: Ancient Valley, Sunken Tomb, Hive Cluster, Magma Barracks, Temple of the Elders
 Content: BASE
 Field Notes:
 Oh, why me? My heart stopped when this great Imp manifested in previously empty space. So many horrendous eyes. With a gaping scream the Imp lets out a deadly red vapor. Some type of laser also trails me.
@@ -5207,15 +5233,15 @@ This demon is just as baffling in its movement as the smaller one. Barely escapi
 
 
 
-Ifrit
+Name: Ifrit
 Title: Scion of the Infernal King
 Health: 1500
 Damage: 17
 Speed: 45 KM/H
 Mobility: None
-Description:
-Behavior:
-Spawns: 
+Description: Ifrit is a massive tetrapod creature that has a slender anatomy. It is covered in dark orange rough scales with lighter orange scales lining its abdomen. It has two black horns curved downward, with one of them being chipped at its end. It possesses three digits on each limb ending in sharp claws, with broken chains worn on its forelimb and back limb. It has a long, thin tail, and along it and Ifrit's spine, a constant flaming trail. Ifrit's head shape is vaguely reptilian, with sharp teeth lined across its gum-less mouth. The inside of its maw is lit with a fiery glow, as are its eyes.
+Behavior: Ifrit is a mid-game boss with higher than average stats, that can influence the environment to immobilize players. Ifrit can trap survivors by spawning two tall black towers from two directions, preventing them from going farther forward or back. Ifrit's only damaging move is a massive downwards swipe with its forelimbs, which deals great damage in a large area in front of it, and additionally creates a wave of fire that travels along the ground.
+Spawns: Ancient Valley
 Content: BASE
 Field Notes:
 Could this be..? Tales I never believed recounted a horrible beast, fire incarnate. Scourge of another solar system, the Ifrit nearly wiped out an entire space colony before being chained and launched into the great black void. Supposedly the flaming jets that accompanied his roars could be seen for days as he drifted outwards.
@@ -5224,15 +5250,15 @@ Great towers, what must have been the containment structure used to trap this mo
 
 
 
-Toxic Beast
+Name: Toxic Beast
 Title: Mother of Many
 Health: 1460
 Damage: 17
 Speed: 33 KM/H
 Mobility: None
-Description:
-Behavior:
-Spawns: 
+Description: Toxic Beast is a giant mammalian quadruped resembling Earth wild boar. Its shaggy dark blue fur is ridden with scars all throughout its body. It has four empty eyesockets, and excretes a green ooze from its nose and mouth.
+Behavior: The Toxic Beast attacks by charging at survivors, dealing contact damage with its lower body. This damage occurs very close to the ground, meaning it can be avoided entirely by simply standing on a small platform. It can additionally emit a piercing screech and summon many Boarlits.
+Spawns: Boar Beach, Magma Barracks, Hive Cluster, Temple of the Elders
 Content: BASE
 Field Notes:
 This goliath's body has been carved by this world, covered in numerous scars. The squealing queen had seen many battles. Her coarse hair growing in jagged patches between each old wound only increased her fearsome appearance.
@@ -5241,15 +5267,15 @@ Hot breath from the boar's massive nose fogged up my helmet so badly that it was
 
 
 
-Cremator
+Name: Cremator
 Title: Shielded Artillery
 Health: 1150
 Damage: 12
 Speed: 45 KM/H
 Mobility: None
-Description:
-Behavior:
-Spawns: 
+Description: The Cremator is a massive reptilian shelled creature resembling Earth tortoises. It is a charred black color all throughout, with its underside and head clad in a deep earthy orange color. Its shell houses multiple orifices that are able to violently expel molten projectiles in an artillery-like manner. The Cremator spends its time basking in the scalding magma of its habitat, seemingly resistant to its extreme heat.
+Behavior: The Cremator can only spawn inside of lava pools in the Magma Barracks, and moves horizontally alongside them. It attacks by shooting a multitude of projectiles towards the player with varying spread, indicated by white crosshairs before landing. It can also ram towards survivors who are close to it and damage them on contact with its maw. The Cremator takes reduced damage from its backside, and must be damaged in the head in order to take full damage. It is completely immune to all staggers and stuns.
+Spawns: Magma Barracks
 Content: BASE
 Field Notes:
 I could not believe my eyes as this creature erupted from the lava. My suit's temperature gauges screeched in warning. How can anything subsist in such heat? The lava parts in waves as the monster swims rapidly through it.
@@ -5258,15 +5284,16 @@ Through craters in the Cremator's thick back armor red hot boulders explode in e
 
 
 
-Scavenger
+Name: Scavenger
 Title: Tasting Your Own Medicine
 Health: 1305
 Damage: 14
 Speed: 22 KM/H
 Mobility: None
-Description:
-Behavior:
-Spawns: 
+Description: The Scavenger is an anthropomorphic figure that appears as a set of legs and arms attached to a large, round body with two red eyes. It can be seen carrying and wearing many of the items that were scattered all over Petrichor V when the UES Contact Light crashed, spilling its cargo in the process. The Scavenger's ability to operate the tools it has found indicates that it is sentient and possesses a certain degree of intelligence.
+Behavior: Scavengers attack by either shooting a fast, white projectile similar to one of Providence's with its 
+Ukulele; or by shooting multiple red homing missiles similar to Volatile Icon.png Volatile enemies in a similar manner to the  Disposable Missile Launcher. Scavengers will also start to slowly regenerate health with their Mysterious Vial after not being attacked for a few seconds. When spawning, Scavengers will pop the top of their body out of the ground and appear to look around before exiting the ground and attacking.
+Spawns: Any
 Content: BASE
 Field Notes:
 Who knew a pack rat could be so dangerous! This creature seems to be hoarding many of the items littered across this planet. I have seen no others of its kind. If it hadn't been so intent on slaying me I would have tried to gain this Scavenger as an ally..
@@ -5275,15 +5302,15 @@ Will I ever see a friendly face again, or will my last breaths be on this hostil
 
 
 
-Providence
+Name: Providence
 Title: Bulwark of the Weak
 Health: 9000
 Damage: 24
 Speed: 22 KM/H
 Mobility: None
-Description:
-Behavior:
-Spawns: 
+Description: Providence is a boss found in the level Risk of Rain and the final boss of the game, appearing when the player first attempts to relaunch the UES Contact Light. Upon defeat, the player will be prompted to "Leave the planet", triggering the ending cutscene and credits. Providence is a member of the Cyclops, a race of one-eyed humanoid beings. He dons a large crown and a long red robe with gold and cyan accents, resembling royalty. He wears gold bands around both wrists and elbows. Providence wields a large "ikakalaka" sword with a black handle and a cyan blade. Prior to the events of Risk of Rain, Providence and Mithrix lived on Petrichor V creating constructs and modifying the planets physical structure. Mithrix usually lead the two in terms of what to build and how, with Mithrix creating the rest of the constructs ever since Providence put too much soul into Aurelionite, creating the first ever thing that could threaten the brothers lives. The two could not enter space itself, as it caused an illness, so they created a teleporter that would allow them to leave the planet. As Mithrix crossed to the moon, Providence put a lock onto the planet-side teleporter, trapping Mithrix for eternity. After an undefined but large amount of time later, Providence saw the UES: Contact Light orbiting Petrichor V trying to find a matching pair to the teleporters they had onboard, and after 30 minutes teleported onto the ship via said teleporters and crashed it.
+Behavior: During Phase 1, Providence attacks the player with a simple set of attacks. Providence will swing his sword towards the player, teleport above the player and strike down, strike the ground and spawn shockwaves on both sides that explode into pillars of energy, summon two white projectiles which hover in the air before rushing toward the player, and summon shadow clones that move towards the player then attack. Once his health is depleted, Providence will exit the arena and summon the Gilded Wurms. During Phase 2, Gilded Wurms behave similarly to Magma Worms but are able to fly through the air. The blue Wurm regularly sparks electricity around itself. The red Wurm ignites any ground it touches. They use the following attacks: The Wurm's head flashes red and charges at the player, dealing damage on contact. Both Wurms possess this ability. A white reticle appears on the player. The red Wurm shoots a continuous red beam at the Player from its mouth, dealing damage in the point of impact and everything between it. The blue Wurm shoots multiple white projectiles that behave similarly to Providence's. Once both Wurms are killed, Providence will return to the arena to begin Phase 3. Providence initiates Phase 3 by executing a downward slash at the middle of the arena, spawning two Sanctuary Guards. Providence uses a similar set of attacks to Phase 1, with key differences: Providence spawns 3 or 6 shadow clones above the player. They slash downwards at the ground with their swords. Some targets are colored red and always reduce the player to 1HP on hit, bypassing all health-boosting and damage-reduction items. When executing his shockwave attack, Providence leaves a trail of fire. More targets summoning shadow clones appear than in the first stage. Once half of Providence's health is depleted, a shadow clone appears which mirrors his movements. He may swap positions with the clone. Once Providence's health is depleted for the second time, he will vanish. After a brief pause, Providence drops to the middle of the arena to initiate Phase 4. The background changes to a storm. Providence will always begin Phase 4 by summoning six slowly-rotating lasers from the center of the arena, along with 2 lasers on the left and right sides of the arena. Afterward, he will rotate between a selection of several attacks: Six rotating lasers spawn around a point, similar to his initial attack, with only one can exist at a time. A massive laser appears horizontally or vertically depending on the player's position. Targets appear in a randomly-predetermined path. A large target appears at the player's position, which will inflict heavy damage. 4 projectiles spawn which move towards the player quickly. Only one can exist at a time. If Providence has less than ~33% health, one can spawn both horizontally and vertically. Repeatedly teleporting toward and slashing at the player several times. This move is followed up by Providence summoning several red targets at once in a vertical arc.
+Spawns: Risk of Rain
 Content: BASE
 Field Notes:
 I recognized him from the security footage... he was the one who blew the cargo hatches open. He was the one who killed everyone.
@@ -5295,18 +5322,18 @@ Providence, as I came to call him, moved faster and with more purpose than anyth
 
 
 
-
 Misc
 
 
 
 
 
-Boar Beach
+Name: Boar Beach
 Title: Simpler Times
 Stage: 3.5
 Track: Aurora Borealis
 Artifact: None
+Spawns: Boarlit, Lemurian, Mushrum, Sand Crab, Tuber, Toxic Beast, Scavenger
 Content: BASE
 Log:
 Through some brambles and fencing I've come across a clearing in the fog. A big bang dropped me from my perch as boars rampaged, weaving in and out of the iron rebar collected from the endless bridge. The spikes were organized into patterns, almost like farm pens, and the pigs each took turns collecting dirt and piling it between them. Beyond that was a barren circle formed from repeated stomping in the tundra. Two boars were fighting within, but one dressed in a shirt appeared to be dancing between the other's attacks, as if it had years of experience.  
@@ -5316,48 +5343,44 @@ What ki d o   eco s   s       n? W     a  --
 
 
 
-White Undershirt (M)
+Name: White Undershirt (M)
 Pickup Text: +2 STR S>2m or best offer @@@@@@@@
 Full Description: Increase armor by 3 (+3 per stack).
 Tier: Special
-Type: 
-Class: Item
+Type: Item
 Category: Special
 Content: BASE
 Acquisition: Drops from the Armored Boarlit on Boar Beach.
 
 
 
-Keycard
+Name: Keycard
 Pickup Text: Opens locked security doors.
 Full Description: Opens locked security doors interacted with while held. Consumed on use.
 Tier: Special
-Type: 
-Class: Item
+Type: Item
 Category: Special
 Content: Base
 Acquisition: Golden Canisters, enemy drops on Risk of Rain.
 
 
 
-Small Enigma
+Name: Small Enigma
 Pickup Text: Reduce the cooldown of equipment.
 Full Description: Reduce equipment cooldown by 5% (+5% per stack).
 Tier: Special
-Type: 
-Class: Item
+Type: Item
 Category: Special
 Content: BASE
 Acquisition: Drops whenever an equipment would have with the Artifact of Enigma enabled.
 
 
 
-Strange Battery
+Name: Strange Battery
 Pickup Text: Bzzzt.
 Full Description: Fire chain lightning for 33% damage.
 Tier: Special
-Type: 
-Class: Equipment
+Type: Equipment
 Category: Special
 Cooldown: 45
 Content: RTRN
@@ -5365,79 +5388,73 @@ Acquisition: Hidden in a unique interactable vase on all variants of Temple of t
 
 
 
-Metal Scrap
+Name: Metal Scrap
 Pickup Text: Useless.
 Full Description: Does nothing.
 Tier: Special
-Type: 
-Class: Item
+Type: Item
 Category: Special
 Content: RTRN
 Acquisition: Scrap yourself after dying in multiplayer.
 
 
 
-Big Bison Steak
+Name: Big Bison Steak
 Pickup Text: Increase health regeneration and movement speed.
 Full Description: Increase health regeneration by 0.6 HP/s (+0.6 per stack), and movement speed by 2km/h (+2 per stack).
 Tier: Special
-Type: 
-Class: Meal
+Type: Meal
 Category: Special
 Content: RTRN
 Acquisition: One of the meals CHEF can produce from COOK.
 
 
 
-Marinated Lizard Loaf
+Name: Marinated Lizard Loaf
 Pickup Text: Increased damage.
 Full Description: Increase damage by 20% (+10% per stack).
 Tier: Special
-Type: 
-Class: Meal
+Type: Meal
 Category: Special
 Content: RTRN
 Acquisition: One of the meals CHEF can produce from COOK.
 
 
 
-Golem Essence on the Rocks
+Name: Golem Essence on the Rocks
 Pickup Text: Gain barrier and increased armor.
 Full Description: Gain 50% max HP as barrier on pickup, and 40 armor (+10 per stack).
 Tier: Special
-Type: 
-Class: Meal
+Type: Meal
 Category: Special
 Content: RTRN
 Acquisition: One of the meals CHEF can produce from COOK.
 
 
 
-Jelly Brain Salad
+Name: Jelly Brain Salad
 Pickup Text: Reduces skill cooldowns by 1 second.	
 Full Description: Reduces skill cooldowns by 1 second (+0.5s per stack). Cooldowns cannot go below 0.5s.
 Tier: Special
-Type: 
-Class: Meal
+Type: Meal
 Category: Special
 Content: RTRN
 Acquisition: One of the meals CHEF can produce from COOK.
 
 
 
-Fried Eyeball
+Name: Fried Eyeball
 Pickup Text: Slow nearby enemies.
 Full Description: Slow enemy movement speed by 37.5% and attack speed by 25% in an area around you (stacks increase range).
 Tier: Special
-Type: 
-Class: Meal
+Type: Meal
 Category: Special
 Content: RTRN
 Acquisition: One of the meals CHEF can produce from COOK.
 
 
 
-Archaic Wisp
+Name: Archaic Wisp
 Health: 900
 Damage: 23
 Speed: 27 KM/H
@@ -5451,7 +5468,7 @@ There is no log entry for this enemy.
 
 
 
-Young Vagrant
+Name: Young Vagrant
 Health: 700
 Damage: 4
 Speed: 32 KM/H
@@ -5465,7 +5482,7 @@ There is no log entry for this enemy.
 
 
 
-Boarlit
+Name: Boarlit
 Health: 35
 Damage: 5
 Speed: 23 KM/H
@@ -5479,7 +5496,7 @@ There is no log entry for this enemy.
 
 
 
-Armored Boarlit
+Name: Armored Boarlit
 Health: 35
 Damage: 5
 Speed: 23 KM/H
@@ -5493,7 +5510,7 @@ There is no log entry for this enemy.
 
 
 
-Sanctuary Guard
+Name: Sanctuary Guard
 Health: 260
 Damage: 25
 Speed: 18 KM/H
@@ -5507,7 +5524,7 @@ There is no log entry for this enemy.
 
 
 
-Acrid (NPC)
+Name: Acrid (NPC)
 Health: 1145
 Damage: 7
 Speed: 31 KM/H
@@ -5521,7 +5538,7 @@ There is no log entry for this enemy, but there is one for them as a survivor.
 
 
 
-Gilded Wurms
+Name: Gilded Wurms
 Health: 3000
 Damage: 12
 Speed: Unknown
