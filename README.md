@@ -2,7 +2,10 @@
 risk of rain departed is a risk of rain fangame made to be two things:
 1. a low-poly "demake/remake" of Risk of Rain Returns.
 2. a celebration of risk of rain and the risk of rain community, having items from all throughout the franchise and items from fan made projects.
+----------
+# DISCORD
 
+i finally gained enough confidence to actually just open up the [departed discord server]{https://discord.gg/ysJWrXmqqX} to the public, so. peeps can join it me thinks OuO
 ----------
 # CONTENT:
 
@@ -60,3 +63,4 @@ additionally, i need to thank the people who have helped me out when it comes to
 also thank you to everyone in the ss1/ssr and redux communities! you have been excellent, friendly people and for that i thank you! i don't think i would have stuck to this for so long if i didn't have you guys to motivate me to keep pushing forward.
 
 and lastly, thank you hopoo games for making one of the greatest games i've ever played. i can't thank you enough.
+
