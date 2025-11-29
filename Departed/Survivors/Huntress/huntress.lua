@@ -6,7 +6,7 @@ Key Notes
 	- Umbra Title: Judge, Jury, and Executioner
 	- Exile Quote: ...and so she remained, her quarry forgotten but the hunt never ending.
 
-Unlock: Collect 15 Monster Logs.
+Unlock: Collect 15 Monster Logs. (Seasoned Wanderer)
 
 Health: 90 (+32 per level)
 Regen: 0.6 (+0.12 per level) HP/S

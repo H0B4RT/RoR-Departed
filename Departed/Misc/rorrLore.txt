@@ -4658,6 +4658,7 @@ Description: Lemurians are purple anthropomorphic bipedal reptiles which stand 7
 Behavior: Lemurians engage the player by running towards them on land, and initiating a bite attack when in range. They can jump over ledges and climb ropes, and typically spawn in large groups, making up for their low damage and health. Due to their relatively small size, Lemurians are easily staggered by light attacks, and are easily countered by stuns or by outmaneuvering them. Lemurians are one of 4 enemies capable of climbing and attacking on ropes, the other three being Lynx Tribe, Children and Clay Men.
 Spawns: Desolate Forest, Dried Lake, Damp Caverns
 Content: BASE
+Log: 
 Field Notes:
 The first sentient species I discovered on my unfortunate arrival. Around 7' tall, with scaly skin not different from that of a lizard. Bipedal. Aggressive on sight, minus a few exceptions. These Lemurians have an extremely powerful bite, but don't seem to employ weapons.
 
@@ -4678,6 +4679,7 @@ Description: Stone Golems are 10-foot tall humanoids comprised entirely of stone
 Behavior: The Rock Golem is slow but tough. It has one attack, in which it claps its hands together when in melee range, dealing a great amount of damage in front of it. They cannot jump or climb but will loiter at the edge of cliffs if no survivor is in range. It is easily beaten by staying out of range or isolating it to a ledge from which it cannot reach the player, or by walking past it while its performing its sluggish, telegraphed attack. Rock golems are bulky enough to endure regular attacks, but are still susceptible to stuns.
 Spawns: Desolate Forest, Sky Meadow, Ancient Valley, Summoned by Colossus
 Content: BASE
+Log: 
 Field Notes:
 Now THEY are interesting. These Golems, which tower over me at 10' tall, are constructed from the soil and rock beneath my feet. After a brilliant red flash, the earth itself moves to create these constructs in 2 seconds flat. If I didn't know better, I would consider this.. magic.
 
@@ -4698,6 +4700,7 @@ Description: The Sand Crab is a 10-foot tall brown crustacean with large light b
 Behavior: Sand Crabs behave very similarly to Rock Golems, lacking the ability to climb rope, jump, or cross wide ledges. They attack by crushing their pincers together, dealing the same damage as a Rock Golem, with more or less the same attack speed. They're comparatively larger than Rock Golems, and therefore have a wider hitbox. As such, they're immune to light attack knockback but not stuns.
 Spawns: Dried Lake, Sunken Tomb
 Content: BASE
+Log: 
 Field Notes:
 A few hours after my crash, I finally decided to investigate the nearby area. As I moved past a particularly large mound of sand, it began to shift and roar. From it erupted a giant crab-like beast, standing above me at 10' with claws the size of a small man. The giant crab moves surprisingly fast for its size; the foliage growing on its back indicates that they stay still for long periods of time. This crab is either extremely patient or hibernates regularly.
 
@@ -4716,6 +4719,7 @@ Description: Wisps appear as black masks that are encompassed entirely by bright
 Behavior: Despite what their floating figure may suggest, Wisps are incapable of flight movement-wise. They also cannot jump or climb ropes, instead wandering around and waiting for the player to come into range. When a survivor is in its line of sight, the Wisp will expel its flame forward in a line, dealing slightly more damage than a Lemurian. The Wisp's attack can damage players relatively far away by reaching over gaps, despite not being able to cross ledges.
 Spawns: Desolate Forest, Dried Lake, Damp Caverns, Magma Barracks, summoned by Blazing Colossus, spawn on Ancient Wisp death
 Content: BASE
+Log: 
 Field Notes:
 Characterized by their constant flame, the Wisps are not living beings. Each Wisp has a mask in its center, where all the fire erupts from. The Wisps are able to concentrate their heat into a long range heat blast, capable of scorching anything in its path. On taking heavy damage, the fuel powering the Wisp detonates, sending the mask soaring clear through the air.
 
@@ -4734,6 +4738,7 @@ Description: The Greater Wisp is a larger and stronger version of the Wisp, with
 Behavior: Greater Wisps behave much like their lesser predecessors, being unable to cross ledges, jump, fly or climb ladders. However, they make up for it by having much more attack, and more than double the health. Their attack is largely the same as the Wisp's, only hitting harder and with roughly double the range. Being larger in size and boasting higher health, Greater Wisps are immune to light knockback, and can only be immobilized by stuns. Greater Wisps usually spawn in groups of 1-3 at a time, and always appear in pairs from the body of a slain Ancient Wisp.
 Spawns: Desolate Forest, Dried Lake, Damp Caverns
 Content: BASE
+Log: 
 Field Notes:
 Oh lord. These.. Greater Wisps, as I have grown to call them, are absolutely terrifying to face. Tougher then the Rock Golem, faster then the Lemurian, and harder hitting then both combined. Unlike the lesser Wisps, the Greater Wisp has two arms capable of typical motion. They burn a brilliant green which pierces straight though my sun visor.
 
@@ -4752,6 +4757,7 @@ Description: The Jellyfish bears much resemblance to real-life jellyfish, with a
 Behavior: The Jellyfish is always seen flying in from the corner of the screen, usually from a diagonal angle that is above the survivor. It makes a beeline straight towards their target and gain a burst of speed when within close proximity to the player. Jellyfish then try their best to stay as close to the player as possible, dealing low but continuous damage on contact. Unlike creatures of similar mass to the Jellyfish, they cannot be knocked back by light attacks. they can only be knocked back with stuns.
 Spawns: Desolate Forest, Dried Lake, Sky Meadow
 Content: BASE
+Log: 
 Field Notes:
 An airborne creature, capable of flight using a combination of gases in its clear hull. Like the Jellyfish on earth, they also use pulsation to aid in locomotion; however, rather than a series of tentacles, they have two branches' made of many tentacles wrapped around themselves.
 
@@ -4770,6 +4776,7 @@ Description: Trokks are unusual soft-tissued arthropod creatures that resemble t
 Behavior: When the player is distant, Trokks will bury beneath the ground and reappear close to the player and bite them. Trokks will attempt to predict player movement when burrowing, and appear slightly in front of whatever direction they're moving. They do not naturally have a "hidden" state, like Tubers, which when paired with the Trokk's extremely sluggish method of attack, makes them extremely predictable. Trokks possess the same health as a Rock Golem, and are immune to staggers when not performing their attacks. This means that Trokks are most dangerous when the player is distracted, such as when dealing with a horde or a boss.
 Spawns: Desolate Forest
 Content: RTRN
+Log: 
 Field Notes:
 While resting in the shade of a massive tree, I was startled at what I thought was an earthquake. The ground shifted beneath my feet and I was suddenly thrown into the air. Beneath me was the gaping maw of a Trokk, and if I weren't already gripping my pistol it would've crushed me into sheet metal. Beyond the stone exterior of this strange walking log is some kind of vulnerable flesh like the inside of an alligator's mouth. With no space for a stomach I shudder at the thought of what happens to its victims.
 
@@ -4786,6 +4793,7 @@ Description: Tubers are a type of animate fungus that acquires nutrients by hunt
 Behavior: Tubers will burrow into the ground and stay in a passive state until a player comes near them. When in this state, they take half damage from all attacks and cannot be targeted by homing projectiles. This state cannot be interrupted by damaging them. Once a target enters a Tuber's range, or enough time has passed without one, it will leap out of the ground and lunge towards them to attack. Once uprooted, Tubers will behave similarly to Rock Golems or Sand Crabs, moving towards survivors and attacking once in range. In this state, they cannot be staggered but can be stunned.
 Spawns: Dried Lake, Damp Caverns
 Content: RTRN
+Log: 
 Field Notes:
 The Tuber is reminiscent of the small plants I cared for back on the ship, Nestling themselves deep in the ground, they hide from prey and wait for vibrations to initiate their fanged attack. Like fighting a giant antlion, sometimes the best strategy was to lure them out by tossing spent magazines. I tried stones and other bait, but their responses to the bait seemed dependant on some unseen quality. The behavior of the beasts on the planet continue to concern me I feel like all eyes are on me despite how natural these animals seem from a distance.
 
@@ -4802,6 +4810,7 @@ Description: Mushrums are an overgrown bipedal species of fungus. Their stalk an
 Behavior: The Mushrum, upon seeing a player, will begin to move towards them slowly. when within range, the Mushrum will hunch down towards the ground and shake off a cloud of purple spores, dealing constant damage and obscuring the player's view. The Mushrum cannot jump or climb, making them easy to outmaneuver.
 Spawns: Damp Caverns
 Content: BASE
+Log: 
 Field Notes:
 I have arrived in an even stranger land. After recovering from my sudden.. teleportation, I noticed that my suit was flashing warnings about air filtration. All across the landscape were giant fungi, some as tall as trees.
 
@@ -4822,6 +4831,7 @@ Description: Spitters are creatures unlike any other on Petrichor V, instead res
 Behavior: Spitters have below average stats, and don’t possess good mobility, lacking the ability to climb ropes, cross ledges, or jump, but they’re some of the few enemies capable of directly aiming at the player from range in any angle via their spit attack. Despite their immobility, Spitters can still remain dangerous over large distances, ledges, and elevation differences. Aside from their freedom over open areas and sight-lines, Spitters attack incredibly slowly between each attack instance, they are susceptible to stuns and staggers whilst not charging up their spitting attack. In clusters, Spitters pose a much larger threat. By lowering the amount of time between every attack, a group of Spitters can quickly overwhelm players with sheer area denial.
 Spawns: Damp Caverns, Hive Cluster
 Content: BASE
+Log: 
 Field Notes:
 Alas, another hostile creature. This one's nature certainly betrays its precocious appearance. It even seems to be vexed by my retaliation. What a petulant fellow.
 
@@ -4842,6 +4852,7 @@ Description: Children are small humanoid beings, vaguely resembling human childr
 Behavior: Children possess average stats, slightly above the Lemurian’s, boasting slightly more speed and health. When in range of the player, the Child will point in a finger-gun fashion and shoot a point-blank range blast with an average cooldown. Children are susceptible to staggers and stuns, and often appear in large groups, typically along with Parents, solidifying their similarities to Lemurians as a horde-fodder enemy. Children are one of 4 enemies capable of climbing and attacking on ropes, the other three being Lynx Tribe, Lemurian and Clay Men.
 Spawns: Sky Meadow
 Content: BASE
+Log: 
 Field Notes:
 These small beings fill me with dread.. From a distance I can see them frolicking among the rocks- playing with the other ghostly 'children'. I don't know how else to describe them, they seem so innocent until I approach.
 
@@ -4858,6 +4869,7 @@ Description: Parents are tall, imposing humanoids. Their entire figure glows a w
 Behavior: Parents are faster than the average tank and heavy hitter enemies. They slam their fists down to the ground on a medium cooldown, in a wide area in front of them. They are faster and slightly tougher than Sand Crabs, but possess a significantly lower damage stat. Parents can jump, but not climb ropes or fall off of ledges. This makes them particularly lacking in vertical reach, despite their tall stature. Climbing up a rope effectively neutralizes any Parent attack coming one's way.
 Spawns: Sky Meadow, Hive Cluster
 Content: BASE
+Log: 
 Field Notes:
 A deadly force, they rush at me mad with grief and rage. Parents will slam the ground; their only aim to crush the butcher of their offspring. Their powerful blows open great lashes in the quaking ground.
 
@@ -4874,6 +4886,7 @@ Description: Imps are mysterious vaguely humanoid entities that are a dull bluis
 Behavior: Imps have lopsided stats, boasting triple the health of a Lemurian while being slightly faster and dealing less damage per strike. Black Imps move by floating short distances to their target, or by teleporting longer distances, including from different elevations. They cannot climb ladders, but their teleportation ability allows them to move around much more efficiently than most other enemies. Black Imps quickly strike twice at a time, making their rather low damage stat misleading.
 Spawns: Damp Caverns, Sky Meadow, Sunken Tomb, summoned by the Artifact of Origin
 Content: BASE
+Log: 
 Field Notes:
 Oh. Fear. The Imp causes me fear, with its razor sharp talons and its one eye, locked into mine through my helmet. The Imp uses a propellant to hover above the ground, giving it superior mobility over everything.. including me.
 
@@ -4890,6 +4903,7 @@ Description: Clay Men are short humanoid beings covered entirely with jet-black 
 Behavior: The Clay Man moves quickly towards the player, sharply thrusting its sword forward when within attack range and dealing rather low amounts of damage, on a low cooldown. The Clay man possesses the ability to roll, allowing it to quickly cover ground in a burst of speed. However, Clay men can still be hit while rolling, and especially susceptible to stuns and staggers. Clay Men are one of 4 enemies capable of climbing and attacking on ropes, the other three being Lynx Tribe, Children and Lemurians.
 Spawns: Ancient Valley, Sunken Tomb, Temple of the Elders, Risk of Rain
 Content: BASE
+Log: 
 Field Notes:
 Quick with his sword and quicker with his feet; the agility of these clay 'people' is unexpected with a form so roughly shaped.
 
@@ -4906,6 +4920,7 @@ Description: Mechanical Spiders are four-legged mechanical constructs composed o
 Behavior: Mechanical Spiders are minor pests meant to overwhelm the survivor with their numbers and fast attacks. They possess a high health stat relative to their body mass, but have extremely low damage attacks. Mechanical Spiders are unable to jump, climb ladders or fall off of ledges, but can still be interrupted with small staggers and stuns, making them especially susceptible to even regular attacks. They shoot a single projectile at a time on a low cooldown that has high range and travels along the ground in a straight line. Due to their high spawn rates, Mechanical Spiders are only really a threat when in overwhelming numbers, where their combined attacks threaten low-mobility survivors with their area denial.
 Spawns: Ancient Valley, Magma Barracks
 Content: BASE
+Log: 
 Field Notes:
 The malware of our age! These mechanical parasites were probably lurking on the ship before the crash. Pirates will use these bugs to collect especially valuable cargo, redirect transmission signals, or even hijack ships. Spiders can be programmed with all kinds of malicious objectives.
 
@@ -4922,6 +4937,7 @@ Description: The Saturnian Bison, also known as the Bighorn Bison, is an enormou
 Behavior: Bighorn Bison are tanky enemies with surprising mobility. They walk slowly towards survivors and after a short windup, initiate a charge attack that advances them a large distance forward, dealing heavy damage in the process. Due to their large size, Bighorn Bison can cross one-tile gaps, and by extension use their attack to cross them. They cannot cross gaps larger than 2 tiles, as they cannot jump or drop off of ledges. They cannot be staggered but may still be stunned.
 Spawns: Ancient Valley, Magma Barracks
 Content: BASE
+Log: 
 Field Notes:
 The teleporter nearly launched me into a steaming dung heap. I could not have anticipated such an enormous beast being the source. More impressive than their rumbling bellows is the bighorn's charge. Their many tons of muscle produce a crushing slam of horn and matted hair.
 
@@ -4938,6 +4954,7 @@ Description: Swifts are inorganic avian creatures resembling polished cave stala
 Behavior: Swifts hover above the ground, passing through obstacles, and typically try to align themselves in a diagonal angle above survivors to dive towards them. Whenever a Swift hits a surface, regardless if it was successful, it’ll embed itself into the ground and be unable to act for one second, and then recover back to flight. Swifts aren’t difficult to dodge, but they’re most dangerous when the player is preoccupied with something else, such as climbing a ladder or kiting a horde/boss during a teleporter event.
 Spawns: Ancient Valley, Temple of the Elders
 Content: RTRN
+Log: 
 Field Notes:
 These flying stones manage to stay airborne despite their shale armor. Like a thousand darts thrown from the sun, they dive so swiftly toward me that their beaks slam into the ground. I've yet to see a surface that they cannot puncture, and I'm shocked that their beaks never seem worn. Their predictive aim is troubling, and they seem to know where I'm headed before I do. I've witnessed packs of these strange birds circling like vultures in the distant sky, though I've never witnessed any of them scavenging for food. Attempts to fashion their armor into new blades have resulted into nothing but chips in my knife.
 
@@ -4952,6 +4969,7 @@ Description: Whorls are an aquatic cephalopod species with a deep dark purple co
 Behavior: Whorls have above average stats. While slightly behind in toughness compared to Sand Crabs, they attack faster, which when paired with their long range makes them a formidable foe in the Sunken Tomb. Despite their appearance and method of locomotion, Whorls cannot fly, jump, cross ledges or climb ladders. They are immune to staggers but not stuns. Whorls can be compared to a weaker Greater Wisp, having similar range but lower damage and health. Often appearing in groups, they make up for these shortcomings by being numerous and covering a lot of ground, forcing survivors to resort to constantly dodge their attacks by jumping or retreat.
 Spawns: Sunken Tomb
 Content: BASE
+Log: 
 Field Notes:
 Day 8. I was awoken by an abrupt collision of something hard against my suit. A volley of sensors screamed in my ears as a hairline fracture arced across my vision.
 
@@ -4970,6 +4988,7 @@ Description: Macrobes are single-celled organisms that have managed to reach a m
 Behavior: Macrobes are fragile, small enemies that can be seen as the inverse to Mechanical Spiders, denying vertical area instead of ground. They make up for their low damage and health stats with sheer numbers and having vastly improved mobility. Macrobes have the ability to make long angled jumps to then glide down slowly and damage the player on contact. In addition to this, they're able to jump normally, fall off of ledges, but cannot climb ladders. As with most low body-mass monsters, Macrobes are susceptible to both staggers and stuns. Macrobes are one of two "Macrobial Creatures" in the game, the other being the Macrobic Predator. This quality grants them a regenerating shield that must be damaged first before being able to hurt their health bar.
 Spawns: Sunken Tomb, Hive Cluster
 Content: RTRN
+Log: 
 Field Notes:
 Sinking into an endless lake, I was caught off-guard by these huge cellular beasts. Bounding towards me, I can almost identify their internal anatomy behind thick membranes - How is it possible that some sort of microbe could get this large? Can this really be a single cell? Rough, thorn-like cilia coat its surface and it's flagellum serves as a razor sharp whip. The water doesn't seem to impede it at all, though its strange bouncing behavior may be a result of its attempts to pursue me under heavy water pressure. I'm weary of the force it seems to exert even within these conditions. My oxygen supply can't afford any leaks.
 
@@ -4984,6 +5003,7 @@ Description: The Macrobic Predator is a large highly developed macroorganism wit
 Behavior: Macrobic Predators are tough, fast combatants that can attack both horizontally and vertically. Macrobic Predators Attack by extending their mandibles towards the player. Depending on their position relative to viable targets, Macrobic Predators will attack either horizontally, or if their target is above/below them, vertically. These attacks can go through terrain. Macrobic Predators are one of two "Macrobial Creatures" in the game, the other being the Macrobe. This quality grants them a regenerating shield that must be damaged first before being able to hurt their health bar.
 Spawns: Magma Barracks, Risk of Rain
 Content: RTRN
+Log: 
 Field Notes:
 Some kind of massive insect, this creature snaps like a viper and skitters like an ant. It shouldn't be possible at such a scale to move so abruptly and yet it does. Similar to the Macrobe, this monster is some kind of predatory cell. With a massive rope of nerves at its core, I can only image it acts on instinct alone. I dug into a corpse to see if the spinal rope could sustain me in this toxic hive, but I found my arms stuck to the thick membrane and I had to use my knife to remove the non-newtonian gel. It'd make a great trap for prey, but I don't have time to test that theory.
 
@@ -4998,6 +5018,7 @@ Description: Gups, Geeps and Gips are rotund gelatinous life forms with two flow
 Behavior: Gups move towards nearby players. Once in range, they attack by extending spikes out of their body, dealing damage all around them. Once a Gup is killed, it will split into two smaller Geeps, each splitting into two Gips.
 Spawns: Hive Cluster
 Content: BASE
+Log: 
 Field Notes:
 It is quite rare that I smell anything through my respirator. I could not have been prepared for how bizarre no longer having a sense of smell is. However, there have been a rare few occasions when I caught some trace aroma- generally somewhat bitter on this planet, but I savor them greedily.
 
@@ -5014,6 +5035,7 @@ Description: Evolved Lemurians are a winged variant of the Lemurian. Their main 
 Behavior: Evolved Lemurians passively fly through the air, ignoring obstacles and trying to remain close to the player. They attack by charging towards their target from an angle in a flurry of swipes. Occasionally, either passively or after missing an attack, Evolved Lemurians will ground themselves and proceed on foot, behaving as a normal Lemurian, using a bite as their method of attack. Evolved Lemurians have the same mass as regular Lemurians, being susceptible to staggers and stuns.
 Spawns: Hive Cluster, Magma Barracks
 Content: BASE
+Log: 
 Field Notes:
 Could this be a distant cousin of the Lemurians below? An ancient evolutionary leap? These airborne reptiles do not interact with the ground Lemurians except to harass them occasionally. Perhaps there is some kind of natural feud between the species?
 
@@ -5030,6 +5052,7 @@ Description: The Elder Lemurian, like its lesser subspecies, the Lemurian, is an
 Behavior: Compared to Lemurians, Elder Lemurians are slower and bulkier, but are deadlier. They lumber towards the player upon sight. Once in range, they breath flames in an area in front of them, rooting themselves in place for a few seconds.
 Spawns: Temple of the Elders, Risk of Rain
 Content: BASE
+Log: 
 Field Notes:
 Seems to be very large version of the Lemurians; perhaps this great lizard is a queen? With similar armor and much thicker skin, it took much more to bring down this foe. She moves much slower and posses a powerful scorching blast.
 
@@ -5046,6 +5069,7 @@ Description: The Lemurian Cavalry appear as bordo-red Lemurians wearing the same
 Behavior: Lemurian Cavalries are dynamic enemies, with high total durability, mobility and fast attacks. Normally, the Lemurian Cavalry will charge towards the player atop their mounts, lashing out wildly with their spear, displacing and forcefully knocking survivors up, continuing their charge afterward and repeating the process on the way back. The Lemurian Lancer and the Boar are considered two different enemies, and if one dies, the other will keep attacking. If the Boar dies first, the Lemurian will hop off and start attacking with a different moveset. It has two different attacks. The first is a pounce and thrust, indicated by the Lemurian Lancer glowing a red sheen. This attack can allow the Lemurian Lancer to go through terrain. For their second attack, they will throw quickly throw a high velocity blue glowing spear at the player. Their behavior is consistent, and will always perform the pounce attack first and the spear throw second. If the Lemurian Lancer dies first, the Boar will behave similarly to a Boarlit, with the addition of a charge attack that knocks survivors upwards. The Lemurian Cavarly’s resistances and mobility are as follows: While mounted, can jump but not drop from ledges or climb ladders, can be stunned but not staggered. The lemurian lancer can jump but cannot climb, their pounce travels through obstacles directly towards the player, cannot drop from ledges or climb ladders. Can be stunned but staggered only if not currently attacking. The boar cannot jump, drop from ledges or climb ladders. Can only be stunned.
 Spawns: Temple of the Elders, Risk of Rain, Desolate Forest, Dried Lake
 Content: RTRN
+Log: 
 Field Notes:
 I found a group of red Lemurians resting in the dilapidated ruins with domesticated boars alongside them. I've never seen a red species outside of the flying types, though I doubt these are any more welcoming. With great spears and flamboyant helmets, they resemble cavalry of times past, and I'm not equipped to face any chariots head-on. In the distance I can see two of them sparring atop their beasts. They attack with sharp agility and acrobatic prowess that I hope to never experience.
 
@@ -5060,6 +5084,7 @@ Description: Temple Guards are artificial constructs thought to be constructed b
 Behavior: Temple Guards serve as slow, persistent artillery enemies that can threaten any survivor in their range. They possess a high health pool, but are relatively immobile, being unable to jump, drop from ledges, or climb ladders. Temple Guard are able to directly shoot at any player in a massive range and at any angle. In between attacks, they may buff their own defense, indicated by a shield icon appearing above them. While their damage may appear low, they always shoot two shots at a time. Their projectiles are telegraphed by a firing animation and two circular targets that indicate where they will hit. Due to their large mass, they are resistant to staggers but not stuns.
 Spawns: Temple of the Elders, Risk of Rain
 Content: BASE
+Log: 
 Field Notes:
 A robot creature that assembles itself.. I have not seen them materialize other than when I unknowingly trigger their presence. I cannot believe this is indeed a machine- and yet it is made from some alloy and uses heavy artillery! Was this on the ship, or are these guards a naturally occuring 'species' here? My suit's scanners are unable to detect any manufacturer's signature.
 
@@ -5076,6 +5101,7 @@ Description: Archer Bugs are large, turquoise flying four-legged arthropods with
 Behavior: Archer bugs are a fast, horde type enemy meant to be especially dangerous in groups. They fly perpetually, passing through obstacles, attempting to align themselves in a circle around the player. Archer bugs attack by shooting evenly-spread triple projectile spit that individually deals low damage. Archer bugs cannot be staggered, but can be stunned and knocked back. Archer bugs often spawn in groups, so while their individual stats are rather low, their triple shots multiplied by their quantity can quickly deny areas and restrict movement, forcing survivors to maneuver around their shots dexterously and making them a high priority.
 Spawns: Hive Cluster, Temple of the Elders
 Content: BASE
+Log: 
 Field Notes:
 Such aggravating creatures! These insects come in droves- as a group their wings create a maddening whine. Even the other creatures seems disturbed by their presence. Though they are not particularly strong, the circling insects certainly frustrate me.
 
@@ -5092,6 +5118,7 @@ Description: Brambles are an aggressive plant-like species that sprout from a mo
 Behavior: Brambles are turret-like enemies that make up for their low health and damage by being able to reach the player at almost any height and overwhelm them with continuous projectile fire. Bramble's heads are susceptible to attacks along with their body. This trivializes them if dealt with quickly as they have a long cooldown after attacking. Dodging their first shot allows for dispatching them quickly. They are also unable to cross ledges or gaps, jump, or climb ropes and are susceptible to staggers and stuns.
 Spawns: Temple of the Elders, Damp Caverns, Sky Meadow
 Content: RTRN
+Log: 
 Field Notes:
 While walking through overgrown ruins I found myself surrounded by strange rustling that I could not place. Stepping into a massive temple, vines whipped the entryway shut and the ivy began slithering down the walls. These living Brambles spit caustic venom and I'm thankful to only have holes left in my gloves. Their hypnotic sway distills fear in me and I recognize some higher intelligence in their movements. The bark at their base facilitates some kind of locomotions, though I can't identify any apparant muscular system inside that would drive it. After the encounter, the resulting coughs and spasms left me on edge as I scaled the tower and left the echoes behind me.
 
@@ -5106,6 +5133,7 @@ Description: Tiny Imps are infant Black Imps that aren't capable of combat or te
 Behavior: Once spawned, the imps will immediately scatter away from the player in different directions, frequently hopping weakly to try and escape their demise.
 Spawns: Summoned from Imp Shrines
 Content: BASE
+Log: 
 Field Notes:
 I seem to have found the one creature on this planet that DOESN'T want to kill me. These small, leathery creatures are spawned from vases I sometimes spot in the ruins. They seem to stay in packs, and frequently carry useful treasure.
 
@@ -5122,6 +5150,7 @@ Description: Lynx Tribals are anthropomorphic feline creatures that reside in th
 Behavior: The Lynx Tribe consists of three distinct creatures, each with their own stats and methods of attack. The scout behaves identically to a Lemurian, chasing the player and attacking with a medium range melee slash. The hunter charges forward and thrusts with its spear when survivors are in range. The archer actively avoids survivors and tends to climb to high elevations. Shoots medium velocity arrows in an arc towards the exact position of survivors, and uses a short slash to attack survivors at close range.
 Spawns: Summoned from Lynx Totems
 Content: RTRN
+Log: 
 Field Notes:
 I glanced to one side, trying to get my bearings. By sheer luck, my eyes picked up something barely visible, so still it could be mistaken for a rock. A shiver ran down my spine as I realized it was alive. I hadn't heard anything approach; how long had it been watching me? Why hadn't it attacked me? I suppose the creature had never seen anything like me. As we exchanged gazes, I noticed there were more of them. Gripped by fear, I shot a glance at my firearm which, in my hubris, was still in its holster. A twig snapped, and I immediately looked back to them, but they were gone. I walk slowly now. There could be one of these behind every blade of grass.
 
@@ -5137,6 +5166,7 @@ Description: The Colossus is a gigantic humanoid stone construct, with mounds of
 Behavior: Upon spawning, the Colossus claps its hands spawning a Rock Golem, and will do so every time it claps its hands again. These claps will damage the player. When getting close to the Colossus, it will stomp the ground and deal heavy damage to survivors in a low area in front of it.
 Spawns: Desolate Forest, Dried Lake, Sunken Tomb, Ancient Valley
 Content: BASE
+Log: 
 Field Notes:
 A low groaning, lasting for a few days at least. From the relative safety of my drop pod I watched as a mountain rose to its knees, pushing itself up with arms of stone and dirt and twine.
 
@@ -5156,6 +5186,7 @@ Description: It appears as a larger version of the Jellyfish. However, unlike th
 Behavior: The Vagrant quickly floats towards the player it's targeting. It deals no contact damage, instead attacking by creating six projectiles that quickly fly towards and detonate where the player was standing.
 Spawns: Desolate Forest, Dried Lake, Sky Meadow, Sunken Tomb
 Content: BASE
+Log: 
 Field Notes:
 Day 3. While looking through some wreckage of the old ship, I felt a hot sensation on my skin and a brilliant white flash. Over the horizon maybe 5 miles north I saw it, looming over the forest tops.
 
@@ -5175,6 +5206,7 @@ Description: The Magma Worm is a giant predator that is serpentine in form, havi
 Behavior: The magma worm attacks by jumping up, through any platform and ground, and diving back down dealing damage on contact, leaving behind a patch of fire.
 Spawns: Desolate Forest, Dried Lake, Damp Caverns, Sky Meadow
 Content: BASE
+Log: 
 Field Notes:
 I've stumbled upon an old relic, notably with two distinct stone prongs. On approaching it it whirred to life, apparantly charging up. This seemed to disturb something deep and violent below the ground..
 
@@ -5194,6 +5226,7 @@ Description: The Ancient Wisp is the highest known form of wisp on Petrichor V. 
 Behavior: The Ancient Wisp follows survivors in range, dealing no contact damage. Its only attack is summoning rows of lightning on the ground. This attack has a long cooldown, and is telegraphed by dots lining the area they'll strike one second prior. They can be dodged by standing between the gaps, or by jumping when the attack hits. Once the Ancient Wisp is killed, 2 Greater Wisps and 2 Wisps are spawned.
 Spawns: Damp Caverns, Sky Meadow
 Content: BASE
+Log: 
 Field Notes:
 Could this be the architect of the smaller wisps? Perhaps this Ancient Wisp is the puppeteer behind the fiery masks harassing me thus far, or is he also a devilish device of something greater..?
 
@@ -5211,6 +5244,7 @@ Description: The Lynx Totem is a tall stone structure engraved with various mark
 Behavior: Lynx Totem is a summoner boss and the only boss that can jump. It deals no contact damage, instead attacking in two different ways: Summoning four random Lynx Tribe members, two on both of its sides. If the Lynx Totem is elite, the summoned enemies will inherit its elite type. A ground pound move that deals damage at ground level and summons two blocks on both of its sides.
 Spawns: Damp Caverns, Sky Meadow, Temple of the Elders
 Content: RTRN
+Log: 
 Field Notes:
 Travelling through the fungal caverns, I kept seeing out of place rubble that trailed to nowhere. With no buildings in sight, I was shocked to see a brick wall in the distance. Little cat-like creatures with masks and weaponry danced around the structure, and I could hear them laugh with one another. They appeared to be practicing some kind of worship, though the structure looked unlike anything I've seen on this planet. More of them crawled out from the dirt nearby, but strangely I haven't seen any evidence of them resting or hiding in the soil prior to that. Luckily they were distracted - I don't know that I could take on a horde of that size, no matter how small they were.
 
@@ -5226,6 +5260,7 @@ Description: The Imp Overlord is a massive specie of Imp, with a multitude of re
 Behavior: The Imp Overlord has three attacks, and is one of the most mobile bosses in the game, as it is capable of teleportation. The Imp Overlord flails its arms towards the ground, damaging survivors over multiple damage instances in a low area towards the center of the ground. It tends to teleport directly to the position of survivors before initiating this attack. The Imp Overlord immediately charges towards a target direction, dealing heavy damage over multiple damage instances and traveling a long distance unless halted by environment. The Imp Overlord emits a horrible screech towards survivors that summons a horizontal red line of vapor traveling along the ground or air. This attack is telegraphed by a red line scanning the area it'll target.
 Spawns: Ancient Valley, Sunken Tomb, Hive Cluster, Magma Barracks, Temple of the Elders
 Content: BASE
+Log: 
 Field Notes:
 Oh, why me? My heart stopped when this great Imp manifested in previously empty space. So many horrendous eyes. With a gaping scream the Imp lets out a deadly red vapor. Some type of laser also trails me.
 
@@ -5243,6 +5278,7 @@ Description: Ifrit is a massive tetrapod creature that has a slender anatomy. It
 Behavior: Ifrit is a mid-game boss with higher than average stats, that can influence the environment to immobilize players. Ifrit can trap survivors by spawning two tall black towers from two directions, preventing them from going farther forward or back. Ifrit's only damaging move is a massive downwards swipe with its forelimbs, which deals great damage in a large area in front of it, and additionally creates a wave of fire that travels along the ground.
 Spawns: Ancient Valley
 Content: BASE
+Log: 
 Field Notes:
 Could this be..? Tales I never believed recounted a horrible beast, fire incarnate. Scourge of another solar system, the Ifrit nearly wiped out an entire space colony before being chained and launched into the great black void. Supposedly the flaming jets that accompanied his roars could be seen for days as he drifted outwards.
 
@@ -5260,6 +5296,7 @@ Description: Toxic Beast is a giant mammalian quadruped resembling Earth wild bo
 Behavior: The Toxic Beast attacks by charging at survivors, dealing contact damage with its lower body. This damage occurs very close to the ground, meaning it can be avoided entirely by simply standing on a small platform. It can additionally emit a piercing screech and summon many Boarlits.
 Spawns: Boar Beach, Magma Barracks, Hive Cluster, Temple of the Elders
 Content: BASE
+Log: 
 Field Notes:
 This goliath's body has been carved by this world, covered in numerous scars. The squealing queen had seen many battles. Her coarse hair growing in jagged patches between each old wound only increased her fearsome appearance.
 
@@ -5277,6 +5314,7 @@ Description: The Cremator is a massive reptilian shelled creature resembling Ear
 Behavior: The Cremator can only spawn inside of lava pools in the Magma Barracks, and moves horizontally alongside them. It attacks by shooting a multitude of projectiles towards the player with varying spread, indicated by white crosshairs before landing. It can also ram towards survivors who are close to it and damage them on contact with its maw. The Cremator takes reduced damage from its backside, and must be damaged in the head in order to take full damage. It is completely immune to all staggers and stuns.
 Spawns: Magma Barracks
 Content: BASE
+Log: 
 Field Notes:
 I could not believe my eyes as this creature erupted from the lava. My suit's temperature gauges screeched in warning. How can anything subsist in such heat? The lava parts in waves as the monster swims rapidly through it.
 
@@ -5295,6 +5333,7 @@ Behavior: Scavengers attack by either shooting a fast, white projectile similar 
 Ukulele; or by shooting multiple red homing missiles similar to Volatile Icon.png Volatile enemies in a similar manner to the  Disposable Missile Launcher. Scavengers will also start to slowly regenerate health with their Mysterious Vial after not being attacked for a few seconds. When spawning, Scavengers will pop the top of their body out of the ground and appear to look around before exiting the ground and attacking.
 Spawns: Any
 Content: BASE
+Log: 
 Field Notes:
 Who knew a pack rat could be so dangerous! This creature seems to be hoarding many of the items littered across this planet. I have seen no others of its kind. If it hadn't been so intent on slaying me I would have tried to gain this Scavenger as an ally..
 
@@ -5312,6 +5351,7 @@ Description: Providence is a boss found in the level Risk of Rain and the final 
 Behavior: During Phase 1, Providence attacks the player with a simple set of attacks. Providence will swing his sword towards the player, teleport above the player and strike down, strike the ground and spawn shockwaves on both sides that explode into pillars of energy, summon two white projectiles which hover in the air before rushing toward the player, and summon shadow clones that move towards the player then attack. Once his health is depleted, Providence will exit the arena and summon the Gilded Wurms. During Phase 2, Gilded Wurms behave similarly to Magma Worms but are able to fly through the air. The blue Wurm regularly sparks electricity around itself. The red Wurm ignites any ground it touches. They use the following attacks: The Wurm's head flashes red and charges at the player, dealing damage on contact. Both Wurms possess this ability. A white reticle appears on the player. The red Wurm shoots a continuous red beam at the Player from its mouth, dealing damage in the point of impact and everything between it. The blue Wurm shoots multiple white projectiles that behave similarly to Providence's. Once both Wurms are killed, Providence will return to the arena to begin Phase 3. Providence initiates Phase 3 by executing a downward slash at the middle of the arena, spawning two Sanctuary Guards. Providence uses a similar set of attacks to Phase 1, with key differences: Providence spawns 3 or 6 shadow clones above the player. They slash downwards at the ground with their swords. Some targets are colored red and always reduce the player to 1HP on hit, bypassing all health-boosting and damage-reduction items. When executing his shockwave attack, Providence leaves a trail of fire. More targets summoning shadow clones appear than in the first stage. Once half of Providence's health is depleted, a shadow clone appears which mirrors his movements. He may swap positions with the clone. Once Providence's health is depleted for the second time, he will vanish. After a brief pause, Providence drops to the middle of the arena to initiate Phase 4. The background changes to a storm. Providence will always begin Phase 4 by summoning six slowly-rotating lasers from the center of the arena, along with 2 lasers on the left and right sides of the arena. Afterward, he will rotate between a selection of several attacks: Six rotating lasers spawn around a point, similar to his initial attack, with only one can exist at a time. A massive laser appears horizontally or vertically depending on the player's position. Targets appear in a randomly-predetermined path. A large target appears at the player's position, which will inflict heavy damage. 4 projectiles spawn which move towards the player quickly. Only one can exist at a time. If Providence has less than ~33% health, one can spawn both horizontally and vertically. Repeatedly teleporting toward and slashing at the player several times. This move is followed up by Providence summoning several red targets at once in a vertical arc.
 Spawns: Risk of Rain
 Content: BASE
+Log: 
 Field Notes:
 I recognized him from the security footage... he was the one who blew the cargo hatches open. He was the one who killed everyone.
 
@@ -5463,6 +5503,7 @@ Description: Archaic Wisps resemble Greater Wisps that glow a lavender purple in
 Behavior: Archaic Wisps behave identically to Greater Wisps, only that their attack is split into two instances of damage, instead of being one instance.
 Spawns: Hive Cluster, Temple of the Elders, Risk of Rain
 Content: BASE
+Log: 
 Field Notes: 
 There is no log entry for this enemy.
 
@@ -5477,6 +5518,7 @@ Description: Young Vagrants are the adolescent phase of a Jellyfish's life cycle
 Behavior: Young Vagrants behave much like Wandering Vagrants, slowly flying towards the player and dashing towards them once in range. They attack by shooting exploding projectiles directly at the player's location, indicated by white circle markers. However, unlike their larger variant, they only shoot 3 projectiles instead of 6.
 Spawns: Risk of Rain
 Content: BASE
+Log: 
 Field Notes: 
 There is no log entry for this enemy.
 
@@ -5491,6 +5533,7 @@ Description: A Boarlit is a small mammal that resembles Earth wild boar, covered
 Behavior: Boarlits are individually weak enemies meant to serve as horde fodder when summoned by their presumed mother, the Toxic Beast. Their only method of attack is running towards survivors and dealing contact damage.
 Spawns: Boar Beach, Summoned by Toxic Beast
 Content: BASE
+Log: 
 Field Notes:
 There is no log entry for this enemy.
 
@@ -5505,6 +5548,7 @@ Description: A unique type of Boarlit of which there's guaranteed to be only one
 Behavior: See Boarlit.
 Spawns: Boar Beach
 Content: BASE
+Log: 
 Field Notes:
 There is no log entry for this enemy.
 
@@ -5519,6 +5563,7 @@ Description: Sanctuary Guards appear as upgraded version of Temple Guards. They�
 Behavior: Sanctuary Guards behave identically to Temple Guards, but have less health, deal more damage, and are faster. On top of this, they shoot 3 shots at a time instead of 2.
 Spawns: Sanctuary Guards are summoned exclusively by Providence during his third phase.
 Content: BASE
+Log: 
 Field Notes:
 There is no log entry for this enemy.
 
@@ -5533,6 +5578,7 @@ Description: Acrid is a special boss. It can be found in the Sunken Tomb in a me
 Behavior: The Boss variant of Acrid acts much like the playable Acrid with the exception of spreading contagion, though its actual stats are much different (besides retaining the fact that Acrid has 15 armor). It can slash with its claws at melee range, spit toxic bile, and spread poison along the ground.
 Spawns: Sunken Tomb on variant 1, 2, and 3, in the top right corner of the map.
 Content: BASE
+Log: 
 Field Notes:
 There is no log entry for this enemy, but there is one for them as a survivor.
 
@@ -5547,5 +5593,6 @@ Description: The Gilded Wurms appear to be a genetically modified species of Mag
 Behavior: The Gilded Wurms behave similarly to Magma Worms but are able to fly through the air. The blue Wurm regularly sparks electricity around itself. The red Wurm ignites any ground it touches. They have the following attacks: The Wurm's head flashes red and charges at the player, dealing damage on contact. Both Wurms possess this ability. A white reticle appears on the player. The red Wurm shoots a continuous red beam at the Player from its mouth, dealing damage in the point of impact and everything between it. The black Wurm shoots multiple white projectiles that behave similarly to Providence's. Once both Wurms are killed, Providence will return to the arena to begin Phase 3.
 Spawns: Spawned solely by Providence during his second phase.
 Content: BASE
+Log: 
 Field Notes:
 There is no log entry for these enemies.

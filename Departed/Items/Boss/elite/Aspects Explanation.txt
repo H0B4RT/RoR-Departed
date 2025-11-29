@@ -1,0 +1,5 @@
+So, Aspects are a full on thing in Departed.
+
+If you have ever played RoR2 with Zet Aspects, you pretty much know how the aspects will work. 
+Aspects have always been one of the cooler item concepts, so a lot of the aspects are visually based off of the SS1 aspects & DigBug's assistance.
+They can be picked up as an Item or Equipment. When in the Equipment Slot, they act as 3 of the item in the inventory. 

@@ -6,7 +6,7 @@ Key Notes
 	- Umbra Title: Cornered Gunslinger
 	- Exile Quote: ...and so he remained, a soldier with nothing to fight for.
 
-Unlock: None
+Unlock: Unlocked by default.
 
 Health: 110 (+32 per level)
 Regen: 0.6 (+0.12 per level) HP/S
@@ -16,7 +16,7 @@ Jump Height: 2
 Armor: 0 (+2 per level)
 Skills:
 	- Passive: Cardio
-		- You have the ability to sprint. Sprinting increases movement speed by 50%.
+		- You have the ability to sprint. Sprinting increases movement speed by 45%.
 	- Primary: Double Tap
 		- Shoot rapidly for 60% damage.
 	- Secondary: Full Metal Jacket

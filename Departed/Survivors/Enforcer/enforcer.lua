@@ -6,7 +6,7 @@ Key Notes
 	- Umbra Title: Unwavering Bastion
 	- Exile Quote: ...and so he remained, becoming a wall against the chaos.
 
-Unlock: Kill the Magma Worm, Wandering Vagrant, and Colossus.
+Unlock: Kill the Magma Worm, Wandering Vagrant, and Colossus. (Master Hunter)
 
 Health: 119 (+34 per level)
 Regen: 1.2 (+0.12 per level) HP/S
@@ -29,4 +29,35 @@ Skills:
 		- Ancient Scepter: Mob Managemenent
 			- Launch a stun grenade, stunning enemies in a huge radius for 540% damage. Store up to 3 grenades.
 				- Charges: 3
+				
+Log:
+Departure:	Destination:
+
+Old Alcatraz,   
+Rustborough,   
+Mars   
+
+
+
+Substation A1,   
+Californian Republic,   
+Earth   
+
+
+
+  Travel ID: 255444C454
+
+Passenger Details:
+[Business Class]
+
+
+Luggage & Equipment:
+Officer boarded with 2055 Heavy-SWAT variant police gear, an SDN standardized auto-shotgun (with grenade launcher attachment), and a vaccuum-grade blast shield. All equipment recently granted and cleared ahead of time by Old Alcatraz's Department of Migrations and Transfers. Security clearance granted to carry firearm at all times, though spacefaring laws puts officers outside of primary jurisdictions. Officer also boarded with a satchel containing personal affects including training weights, a selection of books, and a jumprope, all cleared by security at boarding.
+
+
+[SECURITY RECALL]
+[Event E1] Officer's serviceman ID lacked a name, but the numerical ID# was accepted by the identification archival system as a prior passenger.
+[Event E2] Minor altercation between officer and mercenary-class passenger resulting in them being separated.
+
+
 --]]

@@ -6,7 +6,7 @@ Key Notes
 	- Umbra Title: Man Made Monstrosity
 	- Exile Quote: ...and so it remained, systems malfunctioning and a heart restarting.
 
-Unlock: Carry a Portable Reactor and Repulsion Armor at the same time.
+Unlock: Carry a Portable Reactor and Repulsion Armor at the same time. 
 
 Health: 110 (+26 per level)
 Regen: 1.5 (+0.15 per level) HP/S
@@ -29,4 +29,7 @@ Skills:
 			- CD: 6s
 		- Ancient Scepter: Gamma Overheat Redress
 			- Blast yourself backwards firing a GREATER ENERGY BULLET. Deals a MAXIMUM of 650% DAMAGE PER SECOND.
+
+Log:
+TBD
 --]]
