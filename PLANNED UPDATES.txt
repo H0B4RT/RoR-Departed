@@ -43,7 +43,7 @@ Enemies:
 	- Plant Family: Trokk, Tuber, Bramble, Restless Oak
 	- Post Family: Follower, Watcher, Wayfarer
 	- Stone Family: Stone Golem, Stone Titan, Stone Colossus
-	- Wisp Family: Lesser Wisp, Greater Wisp, Archaic Wisp, Ancient Wisp
+	- Wisp Family: Lesser Wisp, Greater Wisp, Archaic Wisp, Bound Wisp, Ancient Wisp
 	- Worm Family: Young Worm, Magma Worm, Overloading Worm, Volatile Worm
 Elites:
 	- BASE:
@@ -52,7 +52,7 @@ Elites:
 	- DEPARTED:
 		- T1: Glacial, Terran, Moist
 	- STARSTORM:
-		- T1: Poisonous, Kinetic, Dazing, Weakening, Hardening
+		- T1: Poisonous, Kinetic, Weakening, Hardening
 Events:
 	- Family Events
 	- Storms
@@ -80,7 +80,7 @@ Items:
 	- Aspects: 
 			- BASE: Eternal Ember, Arcane Dynamo, Discordant Catalyst, Vitality Siphon, Cataclysmic Core, Betrayal of the Bulwark
 			- DEPARTED: Frostbound Veil, Tectonic Hearthstone, Abyssal Veil
-			- STARSTORM: Virulent Elixir, Velocity Conduit, Hypnotic Mirage, Withering Shade, Armored Core
+			- STARSTORM: Virulent Elixir, Velocity Conduit, Withering Shade, Armored Core
 	- Scrap: Common Scrap, Uncommon Scrap, Legendary Scrap, Boss Scrap
 
 

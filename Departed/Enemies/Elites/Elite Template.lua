@@ -23,7 +23,6 @@ Stage Condition:
 Wave Condition:
 
 Aspect: 
-	- (Equipment):
 	- (Item):
 
 Log:

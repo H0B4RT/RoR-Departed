@@ -34,6 +34,7 @@ Skills:
 			- CD: 30s
 Boss Item:
 	- Hostile Nucleus: Upon being hit by an enemy, reduce damage by 50% (+50%). Deal the same percentage of damage back to attacker. After reflecting 100% percent damage, spawns an ally Beta Construct.
+	- Defense Nucleus: Killing elite monsters spawns a Beta Construct with bonus 300% damage and health. Limited to 4 (+4).
 
 Log:
 TBD
