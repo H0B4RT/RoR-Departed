@@ -17,16 +17,16 @@ Shipping Details:
 
 Order Details:
 
-X
+What I witnessed transcended my understanding. Not only did the remains glow for me, but they sensed something I wasn't aware of, something of a different nature. May the light guide me in my journey.
 
 Sent To:
-X,
-X,
-X
+ROMEO 3,
+Collector 335,
+Mars
 
 Shipping Method:
-X
+Field-Found
 
 Estimated Delivery:
-X
+Unknown
 --]]

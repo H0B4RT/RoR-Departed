@@ -17,16 +17,16 @@ Shipping Details:
 
 Order Details:
 
-X
+The branding of this thing is pretty exaggerated, but don't let that trick you. This burns like hell, and I DO MEAN IT!
 
 Sent To:
-X,
-X,
-X
+Home 3,
+Apla,
+Earth
 
 Shipping Method:
-X
+Priority
 
 Estimated Delivery:
-X
+12/02/2056
 --]]

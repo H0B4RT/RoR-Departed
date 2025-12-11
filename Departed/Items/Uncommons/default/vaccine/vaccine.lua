@@ -17,16 +17,18 @@ Shipping Details:
 
 Order Details:
 
-X
+I heard about your family. It's a shame really, people as sweet as your mother don't deserve to fall victim to such an illness. I do have a solution though. I'm sending you a high-end, state of the art vaccine. It's quite experimental, but I promise it will heal and prevent any further replicas. She will be cured, as long as you keep her on a steady intake.
+
+The first one is on my behalf, but following doses will need to be on you. I hope you can understand, this is very costly, and even though I wish I could, I can't afford all of them.
 
 Sent To:
-X,
-X,
-X
+30,
+Robb Stad,
+Earth
 
 Shipping Method:
-X
+Priority
 
 Estimated Delivery:
-X
+3/3/2056
 --]]

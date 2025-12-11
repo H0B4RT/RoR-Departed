@@ -2,7 +2,6 @@
 Low Quality Speakers
 Key Notes
 	- STARSTORM CONTENT
-	- If it was changed or reworked from its original version, how was it changed?
 
 Unlock: Unlocked by default.
 Tier: Uncommon
@@ -17,16 +16,16 @@ Shipping Details:
 
 Order Details:
 
-X
+Congratulations [REDACTED]! Thank you for participating in our monthly raffle. Here is your prize! If you have any questions or for further information on your product, please visit RERAFFLES.nul/help
 
 Sent To:
-X,
-X,
-X
+Floor 2,
+Between Ridy & Low,
+Earth
 
 Shipping Method:
-X
+Priority
 
 Estimated Delivery:
-X
+03/30/2058
 --]]

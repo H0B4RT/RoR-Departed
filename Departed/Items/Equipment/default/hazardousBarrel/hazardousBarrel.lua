@@ -18,16 +18,16 @@ Shipping Details:
 
 Order Details:
 
-X
+What a trope! Go pew pew and they go BOOM BOOM!!
 
 Sent To:
-X,
-X,
-X
+E1M3,
+Toxin Refinery,
+Mars
 
 Shipping Method:
-X
+Volatile
 
 Estimated Delivery:
-X
+11/08/2056
 --]]

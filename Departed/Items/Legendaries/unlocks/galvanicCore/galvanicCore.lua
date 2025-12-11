@@ -16,16 +16,22 @@ Shipping Details:
 
 Order Details:
 
-X
+The power is yours.
+
+Welcome to the next generation of power core technology in the galaxy. The Galvanic Core is the most revolutionary invention since the Hardlight Afterburner! Don't blink, it's time to embrace the future.
+
+Thank you for your purchase.
+
+OMNI.co
 
 Sent To:
-X,
-X,
-X
+Science Plaza,
+#42,
+MV Prime
 
 Shipping Method:
-X
+High Priority
 
 Estimated Delivery:
-X
+04/22/2056
 --]]

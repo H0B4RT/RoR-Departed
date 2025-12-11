@@ -17,16 +17,20 @@ Shipping Details:
 
 Order Details:
 
-X
+After Nkota's siblings attempted to get the heritage for themselves, someone stole the article in what seemed to be an act of vengeance. 
+
+It only fell into my hands after a young man sold it for an adequate amount of money. I am sending you as you might be able to help me analyze it.
+
+I am willing to sell it to a museum and give you a cut if it IS the authentic one.
 
 Sent To:
-X,
-X,
-X
+Naaga 23,
+H4D35,
+Earth
 
 Shipping Method:
-X
+High Priority
 
 Estimated Delivery:
-X
+05/05/2056
 --]]

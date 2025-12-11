@@ -7,7 +7,7 @@ Key Notes
 Unlock: It's an unlock. I just need to figure out what I want its unlock to be.
 Tier: Common
 Category: Utility / Survival
-Physical Description: A 50 kilo dumbell.
+Physical Description: A 50 pound dumbell.
 Pick Up Text: Slightly increase movement speed and armor.
 Effect Description: Increase movement speed by 7% (+7% per stack) and increase armor by 3 (+3 per stack).
 

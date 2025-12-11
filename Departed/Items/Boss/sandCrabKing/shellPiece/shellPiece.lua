@@ -17,16 +17,18 @@ Shipping Details:
 
 Order Details:
 
-X
+Its shell was solid as graphene: cutting through it, blasting it, nothing seemed to be enough until this piece fell off it, leaving the colossal creature exposed.
+
+Nothing will compare to how glorious my victory was, all thanks to this unlikely event.
 
 Sent To:
-X,
-X,
-X
+Menon Exhibit,
+Plora,
+Earth
 
 Shipping Method:
-X
+Field-Found
 
 Estimated Delivery:
-X
+Unknown
 --]]

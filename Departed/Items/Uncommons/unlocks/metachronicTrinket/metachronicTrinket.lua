@@ -16,16 +16,20 @@ Shipping Details:
 
 Order Details:
 
-X
+"Time is the most valuable resource in the universe", my mother used to say. But the more I spend with this, the more I realize how wrong she was, and how naive I've been.
+
+Maybe nothing is what we think it is. Our quest for knowledge could be in vain, but there's one thing I can tell you:
+
+Time echoes your name.
 
 Sent To:
-X,
-X,
-X
+P2592323,
+Sagooj,
+Earth
 
 Shipping Method:
-X
+Priority
 
 Estimated Delivery:
-X
+11/11/2056
 --]]

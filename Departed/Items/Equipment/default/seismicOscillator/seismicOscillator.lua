@@ -19,16 +19,18 @@ Shipping Details:
 
 Order Details:
 
-X
+We've gotten a fairly good trade with the lambda group. We probably won't use this anymore, so it's yours to keep. You'll probably use it more over there than we did, with all the recent earthquakes. 
+
+Watch out for the beeping, it could mean a catastrophe.
 
 Sent To:
-X,
-X,
-X
+Miean #676.2,
+Plausandi,
+Titan
 
 Shipping Method:
-X
+Volatile
 
 Estimated Delivery:
-X
+04/05/2056
 --]]

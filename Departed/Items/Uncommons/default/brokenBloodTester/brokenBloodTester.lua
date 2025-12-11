@@ -17,16 +17,20 @@ Shipping Details:
 
 Order Details:
 
-X
+Look, I already told you in a message, but the UES requires info on all deliveries so let me just make this clear:
+
+When I ordered this BLood Tester unit (which was not cheap at all!), it arrived and functioned perfectly. But just after two days, it began SPEWING OUT coins instead of... you know... RECEIVING THEM??? Like, all my customers just started staying in front of it, hitting themselves just so your [REDACTED] machine made them rich. I want my money back, all of it. I'm really sorry but I'm never buying from you again.
+
+I wish you luck, but you really have to check your quality control processes.
 
 Sent To:
-X,
-X,
-X
+#11 Looeng St.,
+TRR,
+Earth
 
 Shipping Method:
-X
+Priority
 
 Estimated Delivery:
-X
+05/22/2056
 --]]

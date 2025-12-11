@@ -17,16 +17,22 @@ Shipping Details:
 
 Order Details:
 
-X
+This is the droid head for the model ER-14 that you requested. Fully functional, it just rewuires Wiring.
+
+These are quite difficult to obtain these days, given the whole RaCom controversy.
+
+Don't forget to disable the security protocols before hnadling, I don't think you want a hundred backup drones around your shop!
+
+If you need any tools or pieces let me know.
 
 Sent To:
-X,
-X,
-X
+Robofix,
+SOL 1,
+Mars
 
 Shipping Method:
-X
+20/12/2056
 
 Estimated Delivery:
-X
+High Priority
 --]]

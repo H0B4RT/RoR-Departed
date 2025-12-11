@@ -17,16 +17,18 @@ Shipping Details:
 
 Order Details:
 
-X
+Here is your souvenir from Mars! Green Chocolate is super expensive to purchase anywhere else So I'm sneding you a pair, just don't eat both the same day! (Seriously, don't!)
+
+You will feel like never before while eating it! THey say it enhances your body but IDK about that honestly. Also, please check in on Uncle Jeff. He wasn't feeling very well the last time I talked to him...
 
 Sent To:
-X,
-X,
-X
+Montee,
+Gamma East,
+Earth
 
 Shipping Method:
-X
+High Priority
 
 Estimated Delivery:
-X
+03/11/2056
 --]]

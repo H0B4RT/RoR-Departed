@@ -17,16 +17,20 @@ Shipping Details:
 
 Order Details:
 
-X
+After extensive testing, the product is now ready for shipping by the holidays! Please contact our sponsors, I'll be away during the lockdown.
+
+Refrain from mentioning my cooperation with Dannah to the leads, we need to make sure we get the investment as soon as possible.
+
+Reply with auth.
 
 Sent To:
-X,
-X,
-X
+Room 14,
+Bay 2,
+UES Ganna
 
 Shipping Method:
-X
+Priority
 
 Estimated Delivery:
-X
+12/10/2056
 --]]

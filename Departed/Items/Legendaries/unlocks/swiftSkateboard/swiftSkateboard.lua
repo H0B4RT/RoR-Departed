@@ -17,16 +17,19 @@ Shipping Details:
 
 Order Details:
 
-X
+Good Day Sir Morse. This month's GOLDEN reward is the RUdolph D30 Skateboard Replica.
+Enjoy your freebie!
+
+Description: In the last century, the D30s were widely praised as the peak in performance for the D series, particularly after the professional skateboarder Hobbert used one at Sydney's Skate Championship and won at first place.
 
 Sent To:
-X,
-X,
-X
+221,
+Hill Hills,
+Earth
 
 Shipping Method:
-X
+High Priority
 
 Estimated Delivery:
-X
+01/03/2056
 --]]

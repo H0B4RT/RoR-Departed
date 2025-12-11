@@ -17,7 +17,9 @@ Shipping Details:
 
 Order Details:
 
-These are as delicious as I told you. I just hope it doesn't crack open on the way there like the last one. I should get a job.
+These are as delicious as I told you. I just hope it doesn't crack open on the way there like the last one. 
+
+I should get a job...
 
 Sent To:
 1530,

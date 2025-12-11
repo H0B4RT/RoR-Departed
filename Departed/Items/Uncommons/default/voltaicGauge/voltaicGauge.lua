@@ -17,16 +17,18 @@ Shipping Details:
 
 Order Details:
 
-X
+Hola primo.
+
+The 30th is gaming night, you should probably practice more so we don't leave you behind during the boss fight. If anything this could help you out. I'll send an overclocker ther next week so your system doesn't hold you back lol.
 
 Sent To:
-X,
-X,
-X
+Tebas 3,
+Triple 6,
+Earth
 
 Shipping Method:
-X
+Priority
 
 Estimated Delivery:
-X
+08/04/2056
 --]]

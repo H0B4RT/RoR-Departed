@@ -25,7 +25,7 @@ Low End,
 Earth
 
 Shipping Method:
-Volatile
+Priority
 
 Estimated Delivery:
 03/30/2058

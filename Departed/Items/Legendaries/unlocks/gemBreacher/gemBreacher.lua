@@ -17,16 +17,24 @@ Shipping Details:
 
 Order Details:
 
-X
+Your continued correspondence, as always, has been exceptionally helpful in our endeavor.
+
+With our most recent prototype, the Mark 1, gem core stability is up by 16%, and our team estimates that number will double with our next model.
+
+One major problem still remains: efficiency. Our facilities are no longer equipped to handle the electrical burden of this prototype. Furhter testing will have to be reserved for the Mark II.
+
+For now, I've sent the Mark I as a keepsake, dedicated to your generosity, forgiveness, and - hopefully - continued support through grant.
+
+Sincerely: Alex Deluca
 
 Sent To:
-X,
-X,
-X
+Oncorp,
+Schwerin,
+Earth
 
 Shipping Method:
-X
+High Priority
 
 Estimated Delivery:
-X
+2/02/2056
 --]]
