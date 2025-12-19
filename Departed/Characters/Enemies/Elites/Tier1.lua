@@ -3,17 +3,17 @@ Elite Template
 Where It Appears
 Key Notes
 	- What content pack its apart of (BASE CONTENT, DEPARTED CONTENT, STARSTORM CONTENT, FUTURE CONTENT)
-	- What tier it is
+	- Tier 1 (Early Game)
 	- What difficulties it shows up in
 	
-Health Bonus: 0x
-Damage Bonus: 0x
-Cooldown Reduction: +0%
-Speed Bonus: 0x
-Armor Bonus: 0x
-Gold Bonus: 0x
+Health Bonus: 3x
+Damage Bonus: 2x
+Cooldown Reduction: +30%
+Speed Bonus: 1x
+Armor Bonus: 1x
+Gold Bonus: 2x
 Color: X
-Tier: 1 (Early-Game), 2 (Late-Game), 3 (Special)
+Tier: 1 (Early-Game)
 Abilities:
 	- 
 	- (MONSOON+) 

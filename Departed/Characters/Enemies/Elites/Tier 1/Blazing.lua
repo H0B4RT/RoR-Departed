@@ -6,12 +6,13 @@ Key Notes
 	- Is a Tier 1 (Early-Game) Elite
 	- Appears in Any Difficulty
 	
-Health Bonus: 2.8x
-Damage Bonus: 1.9x
+Health Bonus: 3x
+Damage Bonus: 2x
 Cooldown Reduction: +30%
 Speed Bonus: 1.2x
 Armor Bonus: 1x
 Gold Bonus: 2x
+Color: Red
 Tier: 1 (Early-Game)
 Abilities:
 	- Leave fire trails behind them.

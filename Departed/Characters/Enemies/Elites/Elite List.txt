@@ -1,0 +1,8 @@
+Elite List:
+
+T1:
+	BASE: Blazing, Overloading, Frenzied, Leeching, Volatile
+	DEPARTED: Glacial, Terran, Moist
+	STARSTORM: Poisonous, Kinetic, Weakening, Hardening
+T2:
+	BASE: Blighted

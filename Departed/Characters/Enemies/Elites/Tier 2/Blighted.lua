@@ -4,18 +4,19 @@ Appears throughout the game, from Classic to Survival to Providence Trials
 Key Notes
 	- BASE CONTENT
 	- Is a Tier 2 (Late-Game) Elite
-	- Appears in Monsoon or Higher
+	- Appears in Rainstorm post-loop and Monsoon or higher.
 	
-Health Bonus: 7x
-Damage Bonus: 3.2x
+Health Bonus: 8x
+Damage Bonus: 4x
 Cooldown Reduction: +50%
-Speed Bonus: 1.1x (1.35x if Frenzied)
+Speed Bonus: 1.1x
 Armor Bonus: 1.15x
-Gold Bonus: 37x
+Gold Bonus: 40x
 Tier: 2 (Late-Game)
 Abilities:
 	- Turn completely invisible when stationary.
-	- Gain the attributes of any 2 basic elite types.
+	- Gain the attributes of any 2 basic elite types, including the stat buffs.
+	- (MONSOON+) Increase damage and max health by 20%.
 
 Director Multiplier: 20x
 Spawn Group: 1

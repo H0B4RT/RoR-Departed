@@ -7,11 +7,12 @@ Key Notes
 	- Appears in Any Difficulty
 	
 Health Bonus: 3x
-Damage Bonus: 1.9x
+Damage Bonus: 2x
 Cooldown Reduction: +30%
 Speed Bonus: 1x
 Armor Bonus: 1x
 Gold Bonus: 2x
+Color: Green
 Tier: 1 (Early-Game)
 Abilities:
 	- Passively heal nearby enemies.
