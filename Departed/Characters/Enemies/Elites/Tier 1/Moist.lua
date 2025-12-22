@@ -17,7 +17,7 @@ Color: X
 Tier: 1 (Early-Game)
 Abilities:
 	- Slow attack speed on hit.
-	- Upon death, leave a healing water bomb that explodes after 2 seconds.
+	- Upon reaching critical health, leave a healing water bomb that explodes after 2 seconds. Has a cooldown of 60 seconds.
 	- (MONSOON+) Water bomb has more range and applies more knockback.
 
 Director Multiplier: 5x

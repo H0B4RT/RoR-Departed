@@ -17,7 +17,7 @@ Color: Columbia/White
 Tier: 1 (Early-Game)
 Abilities:
 	- Inflict slow on hit.
-	- Upon death, leave a freezing ice bomb that explodes after 2 seconds.
+	- Upon reaching critical health, leave a freezing ice bomb that explodes after 2 seconds. Has a cooldown of 60 seconds.
 	- (MONSOON+) Freeze bomb has more range and frozen effect lasts longer.
 
 Director Multiplier: 5x

@@ -25,8 +25,7 @@ Stage Condition: 1
 Wave Condition: 1
 
 Aspect: 
-	- Discordant Catalyst (Equipment): Obtain the abilities of a frenzied elite.
-	- Discordant Catalyst (Item): Increase movement speed and attack speed by 20% (+10% per stack). Reduce skill cooldowns by 20% (+10% per stack).
+	- Quantum Transmitter: Increase movement speed and attack speed by 20% (+10% per stack). Reduce skill cooldowns by 20% (+10% per stack).
 
 Log:
 TBD
