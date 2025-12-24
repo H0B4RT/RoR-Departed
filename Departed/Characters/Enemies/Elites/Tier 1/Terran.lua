@@ -18,7 +18,7 @@ Tier: 1 (Early-Game)
 Abilities:
 	- Are 1.5x bigger.
 	- Cause tremors that stun if you are on the ground near it.
-	- (MONSOON+) Gain a 50% armor bonus.
+	- (MONSOON+) Gain a 10 armor bonus.
 
 Director Multiplier: 5x
 Spawn Group: 1
@@ -26,7 +26,7 @@ Stage Condition: 1
 Wave Condition: 1
 
 Aspect: 
-	- (Item):
+	- Seismic Heart: Whilst moving, have a 20% chance to stun monsters around you. Increase damage by 20% (+10% per stack). Gain 10 (+10 per stack) armor.
 
 Log:
 TBD

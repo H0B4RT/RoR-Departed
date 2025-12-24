@@ -4,7 +4,7 @@ Appears throughout the game, from Classic to Survival to Providence Trials
 Key Notes
 	- BASE CONTENT
 	- Is a Tier 1 (Early-Game) Elite
-	- Appears in Any Difficulty
+	- Appears in any difficulty
 	
 Health Bonus: 3x
 Damage Bonus: 2x
@@ -25,8 +25,7 @@ Stage Condition: 1
 Wave Condition: 1
 
 Aspect: 
-	- Cataclysmic Core (Equipment): Obtain the abilities of a volatile elite.
-	- Cataclysmic Core (Item): Increase damage by 10%. Occasionally fire a red homing missile for 300% (+300% per stack) total damage. Attacks explode on hit, dealing 20% (+10% per stack) total damage.
+	- Miniature Cataclysm: Increase damage by 10%. Occasionally fire a red homing missile for 300% (+300% per stack) total damage. Attacks explode on hit, dealing 20% (+10% per stack) total damage.
 
 Log:
 TBD

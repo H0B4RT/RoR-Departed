@@ -24,7 +24,6 @@ Stage Condition: 3
 Wave Condition: 50
 
 Aspect: 
-	- Betrayal of the Bulwark (Equipment): Gain the abilities of a blighted elite.
 	- Betrayal of the Bulwark (Item): Gain 2 random elite affixes. Turn invisible when standing still. Increase maximum health and damage by 20% (+10 per stack). Reduce skill cooldowns by 20% (+10% per stack).
 
 Log:

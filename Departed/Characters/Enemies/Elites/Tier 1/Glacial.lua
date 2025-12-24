@@ -13,7 +13,7 @@ Cooldown Reduction: +30%
 Speed Bonus: 1x
 Armor Bonus: 1x
 Gold Bonus: 2x
-Color: Columbia/White
+Color: Blueish White
 Tier: 1 (Early-Game)
 Abilities:
 	- Inflict slow on hit.
@@ -26,7 +26,7 @@ Stage Condition: 1
 Wave Condition: 1
 
 Aspect: 
-	- (Item):
+	- Hoarfrost: Attacks chill on hit, reducing movement speed by 50%. Attacks have a 5% (+5% per stack) chance to freeze. Upon reaching critical health, leave a freezing ice bomb that explodes after 2 seconds. This has a cooldown of 60 / 1 (+1 per stack) seconds.
 
 Log:
 TBD

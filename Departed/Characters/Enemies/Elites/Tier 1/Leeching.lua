@@ -4,7 +4,7 @@ Appears throughout the game, from Classic to Survival to Providence Trials
 Key Notes
 	- BASE CONTENT
 	- Is a Tier 1 (Early-Game) Elite
-	- Appears in Any Difficulty
+	- Appears in any difficulty
 	
 Health Bonus: 3x
 Damage Bonus: 2x
@@ -25,8 +25,7 @@ Stage Condition: 1
 Wave Condition: 1
 
 Aspect: 
-	- Vitality Siphon (Equipment): Obtain the abilities of a leeching elite.
-	- Vitality Siphon (Item): Heal nearby allies. Increase health regeneration by 1% HP/S. Heal for 10% (+10% per stack) of the damage you deal.
+	- Parasitic Growth: Heal nearby allies. Increase maximum health by 25% (+25% per stack). Heal for 10% (+10% per stack) of the damage you deal.
 
 Log:
 TBD

@@ -13,7 +13,7 @@ Cooldown Reduction: +30%
 Speed Bonus: 1x
 Armor Bonus: 1x
 Gold Bonus: 2x
-Color: X
+Color: Dark Blue
 Tier: 1 (Early-Game)
 Abilities:
 	- Slow attack speed on hit.
@@ -26,33 +26,7 @@ Stage Condition: 1
 Wave Condition: 1
 
 Aspect: 
-	- (Item):
-
-Log:
-TBD
---]]
- it is
-	- What difficulties it shows up in
-	
-Health Bonus: 3x
-Damage Bonus: 2x
-Cooldown Reduction: +30%
-Speed Bonus: 1x
-Armor Bonus: 1x
-Gold Bonus: 2x
-Color: X
-Tier: 1 (Early-Game)
-Abilities:
-	- 
-	- (MONSOON+) 
-
-Director Multiplier:
-Spawn Group: 
-Stage Condition: 
-Wave Condition:
-
-Aspect: 
-	- (Item):
+	- Enhydro: Attacks wet on hit, reducing attack speed by 50%. Attacks have a 5% (+5% per stack) chance to apply great knockback. Upon reaching critical health, leave a healing water bomb that explodes after 2 seconds. This has a cooldown of 60 / 1 (+1 per stack) seconds.
 
 Log:
 TBD
