@@ -5,7 +5,6 @@ Key Notes
 	- DEPARTED CONTENT
 	- Is a Tier 1 (Early Game) Elite
 	- Appears in any difficulty
-	- MUST HAVE BEATEN SURVIVAL OR CLASSIC ONCE IN ORDER TO SHOW UP
 	
 Health Bonus: 3x
 Damage Bonus: 2x
