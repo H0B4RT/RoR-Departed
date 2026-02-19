@@ -8,6 +8,7 @@ Key Notes
 	- Charges in and explodes at lower health.
 	- Can FLy
 	- Is a Melee Enemy
+	- Current Design Assisted by Abra & SSR Discord
 	
 Health: 85
 Damage: 7
