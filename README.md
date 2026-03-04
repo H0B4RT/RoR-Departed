@@ -14,7 +14,7 @@ it should be (once completed) a pretty large fan game, including items, survivor
 
 - classic (the original way to play!)
 
-- survival (wave based roguelike)
+- survival (wave based roguelite)
 
 - arena (risk of rain pvp)
 
@@ -27,7 +27,7 @@ and much, much more. i hope to eventually add more people to my team. if you wou
 ----------
 # DEVELOPMENT
 
-it's now the second night of september, and development has been going on for nearly 2 years. im still not goin as fast as i want to, but the brain surgery is behind me and im recovering swimmingly. college and work are back on my plate, with a side of drama still. i hope to start going faster, and i've also decided to start accepting help. i wasn't comfortable doing it before cuz i wanted to pay people, but people wanted to work on the project anyway so ye ye. first release... sometime soon.
+it's now march of 2026, and development has been going on for around 2 and a half years. im still not goin as fast as i want to, but the brain surgery is behind me and im recovering swimmingly. college and work are back on my plate, with a side of drama still, but ultimately i'm almost done with college and my internship. i hope to start going faster, and i've also decided to start accepting help. i wasn't comfortable doing it before cuz i wanted to pay people, but people wanted to work on the project anyway so ye ye. first release... sometime soon.
 
 the reason this game is being made is simple: i love risk of rain. i love the risk of rain community. late one night i was thinking to myself, "hey. i really like this game, but i wish there was like... a true 3d version of rorr."
 so the idea of Risk of Rain Departed was born! 
@@ -44,7 +44,7 @@ firstly, i have to thank the two shrimps. neik and swuff.
 
 i think it was about a year or two before returns was unveiled officially that swuff was making a fan game of risk of rain called risk of rain: first contact and i was like "WOAH i wonder if i could do that." plus, swuff was kinda the first person in the ror community that i actually interacted with (even though i was just reacting to him with shrimps) and i respect him a lot. (@en.wikipedia.org)
 
-neik, for the uninformed, is the creator of starstorm 1 (one of the greatest mods i've seen, it's a really good risk of rain mod and pretty much justifies buying ror1 on its own) and is also one of my greatest inspirations when it comes to developing this game. they ALSO have allowed me to port ss1 content to departed, so departed will launch with starstorm content from the get go. i believe i will also be adding some ssr content. thank u again nk! (@sughxst) (they seem to be going through something right now, so it may be best to leave them alone)
+neik, for the uninformed, is the creator of starstorm 1 (one of the greatest mods i've seen, it's a really good risk of rain mod and pretty much justifies buying ror1 on its own) and is also one of my greatest inspirations when it comes to developing this game. they ALSO have allowed me to port ss1 content to departed, so departed will launch with starstorm content from the get go. i believe i will also be adding some ssr content. thank u again nk! unfortunately, as of like... october 2025 they have deleted their account and seem to be leaving the ror community in general. i will still give them credits though, so. fly high nk.
 
 i also have to thank my "council of elders" i ask questions to. they help me with balance, art for the game, concept art, skill icons, counsel, music, and much more. i usually ask them about content that i want to add to the game and what they think about it. my council so far includes glasus, redacted, sentinel, beebo, nk, opal, tango, and winslow. (@glasus, @redactedinlight, @\_creature_, @\_bee_bo_, @retropacifist, @eneca, @tangoknight, @hopoo_games)
 
@@ -52,18 +52,15 @@ altzeus, winslow, and others have given me some pointers about music and have ma
 
 for the people who allowed their concepts to be used for departed, i thank you!
 
-opal has kindly let me use some of its enemies for departed (some of my favorites too!) (@retropacifist)
-
-mysticsword and marwan have allowed me to use black monolith (@themysticsword and marwan6097266)
-
-bee, subwit, grongo, moffein, timesweeper, dee, and isdahmaster have let me use some of their concepts as well (@\_bee_bo_ and @subwit and @moffein and @thetimesweeper and @\_dee__ and @isdahmaster)
+among these are opal, mysticsword, marwan, bee, subwit, grongo, moffein, timesweeper, dee, isdahmaster, and digbug have let me use some of their concepts as well (@retropacifist, @themysticsword, marwan6097266, @\_bee_bo_, @subwit, @moffein, @thetimesweeper, @\_dee__, @isdahmaster, @digbugreal)
 unfortunately, grongo deleted their discord account so. he'll just be credited in remembrance. 
 
 additionally, i need to thank the people who have helped me out when it comes to specific game things.
 
-also thank you to everyone in the ss1/ssr and redux communities! you have been excellent, friendly people and for that i thank you! i don't think i would have stuck to this for so long if i didn't have you guys to motivate me to keep pushing forward.
+also thank you to everyone in the ss1, ssr, redux and departed communities! you have been excellent, friendly people and for that i thank you! i don't think i would have stuck to this for so long if i didn't have you guys to motivate me to keep pushing forward.
 
 and lastly, thank you hopoo games for making one of the greatest games i've ever played. i can't thank you enough.
+
 
 
 
