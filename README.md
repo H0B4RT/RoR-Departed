@@ -46,7 +46,7 @@ i think it was about a year or two before returns was unveiled officially that s
 
 neik, for the uninformed, is the creator of starstorm 1 (one of the greatest mods i've seen, it's a really good risk of rain mod and pretty much justifies buying ror1 on its own) and is also one of my greatest inspirations when it comes to developing this game. they ALSO have allowed me to port ss1 content to departed, so departed will launch with starstorm content from the get go. i believe i will also be adding some ssr content. thank u again nk! unfortunately, as of like... october 2025 they have deleted their account and seem to be leaving the ror community in general. i will still give them credits though, so. fly high nk.
 
-i also have to thank my "council of elders" i ask questions to. they help me with balance, art for the game, concept art, skill icons, counsel, music, and much more. i usually ask them about content that i want to add to the game and what they think about it. my council so far includes glasus, redacted, sentinel, beebo, nk, opal, tango, and winslow. (@glasus, @redactedinlight, @\_creature_, @\_bee_bo_, @retropacifist, @eneca, @tangoknight, @hopoo_games)
+i also have to thank my "council of elders" i ask questions to. they help me with balance, art for the game, concept art, skill icons, counsel, music, and much more. i usually ask them about content that i want to add to the game and what they think about it. my council so far includes glasus, redacted, sentinel, beebo, nk, opal, tango, and winslow. (@glasus, @redactedinlight, @\_creature_, @\_bee_bo_, @retropacifist, formerly @eneca, @tangoknight, @hopoo_games)
 
 altzeus, winslow, and others have given me some pointers about music and have made some music for departed. the big inspirations for the music i'm working on for departed is chris chris, toby fox, siivagunner, and the community music.
 
@@ -60,6 +60,7 @@ additionally, i need to thank the people who have helped me out when it comes to
 also thank you to everyone in the ss1, ssr, redux and departed communities! you have been excellent, friendly people and for that i thank you! i don't think i would have stuck to this for so long if i didn't have you guys to motivate me to keep pushing forward.
 
 and lastly, thank you hopoo games for making one of the greatest games i've ever played. i can't thank you enough.
+
 
 
 
